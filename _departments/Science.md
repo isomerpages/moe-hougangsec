@@ -137,3 +137,32 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
   </tr>
 </tbody>
 </table>
+
+### Gallery
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 790px">
+<colgroup>
+<col style="width: 130px">
+<col style="width: 660px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Science Programmes</span></td>
+    <td class="tg-feqv"><span style="color:#666;background-color:#DDD">Photos</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Surprising Chemistry Workshop</td>
+    <td class="tg-citn">Overview<br><br><span style="font-weight:400;font-style:normal">The NUS Chemistry Week was held from 1 to 9 June, concluding with the Surprising Chemistry Workshop in the Science Demonstration Laboratory. The closing workshop was an eye-opener for the participants where students learnt about super absorbent polymers and how they help diapers retain liquid.</span></td>
+  </tr>
+</tbody>
+</table>
