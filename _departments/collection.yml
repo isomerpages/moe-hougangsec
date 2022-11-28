@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education.md
       - Pupil Management.md
       - Science.md
