@@ -79,4 +79,9 @@ To develop Hougeans into Tech-Savvy netizens by equipping them with the necessar
 ### Learning Experiences
 
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9_ExhAuXNrGGLwGM1QPJtMip4FD8LpC-xq-5v6TpTIgmC2wLmb-AbtdLoR5ZOKEqrE7NAdmwns9cZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9_ExhAuXNrGGLwGM1QPJtMip4FD8LpC-xq-5v6TpTIgmC2wLmb-AbtdLoR5ZOKEqrE7NAdmwns9cZ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
+
+
+### Measuring Angles Using A Protractor
+
+(embed video here)
