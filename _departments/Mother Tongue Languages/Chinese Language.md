@@ -72,8 +72,22 @@ Mother Tongue Fortnight activities aims to enhance students’ interest in learn
 
 ![](/images/fn1.gif)
 
+阿果老师绘本《寻找》分享会
+
 ![](/images/fn2.gif)
+
+剪纸活动——嫦娥本月/玉兔捣药（主题：中秋节）
 
 ![](/images/fn3.gif)
 
+面塑——玉兔 （主题：中秋节）
+
 ![](/images/fn4.gif)
+
+### 2020 年GOODTALK(地球村)国际青少年双语演讲大赛
+
+这项活动的目的是为新、中两国的在籍学生提供一个学习双语的机会。通过比赛，两国的孩子在双语主题演讲的相互切磋与配合中，学好华文与英文，进一步了解彼此的文化。同时，这项活动也为配合新加坡推广“讲华语运动”，让新加坡的学生能通过演讲的表达方式，学习讲好华语。
+
+  
+
+The objectives of the competition aimed at promoting better understanding and appreciation of the language and culture of each other among student participants from the two countries.
