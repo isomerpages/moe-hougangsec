@@ -31,3 +31,49 @@ A pupil with an appreciation for a healthy lifestyle
 ### Programmes
 
 **1\. Sports and Games Modules**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 650px">
+<colgroup>
+<col style="width: 116px">
+<col style="width: 106px">
+<col style="width: 107px">
+<col style="width: 104px">
+<col style="width: 106px">
+<col style="width: 111px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-tlx9"></td>
+    <td class="tg-tlx9"><span style="background-color:initial">Secondary 1</span><br></td>
+    <td class="tg-tlx9"><span style="background-color:initial">Secondary 2</span><br></td>
+    <td class="tg-tlx9"><span style="background-color:initial">Secondary 3</span><br></td>
+    <td class="tg-tlx9"><span style="background-color:initial">Secondary 4</span><br></td>
+    <td class="tg-tlx9"><span style="background-color:initial">Secondary 5 </span></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Semester 1</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Badminton</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Floorball</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Volleyball</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Softball</span></td>
+    <td class="tg-tlx9"><span style="font-weight:400;color:#333"> Games/Sports</span></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Semester 2</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Netball</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Frisbee</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Pickleball</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Table Tennis</span></td>
+    <td class="tg-tlx9"><span style="font-weight:400;color:#333"> Games/Sports</span></td>
+  </tr>
+</tbody>
+</table>
