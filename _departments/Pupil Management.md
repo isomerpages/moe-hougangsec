@@ -397,3 +397,5 @@ All students are required to abide by the rules stated above on the usage of lea
   </tr>
 </tbody>
 </table>
+
+<b><u>MAJOR OFFENCES</u></b>
