@@ -91,3 +91,10 @@ Mother Tongue Fortnight activities aims to enhance students’ interest in learn
   
 
 The objectives of the competition aimed at promoting better understanding and appreciation of the language and culture of each other among student participants from the two countries.
+
+![](/images/gt1.jpeg)
+
+![](/images/gt2.png)
+
+Teacher in-charge:    
+傅秋燕老师
