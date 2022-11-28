@@ -84,3 +84,56 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
   </tr>
 </tbody>
 </table>
+
+### Programme for the Year
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 400px">
+<col style="width: 400px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-rdtm">Lower Secondary</td>
+    <td class="tg-rdtm">Upper Secondary</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Alternative assessments</td>
+    <td class="tg-citn">Alternative assessments</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Mastery Learning (Structured remedials)</td>
+    <td class="tg-citn">Mastery Learning (Structured remedials) and extended curriculum</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Green Week in conjunction with Earth Week</td>
+    <td class="tg-citn">Science Ignite</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Funtasia</td>
+    <td class="tg-citn">USS Stretch Programmes in Biology, Chemistry and Physics</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Subject Literacy Programme-<br>Think +/ Young Scientists’ Magazine</td>
+    <td class="tg-citn"> </td>
+  </tr>
+  <tr>
+    <td class="tg-citn">LSS Stretch Programmes in Biology, Chemistry and Physics</td>
+    <td class="tg-tlx9"> </td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Science Buskers<br> </td>
+    <td class="tg-tlx9"> </td>
+  </tr>
+</tbody>
+</table>
