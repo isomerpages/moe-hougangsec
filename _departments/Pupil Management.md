@@ -165,3 +165,86 @@ The Pupil Management Department carries out reflection sessions (adapted from th
   </tr>
 </tbody>
 </table>
+
+
+**Weekly Assembly** 
+* Students are to move quickly and quietly to the hall.
+* Students are to observe silence when they are in the hall at all times. 
+* Students are to be seated with their class neatly in a row.
+* Students must show respect towards all speakers and/or performers by paying attention.
+
+  
+
+**After Dismissal**
+* Students must not loiter in public areas such as shopping malls, playgrounds and void decks after school. 
+* Students must behave in a respectable manner and uphold the school values at all times.
+
+  
+
+**Possession of weapons and weapon-like items**
+* All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item, including paper cutter and scissors with sharp edges, which is used or intended to be used to cause harm to self or others.
+
+  
+
+**Mobile Phones and Electronic Devices**
+* During curriculum time, mobile phones/electronic devices are to be switched off and kept safely in the students’ bag.
+* Mobile phones/electronic devices should be kept out of sight and switched off during the change-over of lessons and while students are walking along the corridor.
+* During recess, the use of mobile phones/electronic devices will be restricted to the two call zones: the canteen and the foyer area.
+* Students can only use the mobile phones/electronic devices for learning purposes when permission is given by a school staff.
+* If the mobile phone policy is violated, mobile phone/electronic device will be confiscated for 5 school days (inclusive of the day of confiscation) and kept under lock and key in the General Office. For example, if a mobile phone is confiscated on Monday in Term 1 Week 1, the phone will be returned after 5 full school days of confiscation, which is on Monday in Term 1 Week 2. 
+* An information form will be issued to student. Confiscated mobile phone/ electronic device will be returned only after 5 school days with a signed parent’s reply slip. 
+* Failure to comply with the confiscation order will be treated as defiance towards authority which is classified as a major offence in the school. 
+
+  
+
+**Responsibilities in using Personal Learning Devices (PLDs) in HS**    
+**General**
+* Students are responsible for their PLDs. The school will not be held responsible for any damage, theft or loss of their devices. In the event of loss or theft of devices, students must make a police report and report the matter to the school. 
+* The PLDs are intended for use every day at school. Students must be responsible for bringing their PLDs to all classes, unless specifically advised not to do so by their teacher.
+* Students should bring their PLDs home with them at the end of every school day. 
+* Students should not use the school’s electrical power to charge their PLDs. Students should ensure that their PLDs are fully charged before bringing them to school.  Students are responsible for securely storing the PLDs in the common storage facility when they are not in use for learning purposes. Under no circumstance should PLDs be stored in unsupervised areas. Unsupervised areas include the school grounds, canteen, library, special rooms, toilets or any other entity that is not securely locked or in which there is no supervision.
+* Students’ PLDs are installed with device management software. When enrolled, the software will manage students’ device usage based on settings determined by the school. Students should not attempt to uninstall or de-enroll themselves from the software. Any violation might lead to disciplinary action in accordance to the school’s discipline policy.
+* Students are responsible for using school-owned ICT facilities, equipment and resources for the purpose of learning. Personal use such as gaming and engaging in social media platforms is strictly prohibited. 
+* Students are responsible for any resource that is borrowed from school for the duration of the loan. The student will bear the cost of damage, theft or loss due to negligence and face disciplinary action in accordance to the school’s discipline policy.
+* Students should always use respectful and appropriate language on cyberspace. Students should not transmit any material that is profane, obscene, abusive, or offensive to others. 
+* Students may be selected at random to provide the PLDs for inspection. The purpose for inspection is to check for proper care and maintenance, and for inappropriate material carried into the school.
+* Use of PLDs for personal use (e.g.: watching shows/using social media) is not allowed in school.
+
+  
+
+**Account**
+* Students are responsible and accountable for all activities conducted via their own account.
+* Students are responsible for the security of their account IDs and passwords. All account IDs and passwords should not be shared with anyone.
+* Student should change their passwords every 3 months. Failure to do so would constitute as negligence.
+* Students are to use their full name as stated in their EZlink cards for all account IDs. Aliases, nicknames and pseudonyms are not allowed.
+* Students should not use school-owned computing devices for any online trade (i.e. buying and selling of goods and services).
+* Students should not use devices to store, modify or create content (e.g. documents, presentations, pictures, videos) that is pornographic or defamatory in nature. 
+
+  
+
+**Email & Social Media**
+* Students should not post or share any indecent, obscene, pornographic, defamatory material/message that offends and causes distress to other people.
+* Students are reminded that threats, harassment, embarrassment, impersonation and intimidation to others is a chargeable offence under Singapore Legal System.
+* Students are expected to remain courteous and polite in all online interactions. 
+
+  
+
+**Privacy and Safety**
+* Students should not reveal their personal details (e.g. phone number, home address, NRIC, passwords, or passwords of other people) openly online. 
+* If students inadvertently access a website that contains obscene, pornographic, or otherwise offensive material, notify a trusted adult (e.g. parents or teachers) immediately.
+* Any attempt to alter data, the configuration of a computer, or the files of another user, without the consent of the individual, is an act of vandalism and subject to disciplinary action in accordance with school’s discipline policy. 
+* Students should not go into any chat room other than those set up or mandated by your teacher. Private chatting during class without permission is not allowed.
+
+  
+
+**Intellectual Property**
+* Students should not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner.
+* Students should not own, copy or share software in an unauthorized or illegal manner.
+* The rights of all materials and data created using the school’s ICT facilities and resources are jointly owned by the school and the student.
+* Plagiarism is a violation of the school’s discipline code. Students should give credit to all sources used, whether quoted or summarized. This includes all forms of media on the Internet such as graphics, movies, music, and text. 
+
+  
+
+All students are required to abide by the rules stated above on the usage of learning devices. Violation of any rules may result in confiscation of personal devices for five school days (inclusive of the day of confiscation) and other disciplinary actions, as decided by the Pupil Management Department.
+
+<center><b>Attire and Grooming Guidelines<br><br>For Male Students<br><br>(Modifications to the prescribed school uniform is strictly NOT allowed)</b></center>
