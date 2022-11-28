@@ -263,3 +263,14 @@ All students are required to abide by the rules stated above on the usage of lea
 * School tie to be worn at all times within the school premises.
 
 <center><b>For Female Students<br><br>(Modifications to the prescribed school uniform is strictly NOT allowed)</b></center>
+
+![](/images/girlsuni.png)
+
+* Long hair must be tied up neatly. 
+* Girls with shoulder-length hair or hair touching the collar must tie up their hair at all times. 
+* Fringe touching the eyebrows must be pinned up using a black pin.
+* Only simple black hair accessories are allowed.
+* Dyeing of hair is not allowed.
+* Culottes’ length should touch the knee cap.
+* Name tag should be seen at all times.
+* School tie to be worn at all times within the school premises.
