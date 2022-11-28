@@ -68,7 +68,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
 <col style="width: 400px">
@@ -97,7 +97,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
 .tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
 <col style="width: 400px">
 <col style="width: 400px">
@@ -150,7 +150,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 790px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 790px">
 <colgroup>
 <col style="width: 130px">
 <col style="width: 660px">
@@ -162,7 +162,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
   </tr>
   <tr>
     <td class="tg-2rp9">Surprising Chemistry Workshop</td>
-    <td class="tg-citn"><img style="width:85%" src="/images/sci1.jpeg"><br>Overview<br><br><span style="font-weight:400;font-style:normal">The NUS Chemistry Week was held from 1 to 9 June, concluding with the Surprising Chemistry Workshop in the Science Demonstration Laboratory. The closing workshop was an eye-opener for the participants where students learnt about super absorbent polymers and how they help diapers retain liquid.</span></td>
+    <td class="tg-citn"><img src="/images/sci1.jpeg" style="width:85%"><br>Overview<br><br><span style="font-weight:400;font-style:normal">The NUS Chemistry Week was held from 1 to 9 June, concluding with the Surprising Chemistry Workshop in the Science Demonstration Laboratory. The closing workshop was an eye-opener for the participants where students learnt about super absorbent polymers and how they help diapers retain liquid.</span></td>
   </tr>
 </tbody>
 </table>
@@ -178,7 +178,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
 .tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 792px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 792px">
 <colgroup>
 <col style="width: 131px">
 <col style="width: 661px">
@@ -186,7 +186,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Biology Stretch Program</td>
-    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8qGHz5BpMnqZAY12mSicn4HWUHhGSldChyKMKEFCYgB6jXcuUENy7DvGYuAYNNRUpKOqdn5usBu0s/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></center><br>Purpose<br>• To provide authentic experiences for students to apply concepts learnt in Biology.<br>• To ignite Joy of Learning in Biology.<br>• To promote 21st century skills of critical and inventive thinking.</td>
+    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8qGHz5BpMnqZAY12mSicn4HWUHhGSldChyKMKEFCYgB6jXcuUENy7DvGYuAYNNRUpKOqdn5usBu0s/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center><br>Purpose<br>• To provide authentic experiences for students to apply concepts learnt in Biology.<br>• To ignite Joy of Learning in Biology.<br>• To promote 21st century skills of critical and inventive thinking.</td>
   </tr>
 </tbody>
 </table>
@@ -202,7 +202,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
 .tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 792px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 792px">
 <colgroup>
 <col style="width: 131px">
 <col style="width: 661px">
@@ -210,7 +210,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Chemistry Stretch Program</td>
-    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaw5KxyL9yI62C6s2CMmWaQE7DIXkzahDxw60tYCqCNne3RT2Tyl9yjxuOq-H23WpcS7X8fO-Rp4Tl/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>Purpose<br>• To enhance students’ interest in the learning of Chemistry concept through authentic learning.<br>• To inspire higher ability Secondary Two students in Chemistry, enabling them to pursue pure Chemistry at ‘O’ Level and beyond.</td>
+    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaw5KxyL9yI62C6s2CMmWaQE7DIXkzahDxw60tYCqCNne3RT2Tyl9yjxuOq-H23WpcS7X8fO-Rp4Tl/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></center>Purpose<br>• To enhance students’ interest in the learning of Chemistry concept through authentic learning.<br>• To inspire higher ability Secondary Two students in Chemistry, enabling them to pursue pure Chemistry at ‘O’ Level and beyond.</td>
   </tr>
 </tbody>
 </table>
@@ -227,7 +227,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
 .tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 792px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 792px">
 <colgroup>
 <col style="width: 131px">
 <col style="width: 661px">
@@ -235,7 +235,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Green Lesson</td>
-    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJXvHM2xOCYeZ_LPqpXM4PZJAtTxQdWJc0z2BOmjzq-zLY1XDLPrR4y3a8fg4nu4Jo5ckncrNhkkFP/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>Purpose<br>• To inspire students to play a part in the green movement in the Singapore context.<br>• To increase awarenes in students about the relevance of Science and technology in their everyday lives.<br>• To inculcate in students the value of using Science and technology to improve the lives of mankind.</td>
+    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTJXvHM2xOCYeZ_LPqpXM4PZJAtTxQdWJc0z2BOmjzq-zLY1XDLPrR4y3a8fg4nu4Jo5ckncrNhkkFP/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>Purpose<br>• To inspire students to play a part in the green movement in the Singapore context.<br>• To increase awarenes in students about the relevance of Science and technology in their everyday lives.<br>• To inculcate in students the value of using Science and technology to improve the lives of mankind.</td>
   </tr>
 </tbody>
 </table>
@@ -252,7 +252,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
 .tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 792px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 792px">
 <colgroup>
 <col style="width: 131px">
 <col style="width: 661px">
@@ -260,7 +260,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Funtasia</td>
-    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vShK_NOAPMboheLuu9r319RSzfVww-VyVBuiaUm7BGkmpinelwXoJuV2r7FCuY0yzAYzHWAx-qtY1XL/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>Purpose<br>• To ignite students’ passion in Science through student-centered science-related activities<br>• To provide a platform for the students to learn a scientific concept through a series of fun and engaging challenges.</td>
+    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShK_NOAPMboheLuu9r319RSzfVww-VyVBuiaUm7BGkmpinelwXoJuV2r7FCuY0yzAYzHWAx-qtY1XL/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>Purpose<br>• To ignite students’ passion in Science through student-centered science-related activities<br>• To provide a platform for the students to learn a scientific concept through a series of fun and engaging challenges.</td>
   </tr>
 </tbody>
 </table>
@@ -276,7 +276,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
 .tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 792px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 792px">
 <colgroup>
 <col style="width: 131px">
 <col style="width: 661px">
@@ -284,7 +284,31 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Physics Stretch Programme</td>
-    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZwXdhjj1lioWJqEO79L93mBLYUajulPQ8tlW7jKDfkehqubG89IVbdb_Pi85nabKrtwMF8GGPzjnE/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>(embed youtube video here)<br><br>Purpose<br>• To arouse students’ interest in the learning of Science through authentic learning.<br>• To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.</td>
+    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZwXdhjj1lioWJqEO79L93mBLYUajulPQ8tlW7jKDfkehqubG89IVbdb_Pi85nabKrtwMF8GGPzjnE/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>(embed youtube video here)<br><br>Purpose<br>• To arouse students’ interest in the learning of Science through authentic learning.<br>• To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 792px">
+<colgroup>
+<col style="width: 131px">
+<col style="width: 661px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2rp9">Science Buskers</td>
+    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSm0Oxfvg9XaUE-LukpkCciI-tBOLzwk-UJhBN4eet90g1A17lsH33X4vcW3T4LfMek88W9i8R6FYPJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center> The Science Buskers Festival Competition is an annual event where contestants will do a "show-and-tell" on any science topic, and judging will be based on audiences' votes and judges' scores. This event is organised during the Singapore Science Festival by Singapore Science Centre. In 2017, we clinched the Judges Choice Award - Proof of Concept and in 2018, we managed to get 1st Runner Up!<br><br>Purpose<br>• To enable students to develop Science communication skills.<br>• To build students’ confidence in public speaking.<br>• To encourage students to see the real-world application of syllabus content.<br>• To ignite the joy of learning amongst students.<br>• To encourage a growth mindset in students.<br>• To promote 21st century skills of critical and inventive thinking.</td>
   </tr>
 </tbody>
 </table>
