@@ -186,7 +186,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Biology Stretch Program</td>
-    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8qGHz5BpMnqZAY12mSicn4HWUHhGSldChyKMKEFCYgB6jXcuUENy7DvGYuAYNNRUpKOqdn5usBu0s/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true"></iframe></center><br>Purpose<br><br>• To provide authentic experiences for students to apply concepts learnt in Biology.<br>• To ignite Joy of Learning in Biology.<br>• To promote 21st century skills of critical and inventive thinking.</td>
+    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8qGHz5BpMnqZAY12mSicn4HWUHhGSldChyKMKEFCYgB6jXcuUENy7DvGYuAYNNRUpKOqdn5usBu0s/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center><br>Purpose<br><br>• To provide authentic experiences for students to apply concepts learnt in Biology.<br>• To ignite Joy of Learning in Biology.<br>• To promote 21st century skills of critical and inventive thinking.</td>
   </tr>
 </tbody>
 </table>
@@ -210,7 +210,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Chemistry Stretch Program</td>
-    <td class="tg-citn"><center><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaw5KxyL9yI62C6s2CMmWaQE7DIXkzahDxw60tYCqCNne3RT2Tyl9yjxuOq-H23WpcS7X8fO-Rp4Tl/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></center>Purpose<br><br>• To enhance students’ interest in the learning of Chemistry concept through authentic learning.<br>• To inspire higher ability Secondary Two students in Chemistry, enabling them to pursue pure Chemistry at ‘O’ Level and beyond.</td>
+    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRaw5KxyL9yI62C6s2CMmWaQE7DIXkzahDxw60tYCqCNne3RT2Tyl9yjxuOq-H23WpcS7X8fO-Rp4Tl/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></center>Purpose<br><br>• To enhance students’ interest in the learning of Chemistry concept through authentic learning.<br>• To inspire higher ability Secondary Two students in Chemistry, enabling them to pursue pure Chemistry at ‘O’ Level and beyond.</td>
   </tr>
 </tbody>
 </table>
