@@ -143,3 +143,25 @@ The Pupil Management Department carries out reflection sessions (adapted from th
 * During the snack break, students are not allowed to go to the canteen to purchase food.
 * Students must take ownership in ensuring good hygiene practices during the snack break to keep their classrooms clean and conducive for learning e.g.  proper disposal of the wrappers from the consumption of the snacks.
 * The no-usage of mobile phone rule applies during snack break period.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-rdtm">Acceptable items for snack break</td>
+    <td class="tg-rdtm">Unacceptable items for snack break</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">Biscuits<br>Bun (e.g. kaya bun)<br>Muffin<br>Slice of cake<br>Bread<br>Sandwich<br>Energy Bar<br>Fruit (e.g. apple or  banana)</td>
+    <td class="tg-citn">Fried Food<br>Rice, Porridge or Noodles<br>Sweets<br>Chocolate Bar<br>Tidbits (e.g. Potato Chips)<br>Sweetened drink</td>
+  </tr>
+</tbody>
+</table>
