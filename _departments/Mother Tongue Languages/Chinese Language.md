@@ -153,3 +153,28 @@ Teacher in-charge:
   
 
 对于今年的庆祝活动，母语部主任林珮禕说：“今年的庆祝主题是‘团圆’，我们借助‘捞鱼生’这顿班级团圆饭和装扮‘吉祥物’来让学生真切地感受 ‘团圆’的温馨与幸福时刻。各类华族文化表演也能让非华族同胞参与，了解一些华族文化，让全校团团圆圆庆祝农历新年。”
+
+
+### 10th GOODTALK Youth Bilingual Speech Conference (第十届GOODTALK(地球村) 国际青少年双语演讲大赛) 2019
+
+这项活动的目的是为新、中两国的在籍学生提供一个学习双语的机会。通过比赛，两国的孩子在双语主题演讲的相互切磋与配合中，学好华文与英文，进一步了解彼此的文化。同时，这项活动也为配合新加坡推广“讲华语运动”，让新加坡的学生能通过演讲的表达方式，学习讲好华语。
+
+
+The objectives of the competition was aimed at promoting better understanding and appreciation of the language and culture of each other among student participants from the two countries.
+
+Achievement:    
+何瑞芬 3E2  (参与奖)    
+沈靖霖 3E2  (参与奖)     
+何诗宇 2E3  (参与奖)   
+蔡楽雯 2E3  (参与奖)     
+黄扬翰 2E3  (参与奖)     
+  
+
+Teacher in-charge:   
+傅秋燕老师
+
+![](/images/19gt1.jpeg)
+
+![](/images/19gt2.jpeg)
+
+![](/images/19gt3.jpeg)
