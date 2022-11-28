@@ -178,3 +178,16 @@ Teacher in-charge:
 ![](/images/19gt2.jpeg)
 
 ![](/images/19gt3.jpeg)
+
+### Chinese Text Recommendation Competition for Secondary School Students (#选我选我  我是好文章——中学生好文推荐比赛)
+
+  
+The new initiative led by the _Committee to Promote Chinese Language Learning (CPCLL)_ aims to facilitate the student population in compiling a list of recommended Chinese reading texts. This competition enables educators to be cognizant of the current reading habits of teenagers. We would like to encourage all students taking Chinese Language to participate in this recommendation exercise and also support the online-voting of your favourite Chinese texts via CPCLL Instagram likes. Please refer to the attached posters for more details.
+
+![](/images/ctrc1.jpeg)
+
+![](/images/ctrc2.jpeg)
+
+![](/images/ctrc3.jpeg)
+
+![](/images/ctrc4.jpeg)
