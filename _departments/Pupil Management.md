@@ -261,3 +261,5 @@ All students are required to abide by the rules stated above on the usage of lea
 * Pants should not be altered to look tapered, baggy or of inappropriate length.
 * Name tag should be seen at all times.
 * School tie to be worn at all times within the school premises.
+
+<center><b>For Female Students<br><br>(Modifications to the prescribed school uniform is strictly NOT allowed)</b></center>
