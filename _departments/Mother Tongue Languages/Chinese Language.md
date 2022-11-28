@@ -38,3 +38,24 @@ third_nav_title: Mother Tongue Languages
 #### 后港中学 母语周活动 2021 中一至中五 活动照片分享
 
 <center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdgr9wc5VRnSFZgQLeBKGU-Q3tVpIJEMQygsf-M21Tz1Gzg42SvhIodgq0eO0oD0qy7RDSPat2iaPY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+
+
+### 后港中学庆新年——“数（鼠）我最宝”
+
+Chinese Lunar New Year Celebration 2020
+
+![](/images/Slide1.gif)
+
+![](/images/Slide2.gif)
+
+![](/images/Slide3.gif)
+
+![](/images/Slide4.gif)
+
+![](/images/Slide5.gif)
+
+![](/images/Slide6.gif)
+
+![](/images/Slide7.gif)
+
+
