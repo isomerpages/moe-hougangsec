@@ -7,11 +7,7 @@ permalink: /
 notification: More information on Hougang Secondary School Open House 2022 below!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/homepagedemo.gif
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
