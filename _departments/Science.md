@@ -239,3 +239,29 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
   </tr>
 </tbody>
 </table>
+
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+</style>
+<table style="undefined;table-layout: fixed; width: 792px" class="tg">
+<colgroup>
+<col style="width: 131px">
+<col style="width: 661px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2rp9">Funtasia</td>
+    <td class="tg-citn"><center>Purpose<br><br>•</td>
+  </tr>
+</tbody>
+</table>
+
