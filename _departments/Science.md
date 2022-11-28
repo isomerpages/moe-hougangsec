@@ -186,7 +186,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Biology Stretch Program</td>
-    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8qGHz5BpMnqZAY12mSicn4HWUHhGSldChyKMKEFCYgB6jXcuUENy7DvGYuAYNNRUpKOqdn5usBu0s/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></center><br>Purpose<br><br>• To provide authentic experiences for students to apply concepts learnt in Biology.<br>• To ignite Joy of Learning in Biology.<br>• To promote 21st century skills of critical and inventive thinking.</td>
+    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8qGHz5BpMnqZAY12mSicn4HWUHhGSldChyKMKEFCYgB6jXcuUENy7DvGYuAYNNRUpKOqdn5usBu0s/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></center><br>Purpose<br>• To provide authentic experiences for students to apply concepts learnt in Biology.<br>• To ignite Joy of Learning in Biology.<br>• To promote 21st century skills of critical and inventive thinking.</td>
   </tr>
 </tbody>
 </table>
@@ -210,7 +210,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Chemistry Stretch Program</td>
-    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaw5KxyL9yI62C6s2CMmWaQE7DIXkzahDxw60tYCqCNne3RT2Tyl9yjxuOq-H23WpcS7X8fO-Rp4Tl/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>Purpose<br><br>• To enhance students’ interest in the learning of Chemistry concept through authentic learning.<br>• To inspire higher ability Secondary Two students in Chemistry, enabling them to pursue pure Chemistry at ‘O’ Level and beyond.</td>
+    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRaw5KxyL9yI62C6s2CMmWaQE7DIXkzahDxw60tYCqCNne3RT2Tyl9yjxuOq-H23WpcS7X8fO-Rp4Tl/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>Purpose<br>• To enhance students’ interest in the learning of Chemistry concept through authentic learning.<br>• To inspire higher ability Secondary Two students in Chemistry, enabling them to pursue pure Chemistry at ‘O’ Level and beyond.</td>
   </tr>
 </tbody>
 </table>
@@ -235,7 +235,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Green Lesson</td>
-    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJXvHM2xOCYeZ_LPqpXM4PZJAtTxQdWJc0z2BOmjzq-zLY1XDLPrR4y3a8fg4nu4Jo5ckncrNhkkFP/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>Purpose<br><br>• To inspire students to play a part in the green movement in the Singapore context.<br>• To increase awarenes in students about the relevance of Science and technology in their everyday lives.<br>• To inculcate in students the value of using Science and technology to improve the lives of mankind.</td>
+    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJXvHM2xOCYeZ_LPqpXM4PZJAtTxQdWJc0z2BOmjzq-zLY1XDLPrR4y3a8fg4nu4Jo5ckncrNhkkFP/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>Purpose<br>• To inspire students to play a part in the green movement in the Singapore context.<br>• To increase awarenes in students about the relevance of Science and technology in their everyday lives.<br>• To inculcate in students the value of using Science and technology to improve the lives of mankind.</td>
   </tr>
 </tbody>
 </table>
@@ -260,7 +260,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Funtasia</td>
-    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vShK_NOAPMboheLuu9r319RSzfVww-VyVBuiaUm7BGkmpinelwXoJuV2r7FCuY0yzAYzHWAx-qtY1XL/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>Purpose<br><br>• To ignite students’ passion in Science through student-centered science-related activities<br>• To provide a platform for the students to learn a scientific concept through a series of fun and engaging challenges.</td>
+    <td class="tg-citn"><center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vShK_NOAPMboheLuu9r319RSzfVww-VyVBuiaUm7BGkmpinelwXoJuV2r7FCuY0yzAYzHWAx-qtY1XL/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe></center>Purpose<br>• To ignite students’ passion in Science through student-centered science-related activities<br>• To provide a platform for the students to learn a scientific concept through a series of fun and engaging challenges.</td>
   </tr>
 </tbody>
 </table>
