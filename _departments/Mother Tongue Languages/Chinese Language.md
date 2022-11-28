@@ -58,4 +58,22 @@ Chinese Lunar New Year Celebration 2020
 
 ![](/images/Slide7.gif)
 
+### 母语双周活动
 
+**Mother Tongue (Chinese Language) Fortnight Programme**   
+
+母语双周活动旨在让学生通过不同的管道引起学生学习华文华语的兴趣，从而达到乐学善用的学习方针。与此同时, 这次的活动也结合了我校的应用学习计划——通过实践性体验提升沟通能力，让学生有更多学习与应用华文华语的机会。  
+
+  
+
+Mother Tongue Fortnight activities aims to enhance students’ interest in learning Mother Tongue Languages beyond the classrooms context and to engage students in the appreciation of the Mother Tongue culture. Aligned with our school Applied Learning Programme (ALP), Effective Communication through Authentic Learning, this programme also serves as a platform to promote the use of Mother Tongue languages.
+    
+陈兆锦线上说故事
+
+![](/images/fn1.gif)
+
+![](/images/fn2.gif)
+
+![](/images/fn3.gif)
+
+![](/images/fn4.gif)
