@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - ICT and Data Management.md
       - Mathematics.md
       - Mother Tongue Languages/Mother Tongue Languages.md
       - Mother Tongue Languages/Chinese Language.md
