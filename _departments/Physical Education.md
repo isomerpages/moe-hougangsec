@@ -77,3 +77,12 @@ A pupil with an appreciation for a healthy lifestyle
   </tr>
 </tbody>
 </table>
+
+**2\. Physical Health and Fitness Modules**
+
+<img src="/images/pe1.jpeg" 
+     style="width:55%">
+<img src="/images/pe2.jpeg" 
+     style="width:55%">
+<img src="/images/pe3.jpeg" 
+     style="width:55%">
