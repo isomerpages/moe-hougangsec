@@ -349,11 +349,11 @@ All students are required to abide by the rules stated above on the usage of lea
 .tg .tg-6vty{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 679px">
+<table class="tg" style="undefined;table-layout: fixed; width: 780px">
 <colgroup>
-<col style="width: 99px">
-<col style="width: 221px">
-<col style="width: 359px">
+<col style="width: 148px">
+<col style="width: 266px">
+<col style="width: 366px">
 </colgroup>
 <tbody>
   <tr>
@@ -399,3 +399,132 @@ All students are required to abide by the rules stated above on the usage of lea
 </table>
 
 <b><u>MAJOR OFFENCES</u></b>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-6vty{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 780px">
+<colgroup>
+<col style="width: 148px">
+<col style="width: 266px">
+<col style="width: 366px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-6vty">Offence Type</td>
+    <td class="tg-rdtm">Offence</td>
+    <td class="tg-rdtm">Description</td>
+  </tr>
+  <tr>
+    <td class="tg-6vty" rowspan="2">Attendance</td>
+    <td class="tg-tlx9">Leaving school<br> </td>
+    <td class="tg-tlx9">Leaving school premises without permission within school hours</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Truancy<br> </td>
+    <td class="tg-tlx9">Absence from school without a valid reason on school days</td>
+  </tr>
+  <tr>
+    <td class="tg-6vty" rowspan="6">Misconduct</td>
+    <td class="tg-tlx9">Cheating in assessments/ tests/exams</td>
+    <td class="tg-tlx9">Possession of unauthorised materials and/or notes. Copying from others, allowing others to copy, tampering with marks</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Forgery<br> </td>
+    <td class="tg-tlx9">Forging signatures, medical certificates, consent forms, etc.  with the intention to deceive</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Open defiance and rudeness</td>
+    <td class="tg-tlx9">Display of rudeness and disrespect in speech or actions</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Bullying (including verbal and cyber bullying)</td>
+    <td class="tg-tlx9">Hurting, intimidating or slandering others using power and strength in person or through other electronic forms like emails, mobile phones and other social networking websites.</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Disruptive Behaviour</td>
+    <td class="tg-tlx9">Act or conduct which interferes the smooth running of class or school events</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Abuse of Technology<br> </td>
+    <td class="tg-tlx9">Improper, unlawful, or incorrect use of information communications and technology<br> <br>Violation of the school’s Technology Acceptable Use Policy and Device Use Policy</td>
+  </tr>
+  <tr>
+    <td class="tg-6vty" rowspan="3">Theft / Damage of Property</td>
+    <td class="tg-tlx9">Arson<br> </td>
+    <td class="tg-tlx9">Planting explosives or setting property on fire, whether attempted or actual</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Theft<br> </td>
+    <td class="tg-tlx9">Stealing school property or property belonging to others</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Vandalism</td>
+    <td class="tg-tlx9">Wilful and malicious destruction of personal, school or public property, including writing graffiti</td>
+  </tr>
+  <tr>
+    <td class="tg-6vty" rowspan="14">Other Serious Offences</td>
+    <td class="tg-tlx9">Assault<br> </td>
+    <td class="tg-tlx9">Violence against others regardless of whether or not any injury has been sustained</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Fighting<br> </td>
+    <td class="tg-tlx9">Confrontation between individuals or opposing groups with the intention to harm using bodily force or weapons</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Gambling</td>
+    <td class="tg-tlx9">Using money or its equivalent in games, betting, etc.</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Gangsterism<br> </td>
+    <td class="tg-tlx9">Gang assault / threat / harassment / extortion / money laundering, whether actual or attempted</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Pornography<br> </td>
+    <td class="tg-tlx9">Consumption / possession / distribution / sale of pornographic materials</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Possession of Weapons</td>
+    <td class="tg-tlx9">Possession of objects which is used or intended to be used to cause harm to others. This includes paper cutter and scissors with sharp edges</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Possession of lighters/matches</td>
+    <td class="tg-tlx9">Use / possession of lighters/matches</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Smoking</td>
+    <td class="tg-tlx9">Use / possession / distribution / sale of cigarettes/e-cigarettes</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Substance abuse</td>
+    <td class="tg-tlx9">Use / possession / distribution / sale of alcohol, drugs, inhalants</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Sexual abuse / Molestation</td>
+    <td class="tg-tlx9">Any verbal or physical (including consensual or forced) acts of sexual misconduct</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Outrage of Modesty</td>
+    <td class="tg-tlx9">Any verbal or gestures intended to “insult the modesty” of any women</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Trespassing<br> </td>
+    <td class="tg-tlx9">Trespass any rooms or areas that are out of bounds to students</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Causing public nuisance/Participating in activities that tarnish the school image (including intimate behaviour)</td>
+    <td class="tg-tlx9">Engaging in activities in public that tarnish the school image</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Any other serious offence that do not fall in the above categories</td>
+    <td class="tg-tlx9">-</td>
+  </tr>
+</tbody>
+</table>
