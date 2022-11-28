@@ -528,3 +528,49 @@ All students are required to abide by the rules stated above on the usage of lea
   </tr>
 </tbody>
 </table>
+
+
+**NOTE: Students who have committed any major offence will receive a ‘Fair’ or ‘Poor’ conduct grade. Repeated minor offences will also be classified as a major offence. He/she will be given a “Fair” or “Poor” conduct grade which means that he/she will not be eligible for any application of awards, scholarships, bursaries, etc. The offence records will also be updated in the Ministry of Education’s School Cockpit Student Offence Module (SOM).**  
+
+**ACTIONS AND CONSEQUENCES**
+
+The following describes the possible consequences which will be applied to students who exhibit behaviour that does not support the school’s values. The administration of the school disciplinary action may not be in the sequence prescribed below as the final decision will depend on the situation in which the offence was committed, its nature and its severity.
+
+These corrective measures are used to help students understand both the consequences of their actions and the right values on which their actions should be based. Corrective measures are a form of deterrence and a way to teach students to respect the school, the school staff and their peers. It is student-centric in its aim to help them change for the better.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-6vty{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 781px">
+<colgroup>
+<col style="width: 196px">
+<col style="width: 585px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-6vty">Misbehaviour</td>
+    <td class="tg-apyk">Actions to be taken</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Inappropriate attire and grooming<br> </td>
+    <td class="tg-citn">●       The student is required to make the rectification on the spot.<br>●       For attire/grooming issues that cannot be rectified immediately, the student will be given one day to follow up.<br>●       For recurring offences, the student will be given time to leave the school to have the grooming issue rectified.<br>●       Students with coloured hair / fanciful hairstyle will not be allowed to join their class til the problem is rectified. Students will be given time to leave the school to have the grooming issue rectified. Parents will be informed.</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Minor offences </td>
+    <td class="tg-citn">●       Detention<br>●       Corrective work order<br>●       Self/Public Reflection<br>●       Counselling<br>●       Parental involvement<br>●       In-school/ home suspension</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Major offences<br>(A repeated minor offence will be classified as a major offence)</td>
+    <td class="tg-citn"><span style="font-weight:bold;text-decoration:underline">Disciplinary Actions</span><br>●       Detention<br>●       Corrective work order<br>●       Caning (private/classroom/public)<br>●       In-school/ home suspension<br>●       Compensation for damage or loss incurred<br>●       Self/Public reflection<br>●       Removal from any current leadership position<br>●       Expulsion<br>●       Referral to police<br>●       All smoking offences will be referred to Health Science Authority<br>●       All substance-abuse offences will be referred to Central Narcotics Bureau<br>●       Any offence against the law of the Republic of Singapore is a very serious offence and as such, the school may consider expulsion of any student guilty of such an offence.<span style="background-color:initial"> </span><br><br><span style="font-weight:bold;text-decoration:underline">Restorative Actions</span><br>●       Guidance from teacher to help the student understand/reflect on the implications of his/her actions and to be accountable for better decisions<br>●       Do reflection based assignments related to the incident<br>●       Attend teacher facilitated  sessions to resolve conflicts/issues<br>●       Attend counselling sessions<br><br><span style="font-weight:bold;text-decoration:underline">Re-mediative Actions</span><br>●       Parental involvement<br>●       Formulating a contract with the student in the presence of parents<br>●       Helping the student to draw up and comply with a time structure for a specified goal as agreed between his/her parents and the school<br>●       Monitoring of the student’s movements and conduct during lessons via a monitoring logbook system<br>●       Attend school programmes/activities identified for the student<br>●       Referral to external agencies for support</td>
+  </tr>
+</tbody>
+</table>
