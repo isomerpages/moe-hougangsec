@@ -381,7 +381,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">3NA Stretch Programme</td>
-    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5rPvqQZZmjtWXrcwx1jl0TMohTgiUM2XRFix_OBDXlSEfb8epT6dlSph7IdpkCKSGvIoUGCFKMFzJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center><br><br>(embed video here)<br>Purpose<br>• To provide authentic experiences for students to apply concepts in Chemistry.<br>• To enable students to acquire observation skills in Chemistry experiments.<br>• To ignite the Joy of Learning in Chemistry.<br>• To promote 21st century skills of critical and inventive thinking.</td>
+    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5rPvqQZZmjtWXrcwx1jl0TMohTgiUM2XRFix_OBDXlSEfb8epT6dlSph7IdpkCKSGvIoUGCFKMFzJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center><br><br>(embed video here)<br><br>Purpose<br>• To provide authentic experiences for students to apply concepts in Chemistry.<br>• To enable students to acquire observation skills in Chemistry experiments.<br>• To ignite the Joy of Learning in Chemistry.<br>• To promote 21st century skills of critical and inventive thinking.</td>
   </tr>
 </tbody>
 </table>
