@@ -334,3 +334,7 @@ All students are required to abide by the rules stated above on the usage of lea
   </tr>
 </tbody>
 </table>
+
+### Description of Offences
+
+**<u>MINOR OFFENCES<u>**
