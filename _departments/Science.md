@@ -284,7 +284,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Physics Stretch Programme</td>
-    <td class="tg-citn">(embed youtube video here)<center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZwXdhjj1lioWJqEO79L93mBLYUajulPQ8tlW7jKDfkehqubG89IVbdb_Pi85nabKrtwMF8GGPzjnE/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>Purpose<br>• To arouse students’ interest in the learning of Science through authentic learning.<br>• To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.</td>
+    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQZwXdhjj1lioWJqEO79L93mBLYUajulPQ8tlW7jKDfkehqubG89IVbdb_Pi85nabKrtwMF8GGPzjnE/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe></center>(embed youtube video here)<br><br>Purpose<br>• To arouse students’ interest in the learning of Science through authentic learning.<br>• To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.</td>
   </tr>
 </tbody>
 </table>
