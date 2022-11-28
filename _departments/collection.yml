@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue Languages/.keep
       - Physical Education.md
       - Pupil Management.md
       - Science.md
