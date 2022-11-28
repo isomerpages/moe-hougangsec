@@ -162,7 +162,8 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
   </tr>
   <tr>
     <td class="tg-2rp9">Surprising Chemistry Workshop</td>
-    <td class="tg-citn">Overview<br><br><span style="font-weight:400;font-style:normal">The NUS Chemistry Week was held from 1 to 9 June, concluding with the Surprising Chemistry Workshop in the Science Demonstration Laboratory. The closing workshop was an eye-opener for the participants where students learnt about super absorbent polymers and how they help diapers retain liquid.</span></td>
+    <td class="tg-citn"><img src="/images/sci1.jpeg" 
+     style="width:85%">Overview<br><br><span style="font-weight:400;font-style:normal">The NUS Chemistry Week was held from 1 to 9 June, concluding with the Surprising Chemistry Workshop in the Science Demonstration Laboratory. The closing workshop was an eye-opener for the participants where students learnt about super absorbent polymers and how they help diapers retain liquid.</span></td>
   </tr>
 </tbody>
 </table>
