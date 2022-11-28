@@ -81,8 +81,60 @@ A pupil with an appreciation for a healthy lifestyle
 **2\. Physical Health and Fitness Modules**
 
 <img src="/images/pe1.jpeg" 
-     style="width:55%">
+     style="width:45%">
+		 
 <img src="/images/pe2.jpeg" 
-     style="width:55%">
+     style="width:45%">
+		 
 <img src="/images/pe3.jpeg" 
-     style="width:55%">
+     style="width:45%">
+
+**3\. Outdoor Education Modules**
+
+<img src="/images/pe4.jpeg" 
+     style="width:45%">
+		 
+<img src="/images/pe5.jpeg" 
+     style="width:45%">
+
+**4\. Sports Carnival**
+
+<img src="/images/pe6.jpeg" 
+     style="width:45%">
+		 
+<img src="/images/pe7.jpeg" 
+     style="width:45%">
+
+**5\. Active and Healthy Living Programmes**
+
+<img src="/images/pe8.jpeg" 
+     style="width:45%">
+		 
+<img src="/images/pe9.jpeg" 
+     style="width:45%">
+
+**6\. Secondary Two Adventure Camp**
+
+To be updated.
+
+**7\. Annual Napfa**
+
+<img src="/images/pe10.jpeg" 
+     style="width:45%">
+		 
+<img src="/images/pe11.jpeg" 
+     style="width:45%">
+
+**8\. Covid-19 period in 2020**
+
+<img src="/images/pe12.jpeg" 
+     style="width:45%">
+		 
+<img src="/images/pe13.jpeg" 
+     style="width:45%">
+		 
+<img src="/images/pe14.jpeg" 
+     style="width:45%">
+		 
+<img src="/images/pe15.jpeg" 
+     style="width:45%">
