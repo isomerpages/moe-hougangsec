@@ -98,3 +98,16 @@ The objectives of the competition aimed at promoting better understanding and ap
 
 Teacher in-charge:    
 傅秋燕老师
+
+
+### Selected Reading Program School Representatives
+
+![](/images/r1.png)
+
+![](/images/r2.png)
+
+![](/images/r3.png)
+
+![](/images/r4.png)
+
+![](/images/r5.png)
