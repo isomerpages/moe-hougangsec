@@ -337,4 +337,63 @@ All students are required to abide by the rules stated above on the usage of lea
 
 ### Description of Offences
 
-**<u>MINOR OFFENCES<u>**
+**<u>MINOR OFFENCES</u>**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-6vty{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 679px">
+<colgroup>
+<col style="width: 99px">
+<col style="width: 221px">
+<col style="width: 359px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-6vty">Offence Type</td>
+    <td class="tg-rdtm">Offence</td>
+    <td class="tg-rdtm">Description</td>
+  </tr>
+  <tr>
+    <td class="tg-6vty" rowspan="2">Attendance</td>
+    <td class="tg-tlx9">Late coming<br> </td>
+    <td class="tg-tlx9">Late arrival to school after 0730 h.<br>Students can be sent home if they arrive after 0800h.</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Skipping Classes</td>
+    <td class="tg-tlx9">Absence from formal lessons without a valid reason</td>
+  </tr>
+  <tr>
+    <td class="tg-6vty" rowspan="6">Misconduct</td>
+    <td class="tg-tlx9">Improper attire and grooming</td>
+    <td class="tg-tlx9">Not abiding by the school rules on attire and grooming</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Littering<br> </td>
+    <td class="tg-tlx9">Dropping or leaving rubbish within and outside school premises</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Not doing<br>assignments</td>
+    <td class="tg-tlx9">Not handing in class work, homework and project work neatly, promptly and punctually.</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Use of vulgarities<br> </td>
+    <td class="tg-tlx9">Verbalising vulgar language within and outside school</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Unauthorised use of mobile phones/electronic devices</td>
+    <td class="tg-tlx9">Violation of the mobile phone policy</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Breaching of safe management measures</td>
+    <td class="tg-tlx9">Violation of safe management measures (e.g. not maintaining safe-distancing guidelines, not wearing masks)</td>
+  </tr>
+</tbody>
+</table>
