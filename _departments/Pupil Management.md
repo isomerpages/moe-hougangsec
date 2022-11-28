@@ -248,3 +248,16 @@ The Pupil Management Department carries out reflection sessions (adapted from th
 All students are required to abide by the rules stated above on the usage of learning devices. Violation of any rules may result in confiscation of personal devices for five school days (inclusive of the day of confiscation) and other disciplinary actions, as decided by the Pupil Management Department.
 
 <center><b>Attire and Grooming Guidelines<br><br>For Male Students<br><br>(Modifications to the prescribed school uniform is strictly NOT allowed)</b></center>
+
+![](/images/boysuni.png)
+
+* Boys’ hairstyle should be neat and short.
+* Fringe when combed down must not be touching the eyebrows.
+* Sideburns should not touch the tip of the ears or cover the ears.
+* Hair at the back of the neck should be sloped and above the collar.
+* Outlandish hairstyle (e.g. Mohawk, overlap, extremely high slope, side shave) are not allowed.
+* Boys must be clean shaven. They must not sport a moustache or beard. 
+* Dyeing of hair is not allowed.
+* Pants should not be altered to look tapered, baggy or of inappropriate length.
+* Name tag should be seen at all times.
+* School tie to be worn at all times within the school premises.
