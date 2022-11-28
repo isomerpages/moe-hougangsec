@@ -68,7 +68,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-f8vp{background-color:#DDD;color:#666;font-weight:bold;text-align:left;vertical-align:middle}
 .tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table style="undefined;table-layout: fixed; width: 800px" class="tg">
 <colgroup>
 <col style="width: 400px">
 <col style="width: 400px">
@@ -97,7 +97,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
 .tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table style="undefined;table-layout: fixed; width: 800px" class="tg">
 <colgroup>
 <col style="width: 400px">
 <col style="width: 400px">
@@ -150,7 +150,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 790px">
+<table style="undefined;table-layout: fixed; width: 790px" class="tg">
 <colgroup>
 <col style="width: 130px">
 <col style="width: 660px">
@@ -162,8 +162,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
   </tr>
   <tr>
     <td class="tg-2rp9">Surprising Chemistry Workshop</td>
-    <td class="tg-citn"><img src="/images/sci1.jpeg" 
-     style="width:85%"><br>Overview<br><br><span style="font-weight:400;font-style:normal">The NUS Chemistry Week was held from 1 to 9 June, concluding with the Surprising Chemistry Workshop in the Science Demonstration Laboratory. The closing workshop was an eye-opener for the participants where students learnt about super absorbent polymers and how they help diapers retain liquid.</span></td>
+    <td class="tg-citn"><img style="width:85%" src="/images/sci1.jpeg"><br>Overview<br><br><span style="font-weight:400;font-style:normal">The NUS Chemistry Week was held from 1 to 9 June, concluding with the Surprising Chemistry Workshop in the Science Demonstration Laboratory. The closing workshop was an eye-opener for the participants where students learnt about super absorbent polymers and how they help diapers retain liquid.</span></td>
   </tr>
 </tbody>
 </table>
@@ -179,7 +178,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 .tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
 .tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 792px">
+<table style="undefined;table-layout: fixed; width: 792px" class="tg">
 <colgroup>
 <col style="width: 131px">
 <col style="width: 661px">
@@ -187,7 +186,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 <tbody>
   <tr>
     <td class="tg-2rp9">Biology Stretch Program</td>
-    <td class="tg-citn">Purpose<br><br>• To provide authentic experiences for students to apply concepts learnt in Biology.<br>• To ignite Joy of Learning in Biology.<br>• To promote 21st century skills of critical and inventive thinking.</td>
+    <td class="tg-citn"><center><iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8qGHz5BpMnqZAY12mSicn4HWUHhGSldChyKMKEFCYgB6jXcuUENy7DvGYuAYNNRUpKOqdn5usBu0s/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe></center><br>Purpose<br><br>• To provide authentic experiences for students to apply concepts learnt in Biology.<br>• To ignite Joy of Learning in Biology.<br>• To promote 21st century skills of critical and inventive thinking.</td>
   </tr>
 </tbody>
 </table>
