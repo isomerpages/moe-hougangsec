@@ -274,3 +274,63 @@ All students are required to abide by the rules stated above on the usage of lea
 * Culottes’ length should touch the knee cap.
 * Name tag should be seen at all times.
 * School tie to be worn at all times within the school premises.
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
+<colgroup>
+<col style="width: 600px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-tlx9">School Uniform/ Grooming</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">●       Students are to wear their prescribed school uniform without any alteration when reporting for, attending and leaving school and school events.<br>●       Students are to wear their full uniform which consists of the blouse and culottes/pants every Monday.<br>●       Students are allowed to wear their half uniform which consists of the Polo t-shirt <br>    and culottes/pants on Tuesdays, Wednesdays, Thursdays and Fridays.<br>●       Students are expected to be in full/half uniform or the accepted attire of his/her CCA when they return to school outside normal school hours and during school holidays.</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">PE Attire</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">●       HS PE attire (both t-shirt and shorts) must be worn during all PE lessons.<br>●       Other sports attire is not allowed. (e.g. FBT, Nike or Adidas etc)</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Shoes and Socks</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">●       Only school shoes which are predominantly white in colour are allowed.<br>●       Use of black, grey or blue should be limited to a small part of the shoes.<br>●       Neon or fluorescent coloured panels/ stripes are not allowed.<br>●       Only plain white ankle-length socks without any logos are allowed.<br>●       High cut shoes are not allowed.<br>●       Students who are unable to wear school shoes due to injury must produce a medical certificate and seek approval from the Character Coach before coming to school in slippers.</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Cosmetics and Fingernails</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">●       Use of cosmetics is not allowed.<br>●       Fingernails must be kept short and clean at all times.<br>●       Use of nail polish is not allowed.<br>●       Nail/hand painting is not allowed.<br>●       Tattoos are strictly not allowed.</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Accessories</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">●       Jewellery, rings, friendship or coloured bands, bracelets, anklets or any cosmetic ornaments are not to be worn.<br>●       Religious ornaments, if worn, should not be visible to others.<br>●       Body piercing is not allowed.<br>●       Only girls are allowed to wear one pair of pin-sized ear studs of the same design, with one ear studs on each ear at the bottom of the lobe. Earrings or expensive ear studs should not be worn.</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Contact Lenses and Spectacle Frames</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">●       Coloured or fanciful contact lenses are not allowed.<br>●       Fanciful and loud coloured spectacle frames are not allowed. For e.g. red, yellow, orange and neon-coloured frames.</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Wearable Technologies</td>
+  </tr>
+  <tr>
+    <td class="tg-citn">●       Wearable technologies such as Smart Watches with features such as camera and video recording functions and other internet-enabled features are not allowed at all times.</td>
+  </tr>
+</tbody>
+</table>
