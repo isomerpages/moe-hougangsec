@@ -23,11 +23,16 @@ _“The lesson in this enrichment course not only reinforces the teaching I got 
   
 
 Enrichment Photo 1
-
+<img src="/images/Sec3EnrichmentP1.jpeg" 
+     style="width:45%">
 
 Enrichment Photo 2
+<img src="/images/Sec3EnrichmentP2.jpeg" 
+     style="width:45%">
 
 Enrichment Photo 3
+<img src="/images/Sec3EnrichmentP3.jpeg" 
+     style="width:45%">
 
 
 ### Secondary 2 Innovation Project
@@ -81,4 +86,3 @@ SINOSG P2
 
 
 SINOSG P3
-
