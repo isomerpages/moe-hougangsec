@@ -82,3 +82,48 @@ b.    Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5ws4{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 744px">
+<colgroup>
+<col style="width: 138px">
+<col style="width: 131px">
+<col style="width: 360px">
+<col style="width: 115px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-5ws4">UNIT</td>
+    <td class="tg-5ws4">LESSONS / DURATION</td>
+    <td class="tg-5ws4">Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-5ws4">TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9" rowspan="3">Respectful Relationships &amp; Safety</td>
+    <td class="tg-2rp9">1<br>(60  mins)</td>
+    <td class="tg-7fd7"><br><span style="background-color:initial">·</span>      <span style="background-color:initial">Know that one’s understanding of gender roles should not be limited by gender stereotypes</span><br><span style="background-color:initial">·</span>      <span style="background-color:initial">Develop an appreciation of one’s own unique qualities and characteristics as a male or female</span><br><span style="background-color:initial">·</span>      <span style="background-color:initial">Understand what sexual orientation entails</span><br></td>
+    <td class="tg-2rp9">Term 3 Week 3</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">2A<br>(60 mins)</td>
+    <td class="tg-7fd7">·      Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
+    <td class="tg-2rp9">Term 3 Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">2B<br>(60 mins)</td>
+    <td class="tg-7fd7">·     Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>·     Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td class="tg-2rp9">Term 3 Week 8</td>
+  </tr>
+</tbody>
+</table>
