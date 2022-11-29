@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/.keep
       - English Language, Literature and Elements of Business Skills.md
       - Humanities.md
       - ICT and Data Management.md
