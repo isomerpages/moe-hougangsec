@@ -52,3 +52,48 @@ HS hosted a three-day school visit with Haikou No 1. Middle school and our Art U
    
 
 We are pleased to announce that the following student has emerged as one of the winners for LOF 2021 – Design Competition!
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-apyk">LOF</td>
+    <td class="tg-apyk">Name</td>
+    <td class="tg-apyk">Class</td>
+    <td class="tg-apyk">Award</td>
+  </tr>
+  <tr>
+    <td class="tg-tlx9">Design Competition</td>
+    <td class="tg-tlx9">Ho Jun Wei</td>
+    <td class="tg-tlx9">3E3 (2021)</td>
+    <td class="tg-tlx9">Distinction</td>
+  </tr>
+</tbody>
+</table>
+
+
+A congratulatory speech by the online Guest of Honour (GOH), Ms Gan Siow Huang (Minister of State for Education & Manpower shares about her appreciation to students and teachers for their inextinguishable effort and participation in the competition despite the COVID-19 situation.   
+   
+
+**Online Design Gallery & Essay Showcase Presentation**
+
+ [https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool](https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool)
+
+   
+**Impian by Ho Jun Wei**
+
+![](/images/jun%20wei%20copy.jpeg)
+
+![](/images/Impian%20by%20Ho%20Jun%20Wei.jpeg)
+
+**Onward Singapore 2021**
+
+![](/images/SHeraz%20A3%20display%20copy.jpeg)
