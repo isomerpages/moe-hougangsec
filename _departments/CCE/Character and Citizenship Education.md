@@ -56,3 +56,8 @@ HS commemorated the four key National Education events through students-planned 
 
 ![](/images/cce2.jpeg)
 
+### Values-In-Action (VIA) through CCA
+
+![](/images/via1.jpeg)
+![](/images/via2.png)
+![](/images/via3.jpeg)
