@@ -4,6 +4,8 @@ permalink: /departments/Aesthetics-and-Technology/visual-art/
 description: ""
 third_nav_title: Aesthetics and Technology
 ---
+(embed video here)
+
 Here in HS, we hope to be an active platform for our students to experience, explore and enjoy Art. We encourage them to record, observe and make meaning of what they see, allowing them to understand the values and relevance of art in our world.
 
 Our goals:
