@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/MOE Sexuality Education in Schools (Updated Apr 2022).md
       - CCE/Hougeans Stay Connected.md
       - CCE/How Are You?.md
       - CCE/.keep
