@@ -83,9 +83,13 @@ The students also shared their cooked product and they shared with the class on 
 HS hosted a 3-day school visit with Haikou No 1. Middle school and as part of their learning in HS, our FCE Unit was delighted to share a hands-on Food Culture lesson with them. The students created the dish “Roti Jala” and tasted the dish with chicken curry. They also learnt the diverse culture and races in Singapore.
 
 SINOSG P1
-
+<img src="/images/SINO-SGP1.jpeg" 
+     style="width:45%">
 
 SINOSG P2
-
+<img src="/images/SINO-SGP2.jpeg" 
+     style="width:45%">
 
 SINOSG P3
+<img src="/images/SINO-SGP3.jpeg" 
+     style="width:45%">
