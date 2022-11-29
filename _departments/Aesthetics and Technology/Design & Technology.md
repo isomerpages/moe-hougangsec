@@ -72,4 +72,15 @@ Photo 2
 
 <img src="/images/dnt2.jpeg" 
      style="width:45%">
+		 
 
+### Makers Garage
+
+<img src="/images/MG1.jpeg" 
+     style="width:45%">
+
+The HS Makers Garage is a place where students design, experiment, build and create. It contains elements of a workshop, computer lab, craft room as well as the science lab. Students get to engage in science, engineering and tinkering. The Makers Garage are helmed by Mr. Anwar (IC), Mr Benny Ng (ST D&T), Mr. Muthu and Mr. Jafri.
+
+**T-shirt Printing**
+
+We learn two new techniques to print T-shirts which includes sublimation prints as well as heat transfer. We use each depending on the material as well as colour requirements and design of the T-shirt. Teachers and students have such a good time learning these techniques as part of school projects, such as Gear Up, or as personal hobby.
