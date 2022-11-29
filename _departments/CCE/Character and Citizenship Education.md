@@ -29,3 +29,15 @@ Sec 1: Orientation Camp
 Sec 2: Adventure Camp   
 Sec 3: Bonding Day   
 Sec 4 & 5: Bonding Day
+
+<img src="/images/Sec4_1.jpeg" 
+     style="width:45%">
+
+<img src="/images/Sec4_2.jpeg" 
+     style="width:45%">
+
+<img src="/images/Sec4_3.jpeg" 
+     style="width:45%">
+
+<img src="/images/Sec4_4.jpeg" 
+     style="width:45%">
