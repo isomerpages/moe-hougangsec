@@ -224,3 +224,39 @@ b.    Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+
+#### SECONDARY 5
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5ws4{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 744px">
+<colgroup>
+<col style="width: 138px">
+<col style="width: 131px">
+<col style="width: 360px">
+<col style="width: 115px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-5ws4">UNIT</td>
+    <td class="tg-5ws4">LESSONS / DURATION</td>
+    <td class="tg-5ws4">Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-5ws4">TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Respectful Relationships &amp; Safety</td>
+    <td class="tg-2rp9">1<br>(60 mins)</td>
+    <td class="tg-7fd7">·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+    <td class="tg-2rp9">Term 1 Week 4</td>
+  </tr>
+</tbody>
+</table>
