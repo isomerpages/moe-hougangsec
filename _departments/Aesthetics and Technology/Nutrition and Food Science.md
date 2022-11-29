@@ -46,7 +46,8 @@ The secondary 2 project was on the school innovation initiatives. They were expo
 The students were given a task to feel on the topic and task to research on the nutritional needs and factors to consider when planning meals for the target group.
 
 FIDS Photo 1
-
+<img src="/images/Sec2FIDSP1.jpeg" 
+     style="width:45%">
 
 
 **Imagine**
@@ -54,14 +55,16 @@ FIDS Photo 1
 Students were paired and grouped to research on a given task that is on the nutritional needs of different age groups such as the Young Children, School-going children, Teenagers, Young Adults, Elderly.
 
 FIDS Photo 2
-
+<img src="/images/Sec2FIDSP2.jpeg" 
+     style="width:45%">
 
 **Do** 
 
 Students then need to prepare, cook and serve a healthy and interesting one dish meal suitable for that target group. The students will decide and cook for their assigned target group. They then carried out their practical examination on preparing these dishes.
 
 FIDS Photo 3
-
+<img src="/images/Sec2%20FIDS%20P3.jpeg" 
+     style="width:45%">
 
 **Share**
 
