@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics and Technology/Music.md
       - Aesthetics and Technology/.keep
       - CCE/Character and Citizenship Education.md
       - CCE/MOE Sexuality Education in Schools (Updated Apr 2022).md
