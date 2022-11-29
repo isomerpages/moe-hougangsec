@@ -31,7 +31,24 @@ Secondary 3 Art students can look forward to an exciting range of media, such as
 
 <img style="width:45%" src="/images/ae1.jpeg">
 
+<br>
+
 <img style="width:45%" src="/images/ae2.jpeg">
+
+<br>
 
 <img style="width:45%" src="/images/ae3.jpeg">
 
+
+**Sino-SIN Exchange Programme:**
+
+  
+
+HS hosted a three-day school visit with Haikou No 1. Middle school and our Art Unit was delighted to share a hands-on Art lesson with them. Students recreated the beautiful plants found at our Singapore Botanical Gardens on ceramic tiles.
+
+  
+
+ **Live on Festival (LOF) Design 2021**  
+   
+
+We are pleased to announce that the following student has emerged as one of the winners for LOF 2021 – Design Competition!
