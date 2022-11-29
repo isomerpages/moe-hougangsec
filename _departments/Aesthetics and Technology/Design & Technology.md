@@ -81,6 +81,38 @@ Photo 2
 
 The HS Makers Garage is a place where students design, experiment, build and create. It contains elements of a workshop, computer lab, craft room as well as the science lab. Students get to engage in science, engineering and tinkering. The Makers Garage are helmed by Mr. Anwar (IC), Mr Benny Ng (ST D&T), Mr. Muthu and Mr. Jafri.
 
-**T-shirt Printing**
-
+**T-shirt Printing**   
 We learn two new techniques to print T-shirts which includes sublimation prints as well as heat transfer. We use each depending on the material as well as colour requirements and design of the T-shirt. Teachers and students have such a good time learning these techniques as part of school projects, such as Gear Up, or as personal hobby.
+
+<img src="/images/MG2.jpeg" 
+     style="width:65%">
+
+**Mug Printing**   
+The techniques to print mugs includes sublimation prints. The mug press is similar to the T-shirt press but it is curved to suit the curve of the mug. Students from the Gear Up program prepared 120 mugs for teachers during the Staff Day Celebration.
+
+<img src="/images/MG3.jpeg" 
+     style="width:65%">
+
+**Mod Podge**   
+Mod Podge is one of the most well-known craft activity. It is a decoupage medium — an all-in-one glue, sealer and finish used to attach paper and fabric to various surfaces. Students apply paper on ceramic tiles to produce wonderful crafts.
+
+<img src="/images/MG4.jpeg" 
+     style="width:65%">
+
+**Embroidery**   
+Other than the usual sewing functions, the embroidery machine can create, embellish, personalize and decorate just about any type of fabric. Though embroidery machines are not new, the technology used in our embroidery machine is more advanced and easier to use than ever before. 
+
+<img src="/images/MG5.jpeg" 
+     style="width:65%">
+
+**Badge Making**     
+A badge is a special or distinctive mark, token, or device worn as a sign of allegiance, membership, authority or achievement. With our badge maker, students can easily make a badge in two different sizes. This year, the students from the Gear Up program made badges to celebrate National Day. Staff were also welcomed to make personalized badges as mementos of their activities. 
+
+<img src="/images/MG6.jpeg" 
+     style="width:65%">
+
+**3D Printing**
+From digital designs on your laptops to something tangible that you can hold in your hands. A 3D printer essentially works by extruding molten plastic through a tiny nozzle that it moves around precisely under computer control. It prints one layer, waits for it to dry, and then prints the next layer on top. Students undergo a program to generate ideas, make cardboard mock-ups, produce digital models and print out toys of their own design! 
+
+<img src="/images/MG7.jpeg" 
+     style="width:65%">
