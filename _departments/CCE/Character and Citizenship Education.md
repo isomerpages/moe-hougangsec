@@ -41,3 +41,18 @@ Sec 4 & 5: Bonding Day
 
 <img src="/images/Sec4_4.jpeg" 
      style="width:45%">
+
+
+### Character Coaching through National Education Programmes
+HS commemorated the four key National Education events through students-planned ceremony and activities.
+
+![](/images/TDD1.jpeg)
+
+![](/images/CCE0.jpeg)
+
+![](/images/cce3.jpeg)
+
+![](/images/cce1.jpeg)
+
+![](/images/cce2.jpeg)
+
