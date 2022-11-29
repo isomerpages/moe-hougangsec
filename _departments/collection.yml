@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics and Technology/Aesthetics and Technology.md
       - Aesthetics and Technology/Visual Art.md
       - Aesthetics and Technology/Nutrition and Food Science.md
       - Aesthetics and Technology/Design & Technology.md
