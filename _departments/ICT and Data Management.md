@@ -140,3 +140,98 @@ Web 2.0 tools for Lesson planning and Assessment for Learning
 </table>
 
 
+
+### Use of Computer Lab
+
+**Rules**
+*   Students can only enter the Computer Lab under the supervision of a teacher.
+*   Leave all bags in front or at the side of the room.
+*   Sit according to register numbers as instructed by the teacher.
+*   Check all equipment (computer, printer, keyboard, mouse and other peripherals) and inform the teacher immediately if there is any problem.
+*   Collect, check and distribute group equipment (e.g. headset) and report any irregularities.
+*   Do not eat, drink or litter in the room.
+*   Do not use personal storage devices in the room.
+*   Do not switch on the computer unless instructed by the teacher.
+*   Do not delete or reconfigure data in the hard disk.
+*   Shut down the computer in a proper way and arrange the equipment in its original position at the end of each lesson.
+*   Keep all electronic devices in the bag.
+
+  
+
+**Abuse and misuse that may result in school punishment**
+
+  
+
+*   Prying into another user’s area or files.
+*   Developing or activating programs that harass other users.
+*   Attempting to learn or use other user’s password.
+*   Sharing your own or other user’s password.
+*   Attempting to hack into restricted systems or attempting to use administrative commands.
+*   Attempting to harm or destroy any hardware, software or data residing on the school network or any other computer system attached to the internet.
+*   Uploading or creating computer viruses.
+*   Contaminating, deleting or reconfiguring data.
+*   Blogging messages that are offensive or abusive.
+
+  
+
+**Advice on the use of computers**
+
+*   Be polite. Use appropriate language. Do not be abusive in your messages to others. Hate mail, harassment, discriminatory remarks and other anti-social behaviours are prohibited.
+*   Do not reveal your full name, telephone number or home address or those of other students when using the Internet.
+*   Keep your personal login and account password private and log off the network after use.
+*   Do not use computers or the network in such a way that would disrupt the use of the systems by other people.
+*   Do not transmit or knowingly receive any materials (copyrighted, pornographic or obscene) in violation of the law or school regulation.
+
+### Library@HS
+
+**Library Opening Hours:**    
+8.30 am to 5.30 pm (Monday to Thursday)    
+8.30am to 5pm (Friday)      
+
+**Lunch Time:**    
+1.00 pm to 1.30 pm
+
+  
+
+**Library Rules**
+
+*   Bags must be left outside the library in the cupboards provided.
+*   Students who make noise or cause disturbance will be evicted.
+*   No eating or drinking is allowed in the library.
+*   Students must take good care of library books and materials.
+*   Students can borrow up to 4 books for a duration of two weeks.
+*   Any loss of books must be replaced.
+*   Do not allow others to use your identification number to borrow items from the Library.
+*   Students must obey the Staff and Librarians on duty.
+
+  
+
+**Borrow and Return Library Book**
+
+  
+
+*   Bring book to the Circulation Counter.
+*   Produce your EZ-Link card.
+*   Open the book to the page with barcode label.
+*   Take note of the due date.
+*   Return book(s) to book-drop or Circulation Counter.
+*   You may renew the book if you have not finished reading (but remember to bring it with you)
+
+  
+
+**Use of devices (Computers/kindles/ipads) in the Library**
+
+  
+
+*   Approach the Librarian to register first.
+*   Wait for your turn if the devices are in use.
+*   Fill in your particulars and sign in before you use the device.
+*   Check that the device is in proper working condition before & after use.
+*   You may use the device for 30 minutes per session.
+*   Do not bring in personal software.
+*   Do not share computer passwords.
+*   Do not download unwholesome materials from the Internet.
+*   Do not play computer games or engage in idle chatting on the Internet.
+*   Do not meddle with the device settings.
+*   Ask the Librarian for assistance when in doubt.
+*   Report any faults detected to the Librarian on duty immediately
