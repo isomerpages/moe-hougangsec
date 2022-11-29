@@ -37,5 +37,48 @@ b.    Character and Citizenship Education (CCE)
 **At Hougang Secondary School, the following lessons from the Sexuality Education Programme will be taught in <u>2022</u>:**  
   
 
-SECONDARY 1
------------
+### SECONDARY 1
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6vty{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-5ws4{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 744px">
+<colgroup>
+<col style="width: 138px">
+<col style="width: 131px">
+<col style="width: 360px">
+<col style="width: 115px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-5ws4">UNIT</td>
+    <td class="tg-5ws4">LESSONS / DURATION</td>
+    <td class="tg-6vty">Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-5ws4">TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9" rowspan="3">Respectful Relationships &amp; Safety<br> <br> </td>
+    <td class="tg-2rp9">1<br>(60 mins)</td>
+    <td class="tg-7fd7">·       Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>·       Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>·       Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>·       Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+    <td class="tg-2rp9">Term 3 Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">2<br>(60 mins)</td>
+    <td class="tg-7fd7">·       Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td class="tg-2rp9">Term 3 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">3<br>(60 mins)</td>
+    <td class="tg-7fd7">·       Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>·       Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
+    <td class="tg-2rp9">Term 3 Week 9</td>
+  </tr>
+</tbody>
+</table>
