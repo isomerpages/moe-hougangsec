@@ -64,3 +64,12 @@ Skill Level 3: Connect an electronics circuit with blinking LED and motor.
 SciTecHuMAtics is a programme designed to engage pupils through inter-disciplinary student-centered activities and to provide an opportunity for students to explore the inter-connectedness of disciplines with respect to environmental issues (e.g. recycling, water resources, etc.). For the D&T station, students used recycled water bottles as well as other scrap materials to create a plastic bottle planter made from recycled materials.
 
 Photo 1
+
+<img src="/images/dnt1.jpeg" 
+     style="width:45%">
+
+Photo 2
+
+<img src="/images/dnt2.jpeg" 
+     style="width:45%">
+
