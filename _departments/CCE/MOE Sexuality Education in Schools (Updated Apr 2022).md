@@ -174,3 +174,53 @@ b.    Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+#### SECONDARY 4
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5ws4{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 744px">
+<colgroup>
+<col style="width: 138px">
+<col style="width: 131px">
+<col style="width: 360px">
+<col style="width: 115px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-5ws4">UNIT</td>
+    <td class="tg-5ws4">LESSONS / DURATION</td>
+    <td class="tg-5ws4">Lesson Objectives<br>At the end of the lesson, students will be able to:</td>
+    <td class="tg-5ws4">TIME PERIOD<br>(e.g. Term 1 Week 2)</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9" rowspan="4">Respectful Relationships &amp; Safety</td>
+    <td class="tg-2rp9">1<br>(60 mins)</td>
+    <td class="tg-7fd7">·       Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>·       Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>·       Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+    <td class="tg-2rp9">Term 1 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">2<br>(60 mins)</td>
+    <td class="tg-7fd7">·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br>·       Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>·       Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>·       Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</td>
+    <td class="tg-2rp9">Term 1 Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">3<br>(60 mins)</td>
+    <td class="tg-7fd7">·       Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>·       Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>·       Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
+    <td class="tg-2rp9">Term 1 Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">4<br>(60 mins)</td>
+    <td class="tg-7fd7">·       Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-2rp9">Term 1 Week 9</td>
+  </tr>
+</tbody>
+</table>
