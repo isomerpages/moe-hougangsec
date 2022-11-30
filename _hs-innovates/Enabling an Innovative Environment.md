@@ -9,22 +9,23 @@ HS Innovation Challenge aims to develop our Hougeans into critical thinkers and 
 
 These innovative ideas are then developed into HS Innovation Initiatives. In 2019-2020, four key initiatives were born; the ‘HS Umbrella-Sharing Initiative’, ‘HS Learning Pods’, ‘HS Cleanathon’ and ‘HS Mentors Initiative’.
 
-
+![](/images/Photo%2016.jpeg)
 <center> HS Young Innovator presenting during assembly</center>
 
 
-
+![](/images/Photo%2017.jpeg)
 <center>HS Young Innovator presenting during assembly</center>
 
 
-
+![](/images/Photo%2018.jpeg)
 <center> InnoChamps attending a Training Session</center>
 
-
+![](/images/Photo%2019.jpeg)
 <center>InnoChamps coordinating assembly with HS Young Innovators</center>
 
 ### HS Innovation Initiatives
 
+![](/images/Photo%2020.jpeg)
 <center> HS Umbrella-Sharing Initiative</center>
 
 The HS Umbrella-Sharing initiative aims to spread kindness and gratitude in HS through the act of sharing umbrellas. 
@@ -60,12 +61,16 @@ Students who have displayed ingenuity in the termly HS Innovation Challenge and 
 
 Staff awarded with 8 or more InnoStars for their innovation entries in the InnoNews Portal are recognised as HS ChangeMaker! of the month, and staff who have garnered a cumulative total of more than 20, 40 and 60 InnoStars throughout the whole year are recognised as the HS Star Innovator! of the Year (Bronze, Silver and Gold) respectively. HS Star Innovator (Gold) awardees who have continuously innovated across three years, with more than 60 InnoStars each year, are recognised as the HS Platinum Innovators.
 
+![](/images/Photo%2021.jpeg)
 <center> HS Young Innovator receiving her award</center>
 
+![](/images/Photo%2022.jpeg)
 <center> HS Young Innovators receiving their awards</center>
 
+![](/images/Photo%2023.jpeg)
 <center> HS ChangeMakers! receiving their awards</center>
 
+![](/images/Photo%2024.jpeg)
 <center> HS ChangeMakers! receiving their awards</center>
 
 **_HS Innovates! Growing an Innovative Culture_**
