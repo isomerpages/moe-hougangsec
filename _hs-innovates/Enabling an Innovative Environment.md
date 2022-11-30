@@ -9,6 +9,7 @@ HS Innovation Challenge aims to develop our Hougeans into critical thinkers and 
 
 These innovative ideas are then developed into HS Innovation Initiatives. In 2019-2020, four key initiatives were born; the ‘HS Umbrella-Sharing Initiative’, ‘HS Learning Pods’, ‘HS Cleanathon’ and ‘HS Mentors Initiative’.
 
+
 <center> HS Young Innovator presenting during assembly</center>
 
 
