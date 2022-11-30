@@ -2,6 +2,7 @@ collections:
   internationalisation-programme:
     output: true
     order:
+      - 2019 Learning Journeys/2019 Internalisation Programmes.md
       - 2019 Learning Journeys/Learning Journey to Hong Kong, 28 to 31 May
         2019.md
       - 2019 Learning Journeys/Educational and Cultural Immersion Trip to Xi’an,
