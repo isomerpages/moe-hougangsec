@@ -1,4 +1,5 @@
 collections:
   hs-innovates:
     output: true
-    order: []
+    order:
+      - Enabling an Innovative Environment.md
