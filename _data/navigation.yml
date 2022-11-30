@@ -3,7 +3,10 @@ links:
   - title: Departments
     collection: departments
   - title: Key Programmes
-    collection: key-programmes
+    url: /internationalisation-programme/2019-Learning-Journeys/sinsosin-sep-hainan
+    sublinks:
+      - title: Internationalisation Programme
+        url: /internationalisation-programme/2019-Learning-Journeys/sinsosin-sep-hainan
   - title: Co-Curricular Activities
     collection: co-curricular-activities
   - title: About Us
