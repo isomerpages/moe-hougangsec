@@ -2,4 +2,4 @@ collections:
   internationalisation-programme:
     output: true
     order:
-      - 2019/.keep
+      - 2019 Learning Journeys/.keep
