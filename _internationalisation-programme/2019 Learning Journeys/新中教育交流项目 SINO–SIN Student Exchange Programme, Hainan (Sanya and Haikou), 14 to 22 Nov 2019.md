@@ -32,7 +32,7 @@ The overall programme consists of 3 parts – School Immersion Programme, Cultur
 
   
 
-**<center><u>SINO-SIN Exchange Programme to Hainan, China</center></u>**
+<b><center><u>SINO-SIN Exchange Programme to Hainan, China</center></u></b>
 
 A group of 49 students from Hougang and Queenstown Secondary Schools embarked on a learning journey to Hainan (Sanya and Haikou) from 14 to 22 November 2019. Through this trip, we gained deeper insights into China’s educational system and cultural heritage. It has allowed us to interact with the students from various schools in Hainan, and learn more about their daily lives. The overall programme consisted of three parts : school immersion, cultural experience and an industrial visit.
 
