@@ -2,4 +2,5 @@ collections:
   hs-innovates:
     output: true
     order:
+      - Every Staff Innovates.md
       - Enabling an Innovative Environment.md
