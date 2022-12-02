@@ -74,3 +74,52 @@ Respect all, fear none
   </tr>
 </tbody>
 </table>
+
+
+### CCA Leadership Structure
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-rdtm"></td>
+    <td class="tg-rdtm">Captain</td>
+    <td class="tg-rdtm">Vice-Captain</td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm">Overall</td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Ethan Chen</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Jovan Chan</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm">B Boys</td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Qamarul Ariff</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Bertrand Lim</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm">B Girls</td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Yu Xuan</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Joycelyn Ng</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm">C Boys</td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Jay Lee</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Damian Chew</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm">C Girls</td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Xaviera Tay</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Fazira Ain</span></td>
+  </tr>
+</tbody>
+</table>
+
