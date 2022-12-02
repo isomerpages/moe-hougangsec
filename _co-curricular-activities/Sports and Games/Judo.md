@@ -187,7 +187,6 @@ Respect all, fear none
 </tbody>
 </table>
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -213,6 +212,41 @@ Respect all, fear none
   </tr>
   <tr>
     <td class="tg-j9k7"><span style="font-weight:400;color:#333">SJF Kyu Grade Championship</span></td>
+  </tr>
+</tbody>
+</table>
+
+SJF -Student Judo Foundation
+
+### Teachers In-Charge
+*   Mr Hadrian Chin Chun Kiat (OIC)
+*   Mr Alfred Choo Boon Kian
+*   Ms Jasmine Low
+
+**Coach**: Mr Mohd Faizal Mohd Noor
+
+### Training Venue and Days
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pex6{background-color:#ECECEC;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-j9k7{background-color:#ECECEC;color:#333;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-pex6">CCA</td>
+    <td class="tg-pex6">Tuesdays</td>
+    <td class="tg-pex6">Friday</td>
+  </tr>
+  <tr>
+    <td class="tg-pex6">Training</td>
+    <td class="tg-j9k7"><span style="font-weight:400;color:#333">3.15 pm – 5.45 pm</span><br><span style="font-weight:400;color:#333">HS Dojo / Judo Room (Level 4)</span></td>
+    <td class="tg-j9k7"><span style="font-weight:400;color:#333">2.00 pm – 5.00 pm</span><br><span style="font-weight:400;color:#333">School Hall</span><br><span style="font-weight:400;color:#333">(Level 2)</span></td>
   </tr>
 </tbody>
 </table>
