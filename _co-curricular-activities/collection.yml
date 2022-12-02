@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports and Games/Netball.md
       - Sports and Games/Wushu.md
       - Sports and Games/.keep
       - Club and Society/Media Resource Club.md
