@@ -123,3 +123,40 @@ Respect all, fear none
 </tbody>
 </table>
 
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-rdtm">VIA</td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Muhd Israf</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Dawn Tay</span></td>
+  </tr>
+  <tr>
+    <td class="tg-apyk">Sports Secretary</td>
+    <td class="tg-tlx9"><span style="font-weight:400;color:#333">Joshua Lim</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Ruth Ong</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm">R<span style="background-color:initial">eflection</span><br>Secretary</td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Nur Zarifah</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Ryan Lee</span></td>
+  </tr>
+  <tr>
+    <td class="tg-rdtm">Treasurer</td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Hong Ming</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Liu Mei Han</span></td>
+  </tr>
+</tbody>
+</table>
