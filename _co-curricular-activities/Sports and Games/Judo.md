@@ -160,3 +160,59 @@ Respect all, fear none
   </tr>
 </tbody>
 </table>
+
+### Programmes
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pex6{background-color:#ECECEC;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-j9k7{background-color:#ECECEC;color:#333;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-pex6">CCA</td>
+    <td class="tg-pex6">Tuesdays</td>
+    <td class="tg-pex6">Friday</td>
+  </tr>
+  <tr>
+    <td class="tg-pex6">Training</td>
+    <td class="tg-j9k7"><span style="font-weight:400;color:#333">3.15pm – 5.45pm</span><br><span style="font-weight:400;color:#333">School Hall / Judo Room (Level 4)</span></td>
+    <td class="tg-j9k7"><span style="font-weight:400;color:#333">2.00pm – 5.00 pm</span><br><span style="font-weight:400;color:#333">School Hall</span><br><span style="font-weight:400;color:#333">(Level 2)</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pex6{background-color:#ECECEC;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-j9k7{background-color:#ECECEC;color:#333;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-pex6">Competitions</td>
+  </tr>
+  <tr>
+    <td class="tg-j9k7"><span style="font-weight:400;color:#333">S A Age Group Championship</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j9k7"><span style="font-weight:400;color:#333">National School Games (NSG)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j9k7"><span style="font-weight:400;color:#333">*SJF Cadet &amp; Junior Championship</span></td>
+  </tr>
+  <tr>
+    <td class="tg-j9k7"><span style="font-weight:400;color:#333">SJF Kyu Grade Championship</span></td>
+  </tr>
+</tbody>
+</table>
