@@ -2,4 +2,5 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Club and Society/.keep
       - Leaps 2'0 Guide.md
