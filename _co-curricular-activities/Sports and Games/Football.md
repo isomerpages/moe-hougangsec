@@ -47,7 +47,7 @@ Serve with dedication
      style="width:85%"></td>
   </tr>
   <tr>
-    <td class="tg-2rp9">North Zone National School Games ( ‘B’ Div )</td>
+    <td class="tg-2rp9">North Zone National School Games (‘B’ Div)</td>
     <td class="tg-2rp9">League 4 Quarter Finals</td>
   </tr>
 </tbody>
