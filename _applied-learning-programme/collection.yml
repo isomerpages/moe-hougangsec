@@ -2,4 +2,5 @@ collections:
   applied-learning-programme:
     output: true
     order:
+      - Applied Learning Programme (ALP) @ HS.md
       - Chinese ALP.md
