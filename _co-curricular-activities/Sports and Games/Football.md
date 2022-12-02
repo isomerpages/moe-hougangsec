@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Sports-and-Games/football/
 description: ""
 third_nav_title: Sports and Games
 ---
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Football Open House" src="https://www.youtube.com/embed/Feg_Ruz81YM" height="315" width="830"></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/Feg_Ruz81YM" title="2022 Football Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 Better known as Hougang Warriors, the team was officially established in 2010. Currently we participate in the Tier 2 National School Games (NSG). We offer Direct School Admission (DSA-Sec) for Football for potential players to apply before taking the PSLE. Students apply based on their talent in sports and specific academic areas. We aim to bring honour to the school via improving on our football knowledge, skills and character.  
 
@@ -42,7 +42,7 @@ Serve with dedication
     <td class="tg-2rp9">League 4<br>1st Runner’s Up</td>
   </tr>
   <tr>
-    <td colspan="2" class="tg-2rp9"><img style="width:85%" src="/images/fb3.jpeg"><br><br><img style="width:85%" src="/images/fb4.jpeg"></td>
+    <td class="tg-2rp9" colspan="2"><img src="/images/fb3.jpeg" style="width:85%"><br><br><img src="/images/fb4.jpeg" style="width:85%"></td>
   </tr>
   <tr>
     <td class="tg-2rp9">North Zone National School Games (‘B’ Div)</td>
@@ -94,4 +94,12 @@ Football Equipment Making @ Hs Makers Garage
 
 ### Photographs
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRApeejkWyG8X4urzpSgGqG9FKm0N6LGGSByVH6CO2ExS-8DDcUXDo6GZX-FRCkJvS3NcSFofvnxdwN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRApeejkWyG8X4urzpSgGqG9FKm0N6LGGSByVH6CO2ExS-8DDcUXDo6GZX-FRCkJvS3NcSFofvnxdwN/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
+
+
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQpSjY_js41e7_R1INsG59dLEcFpD1FRqFN-3wfTS0C0bg2WtUwDLm2bYh5I4BeV8yOVsOUfffUXLoE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+
+
+### Video
+
+
