@@ -32,5 +32,5 @@ With SMM still in place, this year’s ALP workshops were held as class-based ac
 
   
 
-EL ALP Video
-------------
+#### EL ALP Video
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/leZieZchRD8" title="2022 EL ALP Activities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
