@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Sports-and-Games/wushu/
 description: ""
 third_nav_title: Sports and Games
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/etUcRVVDeGc" title="2022 Wushu Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Wushu Open House" src="https://www.youtube.com/embed/etUcRVVDeGc" height="315" width="830"></iframe></center>
 
 ![](/images/ws1.jpeg)
 ![](/images/ws2.jpeg)
@@ -29,7 +29,7 @@ No Pain. No Gain
 ### Competitions
 
 *   National School Games Wushu Championships
-*   National Wushu & Sanda Championships
+*   National Wushu &amp; Sanda Championships
 
 ### VIA
 
@@ -53,15 +53,15 @@ No Pain. No Gain
 
 ### Achievements
 
-*   National Wushu & Sanda Championships 2017 – 2 Silver & 2 Bronze  
+*   National Wushu &amp; Sanda Championships 2017 – 2 Silver &amp; 2 Bronze  
 *   SSSC Sportmanship Award NSG Wushu Championships 2017 - Quek Kheng Leng (2A1)  
-*   National Inter-School Wushu Championship 2013 - 1 SIlver & 1 4th Position  
-*   National Inter-School Wushu Championship 2012 - 1 Silver & 1 Bronze     
-*   National Inter-School Wushu Championship 2011 - 2 Silver & four 4th Places
+*   National Inter-School Wushu Championship 2013 - 1 SIlver &amp; 1 4th Position  
+*   National Inter-School Wushu Championship 2012 - 1 Silver &amp; 1 Bronze     
+*   National Inter-School Wushu Championship 2011 - 2 Silver &amp; four 4th Places
 
 ### CCA Leadership Structure
 
-**CCA Leadership Structure** (update current list)
+**CCA Leadership Structure**&nbsp;(update current list)
 
 **B Division (Boys):**   
 *   **Captain**: Teh Yee Ray (3E3)
@@ -83,7 +83,7 @@ No Pain. No Gain
 
 **C Division (Girls):**   
 *   **Captain**: Xanthe Tay (2E4)
-*   **Vice-Captain:** Jazreel Low (2A2)
+*   **Vice-Captain:**&nbsp;Jazreel Low (2A2)
 
 ### Teachers in-charge
 *   Mr Ronnie Yeo (OIC)
@@ -92,9 +92,13 @@ No Pain. No Gain
 
 ### Training Venue and Days
 
-**Day:** Tuesday & Friday   
-**Time:** 3.30 pm - 5.30 pm (Tue) / 2.00 pm - 5.00 pm (Fri)   
-**Venue:** School Hall / Hougang Primary School
+**Day:**&nbsp;Tuesday &amp; Friday   
+**Time:**&nbsp;3.30 pm - 5.30 pm (Tue) / 2.00 pm - 5.00 pm (Fri)   
+**Venue:**&nbsp;School Hall / Hougang Primary School
 
 ### Photographs
 National School Games Wushu Championships 2018
+
+![](/images/Photo%201%20(2).jpeg)
+
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdK-iE8TeSpPvX0JD0OGG6KyAoHldrXgRakX5wHvBKjrO-JoujhtHnA9k8XpTd_TFaZQa1mC9BNy37/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
