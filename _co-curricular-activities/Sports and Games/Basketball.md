@@ -65,3 +65,48 @@ One Team, One Goal
 </tbody>
 </table>
 
+
+### Teachers In-charge
+
+*   Mr Soh Yen Meng (OIC) 
+*   Ms Wang Qingzhen
+*   Mr Alfred Choo
+
+### Training Venue and Days
+
+**Day:** Tuesday & Friday
+
+**Time:**    
+3.30 pm - 5.30 pm (Tue)    
+3.00 pm - 5.30 pm (Fri)
+
+**Venue:** Basketball Court / Indoor Sports Hall (ISH)
+
+  
+
+#### Photographs
+
+![](/images/bb3.jpeg)
+<center>Values-in-action</center>
+
+![](/images/bb4.jpeg)
+<center> Weekly training in Indoor Sports Hall</center>
+
+![](/images/bb5.jpeg)
+<center>e-CCA via Zoom</center>
+
+![](/images/bb6.jpeg)
+<center>C Division</center>
+
+![](/images/bb7.jpeg)
+<center>B Division</center>
+
+![](/images/bb8.jpeg)
+<center> Graduating cohort</center>
+
+
+### National School Games
+
+![](/images/bb9.jpeg)
+
+![](/images/bb10.jpeg)
