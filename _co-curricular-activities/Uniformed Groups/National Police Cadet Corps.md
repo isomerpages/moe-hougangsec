@@ -72,3 +72,5 @@ CDT – LCP – CPL – SGT – SSG – SI
 **Venue**: School Compound
 
 ### Photographs
+
+(embed google slide / images here)
