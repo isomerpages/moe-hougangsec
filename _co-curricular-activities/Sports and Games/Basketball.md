@@ -18,22 +18,18 @@ The team is committed to apply the lessons learnt on the court to their daily li
 While the physical and skill trainings are important, the team also values working together to serve the community. Through the various VIA programmes, the students get to not only apply the values and skills learnt, but in a meaningful and purposeful way.
 
 ### Vision
-------
 
 To develop resilient and disciplined team players with sportsmanship and a positive attitude, as well as a heart for others and the society
 
 ### Mission
--------
 
 To instil confidence, discipline, commitment, teamwork and excellence while maximising each player’s potential
 
 ### Motto
------
 
 One Team, One Goal
 
 ### Programmes / Competitions
--------------------------
 
 *   North Zone Championships (B and C Division)
 *   ActiveSG-BAS Basketball Development League (B and C Division)
