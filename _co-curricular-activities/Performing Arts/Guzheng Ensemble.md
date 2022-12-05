@@ -6,27 +6,22 @@ third_nav_title: Performing Arts
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/E4EV1b6Th_c" title="2022 Guzheng Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
-Motto
------
+### Motto
 
 Celebrate Every Victory!
 
-Values
-------
+### Values
 
 *   Perseverance
 *   Respect
 *   Responsibility
 *   Teamwork
 
-Achievements
-------------
+### Achievements
 
 Singapore Youth Festival Arts Presentation:
-
 *   Certificate of Distinction (2021)
 *   Certificate of Distinction (2019)  
-    
 *   Certificate of Distinction (2017)
 *   Certification of Accomplishment (2015)
 *   Certification of Distinction (2013)
@@ -80,27 +75,21 @@ Singapore Youth Festival Arts Presentation:
 </table>
 
 
-Teachers In-Charge
-------------------
+### Teachers In-Charge
 
-*   Mrs Goh Lay Hoon  
-    
+*   Mrs Goh Lay Hoon 
 *   Ms Kitty Tan
 *   Miss Wong Lai Lee
 
-Training Venue and Days
------------------------
+### Training Venue and Days
 
-Training Days: Tuesday & Friday
-
-Training Times: 3.15 pm - 5.45 pm (Tue) / 1.30 pm – 5.15 pm (Fri)
-
+Training Days: Tuesday & Friday   
+Training Times: 3.15 pm - 5.45 pm (Tue) / 1.30 pm – 5.15 pm (Fri)   
 Training Venue: AVA Room
 
   
 
-Video
------
+### Video
 
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/jgFuCJ7dMU4" title="Guzheng  Website publicity 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
