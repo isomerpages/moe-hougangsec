@@ -17,6 +17,9 @@ third_nav_title: Achievements
 <col style="width: 400px">
 </colgroup>
 <tbody>
+	<tr>
+    <td class="tg-13pz"><a href="#0">Chingay Parade Volunteers</a></td>
+  </tr>
   <tr>
     <td class="tg-13pz"><a href="#1">The Straits Times Article</a></td>
   </tr>
@@ -41,6 +44,67 @@ third_nav_title: Achievements
 </tbody>
 </table>
 
+
+<a id="0"></a>
+
+#### Chingay Parade Volunteers
+
+<img src="/images/cpv1.jpeg" 
+     style="width:55%">
+
+
+We would first like to thank Hougang Secondary School for being supportive of the students volunteering for Chingay Parade 2017.
+
+  
+
+We are really grateful to have gotten the consistent support of the school for the past few years to allow the students to join us in this massive project and making it a successful one.
+
+  
+
+Secondly, we would like to thank the student volunteers who were involved.
+
+  
+
+All the student volunteers were committed, enthusiastic, stood strong in their respective roles and gave their best to provide the best experience for the audience.
+
+  
+
+With the support of different cohorts of students every year, we do hope that each batch of them learned something out from this volunteering journey, be it learning experience, making new friends or even a small gesture of help to any fellow volunteer or audience. We hope it had been a fruitful and memorable experience for them.
+
+  
+
+Do express our sincere thanks to this batch of students and share with them that they had all done a brilliant job during the 2 parade days.
+
+  
+
+Lastly, we would like to thank the teachers' assistance, time and effort spent on liaising and bringing the students down to the venue for the various event dates. We really appreciate the effort to ensure the safety and welfare of the students.
+
+  
+Once again, thank you!  
+  
+Best regards,
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-13pz{font-size:18px;text-align:center;vertical-align:top}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 770px">
+<colgroup>
+<col style="width: 116px">
+<col style="width: 654px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-13pz"><img src="/images/people%20association.png" 
+     style="width:65%"></td>
+    <td class="tg-nx8p"><span style="font-weight:400;font-style:normal">Mr Tam Ching Yi Manager (Arts Projects) | Singapore Chingay &amp; Events Network (SCENE)</span></td>
+  </tr>
+</tbody>
+</table>
 
 <a id="1"></a>
 
