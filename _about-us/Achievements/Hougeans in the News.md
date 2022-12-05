@@ -141,8 +141,10 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
     <td class="tg-nu80" colspan="2">Silver Award</td>
   </tr>
   <tr>
-    <td class="tg-tls3">pic here</td>
-    <td class="tg-tls3">pic here too</td>
+    <td class="tg-tls3"><img src="/images/paym16-4.jpeg" 
+     style="width:100%"></td>
+    <td class="tg-tls3"><img src="/images/paym16-2.jpeg" 
+     style="width:100%"></td>
   </tr>
 </tbody>
 </table>
