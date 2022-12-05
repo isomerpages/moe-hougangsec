@@ -90,3 +90,15 @@ VIA Leader: Nurina Batrisyia
 ### Photographs
 
 SYF
+
+(insert slides here)
+
+
+Weekly Training
+
+
+(insert slides here)
+
+Debate
+
+(insert slides here)
