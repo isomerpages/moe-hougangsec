@@ -27,11 +27,11 @@ Principals:
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fms3{background-color:#FFF;color:#333;font-size:18px;text-align:center;vertical-align:middle}
-.tg .tg-4ll1{background-color:#FFF;color:#333;font-size:18px;text-align:left;vertical-align:middle}
-.tg .tg-6zp7{background-color:#FCC617;color:#333;font-size:18px;text-align:center;vertical-align:middle}
-.tg .tg-57rg{background-color:#FFF;color:#333;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-3kpf{background-color:#FCC617;color:#333;font-size:18px;text-align:left;vertical-align:middle}
+.tg .tg-3gjr{background-color:#FFF;color:#333;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-yhbt{background-color:#FCC617;color:#333;font-size:16px;text-align:center;vertical-align:middle}
+.tg .tg-flrf{background-color:#FCC617;color:#333;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-bvth{background-color:#FFF;color:#333;font-size:16px;text-align:center;vertical-align:middle}
+.tg .tg-6csq{background-color:#FFF;color:#333;font-size:16px;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
@@ -40,48 +40,48 @@ Principals:
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-57rg">Year</td>
-    <td class="tg-57rg">Key Event</td>
+    <td class="tg-6csq">Year</td>
+    <td class="tg-6csq">Key Event</td>
   </tr>
   <tr>
-    <td class="tg-3kpf">2001</td>
-    <td class="tg-3kpf">Establishment of Hougang Secondary School at Lowland Road</td>
+    <td class="tg-flrf">2001</td>
+    <td class="tg-flrf">Establishment of Hougang Secondary School at Lowland Road</td>
   </tr>
   <tr>
-    <td class="tg-fms3">2001</td>
-    <td class="tg-4ll1">Relocation of Hougang Secondary School at Hougang Street 93</td>
+    <td class="tg-bvth">2001</td>
+    <td class="tg-3gjr">Relocation of Hougang Secondary School at Hougang Street 93</td>
   </tr>
   <tr>
-    <td class="tg-6zp7">2003</td>
-    <td class="tg-3kpf">Official Opening of Hougang Secondary School with the then Minister for Education and Second Minister for Defence, RAdm Teo Chee Hean as GOH</td>
+    <td class="tg-yhbt">2003</td>
+    <td class="tg-flrf">Official Opening of Hougang Secondary School with the then Minister for Education and Second Minister for Defence, RAdm Teo Chee Hean as GOH</td>
   </tr>
   <tr>
-    <td class="tg-fms3">2009</td>
-    <td class="tg-4ll1">Participation in Asian Youth Games Torch Relay</td>
+    <td class="tg-bvth">2009</td>
+    <td class="tg-3gjr">Participation in Asian Youth Games Torch Relay</td>
   </tr>
   <tr>
-    <td class="tg-6zp7">2014</td>
-    <td class="tg-3kpf">Accorded Learning for Life Programme in GRC (Gratitude, Respect and Compassion) in Action, a Hougean way of life<br>(Renamed Values in Action, a Hougean Way of Life in 2018)</td>
+    <td class="tg-yhbt">2014</td>
+    <td class="tg-flrf">Accorded Learning for Life Programme in GRC (Gratitude, Respect and Compassion) in Action, a Hougean way of life<br>(Renamed Values in Action, a Hougean Way of Life in 2018)</td>
   </tr>
   <tr>
-    <td class="tg-fms3">2015</td>
-    <td class="tg-4ll1">Accorded Applied Learning Programme in English Communication Skills through Authentic Learning<br>(Renamed Promoting Communication Skills through Authentic Learning in 2018)</td>
+    <td class="tg-bvth">2015</td>
+    <td class="tg-3gjr">Accorded Applied Learning Programme in English Communication Skills through Authentic Learning<br>(Renamed Promoting Communication Skills through Authentic Learning in 2018)</td>
   </tr>
   <tr>
-    <td class="tg-6zp7">2016</td>
-    <td class="tg-3kpf">Recognised for having best practices in Student All-Round Development, Character and Citizenship Education (CCE), and Teaching &amp; Learning and conferred the School Distinction Award (SDA)</td>
+    <td class="tg-yhbt">2016</td>
+    <td class="tg-flrf">Recognised for having best practices in Student All-Round Development, Character and Citizenship Education (CCE), and Teaching &amp; Learning and conferred the School Distinction Award (SDA)</td>
   </tr>
   <tr>
-    <td class="tg-fms3">2016</td>
-    <td class="tg-4ll1">Invited the then Acting Minister for Education (Schools), Mr Ng Chee Meng as GOH to school’s GRC Banquet 2016 – “Say Yes to 3G Volunteerism :<br>Youths.Educators.Seniors</td>
+    <td class="tg-bvth">2016</td>
+    <td class="tg-3gjr">Invited the then Acting Minister for Education (Schools), Mr Ng Chee Meng as GOH to school’s GRC Banquet 2016 – “Say Yes to 3G Volunteerism :<br>Youths.Educators.Seniors</td>
   </tr>
   <tr>
-    <td class="tg-6zp7">2017</td>
-    <td class="tg-3kpf">Received the President’s Award for Volunteerism &amp; Philanthropy – Educational Institution Winner</td>
+    <td class="tg-yhbt">2017</td>
+    <td class="tg-flrf">Received the President’s Award for Volunteerism &amp; Philanthropy – Educational Institution Winner</td>
   </tr>
   <tr>
-    <td class="tg-fms3">2018</td>
-    <td class="tg-4ll1">Received the PAYM – Service Learning Award</td>
+    <td class="tg-bvth">2018</td>
+    <td class="tg-3gjr">Received the PAYM – Service Learning Award</td>
   </tr>
 </tbody>
 </table>
