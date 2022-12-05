@@ -80,3 +80,50 @@ Make The Difference
   </tr>
 </tbody>
 </table>
+
+
+### School Song
+
+We sing our song with joy and pride   
+To tell the world we do things right   
+Search ourselves to be true   
+Uphold the creed Hougeans learn in school
+
+We learn the skills with grit and zeal   
+To stand the tests both tough and real   
+Urge ourselves to excel    
+Prepare for the future that none can tell   
+
+Chorus:   
+Respect ourselves, respect others   
+Thus, we develop noble characters   
+Work together for Singapore   
+Make the difference on any shore   
+
+Music by : Soh Kay Cheng   
+Lyrics by : Chia Choon Kiat   
+
+
+### HS 20th Anniversary
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 791px">
+<colgroup>
+<col style="width: 396px">
+<col style="width: 395px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-x5q1"><img src="/images/HS%2020%20Anniversary%20Logo2.png" 
+     style="width:100%"></td>
+    <td class="tg-x5q1"><span style="font-weight:400;font-style:normal">The tagline for 20th </span>Anniversary is <span style="font-weight:bold">‘Hougeans My Family, HS My Home’</span><br><br><span style="font-weight:bold;text-decoration:underline">Hougeans My Family</span><br><span style="font-weight:400;font-style:normal">The 3 golden figures represent GRIT stars seen embracing the number 20, signifying the school’s nurturing of the students’ learning and development, together as a family for the past twenty years.</span><br><br><span style="font-weight:bold;text-decoration:underline">HS My Home</span><br><span style="font-weight:400;font-style:normal">The red hearts in the GRIT stars represent the culture of care that the school shows to all within her premises. The red arch over the golden figures represents the welcoming sight of the school as a home to all who enter.</span></td>
+  </tr>
+</tbody>
+</table>
