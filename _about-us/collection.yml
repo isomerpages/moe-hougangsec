@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Partners/Parent Support Group.md
       - Partners/.keep
       - Virtual Tour (Swipe the video to the left to start the tour).md
       - Contact Us.md
