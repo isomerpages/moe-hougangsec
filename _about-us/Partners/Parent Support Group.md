@@ -41,11 +41,9 @@ How can HS PSG support Hougang Secondary and Benefits of a HS PSG Member:
 *  Supporting and advocating the school’s mission, vision and directions.
 
 
-<center>…JOIN US TODAY…<br>TOGETHER WE CAN MAKE THE DIFFERENCE!<br>You can reach us at: Email: <a href="mailto:hss.psg@gmail.com">hss.psg@gmail.com</a>
+<center>…JOIN US TODAY…<br>TOGETHER WE CAN MAKE THE DIFFERENCE!<br>You can reach us at: Email: <a href="mailto:hss.psg@gmail.com">hss.psg@gmail.com</a></center>
 
 
-  
-
-  
-
-[Hougang Secondary School Parents Support Group ( HS PSG ) Blogspot](https://hsspsg.blogspot.com/)
+<center><a href="https://hsspsg.blogspot.com/">Hougang Secondary School Parents Support Group ( HS PSG ) Blogspot</a></center>
+ 
+ 
