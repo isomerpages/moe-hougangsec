@@ -41,4 +41,6 @@ third_nav_title: Achievements
 
 <a id="1"></a>
 
+#### The Straits Times Article
+
 [Hougang Secondary teaching juniors.pdf]([](/files/Hougang%20Secondary%20%20teaching%20juniors.pdf)
