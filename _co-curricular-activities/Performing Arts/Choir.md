@@ -75,3 +75,13 @@ Kaelyn Lau Kai Xin of 3S
 ### Photographs
 
 **2021 Secondary 4 and 5 Choir Members**
+
+![](/images/Choir%20Photo1.jpeg)
+
+**2019 Choir SYF Performance**
+
+![](/images/HS%20Speech%20Day%202019.jpeg)
+
+**2019 Choir Chinese New Year Performance**
+
+![](/images/Chinese%20New%20Year%20Concert%202019.jpeg)
