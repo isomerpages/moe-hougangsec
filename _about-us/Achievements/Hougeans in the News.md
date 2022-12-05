@@ -37,3 +37,8 @@ third_nav_title: Achievements
   </tr>
 </tbody>
 </table>
+
+
+<a id="1"></a>
+
+[Hougang Secondary teaching juniors.pdf]([](/files/Hougang%20Secondary%20%20teaching%20juniors.pdf)
