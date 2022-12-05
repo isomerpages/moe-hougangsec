@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Achievements/.keep
       - Partners/School Advisory Committee.md
       - Partners/Parent Support Group.md
       - Partners/.keep
