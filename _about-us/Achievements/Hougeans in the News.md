@@ -152,7 +152,15 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
 
 <a id="6"></a>
 
-#### 
+#### PAYM Service Learning Festival 2015
 
+Click here ***(NO FILE)*** to read more from the Principal and teachers of **JENIUS KINDERGARTEN HOUGANG**
+
+![](/images/paym15-1.jpeg)
+![](/images/paym15-2.jpeg)
 
 <a id="7"></a>
+
+#### Project Accolade
+
+(insert file here)
