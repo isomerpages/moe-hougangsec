@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /contact-us/
 description: ""
 ---
-**Hougang Secondary School**
+### Hougang Secondary School
 
 2 Hougang Street 93 Singapore 534256   
 Tel: 63851990   
