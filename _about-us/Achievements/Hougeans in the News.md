@@ -112,9 +112,12 @@ Thank you, Level Coaches, Character Coaches, Students of 4NA and 4T1.
 <a id="1"></a>
 
 #### The Straits Times Article
+<img src="/images/Hougang%20Sec_mockup_A4%20acrylic.jpeg" 
+     style="width:65%">
+<img src="/images/Hougang%20Secondary%20%20teaching%20juniors-page-001.jpeg" 
+     style="width:65%">
 
-![](/images/Hougang%20Sec_mockup_A4%20acrylic.jpeg)
-![](/images/Hougang%20Secondary%20%20teaching%20juniors-page-001.jpeg)
+
 
 [Hougang Secondary teaching juniors.pdf](/files/Hougang%20Secondary%20%20teaching%20juniors.pdf)
 
@@ -162,7 +165,9 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
 
 [Click here](/images/SLC.jpeg)
 
-![](/images/SLC.jpeg)
+<img src="/images/SLC.jpeg" 
+     style="width:65%">
+
 
 
 
@@ -225,8 +230,12 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
 
 Click here ***(NO FILE)*** to read more from the Principal and teachers of **JENIUS KINDERGARTEN HOUGANG**
 
-![](/images/paym15-1.jpeg)
-![](/images/paym15-2.jpeg)
+
+<img src="/images/paym15-1.jpeg" 
+     style="width:65%">
+<img src="/images/paym15-2.jpeg" 
+     style="width:65%">
+
 
 <a id="7"></a>
 
