@@ -3,7 +3,7 @@ title: Virtual Tour (Swipe the video to the left to start the tour)
 permalink: /about-us/virtual-tour/
 description: ""
 ---
-(embed video here)
+(embed video and interactive tour here; or add link to external virtual tour)
 
 
 #### FAQ
