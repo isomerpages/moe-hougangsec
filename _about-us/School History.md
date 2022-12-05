@@ -85,3 +85,79 @@ Principals:
   </tr>
 </tbody>
 </table>
+
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3gjr{background-color:#FFF;color:#333;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-t0wg{background-color:#021D77;color:#FFF;font-size:16px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-flrf{background-color:#FCC617;color:#333;font-size:16px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 771px">
+<colgroup>
+<col style="width: 434px">
+<col style="width: 71px">
+<col style="width: 266px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-t0wg">Photographs</td>
+    <td class="tg-t0wg"><span style="font-weight:bold;color:#FFF;background-color:#021D77">Year</span></td>
+    <td class="tg-t0wg"><span style="font-weight:bold;color:#FFF;background-color:#021D77">Descriptions</span></td>
+  </tr>
+  <tr>
+    <td class="tg-flrf"><img src="/images/hist1.jpg" 
+     style="width:100%"></td>
+    <td class="tg-flrf"><span style="color:#333;background-color:#FCC617">2001</span></td>
+    <td class="tg-flrf">Establishment of Hougang Secondary School at Lowland Road.<br>Pioneer staff and students at Lowland Road campus in 2001.</td>
+  </tr>
+  <tr>
+    <td class="tg-3gjr"><img src="/images/hist2.jpg" 
+     style="width:100%"></td>
+    <td class="tg-3gjr"><span style="color:#333;background-color:#FFF">2001</span></td>
+    <td class="tg-3gjr">The Hougean Move “We’ve moved in and we’ll move forward” First assembly at Hougang Secondary School, Hougang Street 93 following its re-location from Lowland Road.</td>
+  </tr>
+  <tr>
+    <td class="tg-flrf"><img src="/images/hist3.jpg" 
+     style="width:100%"></td>
+    <td class="tg-flrf"><span style="color:#333;background-color:#FCC617">2003</span></td>
+    <td class="tg-flrf">Official Opening of Hougang Secondary School by GOH RAdm Teo Chee Hean, Minister for Education and Second Minister for Defence RAdm Teo inspecting the Guard-of-Honour contingent with Founding Principal, Mr Chia Choon Kiat</td>
+  </tr>
+  <tr>
+    <td class="tg-3gjr"><img src="/images/hist4.jpg" 
+     style="width:100%"></td>
+    <td class="tg-3gjr"><span style="color:#333;background-color:#FFF">2006</span></td>
+    <td class="tg-3gjr">Formation of HS Alumni Founding Principal, Mr Chia Choon Kiat with SAC Chairperson, Ms Evelyn Lim, SAC members, Teacher i/c and Alumni EXCO.</td>
+  </tr>
+  <tr>
+    <td class="tg-flrf"><img src="/images/hist5.jpg" 
+     style="width:100%"></td>
+    <td class="tg-flrf"><span style="color:#333;background-color:#FCC617">2009</span></td>
+    <td class="tg-3gjr">Participation in Asian Youth Games Torch Relay The torch relay resumed on June 29 for theSchools leg, with the flame travelling to 45 schools around Singapore, where over a hundred runners had the honour of carrying the torch. Hougang Secondary School was one of the 45 schools that received this honour.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-3gjr"><img src="/images/hist6.jpg" 
+     style="width:100%"></td>
+    <td class="tg-3gjr"><span style="color:#333;background-color:#FFF">2016</span></td>
+    <td class="tg-3gjr"><br>Invited the then Acting Minister for Education (Schools) and Senior Minister of State for Transport, Mr Ng Chee Meng as GOH to school’s GRC Banquet 2016 – “Say Yes to 3G Volunteerism : Youths.Educators.Seniors</td>
+  </tr>
+  <tr>
+    <td class="tg-flrf"><img src="/images/hist7.jpg" 
+     style="width:100%"></td>
+    <td class="tg-flrf"><span style="color:#333;background-color:#FCC617">2017</span></td>
+    <td class="tg-flrf">Received the President’s Award for Volunteerism &amp; Philanthropy – Educational Institution Winner for having achieved excellence in giving.</td>
+  </tr>
+  <tr>
+    <td class="tg-3gjr"><img src="/images/hist8.jpg" 
+     style="width:100%"></td>
+    <td class="tg-3gjr"><span style="color:#333;background-color:#FFF">2018</span></td>
+    <td class="tg-3gjr">Received the PAYM – Service Learning Award for our long-term service and commitment.</td>
+  </tr>
+</tbody>
+</table>
