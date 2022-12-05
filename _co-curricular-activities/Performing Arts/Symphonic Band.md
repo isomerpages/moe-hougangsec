@@ -84,3 +84,6 @@ Percussion - Jean Haw (S3-H)
 *   Watching SSO Concert at The Esplanade
 
 ![](/images/symphonicband.png)
+
+
+(embed google slide / images here)
