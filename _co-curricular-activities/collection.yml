@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Performing Arts/Performing Arts.md
       - Performing Arts/Angklung|Kulintang and Gamelan Ensemble.md
       - Performing Arts/Choir.md
       - Performing Arts/Guzheng Ensemble.md
