@@ -119,11 +119,9 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
   </tr>
   <tr>
     <td class="tg-tls3"><img src="/images/paym16-1.jpeg" 
-     style="width:100%">
-</td>
+     style="width:100%"></td>
     <td class="tg-tls3"><img src="/images/paym16-3.jpeg" 
-     style="width:100%">
-</td>
+     style="width:100%"></td>
   </tr>
 </tbody>
 </table>
