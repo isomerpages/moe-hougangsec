@@ -103,12 +103,56 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
 
 #### PAYM Service Learning Festival 2016
 
-![](/images/paym16-1.jpeg)
-![](/images/paym16-2.jpeg)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nu80{background-color:#021D77;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tls3{background-color:#FCC617;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-nu80" colspan="2">Gold Award</td>
+  </tr>
+  <tr>
+    <td class="tg-tls3"><img src="/images/paym16-1.jpeg" 
+     style="width:100%">
+</td>
+    <td class="tg-tls3"><img src="/images/paym16-3.jpeg" 
+     style="width:100%">
+</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nu80{background-color:#021D77;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tls3{background-color:#FCC617;color:#333;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-nu80" colspan="2">Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-tls3">pic here</td>
+    <td class="tg-tls3">pic here too</td>
+  </tr>
+</tbody>
+</table>
 
 
 <a id="6"></a>
 
+#### 
 
 
 <a id="7"></a>
