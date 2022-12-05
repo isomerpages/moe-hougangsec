@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Virtual Tour.md
+      - Virtual Tour (Swipe the video to the left to start the tour).md
       - Contact Us.md
       - Data Privacy.md
