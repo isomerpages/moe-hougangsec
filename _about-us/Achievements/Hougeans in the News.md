@@ -24,16 +24,19 @@ third_nav_title: Achievements
     <td class="tg-13pz"><a href="#2">One Dream Journal</a></td>
   </tr>
   <tr>
-    <td class="tg-13pz"></td>
+    <td class="tg-13pz"><a href="#3">TITLE</a></td>
   </tr>
   <tr>
-    <td class="tg-13pz"></td>
+    <td class="tg-13pz"><a href="#4">TITLE</a></td>
   </tr>
   <tr>
-    <td class="tg-13pz"></td>
+    <td class="tg-13pz"><a href="#5">TITLE</a></td>
   </tr>
   <tr>
-    <td class="tg-13pz"></td>
+    <td class="tg-13pz"><a href="#6">TITLE</a></td>
+  </tr>
+	<tr>
+    <td class="tg-13pz"><a href="#7">TITLE</a></td>
   </tr>
 </tbody>
 </table>
@@ -54,3 +57,46 @@ third_nav_title: Achievements
 <a id="2"></a>
 
 #### One Dream Journal
+
+One Dream Journal Launch at HS on 30 January
+
+  
+
+The Dream Journal is a collaborative project conceived by The One Dream Initiative and motion, supportedby the SG50 Celebration Fund. The journals’ purpose is for Singaporeans, especially the youth to write, and draw their dreams, hopes, aspirations and ambitions. The team behind this Dream Journal, seeks to broaden dreams and inspire a deepening connection towards society.
+
+  
+
+The Dream Journal contains black and white images of students from Hougang Secondary School, shot by Alecia Neo (an independent photographer and visual artist). The creative team from Motion designed and carefully selected inspirational quotes from well-known thinkers and history makers alike and superimposed these quotes, on images of students and Singapore city skyline.
+
+  
+
+The Dream Journal will be distributed to all secondary schools, ITEs in Singapore. Indeed, HS is honoured to be part of this project.
+
+  
+
+“Borne out of One Dream’s raison d’être that everyone should have a Dream --- a Dream which connects Self & Society, that as one gets more successful in life, to also help others fulfill their dreams. In a very simple way should all citizens and residents think and behave this way, Singapore and the world will be a much better, much brighter place.”
+
+\- Peter Ong, Leader, One Dream Initiative.
+
+
+
+<a id="3"></a>
+
+
+
+
+<a id="4"></a>
+
+
+
+
+<a id="5"></a>
+
+
+
+
+<a id="6"></a>
+
+
+
+<a id="7"></a>
