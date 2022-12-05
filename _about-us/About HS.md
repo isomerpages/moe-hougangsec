@@ -35,7 +35,7 @@ Make The Difference
 <img src="/images/School%20Logo%20-%20Edited.png" 
      style="width:15%">
 
-<br>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
