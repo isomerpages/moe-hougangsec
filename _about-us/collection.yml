@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Partners/.keep
       - Virtual Tour (Swipe the video to the left to start the tour).md
       - Contact Us.md
       - Data Privacy.md
