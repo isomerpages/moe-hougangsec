@@ -66,5 +66,3 @@ Make the Difference
 ### Photographs
 
 ![](/images/modern%20dance%202.png)
-
-
