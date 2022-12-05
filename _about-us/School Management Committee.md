@@ -159,3 +159,36 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-5ws4{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">EXECUTIVE AND ADMIN STAFF (EAS)</span></td>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9"><span style="font-weight:bold">Ms Jolin Chang Wan Yun </span><br>jolin_chang@schools.gov.sg</td>
+    <td class="tg-5ws4">Administration Manager</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9"><span style="font-weight:bold">Mr Oh Kwok Wan Ben  </span><br>oh_kwok_wan@schools.gov.sg</td>
+    <td class="tg-5ws4">Administration Manager </td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9"><span style="font-weight:bold">Mr Sanker Ramaiah</span><br>sanker_ramaiah@moe.edu.sg</td>
+    <td class="tg-5ws4">Operations Manager</td>
+  </tr>
+</tbody>
+</table>
