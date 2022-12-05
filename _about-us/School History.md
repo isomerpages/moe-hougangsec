@@ -44,7 +44,7 @@ Principals:
     <td class="tg-6csq">Key Event</td>
   </tr>
   <tr>
-    <td class="tg-flrf">2001</td>
+    <td class="tg-yhbt">2001</td>
     <td class="tg-flrf">Establishment of Hougang Secondary School at Lowland Road</td>
   </tr>
   <tr>
