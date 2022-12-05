@@ -82,17 +82,29 @@ The Dream Journal will be distributed to all secondary schools, ITEs in Singapor
 
 <a id="3"></a>
 
+#### HS Story - A Blanket of Love by Secondary Four Students
 
+A group of Hougang Secondary students, led by Ms Yen Nee and Ms Hwee Noi visited one of the home hospice patients living in Hougang and presented their handmade patchwork blanket to her.
+
+For more information, please see the link here https://www.hca.org.sg/hcaconnect/a-blanket-of-love/
 
 
 <a id="4"></a>
 
+#### PAYM-SLC 10th Year Anniversary
+
+[Click here](/images/SLC.jpeg)
+
+![](/images/SLC.jpeg)
 
 
 
 <a id="5"></a>
 
+#### PAYM Service Learning Festival 2016
 
+![](/images/paym16-1.jpeg)
+![](/images/paym16-2.jpeg)
 
 
 <a id="6"></a>
