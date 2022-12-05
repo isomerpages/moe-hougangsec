@@ -3,7 +3,6 @@ title: About HS
 permalink: /about-us/about-hs/
 description: ""
 ---
-
 <img src="/images/School%20Vision.jpeg" 
      style="width:65%">
 
@@ -33,7 +32,7 @@ Make The Difference
 
 ### School Crest
 
-<img src="images/School%20Logo%20-%20Edited.png" 
+<img src="/images/School%20Logo%20-%20Edited.png" 
      style="width:15%">
 
 <br>
