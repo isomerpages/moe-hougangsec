@@ -21,7 +21,7 @@ third_nav_title: Achievements
     <td class="tg-13pz"><a href="#1">The Straits Times Article</a></td>
   </tr>
   <tr>
-    <td class="tg-13pz"></td>
+    <td class="tg-13pz"><a href="#2">One Dream Journal</a></td>
   </tr>
   <tr>
     <td class="tg-13pz"></td>
@@ -43,4 +43,14 @@ third_nav_title: Achievements
 
 #### The Straits Times Article
 
-[Hougang Secondary teaching juniors.pdf]([](/files/Hougang%20Secondary%20%20teaching%20juniors.pdf)
+![](/images/Hougang%20Sec_mockup_A4%20acrylic.jpeg)
+![](/images/Hougang%20Secondary%20%20teaching%20juniors-page-001.jpeg)
+
+[Hougang Secondary teaching juniors.pdf](/files/Hougang%20Secondary%20%20teaching%20juniors.pdf)
+
+*"Source:\[state publication\] © Singapore Press Holdings Limited. Permission required for reproduction”*
+
+
+<a id="2"></a>
+
+#### One Dream Journal
