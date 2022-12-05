@@ -12,6 +12,7 @@ Your involvement in school-home partnership by being a member of the PSG in HS b
 
 ![](/images/psg1.jpeg)
 
+
 **Objectives of HS PSG:**
 
 1. Promote the HOUGEAN Spirit (Make the Difference).
@@ -45,5 +46,6 @@ How can HS PSG support Hougang Secondary and Benefits of a HS PSG Member:
 
 
 <center><a href="https://hsspsg.blogspot.com/">Hougang Secondary School Parents Support Group ( HS PSG ) Blogspot</a></center>
- 
- 
+
+<img src="/images/psg2.jpeg" 
+     style="width:65%">
