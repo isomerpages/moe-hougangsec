@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - HBL SIL/HS ICT Helpdesk Form.md
       - HBL SIL/.keep
       - Appeal For Transfer Into HS.md
       - HS ICT Helpdesk Form.md
