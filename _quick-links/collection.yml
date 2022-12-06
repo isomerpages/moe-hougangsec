@@ -2,5 +2,6 @@ collections:
   quick-links:
     output: true
     order:
+      - HS OPEN HOUSE 2022.md
       - School Textbook Sale.md
       - School Uniform Sale.md
