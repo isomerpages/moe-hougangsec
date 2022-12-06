@@ -113,3 +113,48 @@ Please refer to Annexes A, B and C for more details on the functions and featu
 9\. **Upcoming activities**. Billing and payment for the PLD will commence in February and the delivery of the PLD is expected to be in Term 2. The projected timeline for the key activities is shown below:  
 
 <center>Table 2 – Key Events</center>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-scjc{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 894px">
+<colgroup>
+<col style="width: 149px">
+<col style="width: 255px">
+<col style="width: 490px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-scjc">Projected Timeline</td>
+    <td class="tg-scjc">Event</td>
+    <td class="tg-scjc">Remarks and Links</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7">Dec 2021</td>
+    <td class="tg-2rp9">Submission of application forms<br> <br>Submit information on existing household computing device<br><br><span style="background-color:initial">Other applications</span><br><br> </td>
+    <td class="tg-7fd7"><span style="font-style:italic">required:</span><br><span style="background-color:initial">1. Intent to Purchase PLD and Use of Edusave (go to:</span> <a href="https://go.gov.sg/pdlpadmin" target="_blank" rel="noopener noreferrer">https://go.gov.sg/pdlpadmin</a>)<br><span style="background-color:initial">2. Survey on Household Computing Device (</span><a href="https://go.gov.sg/hssurveycomputingdevicesec1" target="_blank" rel="noopener noreferrer">https://go.gov.sg/hssurveycomputingdevicesec1</a><span style="background-color:initial">)</span><br> <br><br><span style="font-style:italic">where applicable:</span><br>1. Application for Subsidy (See Annex D)<br>2. Application for Home Access Programme (subsidised fibre broadband, go to: <a href="http://www.digitalaccess.gov.sg/" target="_blank" rel="noopener noreferrer">www.digitalaccess.gov.sg</a>)</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7">Jan 2022</td>
+    <td class="tg-2rp9">Confirmation of Order<br> <br>Briefing to Parents (Optional)</td>
+    <td class="tg-7fd7">Parents who had confirmed the purchase and submitted the required information will be informed. Parents choosing to use their own iPad will need to have their iPad assessed by the school for suitability.</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7">Feb 2022</td>
+    <td class="tg-2rp9">Billing and Payment</td>
+    <td class="tg-7fd7">via SAM, Giro, or Cheque/Cash payment to school after receiving the bill<br>(If you are using Giro, please ensure that there are sufficient funds for the deduction)</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7">Mar – May 2022</td>
+    <td class="tg-2rp9">Deployment and onboarding of PLD and DMA</td>
+    <td class="tg-7fd7">Date to be advised.</td>
+  </tr>
+</tbody>
+</table>
