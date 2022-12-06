@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - PLD Initiative/Personal Learning Device (PLD) Initiative.md
       - PLD Initiative/.keep
       - Traffic Advisory.md
       - HBL SIL/HBL–SIL.md
