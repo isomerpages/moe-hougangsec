@@ -63,3 +63,8 @@ Hougang Secondary School warmly invites Primary 6 students and parents to visit 
   </tr>
 </tbody>
 </table>
+
+
+\*Concurrent Session
+
+Redeem a welcome gift when you register with us via the QR code or URL below by Wednesday, 23 November.
