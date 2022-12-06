@@ -216,7 +216,7 @@ Thank you!
 </tbody>
 </table>
 
-### Annex B: DMA Settings After School Hours
+#### Annex B: DMA Settings After School Hours
 
 1\. During school hours, the Default Setting will apply. Parents/Guardians are given a choice to opt for an Alternative Setting, which will apply only to after school hours. The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.
 
@@ -284,3 +284,78 @@ Thank you!
 * How confident and familiar am I with managing my child’s/ward’s cyber wellness?
 * Are there existing routines and open conversations on the use of the internet at home?
 * Am I aware of how to prevent different types of cyber threats that my child/ward might face?
+
+
+#### Annex C:  Privacy and Data Security
+
+**Part 1: Data Collected and Managed by the DMA**
+
+  
+
+1\. The DMA does NOT collect any of the following data:
+*   Login IDs and passwords entered into websites or into any applications
+*   Actions performed (e.g. posts, online comments, items added to a shopping cart, etc.) when visiting websites and using apps
+*   Documents and photos stored in the PLD
+*   PLD location 
+*   Webcam videos and microphone recordings
+
+  
+
+2\. The information collected by DMA will be accessible by the following personnel:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-6vty{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 781px">
+<colgroup>
+<col style="width: 336px">
+<col style="width: 134px">
+<col style="width: 106px">
+<col style="width: 81px">
+<col style="width: 124px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2rp9"><br></td>
+    <td class="tg-6vty">Appointed Admin from MOE HQ and school</td>
+    <td class="tg-6vty">DMA Vendors</td>
+    <td class="tg-6vty">Teacher</td>
+    <td class="tg-6vty">Parent/ Guardian</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7"><span style="text-decoration:underline">Data for DMA Administrative Purposes such as:</span><br>Students’ and parents’/guardians’ information (name, school name, email addresses, and class)<br><br>Apps installed in your child’s/ward’s PLD<br><br>Device and hardware information (e.g. device model, storage space)<br></td>
+    <td class="tg-7fd7">Y</td>
+    <td class="tg-7fd7">Y</td>
+    <td class="tg-7fd7">Y</td>
+    <td class="tg-7fd7">Y</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7"><span style="text-decoration:underline">Data for web content filtering such as:</span><br>URLs accessed on the PLDs (Actions performed on websites are NOT captured)<br><br>Date and time that a website is accessed<br><br>Student profile (Name, School name)<br></td>
+    <td class="tg-7fd7">Y</td>
+    <td class="tg-7fd7">Y</td>
+    <td class="tg-7fd7"> <br>Y[1]<br> </td>
+    <td class="tg-7fd7"> <br>Y<br> </td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7"><span style="text-decoration:underline">Data for ensuring that installed apps are updated and functioning properly such as:</span><br><br>Installed apps and programs<br><br>Date and time that the apps and programs were last updated<br><br>Application error data<br></td>
+    <td class="tg-7fd7">Y</td>
+    <td class="tg-7fd7">Y</td>
+    <td class="tg-7fd7">Y[2]</td>
+    <td class="tg-7fd7">Y</td>
+  </tr>
+  <tr>
+    <td class="tg-7fd7"><span style="text-decoration:underline">Data for Sharing Students’ Screen:</span><br><br>Only the streaming of ‘live’ screen view, which will be accessible only during class. (The screen view will NOT be stored)<br></td>
+    <td class="tg-7fd7">N</td>
+    <td class="tg-7fd7">N</td>
+    <td class="tg-7fd7"> <br>Y[3]<br> </td>
+    <td class="tg-7fd7">N</td>
+  </tr>
+</tbody>
+</table>
