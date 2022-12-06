@@ -203,7 +203,7 @@ Thank you!
   </tr>
   <tr>
     <td class="tg-citn"><span style="font-weight:bold">1. Mobile Device Management Service</span><br>This facilitates the <span style="font-weight:bold">updating and management of the PLDs, protects PLDs from malicious software,</span> and <span style="font-weight:bold">protects your child/ward from objectionable internet content, or content that may not be conducive to teaching and learning during school hours.</span></td>
-    <td class="tg-citn"> – Facilitates automatic installation of apps required for teaching and learning<br><br><br> – Filters objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content)<br><br> – Protects your child’s/ward’s PLD from security vulnerabilities through the automatic updating and patching of apps and device Operating System (OS)<br></td>
+    <td class="tg-citn"> – Facilitates automatic installation of apps required for teaching and learning<br><br> – Filters objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content)<br><br> – Protects your child’s/ward’s PLD from security vulnerabilities through the automatic updating and patching of apps and device Operating System (OS)<br></td>
   </tr>
   <tr>
     <td class="tg-citn"><span style="font-weight:bold">2. Classroom Management Service</span><br>Enables teachers to <span style="font-weight:bold">manage the student’s use of the PLD </span>during lesson time to improve classroom management and support effective teaching and learning.Teachers will only monitor students’ activities during lessons.</td>
