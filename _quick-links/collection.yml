@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Appeal For Transfer Into HS.md
       - HS ICT Helpdesk Form.md
       - HS OPEN HOUSE 2022.md
       - School Textbook Sale.md
