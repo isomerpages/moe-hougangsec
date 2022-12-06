@@ -158,3 +158,60 @@ Please refer to Annexes A, B and C for more details on the functions and featu
   </tr>
 </tbody>
 </table>
+
+
+#### Next Steps
+
+10\.  To proceed with the purchase of the PLD, please submit the online forms (see table 2) by **5 January 2022**. The online forms will be available after Sec 1 registration. If you are unable to submit the form online, please contact the school for a hardcopy version.  
+  
+11\.  For students with insufficient Edusave and remainder/full payment is required, the school will inform parents/guardians to make the balance payment. Payment modes are detailed below. For non-GIRO payment, payments should only be made after parents are informed by the school.  
+* (a) **Payment through GIRO (recommended)** : Please ensure sufficient funds in the GIRO account to be deducted.  
+* (b) **Payment by Cheque** : Please cross the cheque and indicate **Ministry of Education** as account payable.  
+* (c) **Payment through SAM** : Pay to **Ministry of Education**. Please key in your child/ward’s NRIC/FIN and amount payable when prompted.  
+* (d) **Payment by Cash** : Pay at the General Office after school dismissal.  
+
+  
+
+**Further Queries**  
+
+12\. Should there be any further queries or clarification, please contact Mr Javen Gwee, HOD/ICT & Data Management at 6385-1990.
+
+Thank you!
+
+  
+
+#### Annex A: Functions of the DMA
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-3i8o{background-color:#2A2A2A;color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 780px">
+<colgroup>
+<col style="width: 381px">
+<col style="width: 399px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-3i8o">Functions</td>
+    <td class="tg-3i8o">Details</td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><span style="font-weight:bold">1. Mobile Device Management Service</span><br>This facilitates the <span style="font-weight:bold">updating and management of the PLDs, protects PLDs from malicious software,</span> and <span style="font-weight:bold">protects your child/ward from objectionable internet content, or content that may not be conducive to teaching and learning during school hours.</span></td>
+    <td class="tg-citn"> – Facilitates automatic installation of apps required for teaching and learning<br><br><br> – Filters objectionable content or content that may not be conducive to teaching and learning (e.g. social media, pornography, gambling, or websites containing extremist content)<br><br> – Protects your child’s/ward’s PLD from security vulnerabilities through the automatic updating and patching of apps and device Operating System (OS)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><span style="font-weight:bold">2. Classroom Management Service</span><br>Enables teachers to <span style="font-weight:bold">manage the student’s use of the PLD </span>during lesson time to improve classroom management and support effective teaching and learning.Teachers will only monitor students’ activities during lessons.</td>
+    <td class="tg-citn">During lessons, teachers will be able to:<br><br> – Manage and control devices (e.g. using the “Eyes Up” function)<br><br> – Launch specific applications and/or websites for teaching and learning on your child’s/ward’s device<br><br> – Facilitate the sharing of content<br><br> – Monitor your child’s/ward’s usage and activities during lessons (e.g. screen sharing, monitoring your child’s/ward’s browsing history)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><span style="font-weight:bold">3. Usage Management Service</span><br>Enables the school and/or parents/guardians to <span style="font-weight:bold">better supervise and set helpful limits for your child’s/ward’s use of PLD after school.</span></td>
+    <td class="tg-citn"> – Screen time control ensures that your child/ward does not use the PLD excessively<br><br><br> – School and/or parents/guardians can control installation of applications to ensure that the device is used optimally for teaching and learning<br><br> – Safe search and web content filtering protect your child/ward from harmful content<br><br> – Parents/Guardians can monitor usage and activities by child/ward</td>
+  </tr>
+</tbody>
+</table>
