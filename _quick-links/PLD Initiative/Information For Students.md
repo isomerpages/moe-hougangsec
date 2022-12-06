@@ -39,3 +39,5 @@ You will be guided through the following steps:
 6. Check Peripherals (e.g. Pencil)
 7. Enrolling the iPad
 8. Familiarising yourself with the iPad Policy and Technology AUP
+
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/sWh44abob-k" title="HS Apple iPad Device Handover Slides (4 May 2021)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
