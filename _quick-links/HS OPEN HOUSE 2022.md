@@ -73,3 +73,13 @@ Redeem a welcome gift when you register with us via the QR code or URL below by 
 
 <img src="/images/OpenHouse2022.png" 
      style="width:25%">
+
+[Frequently Asked Questions (FAQs)] (LINK HERE)
+
+
+### 360° Virtual Tour
+If you are not free to join us physically on Saturday, 26 November 2022, do find out more about HS through the:
+
+(insert tour video here)
+
+[360° Virtual Tour](https://4d.silvrcraft.com/hgss360vt/tour.html)  
