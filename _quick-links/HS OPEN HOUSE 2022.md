@@ -68,3 +68,8 @@ Hougang Secondary School warmly invites Primary 6 students and parents to visit 
 \*Concurrent Session
 
 Redeem a welcome gift when you register with us via the QR code or URL below by Wednesday, 23 November.
+
+[https://go.gov.sg/zvyiyz](https://go.gov.sg/zvyiyz)
+
+<img src="/images/OpenHouse2022.png" 
+     style="width:25%">
