@@ -32,3 +32,15 @@ On HBL days, an hour is set aside for your child/ward for Student-Initiated Lear
 *   Please refer to this [link](https://static.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooting/index.html) for instructions on basic troubleshooting of SLS login issues.
 *   SLS Helpdesk support: On school days before 4 pm, you may contact the school-based technical support line. Beyond these hours, please call 67026513 (School Days: 4 pm to 9 pm, Saturday and School Holidays: 9 am to 9 pm), or Email: [helpdesk@sls.ufinity.com](mailto:helpdesk@sls.ufinity.com)
 *   SLS Self-Help Tips
+
+
+![](/images/poster%202%20SLS%20self%20help%20tips%20for%20students.png)
+
+You can refer to the link below for details regarding SIL.  
+   
+[SIL Home](https://sites.google.com/view/hssil/home)
+
+
+<a href = "https://sites.google.com/view/hssil/home" target = "_self"> 
+          <img src="/images/SIL%20logo.jpeg" 
+     style="width:25%"></a>
