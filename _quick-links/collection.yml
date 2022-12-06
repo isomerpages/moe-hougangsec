@@ -2,11 +2,11 @@ collections:
   quick-links:
     output: true
     order:
+      - PLD Initiative/.keep
+      - PLD Initiative/Personal Learning Device (PLD) Initiative.md
       - PLD Initiative/DMA Parent Portal.md
       - PLD Initiative/Information For Students.md
       - PLD Initiative/FAQ.md
-      - PLD Initiative/Personal Learning Device (PLD) Initiative.md
-      - PLD Initiative/.keep
       - Traffic Advisory.md
       - HBL SIL/HBL–SIL.md
       - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
