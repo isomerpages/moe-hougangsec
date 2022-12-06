@@ -411,20 +411,20 @@ Please indicate the details of the student applying for subsidy.
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
-.tg .tg-kmcn{background-color:#2A2A2A;color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-jscl{background-color:#2A2A2A;border-color:#343434;color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-nc0v{background-color:#FFF;border-color:#343434;color:#333;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-kmcn">Name (Underline Surname)</td>
-    <td class="tg-kmcn">Birth Cert / NRIC / FIN No.</td>
-    <td class="tg-kmcn">Level / Class</td>
+    <td class="tg-jscl">Name (Underline Surname)</td>
+    <td class="tg-jscl">Birth Cert / NRIC / FIN No.</td>
+    <td class="tg-jscl">Level / Class</td>
   </tr>
   <tr>
-    <td class="tg-tlx9"> <br> <br> </td>
-    <td class="tg-tlx9"> </td>
-    <td class="tg-tlx9"> </td>
+    <td class="tg-nc0v"> <br> <br> </td>
+    <td class="tg-nc0v"> </td>
+    <td class="tg-nc0v"> </td>
   </tr>
 </tbody>
 </table>
