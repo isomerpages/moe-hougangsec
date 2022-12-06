@@ -434,3 +434,41 @@ Please indicate the details of the student applying for subsidy.
 Please include details of the <u>parents, unmarried siblings and grandparents (if they are living in the same household) of the student</u>.  For household members who are employed/self-employed, please include the latest payslip or past 3 months CPF transactions or latest Income Tax Notice of Assessment, or a letter from the employer certifying gross income (where applicable).  Any other documents must be submitted as and when required by the school for the purpose of verifying the income.
 
 ![](/images/pdlpform.png)
+
+#### Upcoming Activities for PDLP
+
+*   Collection and Set-up of iPad – on 9 Mar
+*   Deciding the DMA Option – by 19 Mar
+*   Optional Briefing for Parents on DMA – on 30 Mar 
+
+#### DMA Parent Portal
+
+Log in to Mobile Guardian here: [https://sg-portal.mobileguardian.com/#/login](https://sg-portal.mobileguardian.com/#/login)  
+  
+[Please click this URL for more details on the DMA Parent Portal.]  (LINK HERE)
+
+#### PLD Accessories Sales Portal
+
+Below is the sales portal for the purchase of new or replacement accessories related to the Apple iPad from our vendor, AsiaPac Technology Pte. Ltd.   
+  
+[https://www.asiapac.com.sg/pld-apple/account/login](https://www.asiapac.com.sg/pld-apple/account/login)  
+  
+If you are new to this sales portal, you will need to register for an account as a new user before you can purchase online. Please ensure that you have the BIRTH CERT NO.
+
+(LAST 5 CHARACTERS) ready and choose Hougang Secondary School. 
+
+#### 2022 PDLP Briefing to S1 Students (For Students)
+
+**Quick Summary of Things to do**:   
+* Verify you can access your student iCon before 4 Mar by clicking the link below. Here is an example of a Student iCON email: _your\_name@students.edu.s_g
+
+[https://go.gov.sg/hsstudentemail](https://go.gov.sg/hsstudentemail)   
+   
+
+If you need help with your user ID or password, please approach the IT team at SRC.
+
+* Bring your Student Pass on 9 Mar.
+* Report at 1.50 pm to level one classroom on 9 Mar. 
+* Familiarise yourself with the Onboarding slides here: 
+
+[2022 PDLP Briefing to S1 Students.pdf](/files/Annex%20A-%20List_of_Overseas_Trips_for_2020%20v2.pdf)
