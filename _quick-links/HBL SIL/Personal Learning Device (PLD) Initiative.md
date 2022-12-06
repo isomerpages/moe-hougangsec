@@ -272,3 +272,15 @@ Thank you!
   </tr>
 </tbody>
 </table>
+
+2\. Parents/Guardians may wish to consider the following questions before deciding on which After-School DMA Option is best for their child/ward. 
+
+**a. Child’s/Ward’s current device usage habits**
+* How much time does my child/ward spend on his/her device?
+* How well is my child/ward able to regulate his/her device usage on his/her own?
+* Does my child/ward get easily distracted while doing online learning?
+
+**b.	Parental/Guardian involvement**
+* How confident and familiar am I with managing my child’s/ward’s cyber wellness?
+* Are there existing routines and open conversations on the use of the internet at home?
+* Am I aware of how to prevent different types of cyber threats that my child/ward might face?
