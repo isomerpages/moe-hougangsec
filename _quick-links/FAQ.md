@@ -155,60 +155,40 @@ _Q6: What are the official curriculum hours of your school?_
 </tbody>
 </table>
 
-_Q7:  What are the DSA-Sec talent offered in your school?_
-
-  
+_Q7:  What are the DSA-Sec talent offered in your school?_ 
 
 *   Language and Humanities – Debate
 *   Performing Arts – Speech and Drama (English)
 *   Performing Arts – Angklung/Kulintang Ensemble  
-    
 *   Performing Arts – Guzheng Esemble
 *   Sports and Games – Netball (Girls)
 *   Sports and Games – Judo
 *   Sports and Games – Football (Boys)
 
-  
-
 _Q8:  How many classes does your school have in Secondary 1?_
-
-  
 
 Depending on the intake of the school, we usually have 4 Express, 2 Normal (Academic) and 1 Normal (Technical) classes.
 
 _Q9:  Does your school offer Subject Based Banding (SBB)?_
 
-  
-
 Yes. We offer SBB for English, Mother Tongues, Mathematics and Science.
 
-**CCA Achievements**
+#### CCA Achievements
 
 _Q1: What are the CCAs offered in your school?_  
-
-  
 
 CCAs in Hougang Secondary School are largely divided into 4 main groups
 
 **Aesthetics:**
 
-  
-
 Angklung/Kulintang Ensemble, Choir, Modern Dance, Guzheng Ensemble, Speech and Drama, Symphonic Band
 
-  
-
 **Sports and Games:**
-
-  
-
+ 
 Basketball, Floorball, Football, Judo, Netball, Wushu
 
-  
 
 **Uniformed Groups:**
-
-  
 
 Boys’ Brigade, Girls’ Brigade, National Cadet Corps (Land), National Police Cadet Corps, Girl Guides, Singapore Red Cross Youth
 
@@ -216,24 +196,8 @@ Boys’ Brigade, Girls’ Brigade, National Cadet Corps (Land), National Police 
 
 **Other:**
 
-  
-
 Media Resource Club
 
 _Q2: What are your CCA Achievements in 2021?_
 
-  
-
 The school was notified of the 2021 Award for UGs around 2022 Term 1. No award for Girl Guides this year due to covid-19.
-
-
-_Q7:  What are the DSA-Sec talent offered in your school?_
-
-*   Language and Humanities – Debate
-*   Performing Arts – Speech and Drama (English)
-*   Performing Arts – Angklung/Kulintang Ensemble  
-    
-*   Performing Arts – Guzheng Esemble
-*   Sports and Games – Netball (Girls)
-*   Sports and Games – Judo
-*   Sports and Games – Football (Boys)
