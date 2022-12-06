@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Traffic Advisory.md
-      - HBL SIL/Personal Learning Device (PLD) Initiative.md
       - HBL SIL/HBL–SIL.md
       - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
       - HBL SIL/HS ICT Helpdesk Form.md
