@@ -35,3 +35,21 @@ third_nav_title: HBL SIL
   </tr>
 </tbody>
 </table>
+
+**<u>ECG e-Counselling/e-Coaching/e-Consultation Services</u>**
+
+Individual (1-to-1 session) or Small Group (2 to 3 students)
+
+Online Support:
+
+![](/images/ECG.png)
+
+Email - [bookmyecgc@gmail.com](mailto:bookmyecgc@gmail.com)  or  [tan\_kok\_leong\_b@schools.gov.sg](mailto:tan_kok_leong_b@schools.gov.sg)
+
+Telegram - [https://t.me/ECGC\_Mr\_Tan](https://t.me/ECGC_Mr_Tan)
+
+Zoom (capped at 40mins), Google Meet, Microsoft Skype or Cisco WebEx
+
+Appointment arranged via ECG e-Service Request Online Form/Email/Telegram
+
+Video-conferencing details will be provided via Email
