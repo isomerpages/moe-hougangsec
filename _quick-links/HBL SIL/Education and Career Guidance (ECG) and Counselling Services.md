@@ -36,6 +36,8 @@ third_nav_title: HBL SIL
 </tbody>
 </table>
 
+----
+
 **<u>ECG e-Counselling/e-Coaching/e-Consultation Services</u>**
 
 Individual (1-to-1 session) or Small Group (2 to 3 students)
@@ -53,3 +55,12 @@ Zoom (capped at 40mins), Google Meet, Microsoft Skype or Cisco WebEx
 Appointment arranged via ECG e-Service Request Online Form/Email/Telegram
 
 Video-conferencing details will be provided via Email
+
+-----
+
+ **<u>School Counsellor and AED(LBS) e-Counselling/e-Coaching/e-Consultation Services</u>**
+
+Individual (1-to-1 session) 
+
+Telephone call or Video-conferencing using Zoom/whatsapp conference call 
+
