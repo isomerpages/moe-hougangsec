@@ -423,8 +423,8 @@ Please indicate the details of the student applying for subsidy.
   </tr>
   <tr>
     <td class="tg-nc0v"> <br> <br> </td>
-    <td class="tg-nc0v"> </td>
-    <td class="tg-nc0v"> </td>
+    <td class="tg-nc0v">  <br> <br></td>
+    <td class="tg-nc0v">  <br> <br> </td>
   </tr>
 </tbody>
 </table>
