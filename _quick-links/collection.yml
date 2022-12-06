@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Personal Learning Device (PLD) Initiative.md
       - Traffic Advisory.md
       - HBL SIL/HBL–SIL.md
       - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
