@@ -211,7 +211,7 @@ Thank you!
   </tr>
   <tr>
     <td class="tg-citn"><span style="font-weight:bold">3. Usage Management Service</span><br>Enables the school and/or parents/guardians to <span style="font-weight:bold">better supervise and set helpful limits for your child’s/ward’s use of PLD after school.</span></td>
-    <td class="tg-citn"> – Screen time control ensures that your child/ward does not use the PLD excessively<br><br><br> – School and/or parents/guardians can control installation of applications to ensure that the device is used optimally for teaching and learning<br><br> – Safe search and web content filtering protect your child/ward from harmful content<br><br> – Parents/Guardians can monitor usage and activities by child/ward</td>
+    <td class="tg-citn"> – Screen time control ensures that your child/ward does not use the PLD excessively<br><br> – School and/or parents/guardians can control installation of applications to ensure that the device is used optimally for teaching and learning<br><br> – Safe search and web content filtering protect your child/ward from harmful content<br><br> – Parents/Guardians can monitor usage and activities by child/ward</td>
   </tr>
 </tbody>
 </table>
