@@ -359,3 +359,9 @@ Thank you!
   </tr>
 </tbody>
 </table>
+
+[1\] The teacher will only be able to access the logs pertaining to the student’s browser history for the class that the teacher teaches, and will be able to access the logs outside of lessons. The teacher will not have access to the student’s browser history outside of those specific lessons.
+
+[2\] Teachers will not have access to the application error data.
+
+[3\] This function is not available on the iPad unless the teacher uses Apple Classroom.
