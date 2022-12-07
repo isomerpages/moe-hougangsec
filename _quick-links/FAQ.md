@@ -201,3 +201,93 @@ Media Resource Club
 _Q2: What are your CCA Achievements in 2021?_
 
 The school was notified of the 2021 Award for UGs around 2022 Term 1. No award for Girl Guides this year due to covid-19.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5ws4{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-5ws4">CCA</td>
+    <td class="tg-5ws4">Award</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Boys’ Brigade</td>
+    <td class="tg-2rp9">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Girls’ Brigade</td>
+    <td class="tg-2rp9">Gold for Company Award</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">NCC</td>
+    <td class="tg-2rp9">Distinction for Unit Recognition</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">NPCC</td>
+    <td class="tg-2rp9">Gold for NPCC-UOPA</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Red Cross Youth</td>
+    <td class="tg-2rp9">Gold for Excellent Unit Award</td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-5ws4{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-5ws4">PERFORMING ARTS</td>
+    <td class="tg-5ws4">EVENT</td>
+    <td class="tg-5ws4" colspan="2">ACHIEVEMENT</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9"><span style="font-weight:400;color:#333">ANGKLUNG/KULINTANG </span><span style="background-color:initial">ENSEMBLE </span></td>
+    <td class="tg-2rp9"><span style="font-weight:400;color:#333">SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</span></td>
+    <td class="tg-2rp9" colspan="2">(CERTIFICATE OF DISTINCTION for both ANGKLUNG/KULINTANG Ensemble)</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">SYMPHONIC BAND</td>
+    <td class="tg-2rp9"><span style="font-weight:400;color:#333">SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</span></td>
+    <td class="tg-2rp9" colspan="2"><span style="font-weight:400;color:#333">CERTIFICATE OF ACCOMPLISHMENT</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">CHOIR</td>
+    <td class="tg-2rp9">SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</td>
+    <td class="tg-2rp9" colspan="2">CERTIFICATE OF PARTICIPATION</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9"><span style="font-weight:400;color:#333">MODERN DANCE</span><br></td>
+    <td class="tg-2rp9"><span style="font-weight:400;color:#333">SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</span></td>
+    <td class="tg-2rp9" colspan="2"><span style="font-weight:400;color:#333">CERTIFICATE OF ACCOMPLISHMENT</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9"><span style="font-weight:400;color:#333">SPEECH AND DRAMA</span><br></td>
+    <td class="tg-2rp9"><span style="font-weight:400;color:#333">SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</span></td>
+    <td class="tg-2rp9" colspan="2">CERTIFICATE OF DISTINCTION</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9"><span style="font-weight:400;color:#333">GUZHENG ENSEMBLE</span></td>
+    <td class="tg-2rp9"><span style="font-weight:400;color:#333">SINGAPORE YOUTH FESTIVAL ARTS PRESENTATION</span></td>
+    <td class="tg-2rp9" colspan="2"><span style="font-weight:400;color:#333">CERTIFICATE OF DISTINCTION</span></td>
+  </tr>
+</tbody>
+</table>
+
