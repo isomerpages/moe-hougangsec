@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Students/.keep
       - FAQ.md
       - PLD Initiative/.keep
       - PLD Initiative/Personal Learning Device (PLD) Initiative.md
