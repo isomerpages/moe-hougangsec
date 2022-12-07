@@ -291,3 +291,76 @@ The school was notified of the 2021 Award for UGs around 2022 Term 1. No award f
 </tbody>
 </table>
 
+
+_Q3: How are the CCAs conducted?_
+
+  
+
+Formal instructors and sports coaches are employed by various Aestehtics and Sports groups to teach the students. These instructors work very closely with the CCA Teacher-In-Charge to deliver the required content during the CCA training days.
+
+_Q4: When are the CCAs conducted?_
+
+  
+
+CCA sessions are held on Tuesdays and Fridays.
+
+**<u>Niche Areas and Special Programmes</u>**
+
+  
+
+_Q1. What are some of your special programmes for students / to develop student leaders / opportunities for overseas attachment?_
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
+.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 780px">
+<colgroup>
+<col style="width: 185px">
+<col style="width: 595px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-rdtm">Programme</td>
+    <td class="tg-rdtm">Description</td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Learning for Life Programme (LLP)</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Community Youth Leadership: Make the Difference, A Way of life - Students progressively involved in serving the local and global community and engage in VIA through CCA.</span><br><br><span style="font-weight:400;color:#333">Level camps to promote character building</span><br><br><span style="font-weight:400;color:#333">Sec 1: In-house Orientation Camp</span><br><span style="font-weight:400;color:#333">Sec 2: Adventure Camp</span><br><span style="font-weight:400;color:#333">Sec 3: Overseas trip (E.g. Phuket, Hanoi, China, Malaysia, Indi)</span><br><span style="font-weight:400;color:#333">Sec 4: Serving the Global Community</span></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Applied Learning Programme (ALP)</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Students are given opportunities to lead during assemblies, performances and student-initiated activities to maximise the learning experience. Students taught communication skills via various workshops, to boost their confidence and competencies in connecting with the real world.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">School-Wide Leadership Programme</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Students will undergo structured training programme at each level and have the opportunity to hold different leadership positions.</span></td>
+  </tr>
+</tbody>
+</table>
+
+
+_Q2: What are some of the awards that the school has won?_
+*   School Distinction Award
+*   Best Practice in Student All Round Development, Best Practice in Character & Citizenship Education and Best Practice in Teacher & Learning.
+*   The school has successfully value-added the Express Stream for the past few years
+*   The school’s Values in Action efforts have been commended on various media platforms and received the Service Learning Champion Gold Award.
+*   The school has also taken part in countless programmes / competitions throughout the years and had won many awards. The numerous awards are displayed outside the General office.
+
+**Any Other Information**
+
+_Q1. What are the special facilities in your school?_
+
+The school has an Indoor Sports Hall and air - conditioned School Hall and air - conditioned classrooms for graduating classes.
+
+  
+
+Hougang Secondary School is located at the following address:
+
+2 Hougang Street 93 S(534256)   
+Bus services: 43, 88, 101, 109, 156, 159, 161
