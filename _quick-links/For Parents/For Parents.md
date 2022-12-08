@@ -22,13 +22,13 @@ third_nav_title: For Parents
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.moe.gov.sg/" target = "_self"> 
           <img src="/images/HGSS-MOE.png" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://pg.moe.edu.sg/" target = "_self"> 
           <img src="/images/PG.png" 
      style="width:70%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.schoolbag.sg/" target = "_self"> 
           <img src="/images/SCHOOLBAG.png" 
      style="width:100%"></a></td>
   </tr>
@@ -38,10 +38,10 @@ third_nav_title: For Parents
     <td class="tg-5ws4"><br>School Bag</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://sg-portal.mobileguardian.com/#/login" target = "_self"> 
           <img src="/images/MG.png" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://sites.google.com/view/hssil/home" target = "_self"> 
           <img src="/images/SIL%20logo.jpeg" 
      style="width:65%"></a></td>
     <td class="tg-2rp9"></td>
