@@ -2,15 +2,14 @@ collections:
   quick-links:
     output: true
     order:
-      - 2023 Sec 1 Posting Matters.md
-      - For Staff/For Staff.md
       - For Staff/.keep
+      - For Staff/For Staff.md
+      - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/2023 Sec 3 Subject Combination Matters (For Sec 2, 2022).md
       - For Parents/Travel Declaration.md
       - For Parents/School–Home Partnership.md
       - For Parents/MOE Edusave Character Award (ECHA) 2022.md
-      - For Parents/.keep
       - For Students/.keep
       - For Students/For Students.md
       - For Students/Subject Combination 2023.md
@@ -22,12 +21,13 @@ collections:
       - PLD Initiative/Information For Students.md
       - PLD Initiative/FAQ.md
       - Traffic Advisory.md
+      - HBL SIL/.keep
       - HBL SIL/HBL–SIL.md
       - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
       - HBL SIL/HS ICT Helpdesk Form.md
-      - HBL SIL/.keep
       - Appeal For Transfer Into HS.md
       - HS ICT Helpdesk Form.md
       - HS OPEN HOUSE 2022.md
       - School Textbook Sale.md
       - School Uniform Sale.md
+      - 2023 Sec 1 Posting Matters.md
