@@ -120,9 +120,15 @@ third_nav_title: For Staff
     <td class="tg-apyk">Parents Gateway<br></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SCMOBILE.png" 
+     style="width:80%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/OPAL2.png" 
+     style="width:90%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/VIABLEPORTAL.jpeg" 
+     style="width:90%"></a></td>
   </tr>
   <tr>
     <td class="tg-apyk">SC Mobile</td>
