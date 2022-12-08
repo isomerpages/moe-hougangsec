@@ -79,3 +79,22 @@ third_nav_title: For Students
   </tr>
 </tbody>
 </table>
+
+
+### Pathway for 4NA Students
+
+*   [Slides on Pathways for 4NA Students] (insert link here)
+*   [On Poly Foundation Program (PFP)](https://pfp.polytechnic.edu.sg/PFP/pfp_application.html)
+*   [On ITE to Poly Program (DPP)](https://www.ite.edu.sg/wps/portal/definitely-des/)
+
+### GRIT Journal 2022
+
+[GRIT Journal 2022 final web.pdf](/files/GRIT%20Journal%202022%20final%20web.pdf)
+
+### Timetables 2022
+
+[2022 Semester 2 Class Timetable.pdf](/files/2022%20Semester%202%20Class%20Timetable.pdf)
+
+### HS ICT Helpdesk Form
+
+If the form below is not loaded, you can also fill it in [here](https://form.gov.sg/5e411c92366d6a0011c76b50). Or at [https://go.gov.sg/hs-ict-helpdesk](https://go.gov.sg/hs-ict-helpdesk)
