@@ -104,9 +104,15 @@ third_nav_title: For Staff
     <td class="tg-apyk">SEN Portal (Intranet)</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SLS.jpeg" 
+     style="width:80%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SSOE.jpeg" 
+     style="width:70%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/PG.png" 
+     style="width:40%"></a></td>
   </tr>
   <tr>
     <td class="tg-apyk">Student Learning Space<br><br></td>
