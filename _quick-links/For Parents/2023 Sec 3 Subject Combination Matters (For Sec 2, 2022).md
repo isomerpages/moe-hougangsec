@@ -294,3 +294,48 @@ _Please view briefing slides for the criteria and more information on the subjec
   </tr>
 </tbody>
 </table>
+
+
+
+**Aesthetics and Technology Department**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 100px">
+<col style="width:700px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">No.</span></td>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Questions and Answers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">1</td>
+    <td class="tg-7fd7">Q: Will the school consider opening 2 classes of F&amp;N? <br>A: The school would be offering 1 class of NFS for Express, Normal Academic and Normal Technical stream respectively. Each class would have a cap of 20 students due to safety requirements and the availability of school resources.<br><br>For the other students, they are unable to study Humanities at a more demanding level because they did not meet the requirement to do so.</td>
+  </tr>
+</tbody>
+</table>
+
+ **English Language Department**
+ 
+ 
+ **Mother Tongue Department**
+ 
+ 
+**Humanties Department**
+
+
+ **Mathematics Department**
+
+
+**Science Department**
