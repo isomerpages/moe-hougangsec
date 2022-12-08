@@ -40,9 +40,15 @@ third_nav_title: For Staff
     <td class="tg-tlx9"> <a href="https://sg-portal.mobileguardian.com/"><span style="font-weight:500;text-decoration:underline;color:#21088A">Mobile Guardian</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"><img src="https://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/Staff/HGSS-MOE.png" alt="HGSS-MOE.png" width="183"></td>
-    <td class="tg-2rp9"><img src="https://hougangsec.moe.edu.sg/qql/slot/u499/0.%20Homepage/Staff/Cockpit.gif" alt="Cockpit.gif" width="261" height="117"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/ICON2.png" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/HGSS-MOE.png" 
+     style="width:70%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SCHOOLCOCKPIT.gif" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-apyk">iCON 2.0 Email<br><br></td>
