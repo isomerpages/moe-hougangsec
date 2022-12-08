@@ -72,9 +72,9 @@ third_nav_title: For Staff
     <td class="tg-apyk">Human Resource Management System (Intranet) </td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "LINKHERE" target = "_self"> 
           <img src="/images/IDEAS.jpeg" 
-     style="width:60%"></a></td>
+     style="width:60%"></a> (insert link here)</td>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
           <img src="/images/EXAMS.gif" 
      style="width:50%"></a></td>
