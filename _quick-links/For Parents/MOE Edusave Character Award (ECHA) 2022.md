@@ -8,7 +8,7 @@ Dear Parents/Guardian
 
   
 
-It is time to nominate deserving students for the MOE Edusave Character Award(ECHA) 2022!
+It is time to nominate deserving students for the MOE Edusave Character Award (ECHA) 2022!
 
   
 <u>What is ECHA?</u>    
@@ -38,5 +38,3 @@ The results of ECHA will be announced in Dec 2022. Thank you.
   
 Regards  
 Mrs Lee Yu Zhen    
-
-*
