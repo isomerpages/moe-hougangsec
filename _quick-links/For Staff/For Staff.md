@@ -136,9 +136,15 @@ third_nav_title: For Staff
     <td class="tg-apyk">VIAble Portal</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SIL%20logo.jpeg" 
+     style="width:60%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/Google%20Workspace%20icon.png" 
+     style="width:80%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/RBS.png" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-apyk"> Student-Initiated Learning</td>
