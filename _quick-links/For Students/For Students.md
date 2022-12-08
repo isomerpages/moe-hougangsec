@@ -18,13 +18,13 @@ third_nav_title: For Students
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://workspace.google.com/dashboard" target = "_self"> 
           <img src="/images/Google%20Workspace%20icon.png" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.moe.gov.sg/" target = "_self"> 
           <img src="/images/HGSS-MOE.png" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://vle.learning.moe.edu.sg/login" target = "_self"> 
           <img src="/images/SLS.jpeg" 
      style="width:100%"></a></td>
   </tr>
@@ -34,13 +34,13 @@ third_nav_title: For Students
     <td class="tg-apyk">Student Learning Space</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.facebook.com/hougangsecondaryschool/" target = "_self"> 
           <img src="/images/FB.png" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://hougang.schoolhub.sg/" target = "_self"> 
           <img src="/images/SHP.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://portal.mims.moe.gov.sg/idmdash/" target = "_self"> 
           <img src="/images/HGSS-MOE.png" 
      style="width:100%"></a></td>
   </tr>
@@ -50,10 +50,10 @@ third_nav_title: For Students
     <td class="tg-0pyt"><a href="https://portal.mims.moe.gov.sg/idmdash/"><span style="font-weight:500;text-decoration:underline;color:#21088A"> MIMS Portal</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" target = "_self"> 
           <img src="/images/MSFLOGO.png" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://pubhtml5.com/bookcase/vhhu/" target = "_self"> 
           <img src="/images/ECGBOOKCASE.png" 
      style="width:100%"></a></td>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
