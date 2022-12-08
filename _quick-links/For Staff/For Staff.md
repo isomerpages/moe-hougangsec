@@ -79,8 +79,8 @@ third_nav_title: For Staff
           <img src="/images/EXAMS.gif" 
      style="width:50%"></a></td>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
-          <img src="/images/MG.png" 
-     style="width:100%"></a></td>
+          <img src="/images/AST.jpeg" 
+     style="width:70%"></a></td>
   </tr>
   <tr>
     <td class="tg-apyk">MOE INNO Portal (Intranet)</td>
