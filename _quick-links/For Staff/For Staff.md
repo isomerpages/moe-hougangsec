@@ -74,7 +74,7 @@ third_nav_title: For Staff
   <tr>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
           <img src="/images/IDEAS.jpeg" 
-     style="width:70%"></a></td>
+     style="width:60%"></a></td>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
           <img src="/images/EXAMS.gif" 
      style="width:50%"></a></td>
