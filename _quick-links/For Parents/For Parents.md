@@ -55,3 +55,61 @@ third_nav_title: For Parents
 </tbody>
 </table>
 
+
+### Financial Assistance
+
+  
+
+The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government, Government-aided schools, Specialised Schools, and the Institute of Higher Learning so that all Singaporeans can benefit from the best opportunities in education. It also provides financial assistance to Singapore Citizen students from lower and middle-income families.
+
+  
+
+Students who are eligible must meet the following criteria:
+
+* Are Singapore Citizens.
+* Attend government or government-aided schools.
+* Have a monthly gross household income of $3,000 or less, or a monthly per capita household income of $750 or less.
+
+How to apply:
+* You can download the [MOE FAS Application Form Oct 2022.pdf](/files/MOE%20FAS%20Application%20Form%20Oct%202022.pdf). Please submit the completed form to General Office by the end of the semester. Alternatively, you wish to apply via eFAS here: [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+
+More details on the FAS is available on the MOE websites below. 
+
+[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)  
+
+[Frequently Asked Questions](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=32819&utm_source=moe-corp-site&utm_medium=referral)
+
+* * *
+
+### HS Parents Connect 2022
+
+**HS Parents Connect 2022 - Issue 1**   
+[HS Parents Connect 2022 - Issue 1.pdf](/files/HS%20Parents%20Connect%202022%20-%20Issue%201.pdf)
+  
+**HS Parents Connect 2022 - Issue 2**  
+[HS Parents Connect 2022 - Issue 2.pdf](/files/HS%20Parents%20Connect%202022%20-%20Issue%202.pdf)
+  
+**HS Parents Connect 2022 - Issue 3**  
+[HS Parents Connect 2022 - Issue 3.pdf](/files/HS%20Parents%20Connect%202022%20-%20Issue%203.pdf)
+  
+**HS Parents Connect 2022 - Issue 4**  
+[HS Parents Connect 2022 - Issue 4.pdf](/files/HS%20Parents%20Connect%202022%20-%20Issue%204.pdf)
+
+
+* * *
+
+### HS Application to Transfer Form
+
+To apply for transfer, please download the Application to Transfer Form and email the completed form together with your child's year-end results slip to [hougang\_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg). Only shortlisted candidates will be notified.   
+ [Application to Transfer Form w.e.f 2022.pdf](/files/Application%20to%20Transfer%20Form%20wef%202022.pdf)
+   
+
+### GRIT Journal 2022
+
+[GRIT Journal 2022 final web.pdf](/files/GRIT%20Journal%202022%20final%20web.pdf)
+  
+
+
+### Class Timetable
+
+[2022 Semester 2 Class Timetable.pdf](/files/2022%20Semester%202%20Class%20Timetable.pdf)
