@@ -153,3 +153,8 @@ third_nav_title: For Staff
   </tr>
 </tbody>
 </table>
+
+
+### GRIT Journal 2022
+
+[GRIT Journal 2022 final web.pdf](/files/GRIT%20Journal%202022%20final%20web.pdf)
