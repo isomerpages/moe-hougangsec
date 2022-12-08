@@ -40,13 +40,13 @@ third_nav_title: For Staff
     <td class="tg-tlx9"> <a href="https://sg-portal.mobileguardian.com/"><span style="font-weight:500;text-decoration:underline;color:#21088A">Mobile Guardian</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://icon.moe.edu.sg/" target = "_self"> 
           <img src="/images/ICON2.png" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://rems.moe.edu.sg/" target = "_self"> 
           <img src="/images/HGSS-MOE.png" 
      style="width:70%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "http://schoolcockpit.moe.gov.sg/" target = "_self"> 
           <img src="/images/SCHOOLCOCKPIT.gif" 
      style="width:100%"></a></td>
   </tr>
