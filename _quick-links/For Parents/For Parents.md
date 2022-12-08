@@ -28,7 +28,7 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td class="tg-5ws4"><br><span style="background-color:initial">Ministry of Education</span><br></td>
-    <td class="tg-5ws4">Parents Gateway<br><br><a href="https://hougangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Parents%20Gateway/HS-2019-120%20Parents%20Gateway%202019.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">HS-2019-120 Parents Gateway 2019.pdf</span></a><br><a href="https://hougangsec-moe-edu-sg-admin.cwp.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Parents%20Gateway/Parents%20Gateway%20-%20Onboard%20Instructional%20Guide.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Parents Gateway - Onboard Instructional Guide.pdf</span></a></td>
+    <td class="tg-5ws4">Parents Gateway<br><br><a href="/files/HS-2019-120%20Parents%20Gateway%202019.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">HS-2019-120 Parents Gateway 2019.pdf</span></a><br><a href="/files/Parents%20Gateway%20-%20Onboard%20Instructional%20Guide.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Parents Gateway - Onboard Instructional Guide.pdf</span></a></td>
     <td class="tg-5ws4"><br>School Bag</td>
   </tr>
   <tr>
