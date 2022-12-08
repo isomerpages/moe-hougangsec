@@ -25,18 +25,18 @@ third_nav_title: For Parents
   <tr>
     <td class="tg-2rp9"><a href = "https://www.moe.gov.sg/" target = "_self"> 
           <img src="/images/HGSS-MOE.png" 
-     style="width:100%"></a></td>
+     style="width:70%"></a></td>
     <td class="tg-2rp9"><a href = "https://pg.moe.edu.sg/" target = "_self"> 
           <img src="/images/PG.png" 
-     style="width:70%"></a></td>
+     style="width:50%"></a></td>
     <td class="tg-2rp9"><a href = "https://www.schoolbag.sg/" target = "_self"> 
           <img src="/images/SCHOOLBAG.png" 
      style="width:100%"></a></td>
   </tr>
   <tr>
-    <td class="tg-apyk"><br><span style="background-color:initial">Ministry of Education</span><br></td>
+    <td class="tg-apyk"><span style="background-color:initial">Ministry of Education</span><br></td>
     <td class="tg-apyk">Parents Gateway<br><br><a href="/files/HS-2019-120%20Parents%20Gateway%202019.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">HS-2019-120 Parents Gateway 2019.pdf</span></a><br><a href="/files/Parents%20Gateway%20-%20Onboard%20Instructional%20Guide.pdf"><span style="font-weight:500;text-decoration:underline;color:#21088A">Parents Gateway - Onboard Instructional Guide.pdf</span></a></td>
-    <td class="tg-apyk"><br>School Bag</td>
+    <td class="tg-apyk">School Bag</td>
   </tr>
   <tr>
     <td class="tg-2rp9"><a href = "https://sg-portal.mobileguardian.com/#/login" target = "_self"> 
