@@ -1,5 +1,7 @@
 logo: /images/logo.png
 links:
+  - title: Open House
+    url: /quick-links/hs-open-house-2022/
   - title: Departments
     collection: departments
   - title: Key Programmes
@@ -19,5 +21,3 @@ links:
     collection: about-us
   - title: Quick Links
     collection: quick-links
-  - title: Open House
-    url: /quick-links/hs-open-house-2022/
