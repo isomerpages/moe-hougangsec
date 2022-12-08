@@ -356,8 +356,42 @@ _Please view briefing slides for the criteria and more information on the subjec
 </table>
 
  
- **Mother Tongue Department**
- 
+**Mother Tongue Department**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 100px">
+<col style="width: 700px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">No.</span></td>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Questions and Answers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">1</td>
+    <td class="tg-7fd7">Q: Is there Higher Chinese available?<br>A: HCL is typically offered from Sec 1. While it is available at Sec 3, the school does not encourage students to take up HCL at sec 3. This is to provide students with sufficient runway to do well, given that they will have to take the exam at the end of the year. Students with exceptional results in CL at end of Sec 2 may be considered on a case-by-case basis.</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">2</td>
+    <td class="tg-7fd7">Q: How can my child opt for CL 'B'?<br>A: Currently, the school does not offer MTB for Sec 1 to 3.  Students will have to go to external centres for lessons.  As the lesson timings are decided by the centres, there may be clashes to some with our own school programmes. We would like to encourage students to try out MTL before deciding on taking MTB.</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9"> 3</td>
+    <td class="tg-7fd7">Q:  Can my child drop MT as a subject?<br>A: Students may be eligible for MTL exemption in a mainstream secondary school if they:<br>•  Are returning from overseas and had no opportunity to learn an official MTL, a Non-Tamil Indian Language (NTIL) or an approved Foreign Language or Asian Language for a sustained period of time.<br>•  Have special educational needs, with severe difficulties in coping with overall learning.</td>
+  </tr>
+</tbody>
+</table>
  
 **Humanties Department**
 
