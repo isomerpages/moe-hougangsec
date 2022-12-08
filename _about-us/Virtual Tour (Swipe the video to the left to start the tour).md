@@ -8,6 +8,6 @@ description: ""
 
 #### FAQ
 
-For General Questions on entry T-score, CCAs achievement, you may visit the [FAQ here](https://hougangsec.moe.edu.sg/quick-links/faq).  
+For General Questions on entry T-score, CCAs achievement, you may visit the [FAQ here](/quick-links/faq/).  
    
 [https://hougangsec.moe.edu.sg/quick-links/faq](https://hougangsec.moe.edu.sg/quick-links/faq)
