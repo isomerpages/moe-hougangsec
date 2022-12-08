@@ -56,13 +56,13 @@ third_nav_title: For Staff
     <td class="tg-apyk">School Cockpit+ (Intranet)</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.hsinnospace.com/login" target = "_self"> 
           <img src="/images/HSINNOSPACE.jpeg" 
      style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.seab.gov.sg/" target = "_self"> 
           <img src="/images/SEAB.jpeg" 
      style="width:45%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.hrp.gov.sg/hrp/#/" target = "_self"> 
           <img src="/images/HRP.jpeg" 
      style="width:70%"></a></td>
   </tr>
