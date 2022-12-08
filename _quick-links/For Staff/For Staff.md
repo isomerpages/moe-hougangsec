@@ -56,9 +56,15 @@ third_nav_title: For Staff
     <td class="tg-apyk">School Cockpit+ (Intranet)</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/HSINNOSPACE.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SEAB.jpeg" 
+     style="width:45%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/HRP.jpeg" 
+     style="width:70%"></a></td>
   </tr>
   <tr>
     <td class="tg-apyk">HS InnoSpace</td>
