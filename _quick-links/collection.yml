@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/School–Home Partnership.md
       - For Parents/MOE Edusave Character Award (ECHA) 2022.md
       - For Parents/.keep
       - For Students/.keep
