@@ -74,7 +74,7 @@ third_nav_title: For Staff
   <tr>
     <td class="tg-2rp9"><a href = "LINKHERE" target = "_self"> 
           <img src="/images/IDEAS.jpeg" 
-     style="width:60%"></a> (insert link here)</td>
+     style="width:60%"></a> (insert link)</td>
     <td class="tg-2rp9"><a href = "https://iexams.seab.gov.sg/" target = "_self"> 
           <img src="/images/EXAMS.gif" 
      style="width:50%"></a></td>
@@ -96,7 +96,7 @@ third_nav_title: For Staff
      style="width:70%"></a></td>
     <td class="tg-2rp9"><a href = "LINKHERE" target = "_self"> 
           <img src="/images/SENPORTAL.jpeg" 
-     style="width:100%"></a> (insert link here)</td>
+     style="width:100%"></a> (insert link)</td>
   </tr>
   <tr>
     <td class="tg-vtmj"><a href="https://go.gov.sg/stpwiki"><span style="font-weight:500;text-decoration:none;color:#21088A">Singapore Teaching Practice</span></a> </td>
@@ -104,13 +104,13 @@ third_nav_title: For Staff
     <td class="tg-apyk">SEN Portal (Intranet)</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://vle.learning.moe.edu.sg/login" target = "_self"> 
           <img src="/images/SLS.jpeg" 
      style="width:80%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "LINKHERE" target = "_self"> 
           <img src="/images/SSOE.jpeg" 
-     style="width:70%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+     style="width:70%"></a> (insert link)</td>
+    <td class="tg-2rp9"><a href = "https://pg.moe.edu.sg/" target = "_self"> 
           <img src="/images/PG.png" 
      style="width:40%"></a></td>
   </tr>
@@ -120,13 +120,13 @@ third_nav_title: For Staff
     <td class="tg-apyk">Parents Gateway<br></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://scmobile.moe.edu.sg/login" target = "_self"> 
           <img src="/images/SCMOBILE.png" 
      style="width:80%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://www.opal2.moe.edu.sg/app/learner" target = "_self"> 
           <img src="/images/OPAL2.png" 
      style="width:90%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://sites.google.com/moe.edu.sg/viable-portal/home" target = "_self"> 
           <img src="/images/VIABLEPORTAL.jpeg" 
      style="width:90%"></a></td>
   </tr>
