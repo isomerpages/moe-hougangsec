@@ -75,10 +75,10 @@ third_nav_title: For Staff
     <td class="tg-2rp9"><a href = "LINKHERE" target = "_self"> 
           <img src="/images/IDEAS.jpeg" 
      style="width:60%"></a> (insert link here)</td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://iexams.seab.gov.sg/" target = "_self"> 
           <img src="/images/EXAMS.gif" 
      style="width:50%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://academyofsingaporeteachers.moe.edu.sg/" target = "_self"> 
           <img src="/images/AST.jpeg" 
      style="width:70%"></a></td>
   </tr>
