@@ -227,7 +227,70 @@ _Please view briefing slides for the criteria and more information on the subjec
    
 [Subject Combination Briefing for 2NANT.pdf](/files/Subject%20Combination%20Briefing%20for%202NANT.pdf)
 
-Questions and Answers
----------------------
+### Questions and Answers
 
 **General**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-3gjr{background-color:#FFF;color:#333;font-size:16px;text-align:left;vertical-align:middle}
+.tg .tg-9vj9{background-color:#2A2A2A;color:#EEE;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-q4jd{background-color:#FFF;color:#333;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-bvth{background-color:#FFF;color:#333;font-size:16px;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 100px">
+<col style="width: 700px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-9vj9"><span style="color:#EEE;background-color:#2A2A2A">No.</span></td>
+    <td class="tg-9vj9"><span style="color:#EEE;background-color:#2A2A2A">Questions and Answers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvth">1</td>
+    <td class="tg-q4jd"><span style="background-color:initial">Q: Is there a minimum number of students that is needed before the subject is offered?</span><br><span style="background-color:initial">A: HS will try to cater to the needs of the students as far as possible depending on the availability of school resources.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bvth"> 2</td>
+    <td class="tg-3gjr">Q: Will the overall grades affect the subject choices? How is the allocation of subjects determined?<br>A: The allocation of subject combination will be based on<br>-  Merit<br>-  Choice<br>-  Vacancy<br><br>If there is a high demand for a particular combination, overall grades and choice order will be the deciding factors.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-bvth">3<br></td>
+    <td class="tg-3gjr">Q: Is MEP considered as one of the electives?<br>A: Yes, it is considered as one. Do note that since Music at GCE 'O' level is a coursework subject. it is recommended that the student considers dropping one of the coursework elective subject in lieu of Music.</td>
+  </tr>
+  <tr>
+    <td class="tg-bvth">4</td>
+    <td class="tg-3gjr">Q: Is it possible to drop subjects from any category?<br>A: Express students need a minimum of 6 subjects to sign up for the national exam and Normal (Acadmic) students need a minimum of at least 5 to sign up for the national examination. Dropping a subject may mean that the student may have to reconsider the courses which he/she wants to do in post-secondary educational institutions. Students are encouraged to try the subjects for at least a year before making a decision to drop the subject. Usually, Subject Teachers' feedback and parents' consent will be sought before a decision is made. </td>
+  </tr>
+  <tr>
+    <td class="tg-bvth">5</td>
+    <td class="tg-3gjr">Q: Is there any minimum subjects to take?<br>A: Our express classes are offered 7 subjects and Normal (Academic) classes are offered 6 subjects.</td>
+  </tr>
+  <tr>
+    <td class="tg-bvth">6</td>
+    <td class="tg-3gjr">Q: Will there be OSS for the main 4 subjects when they are in sec 3?<br>A: Our school offered OSS for English language, Mother Tongue, Mathematics and Science in Secondary 3.</td>
+  </tr>
+  <tr>
+    <td class="tg-bvth">7</td>
+    <td class="tg-3gjr">Q: When they are Sec 3 with their NA subjects, will there be streaming for them to move from NA to Express in their sec 3 mid year? Or when they promote to sec 3, all is fixed.<br>A: There is no promotion pathway for NA stream students to the Express stream once they are in Secondary 3.</td>
+  </tr>
+  <tr>
+    <td class="tg-bvth">8 </td>
+    <td class="tg-3gjr">Q:  Does SBB applies to every year that help to upgrade stream? Can students take subjects at a more demanding level at upper secondary? Would students be able to be promoted to a more demanding stream if the students take up SBB subjects?<br>A: SBB is applicable only to lower secondary students who are in the Normal Academic (NA) or Normal Technical (NT) streams. At Secondary 3, students may take/continue a more demanding subject (Out-of-Stream Subject or OSS, for short) if they meet the following criteria:<br>- N(A) students who are currently not taking any SBB subject but are eligible to take OSS subjects, if they meet the school based criteria of 75% or better for the subject, and 60% or better for overall percentage<br>- For N(A) students who are already taking an SBB subject, they would need to score 50% or better for the SBB subject in order to be eligible to continue the subject as an OSS subject.<br>- For N(T) students who are already taking an SBB subject, they would need to score 60% or better for the SBB subject in order to be eligible to continue the subject as an OSS subject.<br>Students can take up to 3 subjects at a higher level. However, taking SBB subjects does not qualify students to be promoted to a more demanding stream. Students need to meet the promotion criteria for lateral transfer to a higher demand stream.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-bvth"> 9</td>
+    <td class="tg-3gjr">Q: For sensing, based on the preference survey, what is the demand for F&amp;N versus D&amp;T?<br>A: <br>Express<br>35 students opted for NFS and 28 students opted D&amp;T, the number of students who opted is above the number of vacancies available<br>Normal (Academic)<br>27 students opted for NFS and 17 students opted for D&amp;T. Students who opted for NFS are above the quota and D&amp;T is slightly below the quota.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-bvth"> 10</td>
+    <td class="tg-3gjr">Q: Will there be moving of stream for the other subjects like history?<br>A: From 2021, our students are eligible to study Humanities at a more demanding level. For example, from 1NT to 2NA and from 1NA to 2E. These eligible students have been promoted to a more demanding stream (lateral transfer) in 2022. </td>
+  </tr>
+</tbody>
+</table>
