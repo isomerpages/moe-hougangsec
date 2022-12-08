@@ -445,7 +445,7 @@ Please include details of the <u>parents, unmarried siblings and grandparents (
 
 Log in to Mobile Guardian here: [https://sg-portal.mobileguardian.com/#/login](https://sg-portal.mobileguardian.com/#/login)  
   
-[Please click this URL for more details on the DMA Parent Portal.]  (LINK HERE)
+[Please click this URL for more details on the DMA Parent Portal.](/quick-links/PLD-Initiative/dma-parents-portal/)
 
 #### PLD Accessories Sales Portal
 
