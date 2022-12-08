@@ -167,7 +167,51 @@ _\*coursework subjects_
 
 **Secondary Three Normal Technical**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q4jd{background-color:#FFF;color:#333;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-9qe0{background-color:#2A2A2A;color:#FFF;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 570px">
+<colgroup>
+<col style="width: 70px">
+<col style="width: 500px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-9qe0">No.</td>
+    <td class="tg-9qe0">Subject</td>
+  </tr>
+  <tr>
+    <td class="tg-q4jd">1</td>
+    <td class="tg-q4jd">English**</td>
+  </tr>
+  <tr>
+    <td class="tg-q4jd">2</td>
+    <td class="tg-q4jd">Basic Mother Tongue** (Chinese/Malay/Tamil/Others)</td>
+  </tr>
+  <tr>
+    <td class="tg-q4jd">3</td>
+    <td class="tg-q4jd">Mathematics**</td>
+  </tr>
+  <tr>
+    <td class="tg-q4jd">4</td>
+    <td class="tg-q4jd">Computer Applications</td>
+  </tr>
+  <tr>
+    <td class="tg-q4jd">5</td>
+    <td class="tg-q4jd"><span style="text-decoration:underline">Elective 1 (Choose 1)</span><br><br>Science (<a href="http://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/Science%20(NT)-edited_2.mp4" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view presentation</span></a><span style="background-color:initial">)</span><br>Elements of Business Skills (<a href="http://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/3NT_EBS_2.mp4" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view presentation</span></a><span style="background-color:initial">) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-q4jd">6</td>
+    <td class="tg-q4jd"><span style="text-decoration:underline">Elective (Non-coursework/coursework*) (Choose 1)</span><br><br>Art* (<a href="http://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/Art_NT_2.mp4" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view presentation</span></a><span style="background-color:initial">)</span><br>Design and Technology* (<a href="http://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/D&T_2.mp4" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view presentation</span></a>)<br><span style="background-color:initial">Nutrition and Food Science* (</span><a href="https://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/Nutrition%20and%20Food%20Science_2021.mp4" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view presentation</span></a><span style="background-color:initial">)</span><br>Music <a href="http://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/N(T)%20Music%20Briefing_2.mp4" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">(Click to view presentation)</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 _\*\* out of stream subjects at Normal Academic_   
 _\*coursework subjects_
