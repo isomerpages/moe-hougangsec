@@ -456,3 +456,30 @@ _Please view briefing slides for the criteria and more information on the subjec
 </table>
 
 **Science Department**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 100px">
+<col style="width: 700px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">No.</span></td>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Questions and Answers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">1</td>
+    <td class="tg-7fd7">Q: Can my child subsequently switch to Combined Science after first getting into Pure Science?<br>A: Yes, it is possible after the student has tried his/her best to cope with the demands of the Pure Science subject for at least a year. Thereafter, we will advise the student further considering their well-being, effort put in and the number of subjects they eventually sit for the O Level exams. Another consideration is which institution the student wishes to pursue post-secondary education in, as different institutions/courses may have different science subject pre-requisites.</td>
+  </tr>
+</tbody>
+</table>
