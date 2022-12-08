@@ -395,8 +395,35 @@ _Please view briefing slides for the criteria and more information on the subjec
  
 **Humanties Department**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 100px">
+<col style="width: 700px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">No.</span></td>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Questions and Answers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">1</td>
+    <td class="tg-7fd7">Q: For humanities, what is the criteria for Geography and History? If a student scores better in Geography than History, will he be allocated Geography even though he has chosen History?<br>A: There is no criteria for Humanities as it is a compulsory subject. <br>No, because the school will try our best to allow students to study the subject of their choice. However, this is also assuming that the department is able to support the class that has the minimum sufficient number with a correct subject trained teacher. </td>
+  </tr>
+</tbody>
+</table>
 
  **Mathematics Department**
+
 
 
 **Science Department**
