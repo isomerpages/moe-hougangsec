@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/homepagedemo.gif
       key_highlights:
-        - title: Open House 2022
+        - title: Our Facebook
           description: ""
-          url: /quick-links/hs-open-house-2022/
+          url: https://www.facebook.com/hougangsecondaryschool/
   - resources:
       title: Announcements
       subtitle: Our latest updates
