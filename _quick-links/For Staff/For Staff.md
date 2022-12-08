@@ -72,9 +72,15 @@ third_nav_title: For Staff
     <td class="tg-apyk">Human Resource Management System (Intranet) </td>
   </tr>
   <tr>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/IDEAS.jpeg" 
+     style="width:70%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/EXAMS.gif" 
+     style="width:50%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/MG.png" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-apyk">MOE INNO Portal (Intranet)</td>
