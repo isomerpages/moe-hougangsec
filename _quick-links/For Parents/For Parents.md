@@ -39,11 +39,11 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
+          <img src="/images/MG.png" 
      style="width:100%"></a></td>
     <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
-          <img src="/images/OLevel2019.jpeg" 
-     style="width:100%"></a></td>
+          <img src="/images/SIL%20logo.jpeg" 
+     style="width:65%"></a></td>
     <td class="tg-2rp9"></td>
   </tr>
   <tr>
