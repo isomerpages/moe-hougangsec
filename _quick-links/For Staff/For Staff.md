@@ -88,9 +88,15 @@ third_nav_title: For Staff
     <td class="tg-apyk">Connecting Teachers; Connecting Resources</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SGTP.png" 
+     style="width:40%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/HGSS-MOE.png" 
+     style="width:70%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SENPORTAL.jpeg" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-vtmj"><a href="https://go.gov.sg/stpwiki"><span style="font-weight:500;text-decoration:none;color:#21088A">Singapore Teaching Practice</span></a> </td>
