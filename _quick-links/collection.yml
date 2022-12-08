@@ -2,10 +2,10 @@ collections:
   quick-links:
     output: true
     order:
+      - For Students/.keep
+      - For Students/For Students.md
       - For Students/Subject Combination 2023.md
       - For Students/Library OPAC.md
-      - For Students/For Students.md
-      - For Students/.keep
       - FAQ.md
       - PLD Initiative/.keep
       - PLD Initiative/Personal Learning Device (PLD) Initiative.md
