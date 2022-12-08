@@ -67,7 +67,7 @@ third_nav_title: For Students
   </tr>
   <tr>
     <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://sites.google.com/view/hssil/home" target = "_self"> 
           <img src="/images/SIL%20logo.jpeg" 
      style="width:100%"></a></td>
     <td class="tg-2rp9"></td>
