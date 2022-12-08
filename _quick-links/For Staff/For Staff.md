@@ -136,13 +136,13 @@ third_nav_title: For Staff
     <td class="tg-apyk">VIAble Portal</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://sites.google.com/view/hssil/home" target = "_self"> 
           <img src="/images/SIL%20logo.jpeg" 
      style="width:60%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://workspace.google.com/dashboard" target = "_self"> 
           <img src="/images/Google%20Workspace%20icon.png" 
      style="width:80%"></a></td>
-    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+    <td class="tg-2rp9"><a href = "https://rbs.avero-tech.com/" target = "_self"> 
           <img src="/images/RBS.png" 
      style="width:100%"></a></td>
   </tr>
