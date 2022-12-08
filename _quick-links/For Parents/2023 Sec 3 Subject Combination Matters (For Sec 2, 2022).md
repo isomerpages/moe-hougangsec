@@ -221,14 +221,11 @@ _Please view briefing slides for the criteria and more information on the subjec
 
 
 
-
-
 ### Briefing Slides
----------------
 
-[Subject Combination Briefing for 2E.pdf](https://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/Subject%20Combination%20Briefing%20for%202E.pdf)  
+[Subject Combination Briefing for 2E.pdf](/files/Subject%20Combination%20Briefing%20for%202E.pdf)
    
-[Subject Combination Briefing for 2NANT.pdf](https://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/Subject%20Combination%20Briefing%20for%202NANT.pdf)  
+[Subject Combination Briefing for 2NANT.pdf](/files/Subject%20Combination%20Briefing%20for%202NANT.pdf)
 
 Questions and Answers
 ---------------------
