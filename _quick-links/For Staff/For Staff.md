@@ -30,7 +30,7 @@ third_nav_title: For Staff
   </tr>
   <tr>
     <td class="tg-apyk">Ministry of Education</td>
-    <td class="tg-apyk"><br>MOE Intranet<br>(Intranet)</td>
+    <td class="tg-apyk">MOE Intranet<br>(Intranet)</td>
     <td class="tg-tlx9"> <a href="https://sg-portal.mobileguardian.com/"><span style="font-weight:500;text-decoration:underline;color:#21088A">Mobile Guardian</span></a><br></td>
   </tr>
   <tr>
