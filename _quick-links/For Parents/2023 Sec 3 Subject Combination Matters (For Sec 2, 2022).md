@@ -327,7 +327,34 @@ _Please view briefing slides for the criteria and more information on the subjec
 </table>
 
  **English Language Department**
- 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 100px">
+<col style="width: 700px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">No.</span></td>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Questions and Answers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">1</td>
+    <td class="tg-7fd7">Q: May I know which literature textbook will student use for Sec 3, 4 and 5 if choose literature?<br>A: This year, we have embarked on a new set of Literature texts for the Secondary 3 students. They are studying 'A Hundred Flowers' as their set prose, and 'Boom' as their set drama. We will continue with these texts for next year's Secondary 3 Literature students. These texts are the same across the N(A) and O-Level classes. Should students move on to Secondary 5 after their N-Level exam, they will still continue with the same texts for the O-level exam. They will not need to change texts at all throughout their 3 years in Upper Secondary. </td>
+  </tr>
+</tbody>
+</table>
+
  
  **Mother Tongue Department**
  
