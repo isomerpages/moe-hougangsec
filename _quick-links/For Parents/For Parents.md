@@ -22,9 +22,15 @@ third_nav_title: For Parents
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/HGSS-MOE.png" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/PG.png" 
+     style="width:70%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SCHOOLBAG.png" 
+     style="width:100%"></a></td>
   </tr>
   <tr>
     <td class="tg-5ws4"><br><span style="background-color:initial">Ministry of Education</span><br></td>
@@ -32,8 +38,12 @@ third_nav_title: For Parents
     <td class="tg-5ws4"><br>School Bag</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"></td>
-    <td class="tg-2rp9"></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "linkhere" target = "_self"> 
+          <img src="/images/OLevel2019.jpeg" 
+     style="width:100%"></a></td>
     <td class="tg-2rp9"></td>
   </tr>
   <tr>
