@@ -4,20 +4,14 @@ title: Hougang Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/School Logo - Edited.png
 permalink: /
-notification: More information on Hougang Secondary School Open House 2022 below!
+notification: ""
 sections:
   - hero:
       background: /images/homepagedemo.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Open House 2022
+          description: ""
+          url: /quick-links/hs-open-house-2022/
   - resources:
       title: Announcements
       subtitle: Our latest updates
