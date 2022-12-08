@@ -422,8 +422,37 @@ _Please view briefing slides for the criteria and more information on the subjec
 </tbody>
 </table>
 
- **Mathematics Department**
+**Mathematics Department**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2705{background-color:#2A2A2A;color:#EEE;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-7fd7{background-color:#FFF;color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 100px">
+<col style="width: 700px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">No.</span></td>
+    <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Questions and Answers</span></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">1</td>
+    <td class="tg-7fd7">Q: What is the criteria for POA? How many places are there?"<br>A: <br>Express<br>Students who opted for Combined Science will have to do POA. There are 3 classes offering POA.<br><br>Normal (Academic)<br>Students must pass Maths in order to be offered POA. The school is able to take up to one class of POA students<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">2</td>
+    <td class="tg-7fd7">Q: Is POA mandatory under combined science subject combination?<br>A: It is a compulsory subject in the Combined Science combination.<br></td>
+  </tr>
+</tbody>
+</table>
 
 **Science Department**
