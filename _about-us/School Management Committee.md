@@ -52,20 +52,22 @@ description: ""
     <td class="tg-2rp9"><span style="font-weight:bold"> Mr Gwee Chen Meng Javen</span><br>javen_gwee_chen_meng@moe.edu.sg</td>
     <td class="tg-5ws4"> HOD ICT &amp; Data Management</td>
   </tr>
-  <tr>    <td class="tg-2rp9"><span style="font-weight:bold"> Ms Cheng Sze Mei Carmen</span><br>cheng_sze_mei@moe.edu.sg</td>
-    <td class="tg-5ws4">HOD Mother Tongue Language</td>
-  </tr>
-  <tr>
     <td class="tg-2rp9"><span style="font-weight:bold">Mr Chow Poh Boon</span><br>chow_poh_boon@moe.edu.sg</td>
     <td class="tg-5ws4"><span style="background-color:#FFF">HOD </span>Mathematics</td>
   </tr>
+	<td class="tg-2rp9"><span style="font-weight:bold"> Ms Cheng Sze Mei Carmen</span><br>cheng_sze_mei@moe.edu.sg</td>
+    <td class="tg-5ws4">HOD Mother Tongue Language</td>
+  </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold"> Mr Quek Yong Cai</span><br>quek_yong_cai@moe.edu.sg</td>
+    <td class="tg-2rp9"><span style="font-weight:bold"> Mr Lee Lis King  </span><br>lee_lis_king@moe.edu.sg</td>
+    <td class="tg-5ws4"> HOD PE/CCA</td>
+  </tr>
+	<td class="tg-2rp9"><span style="font-weight:bold"> Mr Quek Yong Cai</span><br>quek_yong_cai@moe.edu.sg</td>
     <td class="tg-5ws4"> HOD Science</td>
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold">Mdm Lim Choon Ling</span><br>lim_choon_ling@moe.edu.sg</td>
-    <td class="tg-5ws4">Year Head (Sec 2)</td>
+    <td class="tg-5ws4">Year Head</td>
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold">Mr Elangovan s/o V Muthoo
@@ -73,9 +75,7 @@ description: ""
     <td class="tg-5ws4">Year Head</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold"> Mr Lee Lis King  </span><br>lee_lis_king@moe.edu.sg</td>
-    <td class="tg-5ws4"> HOD PE/CCA</td>
-  </tr>
+
 </tbody>
 </table>
 
