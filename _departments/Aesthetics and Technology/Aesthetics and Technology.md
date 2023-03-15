@@ -14,7 +14,6 @@ Mr Mohamed Fahizel (HOD)
 Mr Benny Ng (Senior Teacher)   
 Mr Anwarul Nizam B Ismail   
 Mr Alfred Choo   
-Mr Lim Teck Cheng (FAJT)
 
 **Visual Art Unit**   
 Mdm Farahana Binti Abdul Rahim (Subject Coordinator)   
@@ -36,7 +35,8 @@ Mr Chia Huang Hao
   
 
 **Technical Support Officers**   
-Mr Tangarajoo Marimuthu
+Mr Tangarajoo Marimuthu   
+Mr Mohammad Fauzi Bin Selamat
 
   
 
