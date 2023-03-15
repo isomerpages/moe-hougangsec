@@ -49,12 +49,11 @@ description: ""
     <td class="tg-5ws4"> HOD Humanities</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold"> Ms Cheng Sze Mei Carmen</span><br>cheng_sze_mei@moe.edu.sg</td>
-    <td class="tg-5ws4">HOD Mother Tongue Language</td>
-  </tr>
-  <tr>
     <td class="tg-2rp9"><span style="font-weight:bold"> Mr Gwee Chen Meng Javen</span><br>javen_gwee_chen_meng@moe.edu.sg</td>
     <td class="tg-5ws4"> HOD ICT &amp; Data Management</td>
+  </tr>
+  <tr>    <td class="tg-2rp9"><span style="font-weight:bold"> Ms Cheng Sze Mei Carmen</span><br>cheng_sze_mei@moe.edu.sg</td>
+    <td class="tg-5ws4">HOD Mother Tongue Language</td>
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold">Mr Chow Poh Boon</span><br>chow_poh_boon@moe.edu.sg</td>
