@@ -61,10 +61,6 @@ description: ""
     <td class="tg-5ws4"><span style="background-color:#FFF">HOD </span>Mathematics</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold">Mr Elangovan V Muthoo</span><br>elangovan_v_muthoo@moe.edu.sg</td>
-    <td class="tg-5ws4">HOD Pupil Management</td>
-  </tr>
-  <tr>
     <td class="tg-2rp9"><span style="font-weight:bold"> Mr Quek Yong Cai</span><br>quek_yong_cai@moe.edu.sg</td>
     <td class="tg-5ws4"> HOD Science</td>
   </tr>
@@ -73,12 +69,12 @@ description: ""
     <td class="tg-5ws4">Year Head (Sec 2)</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold">Mr Elangovan V Muthoo</span><br>elangovan_v_muthoo@moe.edu.sg</td>
+    <td class="tg-2rp9"><span style="font-weight:bold">Mr Low Yi En</span><br>elangovan_v_muthoo@moe.edu.sg</td>
     <td class="tg-5ws4">HOD Pupil Management</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold"> Mr Muhamad Hashim  </span><br>muhamad_hashim_abdul_majid@moe.edu.sg</td>
-    <td class="tg-5ws4"> ST / PE (covering HOD PE)</td>
+    <td class="tg-2rp9"><span style="font-weight:bold"> Mr Lee Lis King  </span><br>lee_lis_king@moe.edu.sg</td>
+    <td class="tg-5ws4"> HOD PE/CCA</td>
   </tr>
 </tbody>
 </table>
