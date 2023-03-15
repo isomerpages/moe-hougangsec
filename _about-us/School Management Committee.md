@@ -68,8 +68,9 @@ description: ""
     <td class="tg-5ws4">Year Head (Sec 2)</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold">Mr Low Yi En</span><br>elangovan_v_muthoo@moe.edu.sg</td>
-    <td class="tg-5ws4">HOD Pupil Management</td>
+    <td class="tg-2rp9"><span style="font-weight:bold">Mr Elangovan s/o V Muthoo
+</span><br>elangovan_v_muthoo@moe.edu.sg</td>
+    <td class="tg-5ws4">Year Head</td>
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold"> Mr Lee Lis King  </span><br>lee_lis_king@moe.edu.sg</td>
