@@ -56,22 +56,30 @@ description: ""
     <td class="tg-2rp9">Mdm Chen Si Si<br>chen_si_si@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9" rowspan="2">Sec 1A</td>
-    <td class="tg-2rp9">Mr Chew Mou Yi<br>chew_mou_yi@moe.edu.sg</td>
+    <td class="tg-2rp9" rowspan="3">Sec 1A</td>
+    <td class="tg-2rp9">Mr Ang Ruixiang<br>ang_ruixiang@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Mr Benny Ng<br>ng_geok_leng_benny@moe.edu.sg</td>
+    <td class="tg-2rp9">Miss Joanne Toh<br>joanne_toh_chui_theng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9" rowspan="3">Sec 1N</td>
-    <td class="tg-2rp9">Miss Jazreel Toh Hui Khee<br>toh_hui_khee_jazreel@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Vince Ding<br>ding_jen_han@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Mr Ng Wee Chung<br>ng_wee_chung@moe.edu.sg</td>
+    <td class="tg-2rp9" rowspan="2">Sec 1N</td>
+    <td class="tg-2rp9">Mr Philip Deepak<br>philip_deepak@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Ms Cheong Cheryl<br>cheong_cheryl@moe.edu.sg</td>
+    <td class="tg-2rp9">Ms Tan Yin Wei<br>tan_yin_wei@moe.edu.sg</td>
   </tr>
+  <tr>
+    <td class="tg-2rp9" rowspan="2">Sec 1S</td>
+    <td class="tg-2rp9">Mdm Siti Sapiya Bte Mohd Sumri<br>siti_sapiya_mohamad_sumr@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Mdm Annizell Cruz Chan<br>annizell_cruz_chan@moe.edu.sg</td>
+  </tr>
+  <tr>
 </tbody>
 </table>
 
