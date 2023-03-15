@@ -110,7 +110,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold"> Miss Jazreel Toh Hui Khee </span><br>toh_hui_khee_jazreel@moe.edu.sg</td>
-    <td class="tg-5ws4">SH / CCA </td>
+    <td class="tg-5ws4">SH / Science </td>
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold"> Mrs Rachel Chan</span><br>teo_hui_en_rachel@moe.edu.sg</td>
@@ -133,12 +133,12 @@ description: ""
     <td class="tg-5ws4"> SH / Science (Int) </td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold"> Ms Kitty Tan Min Jie</span><br>tan_min_jie_kitty@moe.edu.sg</td>
+    <td class="tg-2rp9"><span style="font-weight:bold"> Mr Philip Deepak</span><br>philip_deepak@moe.edu.sg</td>
     <td class="tg-5ws4"> SH / Pupil Management</td>
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold"> Mr Charles Wong </span><br>wong_wai_kit_charles@moe.edu.sg</td>
-    <td class="tg-5ws4">SH / ICT </td>
+    <td class="tg-5ws4">SH / ICT & Data Management </td>
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold"> Mr Khairul Adli </span><br>khairul_adli_rahmat@moe.edu.sg</td>
@@ -146,15 +146,15 @@ description: ""
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold"> </span><span style="font-weight:bold;background-color:initial">Mr Daniel Tan</span><br>tan_chin_juay_daniel@moe.edu.sg</td>
-    <td class="tg-5ws4">Assistant Year Head<br>(Sec 3) </td>
+    <td class="tg-5ws4">Assistant Year Head<br> </td>
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold"> Miss Serina Tan Bei Ling </span><br>tan_bei_ling@moe.edu.sg</td>
-    <td class="tg-5ws4"> Assistant Year Head (Sec 4 &amp; 5)</td>
+    <td class="tg-5ws4"> Assistant Year Head </td>
   </tr>
   <tr>
     <td class="tg-2rp9"><span style="font-weight:bold"> Mdm Martini Rahmat </span><br>martini_rahmat@moe.edu.sg</td>
-    <td class="tg-5ws4">Assistant Year Head<br> (Sec 1) </td>
+    <td class="tg-5ws4">Assistant Year Head<br> </td>
   </tr>
 </tbody>
 </table>
