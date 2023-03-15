@@ -102,28 +102,25 @@ description: ""
     <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">Character Coach</span></td>
   </tr>
   <tr>
-    <td class="tg-2rp9" rowspan="3"> Sec 2H</td>
-    <td class="tg-2rp9">Mr Anwarul Nizam Bin Mohd Ismail<br>anwarul_nizam@moe.edu.sg</td>
+    <td class="tg-2rp9" rowspan="2"> Sec 2H</td>
+    <td class="tg-2rp9">Mr Kervin Tang<br>tang_cheok_yean_kervin@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Ms Tracy Huang Yuyan<br>huang_yuyan@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-2rp9">Miss Jane Koh<br>koh_bao_ru_jane@moe.edu.sg</td>
+    <td class="tg-2rp9">Mdm Farahana Bte Abdul Rahim<br>farahana_abdul_rahim@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 2O</td>
-    <td class="tg-2rp9">Ms Rachel Yong Lai Kuan<br>yong_lai_kuan@moe.edu.sg</td>
+    <td class="tg-2rp9">Mrs Jeannie Pan-Yee Jie Ying<br>yee_jie_ying_jeannie@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Miss Yu Hong Hong<br>yu_hong_hong@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Choo Boon Kian Alfred<br>choo_boon_kian@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 2U</td>
-    <td class="tg-2rp9">Miss Judy Ng Suan Khee<br>ng_suan_khee_judy@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Chin Khai Fung<br>chin_khai_fung@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Mr Lee Heng Han<br>lee_heng_han@moe.edu.sg</td>
+    <td class="tg-2rp9">Ms Ho Ying Yee<br>ho_ying_yee@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 2G</td>
