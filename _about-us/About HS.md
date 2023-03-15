@@ -128,7 +128,3 @@ Lyrics by : Chia Choon Kiat
 </tbody>
 </table>
 
-
-### Gallery
-
-(user can link a google drive here)
