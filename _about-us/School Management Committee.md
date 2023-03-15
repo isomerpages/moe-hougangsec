@@ -59,13 +59,16 @@ description: ""
     <td class="tg-5ws4">HOD Mother Tongue Language</td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold"> Mr Lee Lis King  </span><br>lee_lis_king@moe.edu.sg</td>
+    <td class="tg-2rp9"><span style="font-weight:bold"> Mr Lee Lis King </span><br>lee_lis_king@moe.edu.sg</td>
     <td class="tg-5ws4"> HOD PE/CCA</td>
   </tr>
 	<td class="tg-2rp9"><span style="font-weight:bold"> Mr Quek Yong Cai</span><br>quek_yong_cai@moe.edu.sg</td>
     <td class="tg-5ws4"> HOD Science</td>
   </tr>
   <tr>
+	<td class="tg-2rp9"><span style="font-weight:bold"> Mr Khairul Adli Bin Rahmatg  </span><br>khairul_adli_rahmat@moe.edu.sg</td>
+    <td class="tg-5ws4"> SSD</td>
+  </tr>
     <td class="tg-2rp9"><span style="font-weight:bold">Mdm Lim Choon Ling</span><br>lim_choon_ling@moe.edu.sg</td>
     <td class="tg-5ws4">Year Head</td>
   </tr>
