@@ -36,24 +36,24 @@ description: ""
   </tr>
   <tr>
    <td class="tg-2rp9" rowspan="2">Sec 1U</td>
-    <td class="tg-2rp9">Mr Chin Khai Fung<br>chin_khai_fung@moe.edu.sg</td>
+    <td class="tg-2rp9">Miss Wong Lai Lee<br>wong_lai_lee@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Miss Rahimah Bte Abdul Rahman<br>rahimah_abdul_rahman@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Muhammad Irwan Bin Jamal<br>muhammad_irwan_jamal@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 1G</td>
-    <td class="tg-2rp9">Mdm Janisah Binte Johari<br>janisah_zainal@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Ronnie Yeo<br>yeo_see_heng_ronnie@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Mdm Tan Chan Jong<br>tan_chan_jong@moe.edu.sg</td>
+    <td class="tg-2rp9">Ms Joyce Lee Mui Kwan<br>lee_mui_kwang_joyce@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 1E</td>
-    <td class="tg-2rp9">Mr Charles Wong Wai Kit<br>wong_wai_kit_charles@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Ho Wee Khong<br>ho_wee_khong_a@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Ms Phua Li Xian<br>phua_li_xian@moe.edu.sg</td>
+    <td class="tg-2rp9">Mdm Chen Si Si<br>chen_si_si@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 1A</td>
