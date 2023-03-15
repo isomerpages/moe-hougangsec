@@ -3,7 +3,6 @@ title: Character Coaches
 permalink: /about-us/character-coaches-2022-sem-2/
 description: ""
 ---
-
 ### Secondary 1
 
 <style type="text/css">
@@ -23,23 +22,20 @@ description: ""
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 1H</td>
-    <td class="tg-2rp9">Mr Kervin Tang<br>tang_cheok_yean_kervin@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-2rp9">Mdm Farahana Bte Abdul Rahim<br>farahana_abdul_rahim@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-2rp9" rowspan="3">Sec 1O</td>
-    <td class="tg-2rp9">Mrs Jeannie Pan-Yee Jie Ying<br>yee_jie_ying_jeannie@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-2rp9">Mr Choo Boon Kian Alfred<br>choo_boon_kian@moe.edu.sg</td>
+    <td class="tg-2rp9">Mdm Radzawaty Bte Jamaludin<br>radzawaty_jamaludin@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9">Mr Ezra Toh<br>ezra_toh_ren_yi@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9" rowspan="2">Sec 1U</td>
+    <td class="tg-2rp9" rowspan="2">Sec 1O</td>
+    <td class="tg-2rp9">Ms Li Huilin<br>li_huilin@moe.edu.sg</td>
+  </tr>
+  <tr>
+    <td class="tg-2rp9">Miss Nur Adilah Binte Jasman <br>nur_adilah_jasman@moe.edu.sg</td>
+  </tr>
+  <tr>
+   <td class="tg-2rp9" rowspan="2">Sec 1U</td>
     <td class="tg-2rp9">Mr Chin Khai Fung<br>chin_khai_fung@moe.edu.sg</td>
   </tr>
   <tr>
