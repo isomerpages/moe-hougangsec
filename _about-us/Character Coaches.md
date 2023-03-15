@@ -124,35 +124,36 @@ description: ""
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 2G</td>
-    <td class="tg-2rp9">Mdm Amalina Samad<br>amalina_abdul_samad@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Soh Yen Meng<br>soh_yen_meng@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Mr Andy Chong Weng Keong<br>chong_weng_keong_andy@moe.edu.sg</td>
+    <td class="tg-2rp9">Mdm Tan Chan Jong<br>tan_chan_jong@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 2E</td>
-    <td class="tg-2rp9">Miss Audrey Chua Wen Min<br>chua_wen_min_audrey@moe.edu.sg</td>
+    <td class="tg-2rp9">Ms Phua Li Xian<br>phua_li_xian@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Ms Siti Nurbaya Rameh<br>siti_nurbaya_rameh@moe.edu.sg </td>
+    <td class="tg-2rp9">Mr Charles Wong Wai Kit<br>wong_wai_kit_charles@moe.edu.sg </td>
   </tr>
   <tr>
-    <td class="tg-2rp9" rowspan="2">Sec 2A</td>
-    <td class="tg-2rp9">Mr Khairul Adli Bin Rahmat<br>khairul_adli_rahmat@moe.edu.sg</td>
+    <td class="tg-2rp9" rowspan="3">Sec 2A</td>
+    <td class="tg-2rp9">Mr Benny Ng<br>ng_geok_leng_benny@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Miss Jasmine Low Wee Kie<br>low_wee_kie_jasmine@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Elijah Chua<br>rio_elijah_chua@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9" rowspan="3">Sec 2N</td>
-    <td class="tg-2rp9">Miss Uma Magheswary D/o Pandyan<br>uma_magheswary@moe.edu.sg</td>
+    <td class="tg-2rp9">Mdm Azlinah Bte Wahed<br>azlinah_wahed@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Mr Mohd Yazid<br>mohd_yazid_md_yatim@moe.edu.sg</td>
+    <td class="tg-2rp9" rowspan="2">Sec 2N</td>
+    <td class="tg-2rp9">Miss Jazreel Toh Hui Khee<br>toh_hui_khee_jazreel@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Miss Sri Nabilah Binte Basri<br>sri_nabilah_basri@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Ng Wee Chung<br>ng_wee_chung@moe.edu.sg</td>
   </tr>
+  <tr>
 </tbody>
 </table>
 
