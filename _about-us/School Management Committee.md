@@ -113,7 +113,11 @@ description: ""
     <td class="tg-5ws4">SH / Science </td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold"> Mrs Rachel Chan</span><br>teo_hui_en_rachel@moe.edu.sg</td>
+    <td class="tg-2rp9"><span style="font-weight:bold"> Ms Sisca Christine Haryanto </span><br>sisca_christine_haryanto@moe.edu.sg</td>
+    <td class="tg-5ws4"> SH / Science (Int) </td>
+  </tr>
+  <tr>
+     <td class="tg-2rp9"><span style="font-weight:bold"> Mrs Rachel Chan</span><br>teo_hui_en_rachel@moe.edu.sg</td>
     <td class="tg-5ws4">SH / CCE </td>
   </tr>
   <tr>
@@ -129,11 +133,7 @@ description: ""
     <td class="tg-5ws4">SH / Humanities      <br></td>
   </tr>
   <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold"> Ms Sisca Christine Haryanto </span><br>sisca_christine_haryanto@moe.edu.sg</td>
-    <td class="tg-5ws4"> SH / Science (Int) </td>
-  </tr>
-  <tr>
-    <td class="tg-2rp9"><span style="font-weight:bold"> Mr Philip Deepak</span><br>philip_deepak@moe.edu.sg</td>
+   <td class="tg-2rp9"><span style="font-weight:bold"> Mr Philip Deepak</span><br>philip_deepak@moe.edu.sg</td>
     <td class="tg-5ws4"> SH / Pupil Management</td>
   </tr>
   <tr>
