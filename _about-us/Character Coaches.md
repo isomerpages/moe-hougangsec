@@ -176,41 +176,38 @@ description: ""
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 3H</td>
-    <td class="tg-2rp9">Mdm Fang Xiao Lu<br>fang_xiaolu@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Anwarul Nizam Bin Mohd Ismail Lu<br>anwarul_nizam@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Mdm Zalina Bte Abdul Jalil<br>zalina_abd_jalil@moe.edu.sg</td>
+    <td class="tg-2rp9">Ms Tracy Huang Yuyan<br>huang_yuyan@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 3O</td>
-    <td class="tg-2rp9">Mdm Heng Yee Pei Jessica<br>heng_yee_pei@moe.edu.sg</td>
+    <td class="tg-2rp9">Ms Rachel Yong Lai Kuan<br>yong_lai_kuan@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Miss Wee Swee Kee<br>wee_swee_kee@moe.edu.sg</td>
+    <td class="tg-2rp9">Miss Yu Hong Hong<br>yu_hong_hong@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 3U</td>
-    <td class="tg-2rp9">Mrs Rachel Chan Hui En<br>teo_hui_en_rachel@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Lee Heng Han<br>lee_heng_han@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Miss Chua Yi Jun<br>chua_yi_jun@moe.edu.sg</td>
+    <td class="tg-2rp9">Miss Jane Koh<br>koh_bao_ru_jane@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 3G</td>
-    <td class="tg-2rp9">Mr Nazirul Mubin<br>muhammad_nazirul_mubin_yusoff@moe.edu.sg</td>
+    <td class="tg-2rp9">Mdm Amalina Samad<br>amalina_abdul_samad@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Mrs Gomathi Gunaseelan<br>gomathi_gunaseelan@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Andy Chong Weng Keong<br>chong_weng_keong_andy@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9" rowspan="3">Sec 3E</td>
-    <td class="tg-2rp9">Mr Muhamad Hashim Abdul Majid<br>muhamad_hashim_abdul_majid@moe.edu.sg</td>
+    <td class="tg-2rp9" rowspan="2">Sec 3E</td>
+    <td class="tg-2rp9">Miss Audrey Chua Wen Min<br>chua_wen_min_audrey@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Mdm Vanessa Ng<br>ng_mei_leng_vanessa@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-2rp9">Mdm Siti Sapiya Bte Mohd Sumri<br>siti_sapiya_mohamad_sumr@moe.edu.sg</td>
+    <td class="tg-2rp9">Ms Siti Nurbaya Rameh<br>siti_nurbaya_rameh@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 3A</td>
