@@ -211,28 +211,19 @@ description: ""
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 3A</td>
-    <td class="tg-2rp9">Ms Sisca Haryanto<br>sisca_christine_haryanto@moe.edu.sg</td>
+    <td class="tg-2rp9">Miss Jasmine Low Wee Kie<br>low_wee_kie_jasmine@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Mdm Dzafiirah Mohammad Hakim<br>dzafiirah_mohammad_hakim@moe.edu.sg</td>
+    <td class="tg-2rp9">Ms Lee Wen Lin<br>lee_wen_lin@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-2rp9" rowspan="2">Sec 3N</td>
-    <td class="tg-2rp9">Miss Tan Wei Jing<br>tan_wei_jing@moe.edu.sg</td>
+    <td class="tg-2rp9">Miss Uma Magheswary D/o Pandyan<br>uma_magheswary@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Ms Liang Qidi<br>liang_qidi@moe.edu.sg</td>
+    <td class="tg-2rp9">Mr Mohd Yazid<br>mohd_yazid_md_yatim@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-2rp9" rowspan="3">Sec 3S</td>
-    <td class="tg-2rp9">Ms Kitty Tan Min Ji<br>tan_min_jie_kitty@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-2rp9">Mr Chia Huang Hao<br>huang_hao_chia@moe.edu.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-2rp9">Mr Paul Lim<br>lim_bao_luo_paul@moe.edu.sg</td>
-  </tr>
 </tbody>
 </table>
 
