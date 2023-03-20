@@ -19,8 +19,7 @@ Mr Alfred Choo
 Mdm Farahana Binti Abdul Rahim (Subject Coordinator)   
 Mdm Nur Syahira Zulkifli     
 Mdm Dzafiirah Binte Mohammad Hakim    
-Miss Jane Koh     
-Mdm Cheong Cheryl
+Miss Jane Koh
 
 **Nutrition and Food Science**   
 Mdm Azlinah Wahed    
