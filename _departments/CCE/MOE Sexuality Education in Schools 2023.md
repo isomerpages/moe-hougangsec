@@ -13,11 +13,19 @@ third_nav_title: CCE
 
 (c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of <U>positive mainstream values and attitudes</U> about sexuality.   
   
-3\.     The key messages of Sexuality Education are:   
-(I)     Love and respect yourself as you love and respect others;  
-(ii)    Build positive relationships based on love and respect (which are the foundation for strong families);  
-(iii)   Make responsible decisions for yourself, your family and society; and  
-(iv)   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.  
+3\.     The <U>Key Messages</U> of Sexuality Education are:
+
+(a) Love and respect yourself as you love and respect others;
+
+(b) Build positive relationships based on love and respect (which are the foundation for strong families);
+
+(c) Make responsible decisions for yourself, your family and society; and
+
+(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+
+You may click here (https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
+
+
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
 
