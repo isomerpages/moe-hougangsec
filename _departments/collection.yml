@@ -2,12 +2,12 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics and Technology/.keep
       - Aesthetics and Technology/Aesthetics and Technology.md
-      - Aesthetics and Technology/Visual Art.md
-      - Aesthetics and Technology/Nutrition and Food Science.md
       - Aesthetics and Technology/Design & Technology.md
       - Aesthetics and Technology/Music.md
-      - Aesthetics and Technology/.keep
+      - Aesthetics and Technology/Nutrition and Food Science.md
+      - Aesthetics and Technology/Visual Art.md
       - CCE/Character and Citizenship Education.md
       - CCE/MOE Sexuality Education in Schools (Updated Apr 2022).md
       - CCE/Hougeans Stay Connected.md
