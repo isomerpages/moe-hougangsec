@@ -4,7 +4,7 @@ permalink: /departments/Aesthetics-and-Technology/music/
 description: ""
 third_nav_title: Aesthetics and Technology
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Aw-QXblNr20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Aw-QXblNr20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 **Lower Secondary Music Programme**    
 The Lower Secondary Music Programme in Hougang Secondary School aims to:
