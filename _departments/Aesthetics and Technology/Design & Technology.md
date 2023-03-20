@@ -4,7 +4,7 @@ permalink: /departments/Aesthetics-and-Technology/dnt/
 description: ""
 third_nav_title: Aesthetics and Technology
 ---
-(embed video here)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S_Nt0Y6sInw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 **<u>D&T CURRICULUM</u>**    
 Design & Technology (D&T) emphasises thinking through sketching to generate and develop design solutions, exploration and experimentation of ideas through cognitive and hands-on endeavour of making (mock-ups and prototypes) so as to seek practical and appropriate design solutions for a situation taking into account user needs.
