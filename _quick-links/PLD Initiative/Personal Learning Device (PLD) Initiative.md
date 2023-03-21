@@ -173,7 +173,7 @@ Please refer to Annexes A, B and C for more details on the functions and featu
 
 #### Next Steps
 
-10\.  To proceed with the purchase of the PLD, please submit the online forms (see table 2) by **5 January 2022**. The online forms will be available after Sec 1 registration. If you are unable to submit the form online, please contact the school for a hardcopy version.  
+10\.  To proceed with the purchase of the PLD, please submit the online forms (see table 2) by **31 December 2022**. The online forms will be available after Sec 1 registration. If you are unable to submit the form online, please contact the school for a hardcopy version.  
   
 11\.  For students with insufficient Edusave and remainder/full payment is required, the school will inform parents/guardians to make the balance payment. Payment modes are detailed below. For non-GIRO payment, payments should only be made after parents are informed by the school.  
 * (a) **Payment through GIRO (recommended)** : Please ensure sufficient funds in the GIRO account to be deducted.  
@@ -409,7 +409,7 @@ _Note: No data is collected after school hours for Alternative Setting: Option B
 
 #### Annex D:  APPLICATION FOR SUBSIDY FOR PURCHASE OF PERSONAL LEARNING DEVICE (PLD)
 
-_This application is open to all students whose Gross Household Income (GHI) ≤ $4,000 or Per Capita Income (PCI)  ≤ $1,000.  PCI is GHI divided by the number of household members.  Students on MOE Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school._  
+_This application is open to all students whose Gross Household Income (GHI) ≤ $4,400 or Per Capita Income (PCI)  ≤ $1,100.  PCI is GHI divided by the number of household members.  Students on MOE Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school._  
 
   
 
