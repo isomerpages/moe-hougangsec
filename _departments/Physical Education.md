@@ -19,7 +19,6 @@ Mr Muhamad Hashim
   
 
 **Teachers**    
-Mr Hadrian Chin     
 Mr Elijah Chua   
 Mr Ezra Toh
 
