@@ -85,5 +85,3 @@ Percussion - Jean Haw (S3-H)
 
 ![](/images/symphonicband.png)
 
-
-(embed google slide / images here)
