@@ -131,8 +131,9 @@ Private – Lance Corporal – Corporal – Sergeant – Staff Sergeant – Mast
 
 ### Teachers In Charge
 
-*   Ms Rachel Yong (OIC)
-*   Mdm Tan Chan Jong
+* Liang Qi Di (OIC)
+* Uma Magheswary D/O Pandyan
+* Jane Koh Bao Ru
 
 ### Training Venue and Days
 
