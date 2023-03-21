@@ -70,7 +70,7 @@ Serve with dedication
 ### Teachers in-charge
 
 *   Mr Anwarul (OIC)     
-*   Mr Daniel Tan
+*   Mr Ang Ruixiang
 *   Mr Muhd Hashim
 
 Coach: Mr Azli Mohd, Geylang International FC Former Captain   
