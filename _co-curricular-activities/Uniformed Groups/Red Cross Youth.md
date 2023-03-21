@@ -4,12 +4,6 @@ permalink: /co-curricular-activities/Uniformed-Groups/red-cross-youth/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-
-
-
-
-
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 RCY Open House" src="https://www.youtube.com/embed/81Y_k6URokY" height="315" width="830"></iframe></center>
 
 ![](/images/rcy1.jpeg)
@@ -66,9 +60,9 @@ To raise up young leaders who are dedicated to protecting human life and dignity
 *   HQ-initiated VIA – Smoke-Free Ambassador Campaign
 
 ### Teacher In-Charge
-*   Miss&nbsp;Phua Li Xian (OIC)
-*   Mr Ezra Toh
-*   Ms Sisca Christine Haryanto
+*   Phua Li Xian (OIC)
+*   Sisca Christine Haryanto
+*   Ezra Toh
 
   
 
