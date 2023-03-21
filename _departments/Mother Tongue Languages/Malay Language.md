@@ -7,10 +7,8 @@ third_nav_title: Mother Tongue Languages
 **Head of Department:** Ms Cheng Sze Mei Carmen  
    
 **Teachers**  
-Mdm Janisah Johari (Senior Teacher/Malay Language)   
 Mdm Siti Sapiya Mohd Sumri (Malay Literature Coordinator)   
 Mr Mohd Yazid  Yatim   
-Mdm Sri Nabilah Basri   
 Mdm Suhailah (FAJT)
 
   
