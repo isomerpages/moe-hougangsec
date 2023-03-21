@@ -153,17 +153,17 @@ Please refer to Annexes A, B and C for more details on the functions and featu
     <td class="tg-7fd7"><span style="font-style:italic">required:</span><br><span style="background-color:initial">1. Intent to Purchase PLD and Use of Edusave (go to:</span> <a href="https://go.gov.sg/pdlpadmin" target="_blank" rel="noopener noreferrer">https://go.gov.sg/pdlpadmin</a>)<br><span style="background-color:initial">2. Survey on Household Computing Device (</span><a href="https://go.gov.sg/hssurveycomputingdevicesec1" target="_blank" rel="noopener noreferrer">https://go.gov.sg/hssurveycomputingdevicesec1</a><span style="background-color:initial">)</span><br> <br><br><span style="font-style:italic">where applicable:</span><br>1. Application for Subsidy (See Annex D)<br>2. Application for Home Access Programme (subsidised fibre broadband, go to: <a href="http://www.digitalaccess.gov.sg/" target="_blank" rel="noopener noreferrer">www.digitalaccess.gov.sg</a>)</td>
   </tr>
   <tr>
-    <td class="tg-7fd7">Jan 2022</td>
+    <td class="tg-7fd7">Jan 2023</td>
     <td class="tg-2rp9">Confirmation of Order<br> <br>Briefing to Parents (Optional)</td>
     <td class="tg-7fd7">Parents who had confirmed the purchase and submitted the required information will be informed. Parents choosing to use their own iPad will need to have their iPad assessed by the school for suitability.</td>
   </tr>
   <tr>
-    <td class="tg-7fd7">Feb 2022</td>
+    <td class="tg-7fd7">Feb 2023</td>
     <td class="tg-2rp9">Billing and Payment</td>
     <td class="tg-7fd7">via SAM, Giro, or Cheque/Cash payment to school after receiving the bill<br>(If you are using Giro, please ensure that there are sufficient funds for the deduction)</td>
   </tr>
   <tr>
-    <td class="tg-7fd7">Mar – May 2022</td>
+    <td class="tg-7fd7">Mar – May 2023</td>
     <td class="tg-2rp9">Deployment and onboarding of PLD and DMA</td>
     <td class="tg-7fd7">Date to be advised.</td>
   </tr>
