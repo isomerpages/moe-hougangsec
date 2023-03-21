@@ -4,7 +4,7 @@ permalink: /departments/physical-education/
 description: ""
 ---
 **Head of Department**   
-Mr Muhamad Hashim  
+Mr Lee Lis King  
 
   
 
