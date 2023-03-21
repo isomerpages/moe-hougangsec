@@ -93,35 +93,31 @@ Subsidies are available for students who require financial assistance to purchas
 
 **Software Applications**  
 
-6\.  **IT Applications.** Schools will progressively roll out IT applications that will be vital for students’ teaching and learning. These include:
-
-* (a) **Student iCON**: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
-* (b) **Microsoft ProPlus**: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.
-* (c) **Zoom**: Every secondary school student will be given a Zoom free account with 40 min time limit for their video conferencing needs.
+6\. 	IT Applications. 
+Schools will progressively roll out IT applications that will be vital for students’ teaching and learning. These include:
+(a) Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
+(b) Microsoft ProPlus: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.
+(c) Zoom: Every secondary school student will be given a Zoom free account with 40 min time limit for their video conferencing needs.
 
 The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user accounts. The school may also choose to roll out applications other than those listed above.
 
-**7\. Device Management Application.** 
+7\.	Device Management Application. 
+A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:
+(a) Classroom Management Service. This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
+(b) Mobile Device Management Service. This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.
+(c) Usage Management Service. This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
 
-A Device Management Application (“**DMA**”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:
-* (a) Classroom Management Service. This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
-* (b) Mobile Device Management Service. This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.
-* (c) Usage Management Service. This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
+The DMA has a variety of functions that will support the use of the PLD in the classroom, as well as safeguard students’ cyber-wellness. Please refer to our school website for more information on the DMA, as well as how parents may play an active role through the use of the DMA to monitor your child’s well-being.
 
-The DMA has a variety of functions that will support the use of the PLD in the classroom, as well as safeguard students’ cyber-wellness. Please refer to our school website for more information on the DMA, as well as how parents may play an active role through the use of the DMA to monitor your child’s well-being.  
-
-  
-
-8\. **Cyber-wellness.** 
-
+8\.	Cyber-wellness. 
 In rolling out the PLD, MOE is acutely aware of concerns regarding students’ cyber-wellness. The DMA allows the school to manage this, by
-* (a) collecting data on usage by the student, such as the amount of time spent on each application,
-* (b) monitoring, filtering and limiting the type of websites accessible to the student, and
-* (c) placing restrictions on students’ screen time in order to prevent cyber addiction.
+(a) collecting data on usage by the student, such as the amount of time spent on each application,
+(b) monitoring, filtering and limiting the type of websites accessible to the student, and
+(c) placing restrictions on students’ screen time in order to prevent cyber addiction.
 
-Please refer to Annexes A, B and C for more details on the functions and features of the DMA, and on the collection and protection of personal data. 
+More details on the functions and features of the DMA, and on the collection and protection of personal data will be shared nearer the onboarding date.  
 
-9\. **Upcoming activities**. Billing and payment for the PLD will commence in February and the delivery of the PLD is expected to be in Term 2. The projected timeline for the key activities is shown below:  
+9\.	Upcoming activities. Billing and payment for the PLD will commence in February and the delivery of the PLD is expected to be in Term 2. The projected timeline for the key activities is shown below:
 
 <center>Table 2 – Key Events</center>
 
@@ -448,9 +444,9 @@ Please include details of the <u>parents, unmarried siblings and grandparents (
 
 #### Upcoming Activities for PDLP
 
-*   Collection and Set-up of iPad – on 9 Mar
-*   Deciding the DMA Option – by 19 Mar
-*   Optional Briefing for Parents on DMA – on 30 Mar 
+*   Collection and Set-up of iPad – on 22 Feb 2023
+*   Deciding the DMA Option – by 13 Mar 2023
+*   Optional Briefing for Parents on DMA – on 20 Mar 2023
 
 #### DMA Parent Portal
 
