@@ -74,14 +74,11 @@ Ting Xian Ya, 3O
 
 ### Photographs
 
-**2021 Secondary 4 and 5 Choir Members**
+Sec 2 students preparing for the Values-in-Action painting activity for the Mid-Autumn Festival Celebrations at Jia Ying Senior Activity Centre 2022.
 
-![](/images/Choir%20Photo1.jpeg)
+![](/images/Choir/Choir%201.jpg)
+![](/images/Choir/Choir%202.jpg)
 
-**2019 Choir SYF Performance**
 
-![](/images/HS%20Speech%20Day%202019.jpeg)
-
-**2019 Choir Chinese New Year Performance**
-
-![](/images/Chinese%20New%20Year%20Concert%202019.jpeg)
+**Sec 1 and 3 students’ performance of Never Ending Story**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xxjiC7tFfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
