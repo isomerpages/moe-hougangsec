@@ -28,9 +28,7 @@ Ms Rahimah Rahman
 Mr Sean Oh   
 Ms Uma Magheswary   
 Ms Nur Adilah Bte Jasman    
-Mr Ronnie Yeo  
-Mdm Cheong Cheryl     
-Ms Amy Syed _(FAJT)_   
+Mr Ronnie Yeo   
 Mdm Soonam Sivadasan _(FAJT)_
 
   
