@@ -20,7 +20,9 @@ Mr Muhamad Hashim
 
 **Teachers**    
 Mr Elijah Chua   
-Mr Ezra Toh
+Mr Ezra Toh  
+Chan Yin Kong
+
 
   
 
