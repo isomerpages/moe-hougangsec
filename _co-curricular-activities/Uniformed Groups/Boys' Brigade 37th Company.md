@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/boys-brigade-37th-company/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/rLZpVbO6qY8" title="2022 Boys' Brigade Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Boys' Brigade Open House" src="https://www.youtube.com/embed/rLZpVbO6qY8" height="315" width="830"></iframe></center>
 
 ![](/images/boys%20brigade-lower%20i.jpeg)
 ![](/images/boys%20brigade-upper%20i.jpeg)
@@ -12,10 +12,10 @@ third_nav_title: Uniformed Groups
 
 ### Introduction
 
-The objective of the Boys' Brigade is to promote habits of obedience, resilience, discipline and respect. 
+The objective of the Boys' Brigade is to promote habits of obedience, resilience, discipline and respect.&nbsp;
 
   
-**OUR BELIEFS**   
+**OUR BELIEFS**&nbsp;  
 We are First for Youth  
 We provide fun, meaningful and challenging activities.  
 We are committed to serve the community.  
@@ -63,12 +63,13 @@ To nurture Youth, based on sound values, to lead and serve
 ### Training Venue and Days
 
 **Time**: 3.15 pm - 5.15 pm (Tue) / 1.45 pm - 5.00 pm (Fri)  
-**VIA Venues**: To be confirmed   
-**Parade Venue**: School Compound   
-**Day**: Tuesday (Values-in-Action) & Friday (Parades)
+**VIA Venues**: To be confirmed&nbsp;  
+**Parade Venue**: School Compound&nbsp;  
+**Day**: Tuesday (Values-in-Action) &amp; Friday (Parades)
 
 ### Instagram
 
-Find us here! [https://www.instagram.com/37thbb\_hss/](https://www.instagram.com/37thbb_hss/)
+Find us here!&nbsp;[https://www.instagram.com/37thbb\_hss/](https://www.instagram.com/37thbb_hss/)
 
 ### Programmes and Activities
+<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR2OAZu1TMffqz2iNOtMhmloc0uW7znrerBrx7QL4lOVokSjpwxF9BT0Xtiaj0Z11AHByphQ0IMf_9L/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
