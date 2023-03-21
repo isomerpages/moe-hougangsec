@@ -21,11 +21,11 @@ The Pupil Management Department carries out reflection sessions (adapted from th
 <tbody>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">HOD/Pupil Management</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mr Elangovan V Muthoo</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr Low Yi En</span></td>
   </tr>
   <tr>
-    <td class="tg-kxyf"><span style="font-weight:400;color:#333">SH/Pupil Management</span></td>
-    <td class="tg-emg8"><span style="color:#222">Ms Kitty Tan Min Jie</span></td>
+    <td class="tg-kxyf"><span style="font-weight:400;color:#333">SH/Pupil Management (Int)</span></td>
+    <td class="tg-emg8"><span style="color:#222">Mr Philip Deepak</span></td>
   </tr>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">Sec 1 Discipline Level Coordinator</span></td>
