@@ -4,4 +4,4 @@ permalink: /internationalisation-programme/2020-Learning-Journeys/internationali
 description: ""
 third_nav_title: 2020 Learning Journeys
 ---
-to be updated.
+Internationalisation journeys were suspended due to Covid-19 Pandemic.
