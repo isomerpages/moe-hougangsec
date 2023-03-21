@@ -45,17 +45,20 @@ Online Support:
 
 ![](/images/ECG.png)
 
-Email - [bookmyecgc@gmail.com](mailto:bookmyecgc@gmail.com)  or  [tan\_kok\_leong\_b@schools.gov.sg](mailto:tan_kok_leong_b@schools.gov.sg)
+Ms Juan Peiling
 
-Telegram - [https://t.me/ECGC\_Mr\_Tan](https://t.me/ECGC_Mr_Tan)
+Consultation @ Engagement Centre (Canteen) 
 
-Zoom (capped at 40mins), Google Meet, Microsoft Skype or Cisco WebEx
+Day & Time: Mondays & Thursdays only (8.00 am – 5.00 pm)
+
+Email -  [juan_peiling@schools.gov.sg](mailto:juan_peiling@schools.gov.sg)  
+
+Zoom (capped at 40mins), Google Meet, Microsoft Skype or Cisco WebEx  
 
 Appointment arranged via ECG e-Service Request Online Form/Email/Telegram
 
 Video-conferencing details will be provided via Email
 
------
 
  **<u>School Counsellor and AED(LBS) e-Counselling/e-Coaching/e-Consultation Services</u>**
 
