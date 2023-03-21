@@ -46,7 +46,7 @@ To nurture Youth, based on sound values, to lead and serve
 *   2LT Victor Chan (Vice-Captain)
 *   LTA Jonathan Pek (Officer mentor)
 *   Mr Chin Khai Fung (Teacher OIC)
-*   Mr Andy Chong (Teacher Officere)
+*   Mr Andy Chong (Teacher Officer)
 
 ### Leadership Structure
 
