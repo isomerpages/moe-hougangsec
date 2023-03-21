@@ -37,9 +37,9 @@ Look up, Get up but Never Give up
   
 
 ### Teachers In-Charge
-*   Ms Rahimah Abdul Rahman (OIC)
-*   Mdm&nbsp;Amalina Abdul Samad
-*   Mdm Chen Si Si
+*   Amalina Abdul Samad (OIC)
+*   Chen Sisi
+*   Tan Wen Lin
 
 ### Coach
 
