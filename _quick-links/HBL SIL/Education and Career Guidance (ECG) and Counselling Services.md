@@ -23,9 +23,8 @@ third_nav_title: HBL SIL
     <td class="tg-x5q1" colspan="2">Education and Career Guidance (ECG) and Counselling Services are available by appointment from Mondays to Fridays (8.00 am to 5:30 pm) except Public Holidays.</td>
   </tr>
   <tr>
-    <td class="tg-x5q1">Book appointment with ECG Counsellor: <a href="https://bit.ly/ECGServiceRequest">https://bit.ly/ECGServiceRequest</a></td>
-    <td class="tg-gqad" rowspan="3"><img src="/images/ECG%20Booking.png" 
-     style="width:100%"></td>
+    <td class="tg-x5q1">Book appointment with ECG Counsellor: <a href="https://go.gov.sg/hss-ecgc">https://go.gov.sg/hss-ecgc</a></td>
+    
   </tr>
   <tr>
     <td class="tg-x5q1">Book appointment with School Counsellor: <a href="https://t.me/lailakc">https://t.me/lailakc</a> (via Telegram)</td>
@@ -62,5 +61,4 @@ Video-conferencing details will be provided via Email
 
 Individual (1-to-1 session) 
 
-Telephone call or Video-conferencing using Zoom/whatsapp conference call 
-
+Telephone call or Video-conferencing using Zoom/whatsapp conference call
