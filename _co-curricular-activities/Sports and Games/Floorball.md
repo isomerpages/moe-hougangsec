@@ -39,10 +39,10 @@ Girls: Cap - Dwi Naurah 2A2
 Boys: Cap - Yeo Jia Yao 2T1
 
 ### Teachers In-charge
-*   Mr Elijah Chua (OIC)
-*   Mr Chew Mou Yi
-*   Mdm Dzafiirah B Mohd Hakim
-*   Mrs Rachel Chan
+*  Dzafiirah B Mohd Hakim (OIC)
+*  Muhammad Irwan Bin Jamal
+*  Daniel Tan Chin Juay
+*  Vicknesh S/O Kunnasekaran
 
 ### Training Venue and Days
 **Day**: Tuesday & Friday     
