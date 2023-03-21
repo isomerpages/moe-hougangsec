@@ -39,8 +39,7 @@ third_nav_title: Achievements
     <td class="tg-13pz"><a href="#6">PAYM Service Learning Festival 2015</a></td>
   </tr>
 	<tr>
-    <td class="tg-13pz"><a href="#7">Project Accolade</a></td>
-  </tr>
+
 </tbody>
 </table>
 
@@ -228,7 +227,6 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
 
 #### PAYM Service Learning Festival 2015
 
-Click here ***(NO FILE)*** to read more from the Principal and teachers of **JENIUS KINDERGARTEN HOUGANG**
 
 
 <img src="/images/paym15-1.jpeg" 
@@ -236,9 +234,3 @@ Click here ***(NO FILE)*** to read more from the Principal and teachers of **J
 <img src="/images/paym15-2.jpeg" 
      style="width:65%">
 
-
-<a id="7"></a>
-
-#### Project Accolade
-
-(insert file here)
