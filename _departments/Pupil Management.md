@@ -29,19 +29,19 @@ The Pupil Management Department carries out reflection sessions (adapted from th
   </tr>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">Sec 1 Discipline Level Coordinator</span></td>
-    <td class="tg-kxyf"><span style="font-weight:400;color:#333">Mrs Jeannie Pan, Mr Ng Wee Chung, Ms Farahana Rahim</span></td>
+    <td class="tg-kxyf"><span style="font-weight:400;color:#333">Mdm Azlina Bte Wahid and Mr Philip Deepak</span></td>
   </tr>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">Sec 2 Discipline Level Coordinator</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mdm Amalina Abdul Samad, Mr Mohd Yazid B Md Yatim</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mrs Jeannie Pan and Mr Ng Wee Chung</span></td>
   </tr>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">Sec 3 Discipline Level Coordinator</span></td>
-    <td class="tg-kxyf"><span style="font-weight:400;color:#333">Mr Muhammad Nazirul Mubin Bin Yusoff, Mr Philip Deepak, Mr Elijah Chua</span></td>
+    <td class="tg-kxyf"><span style="font-weight:400;color:#333">Mdm Amalina Abdul Samad, Mr Mohd Yazid B Md Yatim and Mr Elijah Chua</span></td>
   </tr>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">Sec 4/5 Discipline Level Coordinator</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mr Sean Oh Boon Chong, Mr Chew Mou Yi, Ms Nur Syahira</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr Sean Oh Boon Chong and Mr Muhammad Nazirul Mubin Bin Yusoff</span></td>
   </tr>
 </tbody>
 </table>
