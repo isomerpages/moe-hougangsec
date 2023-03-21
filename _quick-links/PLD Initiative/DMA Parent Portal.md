@@ -18,9 +18,8 @@ Please refer to the DMA Parent's Guide below for more details on the onboarding 
    
   
 
-HS instils in our students the importance of self-regulation and trustworthiness towards the use of the PLD. We thank parents for working with the school to promote a growth mindset in our children. Should you have other encouraging stories to share with us, or concerns relating to the cyber well-being of your child, do write to us (hougang\_ss@moe.edu.sg). You may also reach out through your child’s character coaches.
+HS instils in our students the importance of self-regulation and trustworthiness towards the use of the PLD. We thank parents for working with the school to promote a growth mindset in our children. Should you have other encouraging stories to share with us, or concerns relating to the cyber well-being of your child, do write to us (hougang_ss@moe.edu.sg). You may also reach out through your child’s character coaches.
 
   
 
 Thank you!
-
