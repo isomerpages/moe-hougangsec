@@ -40,7 +40,7 @@ Principal
 Please refer to the attachments below for more information:
 
   
-Sec 3 Overseas Learning Journey 2020.pdf **(File exceeds 5mb)**
+_Sec 3 Overseas Learning Journey 2020.pdf_
 
   
 
