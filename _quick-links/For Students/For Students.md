@@ -99,7 +99,6 @@ third_nav_title: For Students
 
 If the form below is not loaded, you can also fill it in [here](https://form.gov.sg/5e411c92366d6a0011c76b50). Or at [https://go.gov.sg/hs-ict-helpdesk](https://go.gov.sg/hs-ict-helpdesk)
 
-**(insert form here)**
 
 ### Student iCON
 
