@@ -91,14 +91,13 @@ VIA Leader: Nurina Batrisyia
 
 SYF
 
-(insert slides here)
+
 
 
 Weekly Training
 
 
-(insert slides here)
+
 
 Debate
 
-(insert slides here)
