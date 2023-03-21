@@ -17,7 +17,6 @@ Mr Ng Wee Chung
 Mr Chin Khai Fung  
 Mrs Jeannie Pan  
 Miss Joanne Toh  
-Mr Chew Mouyi  
 Miss Nurbaya  
 Mr Nazirul Mubin  
 Mr Chia Huang Hao  
@@ -90,6 +89,3 @@ For SciTechHumatics, the department collaborates with other departments within t
 ![](/images/SS_2.jpeg)
 
 ![](/images/SS_3.jpeg)
-
- 
- 
