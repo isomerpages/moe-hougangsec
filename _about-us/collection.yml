@@ -1,0 +1,20 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - About HS.md
+      - School History.md
+      - School Management Committee.md
+      - Character Coaches.md
+      - Achievements/Academic Achievements.md
+      - Achievements/Alumni Achievements.md
+      - Achievements/CCA Achievements.md
+      - Achievements/Hougeans in the News.md
+      - Achievements/.keep
+      - Partners/School Advisory Committee.md
+      - Partners/Parent Support Group.md
+      - Partners/.keep
+      - Virtual Tour.md
+      - Contact Us.md
+      - Data Privacy.md

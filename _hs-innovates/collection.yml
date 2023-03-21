@@ -1,0 +1,8 @@
+collections:
+  hs-innovates:
+    output: true
+    order:
+      - HS Innovation Framework.md
+      - Every Hougean Innovates.md
+      - Every Staff Innovates.md
+      - Enabling an Innovative Environment.md

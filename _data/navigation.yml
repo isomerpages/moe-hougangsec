@@ -1,15 +1,23 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: HBL-SIL
+    url: quick-links/HBL-SIL/hbl-sil/
+  - title: Departments
+    collection: departments
+  - title: Key Programmes
+    url: /applied-learning-programme/alp/
+    sublinks:
+      - title: Applied Learning Programme
+        url: /applied-learning-programme/alp/
+      - title: Learning for Life Programme
+        url: /learning-for-life-programme
+      - title: HS Innovates!
+        url: /hs-innovates/hs-innovation-framework/
+      - title: Internationalisation Programme
+        url: /internationalisation-programme/internationalisation-programme/
+  - title: Co-Curricular Activities
+    collection: co-curricular-activities
+  - title: About Us
+    collection: about-us
+  - title: Quick Links
+    collection: quick-links
