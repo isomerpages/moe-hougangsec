@@ -10,6 +10,7 @@ Mr Quek Yong Cai
 
 **Subject Head**   
 Ms Sisca Christine Haryanto  
+Miss Jazreel Toh Hui Khee
 
   
 
@@ -19,8 +20,7 @@ Mdm Radzawaty Bte Jamaludin
 **Teachers**  
 Ms Kwek Yu Zhen (HOD CCE)   
 Mr Javen Gwee (HOD/ICT)   
-Ms Kitty Tan Min Jie (SH/Pupil Management)   
-Miss Jazreel Toh Hui Khee (SH/CCA)   
+Ms Kitty Tan Min Jie 
 Ms Rachel Yong Lai Kuan   
 Mr Soh Yen Meng   
 Miss Chua Yi Jun   
