@@ -29,33 +29,31 @@ Once a Solo, Now a Harmony.
 
 ### CCA Leadership Structure
 
-**President**: Lim Ming Ler Muhammad Yadi of 4E3
+**President**: Goh Xin Hui, 4N
 
-**Vice President**: Toh Min Hui, Lovell Gin of 4E1
+**Vice President**: Chua Jia Ning, 4A
 
-**Secretary**: Foo Sze Xun Jasmine of 4E1
+**Secretary cum Treasurer**: Jiang Kaiyi Davien, 4O
 
-**Treasurer**: Praveen Ram of 4E1
+**VIA leaders**: 
+Ong Zhi Yan, 4E
+Lai Si Xuan, 3H
 
-**VIA leaders**:    
-Chai Xin Yi, Nicole of 4E1   
-Yuki Chew of 4E4
+**Logistics Head**: Jayden Ong Jun Jie, 4S
 
-**Logistics Head**: Raymond Lim Jun Hao of 4A2
+**Logistics Vice-Head**: De Guzman John Timothy Geronimo, 4U
 
-**Logistics Vice-Head**: Ace Yeo Yong Juan of 4T1
+**Events Head**: Peneyra Janae Anika Aragon, 4G
 
-**Events Head**: Cherrelle Tan Qian Rong of 4E3
+**Events Vice-Head**: Daniel Ko M San Aung, 4S
 
-**Alto Sectional Leader**: Puah Fang Yi, Yuko of 4E1
+**Alto Sectional Leader**: Hannah Atiqah Binte Mohammed Hayzan, 4E
 
-**Bass Sectional Leader**: De Guzman John Timothy Geronimo of 3U
-
-**Sec 3 CCA Leaders:**   
-Goh Xin Hui (Wu Xinhui) of 3N   
-Jayden Ong Jun Jie of 3S   
-Kaelyn Lau Kai Xin of 3S
-
+**Sec 3 CCA Leaders**:
+Diyah Zahira Binti Amir Hamzah, 3E
+Faith Loh (Lu Jing’en), 3O
+Soh Yi En Eudora (Su Yi’en), 3G
+Ting Xian Ya, 3O
   
 
 ### Programme
