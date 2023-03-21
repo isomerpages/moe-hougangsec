@@ -62,7 +62,8 @@ Ting Xian Ya, 3O
 *   Ad-hoc interactive, bonding and VIA practice and training sessions.
 
 ### Achievements
-*   Participated in Singapore Youth Festival Arts Presentation 2021  
+*   Participated in Singapore Youth Festival Arts Presentation 2021
+*   Participated in 2022 Mid-Autumn Festival Celebrations at Jia Ying Senior Activity Centre as a Values-in-Action (VIA) Activity.
     
 
 ### Training Venue and Days
