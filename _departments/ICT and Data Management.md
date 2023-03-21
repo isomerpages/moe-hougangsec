@@ -14,7 +14,7 @@ Mr Charles Wong
   
 
 **ICT Manager**   
-Mr Marcus Loh&nbsp;
+Mr Marcus Loh
 
   
 
@@ -25,6 +25,7 @@ Mr Jason Biene Bohol
 
 **ICT Desktop Engineers**   
 Mr Vikneswaran Rajenderan  
+Mr Abdul Kholiq Bin Sapie
 
 ### ICT Vision
 ----------
