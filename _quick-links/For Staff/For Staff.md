@@ -150,6 +150,24 @@ third_nav_title: For Staff
     <td class="tg-apyk"> Student-Initiated Learning</td>
     <td class="tg-tlx9"> <a href="https://workspace.google.com/dashboard"><span style="font-weight:500;text-decoration:underline;color:#21088A">Google Workspace</span></a> <br></td>
     <td class="tg-0pyt"><a href="https://rbs.avero-tech.com/"><span style="font-weight:500;text-decoration:underline;color:#21088A">Resource Booking Service</span></a></td>
+
+  <tr>
+    <td class="tg-2rp9"><a href = "https://www.moe.gov.sg/" target = "_self"> 
+          <img src="/images/HGSS-MOE.png" 
+     style="width:70%"></a></td>
+    <td class="tg-2rp9"><a href = "https://intranet.moe.gov.sg/" target = "_self"> 
+          <img src="/images/INTRANET.jpeg" 
+     style="width:100%"></a></td>
+    <td class="tg-2rp9"><a href = "https://sg-portal.mobileguardian.com/" target = "_self"> 
+          <img src="/images/MG.png" 
+     style="width:100%"></a></td>
+  </tr>
+  <tr>
+    <td class="tg-apyk">Ministry of Education</td>
+    <td class="tg-apyk">MOE Intranet<br>(Intranet)</td>
+    <td class="tg-tlx9"> <a href="https://sg-portal.mobileguardian.com/"><span style="font-weight:500;text-decoration:underline;color:#21088A">Mobile Guardian</span></a><br></td>
+  </tr>
+
   </tr>
 </tbody>
 </table>
