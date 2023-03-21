@@ -156,20 +156,15 @@ third_nav_title: For Staff
           <img src="/images/Apply%20Leave.jpg" 
      style="width:60%"></a></td>
 
-		<!<td class="tg-2rp9"><a href = "https://workspace.google.com/dashboard" target = "_self"> 
-          <img src="/images/Google%20Workspace%20icon.png" 
-     style="width:80%"></a></td>
-
-		<! <td class="tg-2rp9"><a href = "https://rbs.avero-tech.com/" target = "_self"> 
-          <img src="/images/RBS.png" 
-     style="width:100%"></a></td>
+		
+		
   </tr>
   <tr>
     <td class="tg-apyk"> <a href="https://go.gov.sg/hsleave">Seek RO's Support For Leave Application</td>
 
-		<!<td class="tg-tlx9"> <a href="https://workspace.google.com/dashboard"><span style="font-weight:500;text-decoration:underline;color:#21088A">Google Workspace</span></a> <br></td>
+	
 
-		<!    <td class="tg-0pyt"><a href="https://rbs.avero-tech.com/"><span style="font-weight:500;text-decoration:underline;color:#21088A">Resource Booking Service</span></a></td>
+
 
 
   </tr>
