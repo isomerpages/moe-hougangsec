@@ -7,9 +7,11 @@ third_nav_title: Mother Tongue Languages
 **Head of Department:** Ms Cheng Sze Mei Carmen  
    
 **Teachers**  
-Mdm Siti Sapiya Mohd Sumri (Malay Literature Coordinator)   
-Mr Mohd Yazid  Yatim   
-Mdm Suhailah (FAJT)
+Mr Mohd Yazid  
+Mr Muhammad Irwan Bin Jamal  
+Mdm Nor Suhailah Bte Abdul Rauf   
+Mdm Siti Sapiya Bte Mohd Sumri   
+Mdm Fazillah Binte Mohamed Ismail   
 
   
 
