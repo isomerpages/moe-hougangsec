@@ -55,6 +55,12 @@ third_nav_title: For Parents
 </tbody>
 </table>
 
+### PLD DMA Parent's Portal ###
+
+Please click this URL for more details on the DMA Parent Portal.
+
+Log in to Mobile Guardian here: https://sg-portal.mobileguardian.com/#/login
+Your parent's account will be created and emailed to you after your selection of the DMA option for your child/ward.
 
 ### Financial Assistance
 
@@ -83,17 +89,10 @@ More details on the FAS is available on the MOE websites below. 
 
 ### HS Parents Connect 2022
 
-**HS Parents Connect 2022 - Issue 1**   
+**HS Parents Connect 2023 - Issue 1**   
 [HS Parents Connect 2022 - Issue 1.pdf](/files/HS%20Parents%20Connect%202022%20-%20Issue%201.pdf)
   
-**HS Parents Connect 2022 - Issue 2**  
-[HS Parents Connect 2022 - Issue 2.pdf](/files/HS%20Parents%20Connect%202022%20-%20Issue%202.pdf)
-  
-**HS Parents Connect 2022 - Issue 3**  
-[HS Parents Connect 2022 - Issue 3.pdf](/files/HS%20Parents%20Connect%202022%20-%20Issue%203.pdf)
-  
-**HS Parents Connect 2022 - Issue 4**  
-[HS Parents Connect 2022 - Issue 4.pdf](/files/HS%20Parents%20Connect%202022%20-%20Issue%204.pdf)
+
 
 
 * * *
