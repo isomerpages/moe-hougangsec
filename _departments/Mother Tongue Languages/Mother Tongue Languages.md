@@ -10,22 +10,18 @@ Ms Cheng Sze Mei Carmen
   
 
 **Teachers:**   
-Mdm Siti Sapiya Bte Mohd Sumri   
-Mr Mohd Yazid  
 Mr Ang Ruixiang   
 Ms Chen Si Si   
 Miss Liang Qidi     
 Ms Yu Honghong   
 Mr Lee Heng Han   
 Mdm Wang Qingzhen  
+Mdm Sun Junmo  
+Mdm Siti Sapiya Bte Mohd Sumri   
+Mr Mohd Yazid  
 Mr Muhammad Irwan Bin Jamal  
 Mdm Fazillah Binte Mohamed Ismail  
 Mdm Nor Suhailah Bte Abdul Rauf  
-Mdm Sun Junmo
-
-
-
-
 
   
 ### Vision
