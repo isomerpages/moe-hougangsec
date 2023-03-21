@@ -233,4 +233,3 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
      style="width:65%">
 <img src="/images/paym15-2.jpeg" 
      style="width:65%">
-
