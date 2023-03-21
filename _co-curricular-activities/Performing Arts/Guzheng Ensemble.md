@@ -77,9 +77,9 @@ Singapore Youth Festival Arts Presentation:
 
 ### Teachers In-Charge
 
-*   Mrs Goh Lay Hoon 
-*   Ms Kitty Tan
-*   Miss Wong Lai Lee
+* Miss Wong Lai Lee (OIC)
+* Mrs Goh Lay Hoon
+* Ms Kitty Tan
 
 ### Training Venue and Days
 
