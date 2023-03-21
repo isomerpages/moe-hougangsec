@@ -77,10 +77,9 @@ Public Performances (Angklung & Gamelan)
 
 ### Teachers In-Charge
 
-*   Mdm Sri Nabilah Basri (OIC)
-*   Miss Siti Nurbaya Binte Rameh
-*   Mr Mohd Yazid Bin Md Yatim
-*   Ms Wee Swee Kee
+* Mr Mohd Yazid Bin Md Yatim (OIC)  
+* Miss Siti Nurbaya Binte Rameh  
+* Mdm Fazilah Mohd Ismail
 
 ### Training Venue and Days
 
@@ -108,5 +107,4 @@ SYF 2021 – Gamelan Ensemble
 Training in school
 
 ![](/images/akge6.jpeg)
-Training in school    
-
+Training in school
