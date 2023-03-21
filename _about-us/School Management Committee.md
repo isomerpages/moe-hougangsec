@@ -5,7 +5,7 @@ description: ""
 ---
 **PRINCIPAL**
 
-**Mr Lee Thuan Sim**   
+**Mr Brandon Lee Thuan Sim**   
 [hougang_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg)
 
 **VICE-PRINCIPALS**   
