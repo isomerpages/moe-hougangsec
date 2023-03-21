@@ -23,8 +23,9 @@ Once a Solo, Now a Harmony.
 
 ### Teachers In-Charge
 
-*   Ms Chua Yijun (OIC)
-*   Mr Ho Wee Khong
+* Mr Ho Wee Khong (OIC)
+* Mrs Rachel Chan
+* Ms Chua Yijun
 
 ### CCA Leadership Structure
 
