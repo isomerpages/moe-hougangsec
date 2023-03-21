@@ -101,12 +101,12 @@ To apply for transfer, please download the Application to Transfer Form and emai
  [Application to Transfer Form w.e.f 2022.pdf](/files/Application%20to%20Transfer%20Form%20wef%202022.pdf)
    
 
-### GRIT Journal 2022
+### GRIT Journal 2023
 
-[GRIT Journal 2022 final web.pdf](/files/GRIT%20Journal%202022%20final%20web.pdf)
-  
+[GRIT Handbook 2023.pdf](/files/GRIT%20Handbook%202023.pdf)
 
 
 ### Class Timetable
 
 [2022 Semester 2 Class Timetable.pdf](/files/2022%20Semester%202%20Class%20Timetable.pdf)
+
