@@ -60,10 +60,11 @@ CDT – LCP – CPL – SGT – SSG – SI
     
 
 ### Teachers In-Charge
-*   Mr Muhd Nazirul Mubin (OIC)
-*   Mdm Annizell Chan
-*   Mr Kervin Tang
-*   Ms Tan Wei Jing  
+*   Tan Wei Jing (OIC)
+*   Kervin Tang Cheok Yean
+*   Adilah
+*   Ho Ying Yee
+*   Annizell Cruz Chan (Sem 1 only)
     
 
 ### Training Venue and Days
