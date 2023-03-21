@@ -10,18 +10,16 @@ Ms Cheng Sze Mei Carmen
   
 
 **Teachers:**   
-Mdm Janisah Johari     
 Mdm Siti Sapiya Bte Mohd Sumri   
-Mdm Sri Nabilah Binte Basri   
 Mr Mohd Yazid  
 Mr Ang Ruixiang   
 Ms Chen Si Si   
-Mdm Fang Xiaolu   
 Miss Liang Qidi     
 Ms Yu Honghong   
 Mr Lee Heng Han   
-Mr Lee Eng Keat   
 Mdm Wang Qingzhen  
+Muhammad Irwan Bin Jamal
+
 
   
 ### Vision
