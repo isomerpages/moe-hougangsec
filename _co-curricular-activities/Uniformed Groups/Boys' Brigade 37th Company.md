@@ -73,4 +73,3 @@ Find us here! [https://www.instagram.com/37thbb\_hss/](https://www.instagram.co
 
 ### Programmes and Activities
 
-(embed google slide here)
