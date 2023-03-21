@@ -467,7 +467,7 @@ If you are new to this sales portal, you will need to register for an account as
 #### 2022 PDLP Briefing to S1 Students (For Students)
 
 **Quick Summary of Things to do**:   
-* Verify you can access your student iCon before 4 Mar by clicking the link below. Here is an example of a Student iCON email: _your\_name@students.edu.s_g
+* Verify you can access your student iCon before 22 Feb 2023 by clicking the link below. Here is an example of a Student iCON email: _your\_name@students.edu.s_g
 
 [https://go.gov.sg/hsstudentemail](https://go.gov.sg/hsstudentemail)   
    
@@ -475,7 +475,7 @@ If you are new to this sales portal, you will need to register for an account as
 If you need help with your user ID or password, please approach the IT team at SRC.
 
 * Bring your Student Pass on 9 Mar.
-* Report at 1.50 pm to level one classroom on 9 Mar. 
+* Report at 8.45 am to level one classroom on 22 Feb 2023. 
 * Familiarise yourself with the Onboarding slides here: 
 
 [2022 PDLP Briefing to S1 Students.pdf](/files/Annex%20A-%20List_of_Overseas_Trips_for_2020%20v2.pdf)
