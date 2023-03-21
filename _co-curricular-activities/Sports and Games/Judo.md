@@ -219,9 +219,10 @@ Respect all, fear none
 SJF -Student Judo Foundation
 
 ### Teachers In-Charge
-*   Mr Hadrian Chin Chun Kiat (OIC)
-*   Mr Alfred Choo Boon Kian
-*   Ms Jasmine Low
+*   Rio Elijah Chua Ghee Hian (OIC)
+*   Wee Swee Kee
+*   Low Wee Kie Jasmine
+*   Toh Hui Khee Jazreel
 
 **Coach**: Mr Mohd Faizal Mohd Noor
 
@@ -256,4 +257,3 @@ SJF -Student Judo Foundation
 ![](/images/jd3.jpeg)
 
 ![](/images/jd4.jpeg)
-
