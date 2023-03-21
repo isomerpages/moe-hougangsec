@@ -11,8 +11,8 @@ With the aim of Promoting Communication Skills using Authentic Learning as a Pla
 
 3\. Being given opportunities to lead during assemblies, performances and student-initiated activities to maximise the authentic learning experience.
 
-All students undergo a 3-year Applied Learning Programme, focussed on developing the following skills at each level:
-
+All students undergo a 3-year Applied Learning Programme, focussed on developing the following skills at each level:  
+![](/images/ALP/ALP%20Roadmap.jpg)
 **ALP EL IC -** Mdm Annizell Chan   
 **ALP MTL IC -** Mdm Carmen Cheng 
 
