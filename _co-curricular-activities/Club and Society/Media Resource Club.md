@@ -24,9 +24,9 @@ Teamwork; Passion; Courage; Resilience.
 
 ### Teachers in-charge
 
-*   Mr Charles Wong (OIC)
-*   Mdm Gomathi Gunaseelan  
-*   Mr Ng Wee Chung
+*   Ng Wee Chung (OIC)
+*   Gomathi Gunaseelan
+*   Joyce Lee
 
 ### Leadership Structure
 *   **President**: Miko (S3-G)
