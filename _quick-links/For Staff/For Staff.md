@@ -156,15 +156,9 @@ third_nav_title: For Staff
           <img src="/images/Apply%20Leave.jpg" 
      style="width:60%"></a></td>
 
-		
-		
   </tr>
   <tr>
     <td class="tg-apyk"> <a href="https://go.gov.sg/hsleave">Seek RO's Support For Leave Application</td>
-
-	
-
-
 
 
   </tr>
