@@ -16,7 +16,7 @@ The school believes in providing a holistic education for every student and we a
 ### Our Character Development Programmes
 
 *   Character and Citizenship Education
-*   [Sexuality Education](/departments/CCE/moe-sexuality-education-in-schools/)
+*   [Sexuality Education](departments/cce/moe-sexuality-education-in-schools-a/)
 
 *   Co-Curricular Activities
 *   Student Leadership
