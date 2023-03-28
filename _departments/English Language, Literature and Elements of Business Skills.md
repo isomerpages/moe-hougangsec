@@ -5,32 +5,44 @@ description: ""
 ---
 **Head of Department/English:**    
 Mdm S Chitradevi
-
   
 
-**Level Head EL/Literature, Lower Sec:**   
+**Level Head EL/Literature, Secondary 2 & 3:**   
 Ms Audrey Chua
-
   
 
-**Level Head EL/Literature, Upper Sec:**     
+**Level Head EL/Literature, Secondary 1 & 4/5:**     
 Mdm Annizell Chan
-
   
 
 **Teachers**:   
-Mr Kervin Tang \[Senior Teacher, English Language\]   
-Mdm Martini Rahmat     
-Mr Charles Wong   
-Mdm Amalina Abdul Samad   
-Mrs Gomathi Guna     
-Ms Rahimah Rahman     
-Mr Sean Oh   
-Ms Uma Magheswary   
-Ms Nur Adilah Bte Jasman    
-Mr Ronnie Yeo   
-Mdm Soonam Sivadasan _(FAJT)_
+Mr Kervin Tang [Senior Teacher, English Language]
 
+Mdm Martini Rahmat
+
+Mr Charles Wong
+
+Mdm Amalina Abdul Samad
+
+Mrs Gomathi Guna
+
+Mr Sean Oh
+
+Mr Ronnie Yeo
+
+Ms Joyce Lee
+
+Ms Tan Yin Wei
+
+Ms Nur Adilah Bte Jasman
+
+Ms Uma Magheswary
+
+Ms Lee Wen Lin
+
+Mdm Soonam Sivadasan (FAJT)
+
+Mr Han Zheming Chuck-E (FAJT)
   
 
 ### Vision
