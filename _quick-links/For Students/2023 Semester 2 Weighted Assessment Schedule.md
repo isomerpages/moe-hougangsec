@@ -4,3 +4,8 @@ permalink: /quick-links/for-students/2023-semester-2-weighted-assessment-schedul
 description: ""
 third_nav_title: For Students
 ---
+Dear Hougeans,
+
+Below is the 2023 Semester 2 Weighted Assessment Schedule for your reference.
+
+[2023 Semester 2 Weighted Assessment Schedule]()
