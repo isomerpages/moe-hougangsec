@@ -53,7 +53,7 @@ Elements of Business Skills
 
 ### Programmes and Activities
 
-**1\. Academic Programmes**    
+**1\. Academic Programmes**  
 Applied Learning Programme (ALP)
 * Secondary 1
 	*	Writing and Representing Creatively
@@ -74,15 +74,11 @@ Applied Learning Programme (ALP)
 	* Video Production (YouTuber)
 	* Cyber Celebrity (Social Media Advertising)
 
+** ALP Competitions**
+* Lexical Labyrinth for Secondary 1s
+* Toastmasters Series for Secondary 2s
+* Debate Challenge for Secondary 3s
 
-
-Applied Learning Programme  
-
-*   Sec 1 (ALL): Writing Skills
-*   Sec 2 (ALL): Public Speaking Skills
-*   Sec 3 Express: Debating Skills
-*   Sec 3 NA: Social Media Advertising
-*   Sec 3 NT: Webpage Design
 
 Reading Programme  
 
