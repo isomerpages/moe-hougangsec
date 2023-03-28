@@ -4,6 +4,18 @@ permalink: /quick-links/For-Staff/for-staff/
 description: ""
 third_nav_title: For Staff
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
+.tg .tg-vtmj{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pyt{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 780px">
   <colgroup>
     <col style="width: 260px">
