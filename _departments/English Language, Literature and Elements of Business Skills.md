@@ -68,11 +68,11 @@ Applied Learning Programme (ALP)
 	* Speech and Drama
 
 
-•	Secondary 3
-o	Reading and Viewing Critically
-	Developing Analytical Responses to Social Issues
-	Video Production (YouTuber)
-	Cyber Celebrity (Social Media Advertising)
+* Secondary 3
+* Reading and Viewing Critically
+* Developing Analytical Responses to Social Issues
+* Video Production (YouTuber)
+* Cyber Celebrity (Social Media Advertising)
 
 
 
