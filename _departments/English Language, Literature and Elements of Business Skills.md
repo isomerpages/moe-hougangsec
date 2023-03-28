@@ -60,11 +60,14 @@ Applied Learning Programme (ALP)
 	*	Playwriting
 	*	Script Writing
 	*	Comedic Storytelling
-*	Secondary 2
-	*	Speaking and Representing Confidently
-	*	Public Speaking
-	Emceeing and Presentation
-	Speech and Drama
+
+* Secondary 2
+	* Speaking and Representing Confidently
+	* Public Speaking
+	* Emceeing and Presentation
+	* Speech and Drama
+
+
 •	Secondary 3
 o	Reading and Viewing Critically
 	Developing Analytical Responses to Social Issues
