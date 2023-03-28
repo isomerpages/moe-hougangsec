@@ -16,7 +16,7 @@ Mdm Annizell Chan
   
 
 **Teachers**:   
-<div>Mr Kervin Tang \[Senior Teacher, English Language\]</div>  
+<div>Mr Kervin Tang [Senior Teacher, English Language]</div>  
 <div>Mdm Martini Rahmat</div>  
 <div>Mr Charles Wong</div>  
 <div>Mdm Amalina Abdul Samad</div>  
