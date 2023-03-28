@@ -74,29 +74,21 @@ Applied Learning Programme (ALP)
 	* Video Production (YouTuber)
 	* Cyber Celebrity (Social Media Advertising)
 
-** ALP Competitions**
+**2. ALP Competitions**
 * Lexical Labyrinth for Secondary 1s
 * Toastmasters Series for Secondary 2s
 * Debate Challenge for Secondary 3s
 
 
-Reading Programme  
+**Reading Programme** 
 
-GRIT Moment Sharing  
+**GRIT Moment Sharing** 
 
-Learning Journeys for EBS and Literature students  
+**Learning Journeys for EBS and Literature students**
 
-  
+**National Schools Literature Festival** 
 
-**2\. Competitions**   
-HS Debate Challenge  
-National Schools Literature Festival   
-Singapore Secondary Schools Debating Championships   
-Live On Essay Writing Competition  
-34th YMCA Plain English Speaking Awards (PESA)   
-Hua Yi Debate Championships  
-IgnITE Challenge for Social Media Retailing   
-
+**Write for Kindness by Singapore Kindness Movement**
   
 
 ### English Language Department - A Snap Shot
