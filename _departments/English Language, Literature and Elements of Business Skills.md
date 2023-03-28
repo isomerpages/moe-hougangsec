@@ -16,33 +16,20 @@ Mdm Annizell Chan
   
 
 **Teachers**:   
-Mr Kervin Tang [Senior Teacher, English Language]
-
-Mdm Martini Rahmat
-
-Mr Charles Wong
-
-Mdm Amalina Abdul Samad
-
-Mrs Gomathi Guna
-
-Mr Sean Oh
-
-Mr Ronnie Yeo
-
-Ms Joyce Lee
-
-Ms Tan Yin Wei
-
-Ms Nur Adilah Bte Jasman
-
-Ms Uma Magheswary
-
-Ms Lee Wen Lin
-
-Mdm Soonam Sivadasan (FAJT)
-
-Mr Han Zheming Chuck-E (FAJT)
+<div>Mr Kervin Tang \[Senior Teacher, English Language\]</div>  
+<div>Mdm Martini Rahmat</div>  
+<div>Mr Charles Wong</div>  
+<div>Mdm Amalina Abdul Samad</div>  
+<div>Mrs Gomathi Guna</div>  
+<div>Mr Sean Oh</div>  
+<div>Mr Ronnie Yeo</div>  
+<div>Ms Joyce Lee</div>  
+<div>Ms Tan Yin Wei</div>  
+<div>Ms Nur Adilah Bte Jasman</div>  
+<div>Ms Uma Magheswary</div>  
+<div>Ms Lee Wen Lin</div>  
+<div>Mdm Soonam Sivadasan (FAJT)</div>  
+<div>Mr Han Zheming Chuck-E (FAJT)</div>
   
 
 ### Vision
@@ -51,10 +38,11 @@ Passionate Readers, Competent Writers , Eloquent Communicators
 
 ### Curricular Goals and Objectives
 
-*   To develop students who communicate confidently, clearly and effectively in speech and writing in response to situation, purpose and audience
-*   To develop students who are competent readers with a love and appreciation for a variety of texts and the way writers use language to suit a range of purposes and achieve their effects
-*   To develop students who explore areas of human concern, leading to a greater understanding of self and others
-*   To develop in students an awareness of the business landscape in Singapore and its opportunities and challenges, so that they will be more reflective of the knowledge and skills they need
+* To develop students who communicate confidently, clearly and effectively in speech and writing in response to situation, purpose and audience.
+* To develop students who are competent readers with a love and appreciation for a variety of texts and the way writers use language to suit a range of purposes and achieve their effects.
+* To develop students who explore areas of human concern, leading to a greater understanding of self and others.
+*	To develop in students an awareness of the business landscape in Singapore and its opportunities and challenges, so that they will be more reflective of the knowledge and skills they need.
+
 
   
 
@@ -66,6 +54,25 @@ Elements of Business Skills
 ### Programmes and Activities
 
 **1\. Academic Programmes**    
+Applied Learning Programme (ALP)
+* Secondary 1
+	*	Writing and Representing Creatively
+	*	Playwriting
+	*	Script Writing
+	*	Comedic Storytelling
+*	Secondary 2
+	*	Speaking and Representing Confidently
+	*	Public Speaking
+	Emceeing and Presentation
+	Speech and Drama
+•	Secondary 3
+o	Reading and Viewing Critically
+	Developing Analytical Responses to Social Issues
+	Video Production (YouTuber)
+	Cyber Celebrity (Social Media Advertising)
+
+
+
 Applied Learning Programme  
 
 *   Sec 1 (ALL): Writing Skills
