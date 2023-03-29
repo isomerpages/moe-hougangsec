@@ -74,7 +74,7 @@ description: ""
 </table>
 </div>
 
-<h3 id="secondary-1">Secondary 2</h3>
+<h3 id="secondary-2">Secondary 2</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -137,7 +137,7 @@ description: ""
 </table>
 <div class="horizontal-scroll">&nbsp;</div>
 
-<h3 id="secondary-1">Secondary 3</h3>
+<h3 id="secondary-3">Secondary 3</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -197,7 +197,7 @@ description: ""
 </table>
 <div class="horizontal-scroll">&nbsp;</div>
 
-<h3 id="secondary-1">Secondary 3</h3>
+<h3 id="secondary-4">Secondary 4</h3>
 <table class="tg">
 <tbody>
 <tr>
