@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - HS Innovation Framework.md
       - Chinese ALP.md
       - Applied Learning Programme (ALP) @ HS.md
       - Learning For Life Programme (LLP).md
