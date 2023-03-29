@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - Every Staff Innovates.md
       - Every Hougean Innovates.md
       - HS Innovation Framework.md
       - Chinese ALP.md
