@@ -2,7 +2,6 @@ collections:
   internationalisation-programme:
     output: true
     order:
-      - 2020 Learning Journeys/2020 Learning Journeys.md
       - 2020 Learning Journeys/.keep
       - 2019 Learning Journeys/2019 Internalisation Programmes.md
       - 2019 Learning Journeys/Learning Journey to Hong Kong, 28 to 31 May
