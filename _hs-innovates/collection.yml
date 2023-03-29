@@ -2,6 +2,5 @@ collections:
   hs-innovates:
     output: true
     order:
-      - Every Hougean Innovates.md
       - Every Staff Innovates.md
       - Enabling an Innovative Environment.md
