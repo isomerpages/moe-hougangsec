@@ -1,5 +1,4 @@
 collections:
   applied-learning-programme:
     output: true
-    order:
-      - Chinese ALP.md
+    order: []
