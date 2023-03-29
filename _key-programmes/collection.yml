@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - ALP/Chinese ALP.md
       - ALP/.keep
       - Internationalisation/Internationalisation Programme.md
       - Internationalisation/2020 Learning Journeys.md
