@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - HS Innovates!.md
       - 2020 Learning Journeys.md
       - Internationalisation Programme.md
       - Enabling an Innovative Environment.md
