@@ -2,7 +2,10 @@
 title: Every Staff Innovates
 permalink: /hs-innovates/every-staff-innovates/
 description: ""
+third_nav_title: HS Innovates
 ---
+
+
 #### InnoNews Portal, MOTD, Challenge the Process, HS Learning Festival
 
 In HS, staff - which include the Teachers and the EAS team, adopts an open and growth mindset where they constantly seek to improve and hone their knowledge, skills and processes. 

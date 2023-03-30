@@ -2,7 +2,10 @@
 title: Chinese ALP
 permalink: /applied-learning-programme/chinese-alp/
 description: ""
+third_nav_title: ALP
 ---
+
+
 ![](/images/ALP1.jpeg)
 
 ![](/images/ALP2.jpeg)

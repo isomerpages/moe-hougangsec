@@ -2,7 +2,10 @@
 title: HS Innovation Framework
 permalink: /hs-innovates/hs-innovation-framework/
 description: ""
+third_nav_title: HS Innovates
 ---
+
+
 _HS Innovates! Growing an Innovative Culture_  
   
 

@@ -2,7 +2,10 @@
 title: Enabling an Innovative Environment
 permalink: /hs-innovates/ennabling-an-innovative-environment/
 description: ""
+third_nav_title: HS Innovates
 ---
+
+
 ### HS Innovation Challenge  
 
 HS Innovation Challenge aims to develop our Hougeans into critical thinkers and problem solvers, by allowing them to solve key issues raised in HS Student Voice through the FIDS Innovation Approach. Students with the best ideas are recognised with the ‘HS Young Innovator Award’.   

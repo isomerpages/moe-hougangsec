@@ -3,6 +3,7 @@ title: Learning For Life Programme (LLP)
 permalink: /learning-for-life-programme/
 description: ""
 ---
+
 **Make the Difference, A Hougean’s Way Of Life**  
 
 The LLP programme, Make the Difference, A Hougean’s Way Of Life, aims to:

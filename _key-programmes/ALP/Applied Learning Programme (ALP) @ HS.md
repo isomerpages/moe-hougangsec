@@ -2,7 +2,10 @@
 title: Applied Learning Programme (ALP) @ HS
 permalink: /applied-learning-programme/alp/
 description: ""
+third_nav_title: ALP
 ---
+
+
 With the aim of Promoting Communication Skills using Authentic Learning as a Platform, HS Applied Learning Programme has three student learning outcomes:
 
 1\. Infusing communication skills into the language (English Language and Mother Tongue Languages) curriculum

@@ -2,7 +2,10 @@
 title: Every Hougean Innovates
 permalink: /hs-innovates/every-hougean-innovates/
 description: ""
+third_nav_title: HS Innovates
 ---
+
+
 ### Sec 1 Innovation Cohort Programme and Young Innovators’ Fair
 
 The Sec 1 Innovation Cohort Programme is a 4-day programme, conducted by our Character Coaches for their Secondary One classes, which culminates into the Young Innovators’ Fair.
