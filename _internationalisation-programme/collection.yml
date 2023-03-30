@@ -2,6 +2,7 @@ collections:
   internationalisation-programme:
     output: true
     order:
+      - Learning Journey to Chiang Mai, Thailand, 27 to 31 May 2019.md
       - 2020 Learning Journeys/.keep
       - 2019 Learning Journeys/Learning Journey to Hanoi, Vietnam, 26 to 30 May
         2019.md
