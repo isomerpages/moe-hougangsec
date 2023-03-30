@@ -116,8 +116,11 @@ A pupil with an appreciation for a healthy lifestyle
 **6\. Secondary ONE and THREE Adventure camps**
 
 Our camps aim to:
+
 a.	Stretch & develop Hougeans’ potential – students can apply their learning through a variety of outdoor adventure experiences that bring about our **school values** (e.g., gratitude, respect, ingenuity, trustworthiness and grit.), **CCE learning outcomes** (e.g., social emotional competencies) and **PE curriculum** (e.g., Outdoor Education learning outcomes); 
+
 b.	Strengthen class spirit and camaraderie with classmates and Character Coaches (CCs)
+
 ![Adventure Camp](/images/Adventure%20Camp.jpg)
 
 **7\. Annual Napfa**
