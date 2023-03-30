@@ -2,14 +2,14 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Performing Arts/Performing Arts.md
+      - Performing Arts/.keep
       - Performing Arts/Angklung|Kulintang and Gamelan Ensemble.md
       - Performing Arts/Choir.md
       - Performing Arts/Guzheng Ensemble.md
       - Performing Arts/Modern Dance.md
       - Performing Arts/Speech & Drama.md
       - Performing Arts/Symphonic Band.md
-      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Boys' Brigade 37th Company.md
       - Uniformed Groups/Girls Brigade.md
