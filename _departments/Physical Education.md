@@ -21,7 +21,6 @@ Mr Muhamad Hashim
 **Teachers**    
 Mr Elijah Chua   
 Mr Ezra Toh  
-Chan Yin Kong
 
 
   
@@ -114,9 +113,12 @@ A pupil with an appreciation for a healthy lifestyle
 <img src="/images/pe9.jpeg" 
      style="width:45%">
 
-**6\. Secondary Two Adventure Camp**
+**6\. Secondary ONE and THREE Adventure camps**
 
-To be updated.
+Our camps aim to:
+a.	Stretch & develop Hougeans’ potential – students can apply their learning through a variety of outdoor adventure experiences that bring about our **school values** (e.g., gratitude, respect, ingenuity, trustworthiness and grit.), **CCE learning outcomes** (e.g., social emotional competencies) and **PE curriculum** (e.g., Outdoor Education learning outcomes); 
+b.	Strengthen class spirit and camaraderie with classmates and Character Coaches (CCs)
+
 
 **7\. Annual Napfa**
 
