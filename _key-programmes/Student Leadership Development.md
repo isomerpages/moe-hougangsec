@@ -109,3 +109,11 @@ A comprehensive training program has been developed to equip student leaders wit
 <p>&nbsp;</p>
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGp3jxF8tSMFTCp0VeG-HnE3pDbNZfQLGMNQbq-6JqfCOSvmpkC3ZhbBCetQzQkVEQsU1bpK_OXiik/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true"></iframe>
+
+### Encouraging Hearts - Inspire Excellence
+
+Hougang Secondary implements a two-pronged approach to encourage the hearts of student leaders and inspire excellence in  them. 
+
+The first prong is reflection, which is designed to help student leaders review the programmes they have organised and identify areas for improvement. To do this, students use the "What? So What? Now What?" reflection model (Gibbs, 1988), which is a structured way of reflecting on experiences and learning from them. 
+
+![](/images/Student%20Leadership/student%20leadership%204.jpg)
