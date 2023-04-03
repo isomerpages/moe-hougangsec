@@ -118,3 +118,17 @@ The first prong is reflection, which is designed to help student leaders review 
 
 ![](/images/Student%20Leadership/student%20leadership%204.jpg)
 Image Credit: https://www.fearlessculture.design/blog-posts/what-so-what-now-what
+
+The second prong of the approach is affirmation, which involves recognising and celebrating the achievements of student leaders. This happens at two key events during the school year. The first is the Student Leaders Investiture, where new leaders are recognised and given their badges. This event is an opportunity to celebrate the commitment and dedication of student leaders and to inspire them to continue to serve their school community. The second event is the year-end Summit, where student leaders come together to reflect on their experiences over the year, celebrate their successes, and set new goals for the future.
+
+![](/images/Student%20Leadership/student%20leadership%205.jpg)
+
+References:
+
+Ministry of Education Singapore. (2021). Character and Citizenship Education (CCE) 2021 Framework. Retrieved from https://www.moe.gov.sg/docs/default-source/document/education/character-and-citizenship-education/character-and-citizenship-education-(cce)-2021-framework.pdf
+
+Dweck, C. S. (2006). Mindset: The new psychology of success. Random House Incorporated.
+
+Kouzes, J. M., &amp; Posner, B. Z. (2002). The leadership challenge. John Wiley &amp; Sons.
+
+Gibbs, G. (1988). Learning by Doing: A Guide to Teaching and Learning Methods. Further Education Unit, Oxford Polytechnic: Oxford.
