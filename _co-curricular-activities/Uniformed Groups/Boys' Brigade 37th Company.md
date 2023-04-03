@@ -33,10 +33,11 @@ To nurture Youth, based on sound values, to lead and serve
 
 ### Achievements
 
-*   Best Unit Award for 2021– Silver
-*   BB Best Boy Award 2022 – S P Chua Medal: – Jerald Tan (4A1, 2022)
-*   Character Quest 2022 – Silver Honour Roll
-*   Play Inclusive! 2022 with MINDS Fernvale Gardens School – Silver for unified Basketball and Football teams
+* Best Unit Award for 2022– Silver
+* BB Best Boy Award 2023 – S P Chua Medal: Leow Peng Siang (4N, 2023)
+* Character Quest 2023 – Silver Honour Roll
+* Play Inclusive! 2022 with MINDS Fernvale Gardens School – Silver for unified basketball and football team
+
 
   
 
@@ -47,6 +48,7 @@ To nurture Youth, based on sound values, to lead and serve
 *   LTA Jonathan Pek (Officer mentor)
 *   Mr Chin Khai Fung (Teacher OIC)
 *   Mr Andy Chong (Teacher Officer)
+*   Mr Ding Jen Han (Teacher Officer)
 
 ### Leadership Structure
 
