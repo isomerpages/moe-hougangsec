@@ -68,3 +68,13 @@ A second example would be the students from India who shared that they do not ha
 
 ![](/images/InnoSpace/innospace3.jpg)
 *Finalised projects from our Asia counterparts*
+
+### STEM
+
+![](/images/InnoSpace/innospace4.jpg)
+
+![](/images/InnoSpace/innospace5.jpg)
+
+![](/images/InnoSpace/innospace6.jpg)
+
+Our InnoChamps took part in STEM Playground 2023, organised by Science Centre and James Dyson Foundation, where the challenge is to construct a bridge, in a team of 4, with 50 satay sticks, to hold 1 kg of mass. The InnoChamps conducted their research, communicated their ideas, and collaborated to make and test their prototypes. 
