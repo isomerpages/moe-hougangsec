@@ -52,5 +52,12 @@ Students work in groups to understand issues in the community via online researc
 
 ### e-Overseas InnoVIAtion 
 
-Due to Covid Pandemic in 2019, many school programmes were affected, including Internationlisation. As such, we expanded the scope of our current programme, InnoVIAtion to e-overseas InnoVIAtion, collaborating with Thailand, India, Philippines, China, Vietnam and Indonesia. 
+Due to Covid Pandemic in 2019, many school programmes were affected, including Internationlisation. As such, we expanded the scope of our current programme, InnoVIAtion to e-overseas InnoVIAtion, collaborating with Thailand, India, Philippines, China, Vietnam and Indonesia.
 
+![](/images/InnoSpace/innospace1.jpg)
+*Grand Finale involving all Asia counterparts presenting their innovative solutions to solve global issues*
+
+Through e-overseas InnoVIAtion, each partnering country presented on one key national issue, in alignment to the UN goals. Through rigorous design thinking discussions with their global partners, the students cross-pollinated their ideas, offered alternative perspectives, and sharpened proposed solutions to edify each other with the best ideas customised for their own national issues.  
+
+![](/images/InnoSpace/innospace2.jpg)
+*Hougeans collaborating with Asia counterparts*
