@@ -61,3 +61,10 @@ Through e-overseas InnoVIAtion, each partnering country presented on one key nat
 
 ![](/images/InnoSpace/innospace2.jpg)
 *Hougeans collaborating with Asia counterparts*
+
+An example would be our Singaporean students who identified water scarcity as a national issue. Inspired by our Filipino counterparts’ sharing about their own schools’ water filtration system, our students devised their own water filtration prototype to filter and reuse the rainwater collected to wash the storage room.
+
+A second example would be the students from India who shared that they do not have pen refills readily available for them and they find that the single-used pens contribute significantly to the plastic wastage in their school. By hearing from our Singaporean students, they considered the use of a plant-able pen, as well as the possibility of a pen refill dispenser that allows them to reuse their pens. 
+
+![](/images/InnoSpace/innospace3.jpg)
+*Finalised projects from our Asia counterparts*
