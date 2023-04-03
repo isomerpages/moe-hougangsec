@@ -10,4 +10,13 @@ Hougang Secondary School's Student Leadership Team aims to develop leadership sk
 ### Engaging Hands - Provide Opportunities
 Our HS Student Leadership Development programme incorporates the work of Dweck (2006) on mindset and the belief that **every child** has the potential to be a leader with the right environment and circumstances. As such, the school adopts a tiered approach to **provide leadership opportunities for all students**.
 
+![](/images/Student%20Leadership/student%20leadership%202.jpg)
+
+At Tier 1, all students undergo the Community Youth Leadership programme, which focuses on developing self-leadership skills and aims to equip every student with the tools to lead themselves effectively. The signature CYL programme is also a key components of our school’s Learning For Life Programme (LLP). 
+
+[Learning For Life Programme (LLP)](https://www.hougangsec.moe.edu.sg/learning-for-life-programme/)
+
+At Tier 2, students can take on leadership roles in their respective class committees, CCA committees, and VIA (Values-In-Action) leadership positions. By taking on these roles, students can develop and refine their leadership abilities, enabling them to make a positive impact on their classmates and CCA members beyond their individual selves.
+
+At Tier 3, selected students are given the opportunity to lead the school as Student Councillors, Peer Support Leaders, Class Monitors, or CCA Leaders. These positions require a higher level of leadership skills and provide students with more significant responsibilities and opportunities to impact their school community  and beyond. 
 
