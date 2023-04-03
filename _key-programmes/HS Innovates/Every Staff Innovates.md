@@ -4,29 +4,22 @@ permalink: /hs-innovates/every-staff-innovates/
 description: ""
 third_nav_title: HS Innovates
 ---
+### Challenge the Process
 
+Our HS staff regularly shares their best innovation practices through various platforms, such as Challenge the Process during staff contact time, InnoBuzz – our infographic newsletter showcasing all innovation programmes, as well as through the HS Learning Festival. 
 
-#### InnoNews Portal, MOTD, Challenge the Process, HS Learning Festival
+![](/images/InnoSpace/innospace7.jpg)
+*Challenge the Process (Staff Contact Time)*
 
-In HS, staff - which include the Teachers and the EAS team, adopts an open and growth mindset where they constantly seek to improve and hone their knowledge, skills and processes. 
+![](/images/InnoSpace/innospace8.jpg)
+*InnoBuzz – Infographic Newsletter *
 
-Each month, staff register their innovation entries via the InnoNews Portal through the FIDS Innovation Approach. In the spirit of continuous learning, staff also read across other entries, adopt their ideas and practices through the ‘I’m Inspired’ platform in the InnoNews Portal. 
+Through these sharing, staff are inspired to adapt and customise various initiatives into their teaching and learning. 
+We also recognise our staff for their innovative efforts through the HS Changemakers of the Month and the HS Star Innovators of the Year Awards. 
 
-Innovative entries in the portal are assessed monthly by a panel and ‘InnoStars’ are awarded for each entry using a set of FIDS-referenced rubrics. Staff are constantly recognised via the HS ChangeMaker! of the Month award and the HS Star Innovator! of the Year award. 
+Every year, we receive 200 – 300 innovation entries in our portal. Our innovation efforts have also moved towards innovation excellence as we submit higher quality projects.
 
-Selected entries and best practices are presented across many platforms such as ‘Message of the Day (MOTD)’, ‘Challenge the Process’ during staff contact time and ‘HS Learning Festival’. Staff also collaborate actively during presentations by providing their feedback to the presenters to improve further, so as to reach innovation excellence.
+![](/images/InnoSpace/innospace9.jpg)
+*2023 MOE Innergy and OIA Nominees*
 
-![](/images/Photo%2011.jpeg)
-<center> InnoNews Portal</center>
-
-![](/images/Photo%2012.jpeg)
-<center> Message Of The Day (MOTD)</center>
-
-![](/images/Photo%2013.jpeg)
-<center> HS ChangeMaker presenting during ‘Challenge the Process’</center>
-
-![](/images/Photo%2014.jpeg)
-<center> HS ChangeMaker presenting during HS Learning Festival</center>
-
-![](/images/Photo%2015.jpeg)
-<center> Staff trying out experiential activity during HS Learning Festival</center>
+Last year in 2022, we were grateful to receive the recognition for our innovation efforts through MOE Innergy Commendation Award for the entry –  Virtual History Museum Guided Tour on SLS, by the Humanities Department. 
