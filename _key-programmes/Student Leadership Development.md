@@ -117,3 +117,4 @@ Hougang Secondary implements a two-pronged approach to encourage the hearts of s
 The first prong is reflection, which is designed to help student leaders review the programmes they have organised and identify areas for improvement. To do this, students use the "What? So What? Now What?" reflection model (Gibbs, 1988), which is a structured way of reflecting on experiences and learning from them. 
 
 ![](/images/Student%20Leadership/student%20leadership%204.jpg)
+Image Credit: https://www.fearlessculture.design/blog-posts/what-so-what-now-what
