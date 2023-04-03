@@ -12,7 +12,7 @@ Our HS staff regularly shares their best innovation practices through various pl
 *Challenge the Process (Staff Contact Time)*
 
 ![](/images/InnoSpace/innospace8.jpg)
-*InnoBuzz – Infographic Newsletter *
+*InnoBuzz – Infographic Newsletter*
 
 Through these sharing, staff are inspired to adapt and customise various initiatives into their teaching and learning. 
 We also recognise our staff for their innovative efforts through the HS Changemakers of the Month and the HS Star Innovators of the Year Awards. 
@@ -22,4 +22,4 @@ Every year, we receive 200 – 300 innovation entries in our portal. Our innovat
 ![](/images/InnoSpace/innospace9.jpg)
 *2023 MOE Innergy and OIA Nominees*
 
-Last year in 2022, we were grateful to receive the recognition for our innovation efforts through MOE Innergy Commendation Award for the entry –  Virtual History Museum Guided Tour on SLS, by the Humanities Department. 
+Last year in 2022, we were grateful to receive the recognition for our innovation efforts through MOE Innergy Commendation Award for the entry –  Virtual History Museum Guided Tour on SLS, by the Humanities Department.
