@@ -27,3 +27,4 @@ The school's leadership programme is grounded in the philosophy that **leadershi
 ![](/images/Student%20Leadership/student%20leadership%203.jpg)
 Image credit: https://www.drtinatalkswork.com/the-leadership-challenge
 
+A comprehensive training program has been developed to equip student leaders with the necessary skills and knowledge to succeed. 
