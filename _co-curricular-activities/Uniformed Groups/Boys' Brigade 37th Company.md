@@ -52,15 +52,17 @@ To nurture Youth, based on sound values, to lead and serve
 
 ### Leadership Structure
 
-*   SSGT Leow Peng Siang (Company Sergeant Major)
-*   SSGT Tan Hong Yu (Assistant CSM)
-*   SSGT Bryan Tang (Squad Leader)
-*   SSGT Lim Hock Long (Squad Leader)
-*   SSGT Wang Rong (Squad Leader)
-*   SGT Javier Wong (Logistics IC)
-*   CPL Ong Jing Kai (Media IC, Assistant Squad Leader)
-*   CPL Reeman (Assistant Squad Leader)
-*   CPL Jerome Neo (Assistant Squad Leader)
+* SGT Ong Jing Kai (Company Sergeant Major)
+* SGT Neo Shao Feng Jerome (Assistant CSM)
+* SGT Sean Pheh Jin Kang (Squad Leader)
+* SGT Venkatesan Bagavathreeman (Squad Leader)
+* SGT Kwong Bing Chen (Squad Leader)
+* SGT Lin Yitong (Logistics IC)
+* SGT Elliot Loh Sheng Qi (Treasurer)
+* SGT Mavrick Yow Bo Zheng (Social Media IC)
+* CPL Ee Jia Le Nicholas (Assistant Squad Leader)
+* CPL Zulkifl Bin Mohd Nazrie (Assistant Squad Leader)
+
 
 ### Training Venue and Days
 
