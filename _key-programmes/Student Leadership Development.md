@@ -28,3 +28,82 @@ The school's leadership programme is grounded in the philosophy that **leadershi
 Image credit: https://www.drtinatalkswork.com/the-leadership-challenge
 
 A comprehensive training program has been developed to equip student leaders with the necessary skills and knowledge to succeed.
+
+<table width="714" border="Yes">
+<tbody>
+<tr>
+<td width="75">
+<p><strong>&nbsp;</strong></p>
+</td>
+<td width="192">
+<p><strong>Student Group</strong></p>
+</td>
+<td width="447">
+<p><strong>Planned Training</strong></p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p><strong>Tier 1</strong></p>
+</td>
+<td width="192">
+<ul>
+<li>All Students</li>
+</ul>
+</td>
+<td width="447">
+<p>Cohort Training on being a Community Youth Leader</p>
+<p>a)&nbsp;&nbsp;&nbsp; Sec 1 – Taking Personal Action</p>
+<p>b)&nbsp;&nbsp;&nbsp; Sec 2 – Raising Awareness</p>
+<p>c)&nbsp;&nbsp;&nbsp; Sec 3 – Advocating for a Cause</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="75">
+<p><strong>Tier 2</strong></p>
+</td>
+<td width="192">
+<ul>
+<li>Class Committee</li>
+<li>CCA Comm/ Exco</li>
+<li>VIA Leaders</li>
+</ul>
+</td>
+<td width="447">
+<p>Role-specific Leadership Training</p>
+<p>a)&nbsp;&nbsp;&nbsp; Leadership Training focuses on how students can “Model the Way”, “Enable Others to Act” and “Encourage the Heart” in their specific roles</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td width="75" rowspan="2">
+<p><strong>Tier 3</strong></p>
+</td>
+<td width="192" rowspan="2">
+<ul>
+<li>Student Council</li>
+<li>Peer Support Leaders</li>
+<li>Class Monitors</li>
+<li>CCA Leaders</li>
+</ul>
+</td>
+<td width="447">
+<p>Customised LCM Training based on Training Experience</p>
+<p>a)&nbsp;&nbsp;&nbsp; Year 1 Focus: Self-Leadership</p>
+<p>b)&nbsp;&nbsp;&nbsp; Year 2 Focus: Team-Leadership</p>
+</td>
+</tr>
+<tr>
+<td width="447">
+<p>Contextualized Training based on Student Leader Roles</p>
+<p>a)&nbsp;&nbsp;&nbsp; Class Monitors: Discovering Group Dynamics, Managing Conflicts (Context: Leading Class Committee)</p>
+<p>b)&nbsp;&nbsp;&nbsp; Sec 2 Peer Support Leaders: Discovering Group Dynamics, Managing Conflicts (Context: Supporting Peers in and beyond classroom activities)</p>
+<p>c)&nbsp;&nbsp;&nbsp; Sec 2 Student Councilors: Project Management</p>
+<p>d)&nbsp;&nbsp;&nbsp; Sec 3 CCA Leaders + Sec 3 Student Councilors &amp; Sec 3 Peer Support Leaders: Enabling Others to Act and Inspiring a Shared Vision</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
