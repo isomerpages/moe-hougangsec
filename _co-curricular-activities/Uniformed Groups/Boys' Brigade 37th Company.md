@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/boys-brigade-37th-company/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/rLZpVbO6qY8" title="2022 Boys' Brigade Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Boys' Brigade Open House" src="https://www.youtube.com/embed/rLZpVbO6qY8" height="315" width="830"></iframe></center>
 
 ![](/images/boys%20brigade-lower%20i.jpeg)
 ![](/images/boys%20brigade-upper%20i.jpeg)
@@ -77,4 +77,4 @@ Find us here!&nbsp;[https://www.instagram.com/37thbb\_hss/](https://www.instagra
 
 ### Programmes and Activities
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSotnS7SAIF8I6sO2JeTmyH1xnCy4Y-8LCxPV0hXkhYmqI6_f-CRa2P03MdZMyjSMhCGKRFBoNXK6fF/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUX6o2uyr-lF7j_QF4Z1PX5qFJNMODB3phKF0M-ZVpmnkGdvoRPAKdJc-FFMwv-7ODJ_T_8qXKsEhT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
