@@ -18,5 +18,9 @@ At Tier 1, all students undergo the Community Youth Leadership programme, which 
 
 At Tier 2, students can take on leadership roles in their respective class committees, CCA committees, and VIA (Values-In-Action) leadership positions. By taking on these roles, students can develop and refine their leadership abilities, enabling them to make a positive impact on their classmates and CCA members beyond their individual selves.
 
-At Tier 3, selected students are given the opportunity to lead the school as Student Councillors, Peer Support Leaders, Class Monitors, or CCA Leaders. These positions require a higher level of leadership skills and provide students with more significant responsibilities and opportunities to impact their school community  and beyond. 
+At Tier 3, selected students are given the opportunity to lead the school as Student Councillors, Peer Support Leaders, Class Monitors, or CCA Leaders. These positions require a higher level of leadership skills and provide students with more significant responsibilities and opportunities to impact their school community  and beyond.
+
+### Enriching Minds - Cultivate Competencies
+
+The school's leadership programme is grounded in the philosophy that **leadership can be learned, nurtured, and developed over time**, which is consistent with the work of Kouzes and Posner (2002) and their Leadership Challenge Model (LCM). The programme focuses on the importance of behaviors and values, with a specific focus on five key practices: modeling the way, inspiring a shared vision, challenging the process, enabling others to act, and encouraging the heart. By emphasizing these practices, the programme seeks to cultivate leadership skills in all students.
 
