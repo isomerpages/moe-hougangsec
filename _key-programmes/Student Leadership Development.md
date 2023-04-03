@@ -29,7 +29,7 @@ Image credit: https://www.drtinatalkswork.com/the-leadership-challenge
 
 A comprehensive training program has been developed to equip student leaders with the necessary skills and knowledge to succeed.
 
-<table width="714" border="Yes">
+<table border="Yes" width="714">
 <tbody>
 <tr>
 <td width="75">
@@ -77,10 +77,10 @@ A comprehensive training program has been developed to equip student leaders wit
 </td>
 </tr>
 <tr>
-<td width="75" rowspan="2">
+<td rowspan="2" width="75">
 <p><strong>Tier 3</strong></p>
 </td>
-<td width="192" rowspan="2">
+<td rowspan="2" width="192">
 <ul>
 <li>Student Council</li>
 <li>Peer Support Leaders</li>
@@ -107,3 +107,5 @@ A comprehensive training program has been developed to equip student leaders wit
 </tbody>
 </table>
 <p>&nbsp;</p>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRGp3jxF8tSMFTCp0VeG-HnE3pDbNZfQLGMNQbq-6JqfCOSvmpkC3ZhbBCetQzQkVEQsU1bpK_OXiik/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true"></iframe>
