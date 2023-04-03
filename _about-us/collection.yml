@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - faq.md
       - Principal’s Message.md
       - About HS.md
       - School History.md
