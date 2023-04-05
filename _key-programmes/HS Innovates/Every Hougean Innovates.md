@@ -66,7 +66,7 @@ An example would be our Singaporean students who identified water scarcity as a 
 
 A second example would be the students from India who shared that they do not have pen refills readily available for them and they find that the single-used pens contribute significantly to the plastic wastage in their school. By hearing from our Singaporean students, they considered the use of a plant-able pen, as well as the possibility of a pen refill dispenser that allows them to reuse their pens. 
 
-![](/images/InnoSpace/innospace3.jpg)
+![](/images/InnoSpace/e-innoviation.jpg)
 *Finalised projects from our Asia counterparts*
 
 ### STEM
