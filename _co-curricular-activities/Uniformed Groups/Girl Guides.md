@@ -29,7 +29,6 @@ To enable girls and young women to develop their fullest potential as responsibl
 ### CCA Leadership Structure
 
 **Company Leader:** Elise Ng (3N)  
-
 **Assistant Company Leader**: Nur Amalina Binte Basri (3H)   
 **Assistant Company Leader**: Sherryn Soh Si Xuan (3O)   
 **Patrol Leader**: Dania Humaira Binte Muhammad Rizal (3A)  
@@ -98,10 +97,10 @@ The Five-Point Programme forms the foundation for Guiding in Singapore. Girls de
 
 ### Training Venue and Days
 **Day:**&nbsp;Tuesday &amp; Friday   
-**Time:**&nbsp;3.15 pm - 5.15 pm (Tue) / 1.30 pm - 4.00 pm (Fri)    
+**Time:**&nbsp;3.30 pm - 5.30 pm (Tue) / 1.30 pm - 4.00 pm (Fri)    
 **Venue:**&nbsp;School Compound
 
   
 
 <u>Values-in-Action (VIA):</u>  
-Weekly VIA at AWWA on Tuesdays
+VIA on some Tuesdays
