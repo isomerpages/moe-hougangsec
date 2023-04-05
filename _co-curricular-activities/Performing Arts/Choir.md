@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/v_Mne8hhMTk" title="2022 Choir Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<iframe width="830" height="315" src="https://www.youtube.com/embed/v_Mne8hhMTk" title="2022 Choir Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ![](/images/choir-upper%20i.jpeg)
 ![](/images/choir-lower%20i.jpeg)
