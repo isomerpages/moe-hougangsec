@@ -19,7 +19,7 @@ We also recognise our staff for their innovative efforts through the HS Changema
 
 Every year, we receive 200 – 300 innovation entries in our portal. Our innovation efforts have also moved towards innovation excellence as we submit higher quality projects.
 
-![](/images/InnoSpace/innospace9.jpg)
+![](/images/InnoSpace/recognition.png)
 *2023 MOE Innergy and OIA Nominees*
 
 Last year in 2022, we were grateful to receive the recognition for our innovation efforts through MOE Innergy Commendation Award for the entry –  Virtual History Museum Guided Tour on SLS, by the Humanities Department.
