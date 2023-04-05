@@ -4,6 +4,11 @@ permalink: /co-curricular-activities/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/v_Mne8hhMTk" title="2022 Choir Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+
+![](/images/choir-upper%20i.jpeg)
+![](/images/choir-lower%20i.jpeg)
+
 ### CHOIR - Voices of Joy
 
 The goal of the choir are that the&nbsp;members strive for excellence, exhibit&nbsp;the school values - Gratitude, Respect,&nbsp;Ingenuity and Trustworthiness and&nbsp;bless and bring joy to others together&nbsp;as a team. Thus, the choir is also&nbsp;known as "Voices of Joy". Students&nbsp;performed for others during the exchange&nbsp;programmes.
