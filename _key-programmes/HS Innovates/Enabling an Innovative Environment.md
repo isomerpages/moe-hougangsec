@@ -32,7 +32,7 @@ These innovative ideas are then developed into HS Innovation Initiatives. In 201
 The HS Umbrella-Sharing initiative aims to spread kindness and gratitude in HS through the act of sharing umbrellas.&nbsp;
 
 
-It was conceived through feedback from the HS Student Voice and through the HS Innovation Challenge, to address the need for umbrellas during rainy days. The idea sprung from two young innovators – Jimmy Tan (3A1 | 2019) and Tricia Kok (4A2 | 2019).
+It was conceived through feedback from the HS Student Voice and through the HS Innovation Challenge, to address the need for umbrellas during rainy days. The idea sprung from two young innovators – Jimmy Tan (3A1/2019) and Tricia Kok (4A2/2019).
 
 InnoChamps, HS Young Innovators and Student Councillors worked collaboratively to design and materialise this ground-up initiative for the HS Community. More than 80 umbrellas were donated from HS stakeholders, namely students, staff and parents.
 
