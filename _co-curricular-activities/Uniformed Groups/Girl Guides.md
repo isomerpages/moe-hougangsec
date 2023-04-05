@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/9rt5SeC9I20" title="2022 Girl Guides Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/9rt5SeC9I20" title="2022 Girl Guides Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 ![](/images/girl%20guides-lower%20i.jpeg)
 ![](/images/girl%20guides-upper%20i.jpeg)
@@ -28,19 +28,23 @@ To enable girls and young women to develop their fullest potential as responsibl
 
 ### CCA Leadership Structure
 
-**Company Leader:** Lam Ting Ting Sally (3E2)  
+**Company Leader:** Elise Ng (3N)  
 
-**Assistant Company Leader:** Edith Yeo Yon Yee (3E1)   
-**Patrol Leader:** Jolyn Lim Xuan (3A1)   
-**Patrol Leader:** Jean Goh Zhen Wei (3A1)    
-**Patrol Leader:** Wong Wei Xuan, Ashley (3A3)   
-**Patrol Leader:** Tan Pei Ling Katherine (3A3)   
-**Patrol Leader:** Tng Zi Hui, Janie (3E2)    
-**Patrol Second**: Toh Jia Ying (3T1)   
-**Patrol Second:** Sharon Lye Shu Ting (3T1)   
-**Patrol Second**: Kelly Goh Keli (3E5)   
-**Patrol Second:** Foong Szee Wei (3E5)   
-**Patrol Second:** Heng Jia Xin (3A1)
+**Assistant Company Leader**: Nur Amalina Binte Basri (3H)   
+**Assistant Company Leader**: Sherryn Soh Si Xuan (3O)   
+**Patrol Leader**: Dania Humaira Binte Muhammad Rizal (3A)  
+**Patrol Leader**: Koh Jia Xi (3A)  
+**Patrol Leader**: Afiah Hamizah Binte Abdul Hamid (3G)  
+**Patrol Leader**: Claire Lee Wen Xuan (3H)  
+**Patrol Leader**: Janella Teh Jing’Er(3N)  
+**Patrol Leader**: Kong Zi Ting (3O)  
+**Patrol Second**: Tan Xin En Carrie (2A)  
+**Patrol Second**: Trisha Leeann Low Rui Ting (2A)  
+**Patrol Second**: Ng Jia Qi Jovie (2E)  
+**Patrol Second**: Woon Jia En, Denise (2E)  
+**Patrol Second**: Amirah Hazirah Binte Nor Isman (2G)   
+**Patrol Second**: Alexia Ho Si Ying (2U)
+
 
 ### Teachers In-Charge
 *   Liang Qi Di (OIC)
@@ -48,9 +52,9 @@ To enable girls and young women to develop their fullest potential as responsibl
 *   Jane Koh Bao Ru
 
 ### Programmes
-The Five-Point Programme forms the foundation for Guiding in Singapore. Girls develop valuable leadership and life skills in five areas: Personal & Social Development, Outdoors, Home, Community and International.
+The Five-Point Programme forms the foundation for Guiding in Singapore. Girls develop valuable leadership and life skills in five areas: Personal &amp; Social Development, Outdoors, Home, Community and International.
 
-**Personal & Social Development**
+**Personal &amp; Social Development**
 *   Leadership Development
 *   Organisation Skills
 *   Teamwork
@@ -61,8 +65,8 @@ The Five-Point Programme forms the foundation for Guiding in Singapore. Girls de
 **Home**
 *   Housekeeping
 *   Thrift
-*   Household Security & Safety
-*   Healthy Eating & Cooking
+*   Household Security &amp; Safety
+*   Healthy Eating &amp; Cooking
 *   First Aid
 *   Hostess
 
@@ -93,9 +97,9 @@ The Five-Point Programme forms the foundation for Guiding in Singapore. Girls de
 *   Adventure
 
 ### Training Venue and Days
-**Day:** Tuesday & Friday   
-**Time:** 3.15 pm - 5.15 pm (Tue) / 1.30 pm - 4.00 pm (Fri)    
-**Venue:** School Compound
+**Day:**&nbsp;Tuesday &amp; Friday   
+**Time:**&nbsp;3.15 pm - 5.15 pm (Tue) / 1.30 pm - 4.00 pm (Fri)    
+**Venue:**&nbsp;School Compound
 
   
 
