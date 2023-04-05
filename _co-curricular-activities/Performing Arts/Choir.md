@@ -4,10 +4,9 @@ permalink: /co-curricular-activities/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-<iframe width="830" height="315" src="https://www.youtube.com/embed/v_Mne8hhMTk" title="2022 Choir Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xxjiC7tFfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>  
 
-![](/images/choir-upper%20i.jpeg)
-![](/images/choir-lower%20i.jpeg)
+**Sec 1 and 3 students’ performance of Never Ending Story**
 
 ### CHOIR - Voices of Joy
 
@@ -80,5 +79,4 @@ Sec 2 students preparing for the Values-in-Action painting activity for the Mid-
 ![](/images/Choir/Choir%202.jpg)
 
 
-**Sec 1 and 3 students’ performance of Never Ending Story**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8xxjiC7tFfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
