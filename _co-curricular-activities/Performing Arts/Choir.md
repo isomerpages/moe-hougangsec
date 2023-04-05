@@ -4,14 +4,9 @@ permalink: /co-curricular-activities/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/v_Mne8hhMTk" title="2022 Choir Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
-![](/images/choir-upper%20i.jpeg)
-![](/images/choir-lower%20i.jpeg)
-
 ### CHOIR - Voices of Joy
 
-The goal of the choir are that the members strive for excellence, exhibit the school values - Gratitude, Respect, Ingenuity and Trustworthiness and bless and bring joy to others together as a team. Thus, the choir is also known as "Voices of Joy". Students performed for others during the exchange programmes.
+The goal of the choir are that the&nbsp;members strive for excellence, exhibit&nbsp;the school values - Gratitude, Respect,&nbsp;Ingenuity and Trustworthiness and&nbsp;bless and bring joy to others together&nbsp;as a team. Thus, the choir is also&nbsp;known as "Voices of Joy". Students&nbsp;performed for others during the exchange&nbsp;programmes.
 
 ### Mission
 
@@ -68,9 +63,9 @@ Ting Xian Ya, 3O
 
 ### Training Venue and Days
 
-**Day:** Tuesday & Friday   
-**Time:** 3.30 pm - 5.30 pm (Tue) / 1.15 pm - 3.15 pm (Fri)   
-**Venue:** Library
+**Day:**&nbsp;Tuesday &amp; Friday   
+**Time:**&nbsp;3.30 pm - 5.30 pm (Tue) / 1.15 pm - 3.15 pm (Fri)   
+**Venue:**&nbsp;Library
 
 ### Photographs
 
@@ -81,4 +76,4 @@ Sec 2 students preparing for the Values-in-Action painting activity for the Mid-
 
 
 **Sec 1 and 3 students’ performance of Never Ending Story**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8xxjiC7tFfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xxjiC7tFfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
