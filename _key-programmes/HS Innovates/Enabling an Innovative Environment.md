@@ -38,8 +38,6 @@ InnoChamps, HS Young Innovators and Student Councillors worked collaboratively t
 
 <center><b>HS Learning Pod</b></center>
 
-
-
 The idea was conceived by two young innovators - Lew Yee Jiun (1E2 | 2019) and Lim Shi Xuan (2A2 | 2019), through the HS Innovation Challenge.&nbsp;
 
 ![](/images/InnoSpace/learningport%201.jpeg)
