@@ -8,10 +8,10 @@ third_nav_title: HS Innovates
 
 Our HS staff regularly shares their best innovation practices through various platforms, such as Challenge the Process during staff contact time, InnoBuzz – our infographic newsletter showcasing all innovation programmes, as well as through the HS Learning Festival. 
 
-![](/images/InnoSpace/innospace7.jpg)
+![](/images/InnoSpace/challenge%20the%20process.jpg)
 *Challenge the Process (Staff Contact Time)*
 
-![](/images/InnoSpace/innospace8.jpg)
+![](/images/InnoSpace/2023%20term%201%20innobuzz.png)
 *InnoBuzz – Infographic Newsletter*
 
 Through these sharing, staff are inspired to adapt and customise various initiatives into their teaching and learning. 
