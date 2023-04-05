@@ -38,9 +38,10 @@ InnoChamps, HS Young Innovators and Student Councillors worked collaboratively t
 
 <center><b>HS Learning Pod</b></center>
 
+
+
 HS Learning Pod initiative aims to provide vibrant learning spaces in HS to enhance school experience for Hougeans.&nbsp;
 
-  
 
 The idea was conceived by two young innovators - Lew Yee Jiun (1E2 | 2019) and Lim Shi Xuan (2A2 | 2019), through the HS Innovation Challenge.&nbsp;
 
