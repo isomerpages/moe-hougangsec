@@ -77,6 +77,3 @@ Sec 2 students preparing for the Values-in-Action painting activity for the Mid-
 
 ![](/images/Choir/Choir%201.jpg)
 ![](/images/Choir/Choir%202.jpg)
-
-
-
