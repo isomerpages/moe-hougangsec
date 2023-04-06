@@ -39,7 +39,7 @@ To play with heart, mind and grit and be an inspiration to Hougeans.
 
 ### CCA Leadership Structure
 ##### B’ DIVISION (2022/2023)  
-**Boys Team**
+**Boys Team**  
 **Captain**: Raimy Huzaimy (4E)  
 **Vice-Captain**: Muhammad Harith (4O)  
 **VIA Leaders**: Danial Hakim (4E), Hyder Shaqeel (4O)  
@@ -47,7 +47,7 @@ To play with heart, mind and grit and be an inspiration to Hougeans.
 **Fitness IC**: Dylan Siah (4S)  
 **Logistics IC**: Aadam Muhammad Izzat Irfan (4G)  
 
-**Girls Team**
+**Girls Team**  
 **Captain**: Dana Lim (4U)  
 **Vice-Captain**: Koh Shu Han (4U)  
 **VIA Leaders:** Megan Lim (4H), Bianca (4O)  
@@ -55,13 +55,13 @@ To play with heart, mind and grit and be an inspiration to Hougeans.
 **Fitness &amp; Logistics IC**: Nur Adriana (4S)  
 
 ##### B’ DIVISION (2023/2024)
-Boys Team
-Captain: Ilhan Hakimi (3A)
-Vice-Captain: Kieran Khaw (3U)
-VIA Leader: Dominic Kyle (2E)
-Treasurer / Events IC: Muhammad Arman (3N)
-Fitness IC: Nigel Teo (3A)
-Logistics IC: Francisco Matthew Lewis (3G)
+**Boys Team**  
+**Captain**: Ilhan Hakimi (3A)
+**Vice-Captain**: Kieran Khaw (3U)
+**VIA Leader**: Dominic Kyle (2E)
+**Treasurer / Events IC**: Muhammad Arman (3N)
+**Fitness IC**: Nigel Teo (3A)
+**Logistics IC**: Francisco Matthew Lewis (3G)
 
 **Girls Team**  
 **Captain**: Cherlyn Fan (3H)  
