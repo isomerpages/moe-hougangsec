@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/9rt5SeC9I20" title="2022 Girl Guides Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
-
-![](/images/girl%20guides-lower%20i.jpeg)
-![](/images/girl%20guides-upper%20i.jpeg)
-
+  
 
 ### Introduction
 
