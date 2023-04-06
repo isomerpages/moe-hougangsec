@@ -6,9 +6,6 @@ third_nav_title: Uniformed Groups
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2021 Open House GB ver 2" src="https://www.youtube.com/embed/Yu6wV4n_ggE" height="315" width="830"></iframe></center>
 
-![](/images/girls%20brigade-lower%20i.jpeg)
-![](/images/girls%20brigade-upper%20i.jpeg)
-
 ### Introduction
 
 The 86th Company started at Hougang Secondary School in 2012. The Company is committed to nurture girls to grow in character and stature, and lead enriching lives. The Company’s programme includes varied events and activities to help our Girls explore their interests, cultivate healthy and meaningful pursuits, develop care for one another and the community, and learn leadership skills to lead others.  
