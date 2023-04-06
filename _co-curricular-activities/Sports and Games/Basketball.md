@@ -4,16 +4,16 @@ permalink: /co-curricular-activities/Sports-and-Games/basketball/
 description: ""
 third_nav_title: Sports and Games
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/KL1KZDuv80I" title="2022 Basketball Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/KL1KZDuv80I" title="2022 Basketball Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 ![](/images/bb1.jpeg)
 ![](/images/bb2.jpeg)
 
-Basketball is a team sport that requires everyone to be a good team player. The importance of teamwork and discipline is highly emphasised during all trainings and activities. 
+Basketball is a team sport that requires everyone to be a good team player. The importance of teamwork and discipline is highly emphasised during all trainings and activities.&nbsp;
 
   
 
-The team is committed to apply the lessons learnt on the court to their daily lives as well – to bring their fighting spirit to their studies and to pursue excellence in life. With basketball as a platform, students learn how to work effectively as a team, develop sportsmanship and resilience, experience the tangible success of hard work and discipline – and of course, build their physical and mental strength.    
+The team is committed to apply the lessons learnt on the court to their daily lives as well – to bring their fighting spirit to their studies and to pursue excellence in life. With basketball as a platform, students learn how to work effectively as a team, develop sportsmanship and resilience, experience the tangible success of hard work and discipline – and of course, build their physical and mental strength. &nbsp;  
   
 While the physical and skill trainings are important, the team also values working together to serve the community. Through the various VIA programmes, the students get to not only apply the values and skills learnt, but in a meaningful and purposeful way.
 
@@ -40,27 +40,40 @@ One Team, One Goal
 ### Achievements
 *   North Zone B Division Championships 2018: Advanced to the Second Round and finished 3rd in the group
 *   North Zone C Division Championship 2022: Advanced to the Second Round
+*   North Zone B Division Championship 2023: Advanced to the Second Round
 
 ### CCA Leadership Structure
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-citn"><span style="font-weight:bold">Leadership Structure:</span><br><span style="font-weight:bold;background-color:initial">B Division (2022)</span><span style="font-weight:bold">Captain</span><span style="font-weight:bold;background-color:initial">:</span><span style="background-color:initial"> </span><span style="color:#333">Anirudh Karthik (3G)</span><br><span style="font-weight:bold">Vice-Captain</span><span style="font-weight:bold;background-color:initial">: </span><span style="color:#333">Ernest Jong Dick Chian (3U)</span><br><br><span style="font-weight:bold;background-color:initial">C Division (2022)</span><br><span style="font-weight:bold">Captain</span><span style="font-weight:bold;background-color:initial">:</span><span style="background-color:initial"> </span><span style="color:#333">Gleo Low (Liu Zhiying) (2U)</span><br><span style="font-weight:bold">Vice-Captain</span><span style="font-weight:bold;background-color:initial">: </span><span style="color:#333">Joshua Neo Jun Jie (2H)</span><br><br><span style="font-weight:bold">VIA Leaders (Upper Sec): </span><span style="color:#333">Azz Riyan Bin Abdul Aziz (3A)</span><br><span style="font-weight:bold">VIA Leaders (Lower Sec)</span><span style="font-weight:bold;background-color:initial">:</span><span style="background-color:initial"> Samuel Tan Jun Jie (2G) </span><br><span style="font-weight:bold">Logistics Head (Upper Sec)</span><span style="font-weight:bold;background-color:initial">:</span><span style="background-color:initial"> </span><span style="color:#333">Chen Junxiang (3O)</span><br><span style="font-weight:bold">Logistics Head (Lower Sec)</span><span style="font-weight:bold;background-color:initial">:</span><span style="background-color:initial"> </span><span style="color:#333">Guo Yiran (2A)</span><br><br><span style="font-weight:bold">Publicity Head (Upper Sec)</span><span style="font-weight:bold;background-color:initial">:</span><span style="background-color:initial"> </span><span style="color:#333">Koo Zhe Rui (3E)</span><br><span style="font-weight:bold">Publicity Head (Lower Sec)</span><span style="font-weight:bold;background-color:initial">:</span><span style="background-color:initial"> </span><span style="color:#333">Ang Fu Ping (2H)</span><br><br><span style="font-weight:bold">Physical Training Head (Upper Sec)</span><span style="font-weight:bold;background-color:initial">:</span><span style="background-color:initial"> </span><span style="color:#333">Lee Boon Yee (3S)</span><br><span style="font-weight:bold">Physical Training Head (Lower Sec)</span><span style="font-weight:bold;background-color:initial">: </span><span style="color:#333">Enson Li Ruizhi (2H)</span><br><br><span style="font-weight:bold">Discipline Head</span><span style="font-weight:bold;background-color:initial"> (Upper Sec): </span><span style="background-color:initial">Tan Zhen Hui Wayne (3E)</span><br><span style="font-weight:bold;background-color:initial">Discipline Head (Lower Sec): </span><span style="background-color:initial">Chew Jun Zhe Justin (2E)</span><br><br><br><br></td>
-    <td class="tg-rdtm">Leadership Opportunities:<br><span style="font-weight:400;color:#333">C &amp; B Division Captain</span><br><br><span style="font-weight:400;color:#333">C &amp; B Division Vice-Captain</span><br><br><span style="font-weight:400;color:#333">VIA Leaders</span><br><br><span style="font-weight:400;color:#333">EXCO Committee (Upper and Lower Sec)</span><br><br><span style="font-weight:400;color:#333">Logistics Head</span><br><br><span style="font-weight:400;color:#333">Publicity Head</span><br><br><span style="font-weight:400;color:#333">Physical Training Head</span><br><br><span style="font-weight:400;color:#333">Discipline Head</span><br></td>
-  </tr>
-</tbody>
-</table>
+**B Division (****_2023_****)**  
+**Captain:**&nbsp;**Nikhil Santhosh (3N)**  
+**Vice-Captain:**&nbsp;Gleo Low (Liu Zhiying) (3U)  
+  
+**C Division (****2023****)**  
+**Captain:**&nbsp;Ng Jun Xiang (2G)
+**Vice-Captain:**&nbsp;Tan Jiakang, Cody (2A)  
+  
+**VIA Leaders (Upper Sec):**&nbsp;Samuel Tan Jun Jie (3G)
+**VIA Leaders (Lower Sec):**&nbsp;Lewis Loo Cheng Feng (2A)
 
+**Logistics Head (Upper Sec):**&nbsp;Guo Yiran (3A)  
+**Logistics Head (Lower Sec):**&nbsp;Pang Kai Jun, Torres (2N)  
+  
+**Publicity Head (Upper Sec):**&nbsp;Ang Fu Ping (3H)
+**Publicity Head (Lower Sec):**&nbsp;Go Jing Yan (2H)  
+**Physical Training Head (Upper Sec):**&nbsp;Enson Li Ruizhi (3H)  
+**Physical Training Head (Lower Sec):**&nbsp;Chong Yu Zhe (2N)  
+**Discipline Head&nbsp;(Upper Sec):**&nbsp;Chew Jun Zhe Justin (3E)  
+**Discipline Head (Lower Sec):**&nbsp;Neo Hsu Jay (2H)
+
+**Leadership Opportunities:**  
+C &amp; B Division Captain  
+C &amp; B Division Vice-Captain  
+VIA Leaders  
+EXCO Committee (Upper and Lower Sec)  
+Logistics Head  
+Publicity Head  
+Physical Training Head  
+iscipline Head  
 
 ### Teachers In-charge
 
@@ -70,13 +83,13 @@ One Team, One Goal
 
 ### Training Venue and Days
 
-**Day:** Tuesday & Friday
+**Day:**&nbsp;Tuesday &amp; Friday
 
-**Time:**    
+**Time:**&nbsp;   
 3.30 pm - 5.30 pm (Tue)    
-3.00 pm - 5.30 pm (Fri)
+3.30 pm - 5.30 pm (Fri)
 
-**Venue:** Basketball Court / Indoor Sports Hall (ISH)
+**Venue:**&nbsp;Basketball Court / Indoor Sports Hall (ISH)
 
   
 
