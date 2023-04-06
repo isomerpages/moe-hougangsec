@@ -4,16 +4,22 @@ permalink: /co-curricular-activities/Sports-and-Games/floorball/
 description: ""
 third_nav_title: Sports and Games
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/YfXCFszSLgE" title="2022 Floorball Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/YfXCFszSLgE" title="2022 Floorball Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 ![](/images/flb1.jpeg)
 ![](/images/flb2.jpeg)
 
-We are inspired, motivated and dedicated in our CCA to give only the BEST!  
+We are inspired, passionate and dedicated in Floorball and strive to give our BEST!
 
-### Motto
+### Motto  
+Play with Passion, Lead with Dedication, Be an Inspiration.
 
-Inspired, motivated and dedicated
+### VISION
+We aim to nurture all-rounded passionate, dedicated and inspiring floorballers and future leaders in the game, school and community.
+
+### MISSION
+To play with heart, mind and grit and be an inspiration to Hougeans.
+
 
 ### Programmes
 
@@ -45,13 +51,13 @@ Boys: Cap - Yeo Jia Yao 2T1
 *  Vicknesh S/O Kunnasekaran
 
 ### Training Venue and Days
-**Day**: Tuesday & Friday     
-**Time**: 
-3.30 pm - 5.30 pm (Tue)     
-Girls 1.30 - 3.30pm (Fri)   
- Boys 2.30 pm - 4.30 pm (Fri)
+**TRAINING DETAILS**  
+Tuesday: 3.30pm – 5.30pm (Boys &amp; Girls)      
+Friday: 1.30pm – 3.30pm (Girls)  
+Friday: 2.30pm – 4.30pm (Boys)
 
-**Venue**: BASKETBALL COURT/ ISH
+**Venue**: Indoor Sports Hall 
+
 
 ### Photographs
 
