@@ -4,7 +4,10 @@ permalink: /co-curricular-activities/Uniformed-Groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2021 Open House GB ver 2" src="https://www.youtube.com/embed/Yu6wV4n_ggE" height="315" width="830"></iframe></center>  
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2021 Open House GB ver 2" src="https://www.youtube.com/embed/Yu6wV4n_ggE" height="315" width="830"></iframe></center>
+
+![](/images/girls%20brigade-lower%20i.jpeg)
+![](/images/girls%20brigade-upper%20i.jpeg)
 
 ### Introduction
 
