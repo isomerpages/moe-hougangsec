@@ -56,12 +56,12 @@ To play with heart, mind and grit and be an inspiration to Hougeans.
 
 ##### B’ DIVISION (2023/2024)
 **Boys Team**  
-**Captain**: Ilhan Hakimi (3A)
-**Vice-Captain**: Kieran Khaw (3U)
-**VIA Leader**: Dominic Kyle (2E)
-**Treasurer / Events IC**: Muhammad Arman (3N)
-**Fitness IC**: Nigel Teo (3A)
-**Logistics IC**: Francisco Matthew Lewis (3G)
+**Captain**: Ilhan Hakimi (3A)  
+**Vice-Captain**: Kieran Khaw (3U)  
+**VIA Leader**: Dominic Kyle (2E)  
+**Treasurer / Events IC**: Muhammad Arman (3N)  
+**Fitness IC**: Nigel Teo (3A)  
+**Logistics IC**: Francisco Matthew Lewis (3G)  
 
 **Girls Team**  
 **Captain**: Cherlyn Fan (3H)  
