@@ -45,11 +45,11 @@ One Team, One Goal
 ### CCA Leadership Structure
 
 **B Division (****_2023_****)**  
-**Captain:**&nbsp;**Nikhil Santhosh (3N)**  
+**Captain:**&nbsp;Nikhil Santhosh (3N)  
 **Vice-Captain:**&nbsp;Gleo Low (Liu Zhiying) (3U)  
   
 **C Division (****2023****)**  
-**Captain:**&nbsp;Ng Jun Xiang (2G)
+**Captain:**&nbsp;Ng Jun Xiang (2G)  
 **Vice-Captain:**&nbsp;Tan Jiakang, Cody (2A)  
   
 **VIA Leaders (Upper Sec):**&nbsp;Samuel Tan Jun Jie (3G)
