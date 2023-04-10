@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8xxjiC7tFfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>  
 
-**Sec 1 and 3 students’ performance of Never Ending Story**
+**Students’ performance of Never Ending Story**
 
 ### CHOIR - Voices of Joy
 
