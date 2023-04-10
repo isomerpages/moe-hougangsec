@@ -60,7 +60,7 @@ Make the Difference
 ### Training Details
 
 **Day:**&nbsp;Tuesday &amp; Friday   
-**Time:**&nbsp;3.15 pm - 5.45 pm (Tue) and 1.30 pm - 4.30 pm (Fri)   
+**Time:**&nbsp;3.30 pm - 5.30 pm (Tue) and 1.30 pm - 4.30 pm (Fri)   
 **Venue:**&nbsp;VOICEBOX
 
 ### Photographs
