@@ -73,7 +73,7 @@ EXCO Committee (Upper and Lower Sec)
 Logistics Head  
 Publicity Head  
 Physical Training Head  
-iscipline Head  
+Discipline Head  
 
 ### Teachers In-charge
 
