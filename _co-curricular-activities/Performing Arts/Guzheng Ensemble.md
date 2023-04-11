@@ -108,3 +108,9 @@ Training Venue: AVA Room
 ### VIA
 
 ![](/images/GZ1.jpeg)
+
+
+### Ci Yuan Performance
+
+![](/images/Guzheng/ci%20yuan%20performance_group%20photo.jpeg)
+
