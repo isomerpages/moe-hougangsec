@@ -84,14 +84,9 @@ Singapore Youth Festival Arts Presentation:
 ### Training Venue and Days
 
 Training Days: Tuesday &amp; Friday   
-Training Times: 3.15 pm - 5.45 pm (Tue) / 1.30 pm – 5.15 pm (Fri)   
+Training Times: 3.15 pm - 5.45 pm (Tue) / 1.15 pm – 4.45 pm (Fri)   
 Training Venue: AVA Room
 
-  
-
-### Video
-
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Guzheng  Website publicity 2021" src="https://www.youtube.com/embed/jgFuCJ7dMU4" height="315" width="830"></iframe></center>
 
 ### SYF 2021 No 1 百花引
 
