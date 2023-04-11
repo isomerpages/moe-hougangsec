@@ -22,17 +22,14 @@ Mdm Dzafiirah Binte Mohammad Hakim 
 Miss Jane Koh
 
 **Nutrition and Food Science**   
-Mdm Azlinah Wahed    
+Mdm Azlinah Wahed (Subject Coordinator)    
 Mr Muhammad Nazirul Mubin  
 Mdm Tan Chan Jong   
-Miss Tan WeiJing  
+Ms Tan Wei Jing  
 
 **Music Unit**  
-Miss Jasmine Low Wee Kie (Subject Coordinator)   
-Mr Chia Huang Hao
-
+Miss Jasmine Low Wee Kie (Subject Coordinator) 
   
-
 **Technical Support Officers**   
 Mr Tangarajoo Marimuthu   
 Mr Mohammad Fauzi Bin Selamat
