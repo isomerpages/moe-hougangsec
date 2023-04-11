@@ -100,9 +100,9 @@ Training Venue: AVA Room
 
 ### SYF Photos
 
-![](/images/GZ-SYF1.jpeg)
+![](/images/Guzheng/gz-syf1a.png)
 
-![](/images/GZ-SYF2.jpeg)
+![](/images/Guzheng/syf%20photo%2028%20mar%202023.jpeg)
 
 
 ### VIA
