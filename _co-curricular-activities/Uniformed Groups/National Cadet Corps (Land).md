@@ -105,8 +105,8 @@ To serve with pride and dedication
 ### Teachers In-Charge
 
 *   Sean Oh Boon Chong (OIC)
+*   Philip Deepak  
 *   Azlinah B Wahed
-*   Philip Deepak
 *   Charles Wong Wai Kit
 
 ### Training Venue and Days
