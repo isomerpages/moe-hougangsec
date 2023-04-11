@@ -47,25 +47,27 @@ To serve with pride and dedication
 
 ### Leadership Structure
 
-**Unit Sergeant Major**:&nbsp;MSG Jonathan Tan Wan chye  
-**Assistant Unit Sergeant Major**: MSG Joel Ho Jun Yi  
-&nbsp;  
-**Junior Cadets Platoon Sergeant**:&nbsp;1G Darren Koh  
-**Junior Cadets Asst Platoon Sergeant**: 1SG Darren Lee 3SG Benjamin Tan, 3SG Marcus Lim  
-&nbsp;  
-**Senior Cadets Platoon Sergeant**:&nbsp;1SG Hagen Lim  
-**Senior Cadets Asst Platoon Sergeant**: 1SG Eng Yi Xun Sean, 3SG Chan Wei Feng, 3SG Randall Chow  
-&nbsp;  
+**Unit Sergeant Major**: Daryl Chua Meng Xun  
+**Assistant Unit Sergeant Major**: Lim Bo Le Eric   
+
+**Junior Cadets Platoon Sergeant**:  Goh Wei Chen 
+**Junior Cadets Asst Platoon Sergeant**: Tan Zi Yi Bryan,  Chen Hua Ao, Colin Chiang
+
+**Senior Cadets Platoon Sergeant**: Tristan Lee Zhen Ping   
+**Senior Cadets Asst Platoon Sergeant**: Su Jun Hong Lucas, Low Zhi Yik, Hiah Rui Feng Jayden  
+
 **Cadet Leaders Platoon Sergeant**:&nbsp;1SG Jamas Quek  
 **Cadet Leaders Asst Platoon Sergeant**: 1SG Muhammad Hidayat, 3SG Zachary Oh, 3SG Gavin Lui  
-&nbsp;  
-**Senior Cadet Leaders Platoon Sergeant**: MSG Joel Ho  
-**Senior**&nbsp;**Cadet Leaders Asst Platoon Sergeant**: 3SG Allie Lok  
-&nbsp;  
-**PTI**: 1SG Muhammad Hidayat, 1SG Darren Lee, 3SG Muhammad Affendi  
-&nbsp;  
-**Logistics &amp; Games IC**: 3SG Muhammad Nabil  
-**PDS IC:**&nbsp;3SG Lee Boon Quan&nbsp;  
+
+
+**Senior Cadet Leaders Platoon Sergeant**: Lim Bo Le Eric   
+**SeniorCadet Leaders Asst Platoon Sergeant**: Foo Yao Wen  
+
+**PTI**: Su Jun Hong Lucas, Goh Wei Chen, Chen Hua Ao  
+
+**Logistics &amp; Games IC**: Mohammed Izzan Bin Mohammed Salehin  
+
+**PDS IC:**: Daryl Chua Meng Xun  
 
 ### Key Programs for Junior Cadets (Sec 1)
 *   Affirmation Ceremony&nbsp;
