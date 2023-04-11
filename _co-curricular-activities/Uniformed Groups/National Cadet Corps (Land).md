@@ -107,10 +107,11 @@ To serve with pride and dedication
 
 ### Teachers In-Charge
 
-*   Sean Oh Boon Chong (OIC)
-*   Philip Deepak  
-*   Azlinah B Wahed
-*   Charles Wong Wai Kit
+•	Mr Sean Oh Boon Chong (OIC, TIC for Cadet Leaders )  
+•	Mr Philip Deepak (TIC for Senior Cadet Leaders)  
+•	Mdm Azlinah Wahed (TIC for Senior Cadets)  
+•	Mr Charles Wong (TIC for Junior Cadets)  
+
 
 ### Training Venue and Days
 
