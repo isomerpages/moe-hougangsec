@@ -113,3 +113,5 @@ Training Venue: AVA Room
 ### Ci Yuan Performance
 
 ![](/images/Guzheng/ci%20yuan%20performance_group%20photo.jpeg)
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kWkv5mypO7k" height="315" width="560"></iframe>
