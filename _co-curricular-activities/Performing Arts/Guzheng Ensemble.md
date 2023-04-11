@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/guzheng-ensemble/
 description: ""
 third_nav_title: Performing Arts
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/E4EV1b6Th_c" title="2022 Guzheng Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnM_EN-1VFisvQNpnwIVRZ0raEgS1ijN4V9JKm0KKFWOGXjFglrycIMfWxm6ytKeHW5sz6AsxIidnD/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### Motto
 
@@ -83,7 +83,7 @@ Singapore Youth Festival Arts Presentation:
 
 ### Training Venue and Days
 
-Training Days: Tuesday & Friday   
+Training Days: Tuesday &amp; Friday   
 Training Times: 3.15 pm - 5.45 pm (Tue) / 1.30 pm – 5.15 pm (Fri)   
 Training Venue: AVA Room
 
@@ -91,16 +91,16 @@ Training Venue: AVA Room
 
 ### Video
 
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/jgFuCJ7dMU4" title="Guzheng  Website publicity 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Guzheng  Website publicity 2021" src="https://www.youtube.com/embed/jgFuCJ7dMU4" height="315" width="830"></iframe></center>
 
 ### SYF 2021 No 1 百花引
 
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/q0LQdiTM8QE" title="HS GUZHENG GZS 030 SYF2021 NO 1 百花引" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="HS GUZHENG GZS 030 SYF2021 NO 1 百花引" src="https://www.youtube.com/embed/q0LQdiTM8QE" height="315" width="830"></iframe></center>
 
 
 ### SYF 2021 No 2 生 花
 
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/JTGi5w3FJ60" title="HS GUZHENG GZS 030 SYF2021 NO 2 生 花" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="HS GUZHENG GZS 030 SYF2021 NO 2 生 花" src="https://www.youtube.com/embed/JTGi5w3FJ60" height="315" width="830"></iframe></center>
 
 
 ### SYF Photos
