@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Sports-and-Games/football/
 description: ""
 third_nav_title: Sports and Games
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/Feg_Ruz81YM" title="2022 Football Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Football Open House" src="https://www.youtube.com/embed/Feg_Ruz81YM" height="315" width="830"></iframe></center>
 
 Better known as Hougang Warriors, the team was officially established in 2010. Currently, we participate in League 2 of the National School Games (NSG). We offer Direct School Admission (DSA-Sec) for Football for potential players to apply before taking the PSLE. Students apply based on their talent in sports and specific academic areas. We aim to bring honour to the school via improving on our football knowledge, skills and characte  
 
@@ -41,7 +41,7 @@ Serve with dedication
     <td class="tg-2rp9">2nd Runner’s Up</td>
   </tr>
   <tr>
-    <td class="tg-2rp9" colspan="2"><img src="/images/Football/football (21).jpg" style="width:85%"><br><br><img src="/images/Football/football (22).jpg" style="width:85%"></td>
+    <td colspan="2" class="tg-2rp9"><img style="width:85%" src="/images/Football/football (21).jpg"><br><br><img style="width:85%" src="/images/Football/football (22).jpg"></td>
   </tr>
   <tr>
     <td class="tg-2rp9">MWH Futsal (‘B’ Div)</td>
@@ -97,6 +97,4 @@ https://sites.google.com/moe.edu.sg/hsfootballcca/home
 
 ### Photographs
 
-
-
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSgtdGXWs-BvWRWsa5DUOwcRFuqKUf6Gwwvku98wQ9DSgvbcdHm0BR2WrdZLJCVNEQ3-oh02hoeoWz-/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
