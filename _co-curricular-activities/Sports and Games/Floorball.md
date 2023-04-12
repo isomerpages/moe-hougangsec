@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Sports-and-Games/floorball/
 description: ""
 third_nav_title: Sports and Games
 ---
-![](/images/Floor/hsfb2023.jpeg)
+![](/images/Floor/sec4cohort.jpeg)![](/images/Floor/hsfb2023.jpeg)
 
 We are inspired, passionate and dedicated in Floorball and strive to give our BEST!
 
@@ -91,7 +91,9 @@ Friday: 2.30pm – 4.30pm (Boys)
 
 ![](/images/Floor/b%20div%20girls.jpeg)
 
+![](/images/Floor/hsfb2022.jpeg)
 
+![](/images/Floor/sec4cohort.jpeg)
 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Floorball" src="https://www.youtube.com/embed/YfXCFszSLgE" height="315" width="830"></iframe>
