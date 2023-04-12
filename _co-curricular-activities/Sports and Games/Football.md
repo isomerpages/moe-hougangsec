@@ -41,7 +41,7 @@ Serve with dedication
     <td class="tg-2rp9">2nd Runner’s Up</td>
   </tr>
   <tr>
-    <td class="tg-2rp9" colspan="2"><img src="/images/fb3.jpeg" style="width:85%"><br><br><img src="/images/fb4.jpeg" style="width:85%"></td>
+    <td class="tg-2rp9" colspan="2"><img src="/images/football/football (21).jpg" style="width:85%"><br><br><img src="/images/fb4.jpeg" style="width:85%"></td>
   </tr>
   <tr>
     <td class="tg-2rp9">North Zone National School Games (‘B’ Div)</td>
