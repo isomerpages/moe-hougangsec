@@ -68,7 +68,7 @@ Friday: 2.30pm – 4.30pm (Boys)
 **Fitness &amp; Logistics IC**: Nur Adriana (4S)  
 
 ##### B’ DIVISION (2023/2024)
-**Boys Team**  
+<u>**Boys Team**</u>  
 **Captain**: Ilhan Hakimi (3A)  
 **Vice-Captain**: Kieran Khaw (3U)  
 **VIA Leader**: Dominic Kyle (2E)  
@@ -76,7 +76,7 @@ Friday: 2.30pm – 4.30pm (Boys)
 **Fitness IC**: Nigel Teo (3A)  
 **Logistics IC**: Francisco Matthew Lewis (3G)  
 
-**Girls Team**  
+<u>**Girls Team**</u>  
 **Captain**: Cherlyn Fan (3H)  
 **Vice-Captain**: Joee Chwa (3E)  
 **VIA Leader**: Charlotte Oh (3G)  
