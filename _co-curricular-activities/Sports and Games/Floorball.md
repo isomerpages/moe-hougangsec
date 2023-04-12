@@ -50,9 +50,9 @@ Friday: 2.30pm – 4.30pm (Boys)
 
 
 
-### CCA Leadership Structure
+### OUR LEADERS
 ##### B’ DIVISION (2022/2023)  
-**Boys Team**  
+<u>**Boys Team**</u>  
 **Captain**: Raimy Huzaimy (4E)  
 **Vice-Captain**: Muhammad Harith (4O)  
 **VIA Leaders**: Danial Hakim (4E), Hyder Shaqeel (4O)  
@@ -60,7 +60,7 @@ Friday: 2.30pm – 4.30pm (Boys)
 **Fitness IC**: Dylan Siah (4S)  
 **Logistics IC**: Aadam Muhammad Izzat Irfan (4G)  
 
-**Girls Team**  
+<u>**Girls Team**</u>  
 **Captain**: Dana Lim (4U)  
 **Vice-Captain**: Koh Shu Han (4U)  
 **VIA Leaders:** Megan Lim (4H), Bianca (4O)  
