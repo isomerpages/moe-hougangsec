@@ -55,16 +55,16 @@ Serve with dedication
 ### CCA Leadership Structure
 
 **'C' Division**   
-**Captain**: Ryan Lim Zixiang  
-**Vice-Captain**: Mohamed Irfan Bin Mohamed Azhar  
-**Vice-Captain**: Muhammad Rayyan Mirza Bin Juandi  
-**VIA Leader**: Javen Lim, Mohammad Amin Haqimi Bin Mohd Irwan Iskandar  
+**Captain**: Qashryn Ryan Bin Shaifudin  
+**Vice-Captain**: Tan Zhen Wei Jayden   
+
 
 **'B' Division**  
-**Captain**: Mohammad Qabil Bin Idris  
-**Vice-Captain**: Ryan Ng Yunhong  
-**Vice-Captain**: Ryan Lim Zixiang  
-**VIA Leader**: Javen Lim, Amirul&nbsp;  
+**Captain**: Muhammad Rayyan Mirza Bin Juandi  
+**Vice-Captain**: Aadil Ilhan Bin Nazry Isa   
+**Vice-Captain**: Samyoug Rai 
+
+**VIA Leaders**: Ng Yu Wen, Idraki Rafdi Bin Mohamad Arzad 
 
 ### Teachers in-charge
 
@@ -72,16 +72,17 @@ Serve with dedication
 *   Mr Ang Ruixiang
 *   Mr Muhd Hashim
 
-Coach: Mr Azli Mohd, Geylang International FC Former Captain   
-Asst Coach: Mr Ismail Bin Yunos, Former Singapore National Team player   
+Coach: Mr Nor Azli, Geylang International FC 
+Asst Coach: Mr Azlan Alipah, Geylang International FC
 Alumni Coaches: Vivek Misir
+
 
   
 
 ### Training Venue and Days
 
 **Day:**&nbsp;Tuesday &amp; Friday   
-**Time:**&nbsp;3.15 pm - 5.45 pm   
+**Time:**&nbsp;3.00 pm - 5.00 pm   
 **Venue:**&nbsp;School Field
 
   
