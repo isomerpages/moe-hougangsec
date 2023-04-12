@@ -96,6 +96,8 @@ Friday: 2.30pm – 4.30pm (Boys)
 ![](/images/Floor/sec4cohort.jpeg)
 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Floorball" src="https://www.youtube.com/embed/YfXCFszSLgE" height="315" width="830"></iframe>
+<iframe width="830" height="315" src="https://www.youtube.com/embed/YfXCFszSLgE" title="Floorball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 #### Photo Slide Show
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRo9-9AYk86RnuuMFYc83IokKWClN9vEAc_5JhjsScr0lkrD_Ov4BM5_88B1jqJycIXiCaI8_RISBT9/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
