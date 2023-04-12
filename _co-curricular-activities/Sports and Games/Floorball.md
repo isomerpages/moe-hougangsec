@@ -87,16 +87,9 @@ Friday: 2.30pm – 4.30pm (Boys)
 
 
 ### Photographs
+![](/images/Floor/b%20div%20boys.jpeg)
 
-![](/images/flb3.jpeg)
-
-![](/images/flb4.jpeg)
-
-![](/images/flb5.jpeg)
-
-![](/images/flb6.jpeg)
-
-![](/images/flb7.jpeg)
+![](/images/Floor/b%20div%20girls.jpeg)
 
 
 
