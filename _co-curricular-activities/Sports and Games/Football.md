@@ -77,20 +77,18 @@ Asst Coach: Mr Azlan Alipah, Geylang International FC
 Alumni Coaches: Vivek Misir
 
 
-  
-
 ### Training Venue and Days
 
 **Day:**&nbsp;Tuesday &amp; Friday   
 **Time:**&nbsp;3.00 pm - 5.00 pm   
 **Venue:**&nbsp;School Field
 
-  
 
 **VIA**:    
-Mendaki Tuition Scheme @ Hougang Sec   
-Football Coaching @ Fernvale Green Sec   
-Football Equipment Making @ Hs Makers Garage
+CCA-VIA Carnival  
+Learn-a-skill (Collaboration with other CCAs)  
+Primary 6 Futsal tournament
+
 
 ### Photographs
 
