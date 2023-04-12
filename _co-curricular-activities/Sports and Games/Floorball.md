@@ -4,10 +4,7 @@ permalink: /co-curricular-activities/Sports-and-Games/floorball/
 description: ""
 third_nav_title: Sports and Games
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/YfXCFszSLgE" title="2022 Floorball Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
-
-![](/images/flb1.jpeg)
-![](/images/flb2.jpeg)
+![](/images/Floor/hsfb2023.jpeg)
 
 We are inspired, passionate and dedicated in Floorball and strive to give our BEST!
 
@@ -19,6 +16,15 @@ We aim to nurture all-rounded passionate, dedicated and inspiring floorballers a
 
 ### MISSION
 To play with heart, mind and grit and be an inspiration to Hougeans.
+
+### Training Venue and Days
+**TRAINING DETAILS**  
+Tuesday: 3.30pm – 5.30pm (Boys &amp; Girls)      
+Friday: 1.30pm – 3.30pm (Girls)  
+Friday: 2.30pm – 4.30pm (Boys)
+
+**Venue**: Indoor Sports Hall 
+
 
 
 ### Programmes
@@ -35,6 +41,13 @@ To play with heart, mind and grit and be an inspiration to Hougeans.
 
 •	‘B’ Division National School Games (Floorball)  
 •	‘C’ Division National School Games (Floorball)
+
+### Teachers In-charge
+•	Dzafiirah B Mohd Hakim (OIC)  
+•	Muhammad Irwan Bin Jamal  
+•	Daniel Tan Chin Juay  
+•	Vicknesh S/O Kunnasekaran  
+
 
 
 ### CCA Leadership Structure
@@ -71,20 +84,6 @@ To play with heart, mind and grit and be an inspiration to Hougeans.
 **Fitness IC**: Charlene Ong Chen Ying (3H)  
 **Logistics IC**: Chin Rui Xin (3G)  
 
-
-### Teachers In-charge
-*  Dzafiirah B Mohd Hakim (OIC)  
-*  Muhammad Irwan Bin Jamal  
-*  Daniel Tan Chin Juay  
-*  Vicknesh S/O Kunnasekaran  
-
-### Training Venue and Days
-**TRAINING DETAILS**  
-Tuesday: 3.30pm – 5.30pm (Boys &amp; Girls)      
-Friday: 1.30pm – 3.30pm (Girls)  
-Friday: 2.30pm – 4.30pm (Boys)
-
-**Venue**: Indoor Sports Hall 
 
 
 ### Photographs
