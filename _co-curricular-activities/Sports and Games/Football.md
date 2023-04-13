@@ -73,7 +73,7 @@ Serve with dedication
 *   Mr Muhd Hashim
 
 Coach: Mr Nor Azli, Geylang International FC  
-Asst Coach: Mr Azlan Alipah, Geylang International FC 
+Asst Coach: Mr Azlan Alipah, Geylang International FC  
 Alumni Coaches: Vivek Misir
 
 
