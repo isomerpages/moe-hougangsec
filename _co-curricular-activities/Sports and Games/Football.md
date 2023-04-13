@@ -90,9 +90,8 @@ Learn-a-skill (Collaboration with other CCAs)
 Primary 6 Futsal tournament
 
 
-For more information on HS Football CCA, click on this link;
-https://sites.google.com/moe.edu.sg/hsfootballcca/home
-
+For more information on HS Football CCA, click on this link;  
+[HS Football CCA Updates](https://sites.google.com/moe.edu.sg/hsfootballcca/home)
 
 
 ### Photographs
