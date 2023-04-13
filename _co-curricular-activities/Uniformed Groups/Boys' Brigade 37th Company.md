@@ -6,8 +6,6 @@ third_nav_title: Uniformed Groups
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Boys' Brigade Open House" src="https://www.youtube.com/embed/rLZpVbO6qY8" height="315" width="830"></iframe></center>
 
-![](/images/boys%20brigade-lower%20i.jpeg)
-![](/images/boys%20brigade-upper%20i.jpeg)
 
 
 ### Introduction
