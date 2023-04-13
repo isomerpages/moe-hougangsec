@@ -6,8 +6,6 @@ third_nav_title: Sports and Games
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/KL1KZDuv80I" title="Basketball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-![](/images/bb1.jpeg)
-![](/images/bb2.jpeg)
 
 Basketball is a team sport that requires everyone to be a good team player. The importance of teamwork and discipline is highly emphasised during all trainings and activities.&nbsp;
 
