@@ -4,10 +4,9 @@ permalink: /co-curricular-activities/Uniformed-Groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/CZtDCiXzBYQ" title="2022 NPCC Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/CZtDCiXzBYQ" title="2022 NPCC Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-![](/images/npcc1.jpeg)
-![](/images/npcc2.jpeg)
+
 
 ### Vision
 
@@ -68,7 +67,7 @@ CDT – LCP – CPL – SGT – SSG – SI
     
 
 ### Training Venue and Days
-**Day**: Tuesday & Friday  
+**Day**: Tuesday &amp; Friday  
 **Time**: 3.15 pm - 5.30 pm (Tue) / 2.00 pm - 5.30 pm (Fri)  
 **Venue**: School Compound
 
