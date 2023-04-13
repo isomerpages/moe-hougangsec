@@ -56,7 +56,7 @@ Serve with dedication
 
 **'C' Division**   
 **Captain**: Qashryn Ryan Bin Shaifudin  
-**Vice-Captain**: Tan Zhen Wei Jayden   
+
 
 
 **'B' Division**  
