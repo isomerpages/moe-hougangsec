@@ -6,8 +6,6 @@ third_nav_title: Sports and Games
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Wushu Open House" src="https://www.youtube.com/embed/etUcRVVDeGc" height="315" width="830"></iframe></center>
 
-![](/images/ws1.jpeg)
-![](/images/ws2.jpeg)
 
 
 ### Introduction
