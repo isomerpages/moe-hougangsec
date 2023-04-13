@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Football Open House" src="https://www.youtube.com/embed/Feg_Ruz81YM" height="315" width="830"></iframe></center>
 
-Better known as Hougang Warriors, the team was officially established in 2010. Currently, we participate in League 2 of the National School Games (NSG). We offer Direct School Admission (DSA-Sec) for Football for potential players to apply before taking the PSLE. Students apply based on their talent in sports and specific academic areas. We aim to bring honour to the school via improving on our football knowledge, skills and characte  
+Better known as Hougang Warriors, the team was officially established in 2010. Currently, we participate in League 2 of the National School Games (NSG). We offer Direct School Admission (DSA-Sec) for Football for potential players to apply before taking the PSLE. Students apply based on their talent in sports and specific academic areas. We aim to bring honour to the school via improving on our football knowledge, skills and character. 
 
 ### Vision
 
@@ -37,15 +37,15 @@ Serve with dedication
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-2rp9">MWH Futsal ( ‘C’ Div )</td>
-    <td class="tg-2rp9">2nd Runner’s Up</td>
+    <td class="tg-2rp9">MWH Futsal ( ‘B’ Div )</td>
+    <td class="tg-2rp9">Champions</td>
   </tr>
   <tr>
     <td colspan="2" class="tg-2rp9"><img style="width:85%" src="/images/Football/football (21).jpg"><br><br><img style="width:85%" src="/images/Football/football (22).jpg"></td>
   </tr>
   <tr>
-    <td class="tg-2rp9">MWH Futsal (‘B’ Div)</td>
-    <td class="tg-2rp9">Champions</td>
+    <td class="tg-2rp9">MWH Futsal (‘C’ Div)</td>
+    <td class="tg-2rp9">2nd Runners Up</td>
   </tr>
 </tbody>
 </table>
@@ -72,8 +72,8 @@ Serve with dedication
 *   Mr Ang Ruixiang
 *   Mr Muhd Hashim
 
-Coach: Mr Nor Azli, Geylang International FC 
-Asst Coach: Mr Azlan Alipah, Geylang International FC
+Coach: Mr Nor Azli, Geylang International FC  
+Asst Coach: Mr Azlan Alipah, Geylang International FC 
 Alumni Coaches: Vivek Misir
 
 
