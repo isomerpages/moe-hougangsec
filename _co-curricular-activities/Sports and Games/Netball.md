@@ -6,8 +6,6 @@ third_nav_title: Sports and Games
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Netball Open House" src="https://www.youtube.com/embed/fAFZYFNQFQw" height="315" width="830"></iframe></center>
 
-![](/images/nb1.jpeg)
-![](/images/nb2.jpeg)
 
 
 ### Vision
