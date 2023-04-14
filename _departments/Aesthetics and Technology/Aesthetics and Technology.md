@@ -41,15 +41,12 @@ Mr Mohammad Fauzi Bin Selamat
 ### Department Vision
 **To nurture creative and confident thinkers**
  
-The Aesthetics & Technology department comprises of four subjects - Design & Technology, Food & Consumer Education,  Visual Arts and Music.
-
-  
+The Aesthetics & Technology department comprises of four subjects - Design & Technology, Nutrition and Food Science, Visual Arts and Music.
 
 Our dedicated staff team aims to nurture our students to become confident thinkers with deep appreciation of design, aesthetics and food technology. Our curriculum is thoughtfully designed and is coursework-based, providing experiential learning to all students.
 
-  
-
 Our students are also given multiple opportunities to experience real-life learning through participation in enrichment and competitions to enhance their holistic education.
+
 
 ### Highlights
 
