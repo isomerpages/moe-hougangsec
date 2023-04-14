@@ -86,8 +86,15 @@ Accolades
 *   **2016 Singapore Youth Festival Art Exhibition:** Artwork entitled 'Hopes' selected for on-site exhibition at The Arts House. 
 	*   Lai Xuan Yi from 2E3
 
-  
 
 **Staff**
 *   2018 MOE Service Excellence Award (Platinum) - Mr Mohamed Fahizel
 *   2017 MOE Service Excellence Award (Silver) - Mr Tangarajoo Marimuthu
+
+
+### Collaborative Project 
+**Secondary 3 A&T Staff Day Project**  
+This is a collaborative project that involves three units - Art, Design & Technology (D&T), and Nutrition and Food Science (NFS) - within the A&T department, and it includes G1 students. The objective of the project is for the students to express their appreciation to the teaching and non-teaching staff at HS.
+
+Authentic project provides the desired authentic learning experiences and a glimpse of the work habits and skills of the food industry with the provision of exposure to the food industry (SEAB, 2015). It includes authentic design opportunities that are meaningful and trains them to display designerly dispositions (MOE, 2016). It incorporates the practices by artists and designers that enlighten students of their further learning and career opportunities (MOE, 2018). These statements echo the description of AA whereby students exhibit knowledge, skills, and attitudes needed in professional life (Gulikers et al., 2004).
+
