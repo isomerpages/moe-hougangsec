@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Sports-and-Games/netball/
 description: ""
 third_nav_title: Sports and Games
 ---
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Netball Open House" src="https://www.youtube.com/embed/fAFZYFNQFQw" height="315" width="830"></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/fAFZYFNQFQw" title="2022 Netball Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 
 
@@ -70,4 +70,6 @@ When I first joined netball , it was exhausting but very exciting for me. I lear
 ### Photographs
 
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQU7WWw4Rp9mtpkDyjZB4cxVoVeHsU1oFDD6g7k3MKm93x4wqL7wxg0vunkyLziZFTmDsjHu6hJbLP7/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQU7WWw4Rp9mtpkDyjZB4cxVoVeHsU1oFDD6g7k3MKm93x4wqL7wxg0vunkyLziZFTmDsjHu6hJbLP7/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQF5csILTYimWSvJThr_WmNrTlWEZuAof4xpUiIGWylOt7xIoVPnxzphVLHWU-wMUgGpiXlSU30l4ru/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
