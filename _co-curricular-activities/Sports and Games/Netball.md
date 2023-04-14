@@ -33,7 +33,6 @@ Look up, Get up but Never Give up
 *   Tan Wen Lin
 
 ### Coach
-
 Chow Chon Tee
 
 ### CCA Leadership Structure
