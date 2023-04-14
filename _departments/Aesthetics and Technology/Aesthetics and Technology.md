@@ -68,10 +68,10 @@ Accolades
 •**2022 Food and Beverage Entrepreneurship Competition organized by Republic Polytechnic, school of Hospitality**   
 o	Certificate of Participation: Leong Yu Xuan, Tan Shu Ern, Ong Sue Hann Joelle, Muhammad Aiman Bin Rosman from 4R7
 
-•	2020 Food and Beverage Entrepreneurship Competition organized by Republic Polytechnic, school of Hospitality 
-o	1st Prize: Pok Ka Sian Casanne and Lazo Federico III Pido for 3A1
-o	3rd Prize: Koh Wei Hang and Jaden Tan Yi Jun from 3A2
-o	Certificate of Participation: Sofiyyan Binte Jufri and Nur Rheerza from 3E3
+•	**2020 Food and Beverage Entrepreneurship Competition organized by Republic Polytechnic, school of Hospitality**   
+o	1st Prize: Pok Ka Sian Casanne and Lazo Federico III Pido for 3A1  
+o	3rd Prize: Koh Wei Hang and Jaden Tan Yi Jun from 3A2  
+o	Certificate of Participation: Sofiyyan Binte Jufri and Nur Rheerza from 3E3  
 
 
 **ART Unit**
