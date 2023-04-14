@@ -21,8 +21,7 @@ To develop our members to be active citizens and community leaders, by working i
 Your attitude determines your altitude.
 
 ### Leadership Structure
-![](/images/npcc3.jpeg)
-
+![](/images/NPCC/npcc-org.png)
 
 ### Achievements
 
