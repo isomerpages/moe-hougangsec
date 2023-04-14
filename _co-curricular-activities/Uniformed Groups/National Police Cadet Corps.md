@@ -54,15 +54,15 @@ CDT – LCP – CPL – SGT – SSG – SI
 *   Marksmanship Shooting  
 *   Crime Scene Investigation  
 *   Enrichment Activity (Air Pistol)  
-*   Survival Training Camp (3D2N)  
+*   First Aid Course 
     
 
 ### Teachers In-Charge
-*   Tan Wei Jing (OIC)
-*   Kervin Tang Cheok Yean
-*   Adilah
-*   Ho Ying Yee
-*   Annizell Cruz Chan (Sem 1 only)
+•	Ms Tan Wei Jing (OIC)  
+•	Mr Kervin Tang Cheok Yean  
+•	Ms Nur Adilah  
+•	Ms Ho Ying Yee  
+•	Mdm Annizell Cruz Chan (Sem 1 only)  
     
 
 ### Training Venue and Days
