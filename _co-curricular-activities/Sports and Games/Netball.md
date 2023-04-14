@@ -69,7 +69,4 @@ When I first joined netball , it was exhausting but very exciting for me. I lear
 
 ### Photographs
 
-
-<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQU7WWw4Rp9mtpkDyjZB4cxVoVeHsU1oFDD6g7k3MKm93x4wqL7wxg0vunkyLziZFTmDsjHu6hJbLP7/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
-
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQF5csILTYimWSvJThr_WmNrTlWEZuAof4xpUiIGWylOt7xIoVPnxzphVLHWU-wMUgGpiXlSU30l4ru/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
