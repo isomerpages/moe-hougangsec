@@ -74,24 +74,21 @@ o	3rd Prize: Koh Wei Hang and Jaden Tan Yi Jun from 3A2
 o	Certificate of Participation: Sofiyyan Binte Jufri and Nur Rheerza from 3E3  
 
 
-**ART Unit**
-*   **2019 ignITE Skills Challenge: Circuit Tinkering 1st runner up**
-	*   Thoo Xiu Ning, Ng Xiang Yi and Sabrina Soh from 3A2
-
-*   **2019 ignITE Skills Challenge: Circuit Tinkering Finalist**
-	*    Wong Eng Hong from 3A2, Seng Le Ting from 3A3 & Sharon Lye from 3T1
-
-*   **2018 IgnITE Skills Challenge: 3D Lightbulb CHAMPION** 
-	*   Sufiyah Athirah from 3A2, Alyssa Tavarro & Ong Wen Jie from Secondary 3A3
-
-*   **2018 IgnITE Skills Challenge: Pixel Art 2nd runner up**
-	*   Lam Sin Ru, Syafiqah Aziz and Ceine Teo from 3T1
-
-*   **2018 Singapore Youth Festival Art Exhibition:** Artwork entitled 'Ah Ma' selected for on-site exhibition at National Gallery Singapore
-	*   Ang Zhi Er from 5A1
-
-*   **2016 Singapore Youth Festival Art Exhibition:** Artwork entitled 'Hopes' selected for on-site exhibition at The Arts House. 
-	*   Lai Xuan Yi from 2E3
+**Visual Art Unit**  
+•	**Live on Festival (LOF) Design 2022** 
+o	Certificate of Distinction: Tricia Wu from 4A1  
+•	**Singapore Youth Festival 2022 Art Exhibition**  
+o	Certificate of Recognition: Chloe Soh from 4E4  
+•	**ViaRT Art Award 2022**  
+o	3rd Place in The Most Artistic Award: Kang Chei Min and Sakinah Bte Jefri from 4N  
+•	**ViaRT Art Award 2022**  
+o	3rd Place in You Make a Difference Award: Joshua Wong and Chen Song Ze from 4S  
+•	**The SG Clean Comic Strip Competition 2022**  
+o	Shortlisted and featured in SG Clean Comic Book: Sakinah Bte Jefri from 4N  
+•	**Artwork selected for Ministry's repository of Coporate Gifts**  
+o	Sheraz Lim from 4E4  
+•	**Live on Festival (LOF) Design 2021**  
+o	Certificate of Distinction: Ho Jun Wei from 3E3  
 
 
 **Staff**
