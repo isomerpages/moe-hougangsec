@@ -50,21 +50,14 @@ Our students are also given multiple opportunities to experience real-life learn
 
 ### Highlights
 
-**Secondary 1 FCE ‘Learning by Doing’ Projects**
+**Secondary 1 & 2 FCE Innovation Projects  
+Secondary 3 NFS Enrichment Programmes such as “Cookyn with Carbs” & “Food Presentation Workshop”  
+Secondary 1 & 2 Lower Secondary Music Programme  
+Secondary Art Enrichment Programme  
+Secondary 3 Design & Technology ICT Lessons  
+Secondary 3 SciTechumatics Enrichment  
+Secondary 3 A&T Staff Day Project**  
 
-**Secondary 2 FCE Innovation Project**
-
-**Secondary 3 F&N Enrichment Programme “Cookyn with Carbs”**
-
-**Secondary 1 & 2 Lower Secondary Music Programme**
-
-**Secondary Art Enrichment Programme**
-
-**Secondary 3 Design & Technology ICT Lessons**
-
-**Secondary 3 SciTechumatics Enrichment**
-
-**Secondary 3 Experiential Learning Journeys**
 
 Accolades
 ---------
