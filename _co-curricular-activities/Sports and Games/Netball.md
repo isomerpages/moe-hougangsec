@@ -61,7 +61,7 @@ My experience in netball was amazing, I get to know people who also have the sam
 **Jerrine (3G)**  
 When I first joined netball , it was exhausting but very exciting for me. I learned how to shoot a goal as a goal shooter, it wasn't easy but I managed by practising shooting the ball to the goal. Challenges that I faced are having a hard time building up teamwork with teammates and mastering up to new skills. I overcome my challenges by spending time with my teammates and participate in bonding activities. The best memories I had in netball is winning sportsmanship during NSG with flying colors and i also enjoy the carnivals with my teammates.
 
-**Sarah (2E) **  
+**Sarah (2E)**  
  When I first joined netball , it was really fun but also intense. The challenges I faced are teamwork and communication. I overcome them by getting to know their characteristics and understand more of how they feel in netball. I also get to know them better by team bonding games. 
 
 
