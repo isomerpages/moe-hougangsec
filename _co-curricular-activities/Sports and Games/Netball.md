@@ -26,13 +26,6 @@ Look up, Get up but Never Give up
 *   Values-In-Action Programme
 *   Sports Education Programme&nbsp;
 
-  
-
-### Achievements
-*   M1 School's Challenge League - 2nd in Group (2017)
-*   National Service Learning Award (Individual) (2016): Shalaila Soni
-
-  
 
 ### Teachers In-Charge
 *   Amalina Abdul Samad (OIC)
@@ -45,18 +38,20 @@ Chow Chon Tee
 
 ### CCA Leadership Structure
 
-1. 'B' Division Captain: CHAN SHU LI SHANICE 4E1
-2. 'B' Division Vice Captain: YEOW JUN YI SONIA 4A1
-3. 'C' Division Captain: CHLOE TAN KAI QI 2U&nbsp;
-4. ‘C’ Division Vice Captain: MAEGAN LIM 2O
-5. Sec 3 Leaders: CHEW QI EN CHLOE 3O and ANG YUAN XIN SHANEL 3G&nbsp;
-6. Sec 4 VIA Leader: MICHELLE NG JING-I 4E3
-7. Sec 3 VIA Leader: ONG KEENA 3N
+1.'**B' Division Captain**: CHEW QI EN CHLOE (4O)  
+2.**’B' Division Vice Captain**: ANG YUAN XIN SHANEL (4G)  
+3. **Sec 3 Leaders**: CHLOE TAN KAI Q1 (3U) [Captain] and MAEGAN LIM (3O) [Vice-Captain]  
+4. **'C' Division Captain**: SARAH REKHA KUNALAN (2E)  
+5. **‘C' Division Vice Captain**: NURUL A’DRIANA QYSTINA BINTE MOHAMMED HISHAM (2E)  
+6. **Sec 4 VIA Leader**: ONG KEENA (4N)  
+7. **Sec 3 VIA Leader**: KWOK XUAN HUI, ALYSSA (3G)  
+8. **Sec 2 VIA Leader**: LEOW ZI XUAN, RAINE (2E)
+
 
 ### Training Venue and Days
 **Day**: Tuesday &amp; Friday  
-**Time**: 3.15 pm - 5.45 pm (Tue) / 3.00 pm - 5.30 pm (Fri)  
-**Venue**: Parade Square
+**Time**: 3.15 pm - 5.45 pm (Tue) / 1.30 pm - 4.00 pm (Fri)  
+**Venue**: Parade Square (Wet weather: Foyer / GRC Wall)
 
 ### Photographs
 
