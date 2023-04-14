@@ -28,7 +28,7 @@ Enrichment Photo 1
 Enrichment Photo 2
 <img src="/images/Sec3EnrichmentP2.jpeg" style="width:45%">
 
-Enrichment Photo 3
+Enrichment Photo 3![]()
 <img src="/images/Sec3EnrichmentP3.jpeg" style="width:45%">
 
 
@@ -37,9 +37,24 @@ Enrichment Photo 3
 Secondary 1 &amp; 2 FCE innovation project
 We believe in providing our students with innovative and engaging learning opportunities that go beyond traditional classroom instruction. Our lower secondary students had the chance to participate in a project that allowed them to explore the world of nutrition and apply their learning in a practical way.
 
-  
+  ![](/images/AnT/NFS/nfsci1.jpg)
 
-  
+Through a series of tasks, students were tasked with researching the nutritional needs of different age groups, including young children, school-going children, teenagers, young adults, and the elderly. Using the design thinking framework, students learned about the factors to consider when planning meals for each target group, such as dietary restrictions, portion sizes, and food preferences.
+
+![](/images/AnT/NFS/nfsci2.jpg)
+
+Once they had a solid understanding of the nutritional needs of their assigned target group, students were paired and grouped together to prepare, cook, and serve a healthy and interesting one-dish meal that was suitable for their target group. This allowed students to put their knowledge into action and develop important practical skills such as meal planning, food preparation, and cooking techniques.
+
+![](/images/AnT/NFS/nfsci3.jpg)
+
+After completing their dishes, students shared their products with the class and explained why their chosen dish was suitable for their assigned target group. This not only allowed students to showcase their culinary skills but also enabled them to practice public speaking and communication skills.
+
+![](/images/AnT/NFS/nfsci4.jpg)
+
+Overall, this project provided our students with a hands-on learning experience that allowed them to develop important skills while also learning about the importance of nutrition and healthy eating habits. 
+
+It is a privilege to witness the growth and development of our students as they engage in meaningful learning experiences.  We look forward to providing more innovative learning opportunities in the future.
+
 
 ### SINO-SG Exchange
 
