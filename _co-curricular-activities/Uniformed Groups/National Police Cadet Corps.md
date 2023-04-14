@@ -72,4 +72,11 @@ CDT – LCP – CPL – SGT – SSG – SI
 
 ### Photographs
 
-(embed google slide / images here)
+![](/images/NPCC/photo%20(2).jpeg)
+
+![](/images/NPCC/photo%20(1).jpeg)
+
+![](/images/NPCC/photo%20(4).jpeg)
+
+![](/images/NPCC/photo%20(3).jpeg)
+
