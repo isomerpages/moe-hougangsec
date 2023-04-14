@@ -8,9 +8,13 @@ third_nav_title: Aesthetics and Technology
 
 Here in HS, the students are encouraged to explore into the world of Food Sciences and out of the typical classroom experience through our enrichment and innovation programme.
 
-**Secondary 3 Food &amp; Nutrition Enrichment Programme “Cookyn with Carbs”**
+### Secondary 3 NFS Enrichment Programmes
+
+**Enrichment Programme “Cookyn with Carbs”**
   
 An enrichment programme was planned for the Secondary 3 students in September for an ‘out of the classroom’ experience. The theme chosen was on carbohydrates where students were actively engaged in making their own fresh pasta and salted egg sauce. Accompanying this dish, they also made breaded chicken thigh. They also learnt to plate their cooked dishes. It was an enriching experience for the students.
+
+
 
   
 
