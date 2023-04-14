@@ -92,8 +92,20 @@ o	Certificate of Distinction: Ho Jun Wei from 3E3
 
 
 **Staff**
-*   2018 MOE Service Excellence Award (Platinum) - Mr Mohamed Fahizel
-*   2017 MOE Service Excellence Award (Silver) - Mr Tangarajoo Marimuthu
+•	2022 MOE Service Excellence Award (Gold) – Mdm Azlinah Wahed  
+•	2022 MOE Service Excellence Award (Gold) – Mr Alfred Choo   
+•	2022 MOE Service Excellence Award (Silver) – Mr Anwarul Nizam B Ismail  
+•	2022 MOE Service Excellence Award (Silver) – Ms Dzafiirah Binte Mohammad Hakim  
+•	2022 MOE Service Excellence Award (Silver) – Ms Koh Bao Ru Jane  
+•	2022 MOE Service Excellence Award (Silver) – Ms Low Wee Kie Jasmine  
+•	2022 MOE Service Excellence Award (Silver) –Mr Muhammad Nazirul Mubin Bin Yusoff  
+•	2022 MOE Service Excellence Award (Silver) –Mr Ng Geok Leng Benny  
+•	2021 MOE Service Excellence Award (Platinum) – Mr Mohamed Fahizel  
+•	2021 MOE Service Excellence Award (Gold) – Mr Mohamed Fahizel   
+•	2021 MOE Service Excellence Award (Gold) – Ms Farahana Binte Abdul Rahim    
+•	2021 MOE Service Excellence Award (Gold) – Ms Tan Wei Jing   
+•	2021 MOE Service Excellence Award (Gold) - Mr Tangarajoo Marimuthu  
+•	2021 MOE Service Excellence Award (Silver) – Mdm Azlinah Wahed  
 
 
 ### Collaborative Project 
