@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - DSA/Direct School Admission.md
       - DSA/.keep
       - ALP/.keep
       - ALP/Applied Learning Programme (ALP) @ HS.md
