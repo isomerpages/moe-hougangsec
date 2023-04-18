@@ -81,7 +81,7 @@ third_nav_title: For Students
 
 [GRIT Journal 2022 final web.pdf](/files/GRIT%20Journal%202022%20final%20web.pdf)
 
-### Timetables 2022
+### Timetables 2023
 
 [2023 Semester 1 Class Timetable.pdf](/files/2023%20semester%201%20class%20timetable.pdf)
 
