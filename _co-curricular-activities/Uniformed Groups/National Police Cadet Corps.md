@@ -4,10 +4,9 @@ permalink: /co-curricular-activities/Uniformed-Groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/CZtDCiXzBYQ" title="2022 NPCC Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/CZtDCiXzBYQ" title="2022 NPCC Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-![](/images/npcc1.jpeg)
-![](/images/npcc2.jpeg)
+
 
 ### Vision
 
@@ -22,8 +21,7 @@ To develop our members to be active citizens and community leaders, by working i
 Your attitude determines your altitude.
 
 ### Leadership Structure
-![](/images/npcc3.jpeg)
-
+![](/images/NPCC/npcc-org.png)
 
 ### Achievements
 
@@ -56,22 +54,29 @@ CDT – LCP – CPL – SGT – SSG – SI
 *   Marksmanship Shooting  
 *   Crime Scene Investigation  
 *   Enrichment Activity (Air Pistol)  
-*   Survival Training Camp (3D2N)  
+*   First Aid Course 
     
 
 ### Teachers In-Charge
-*   Tan Wei Jing (OIC)
-*   Kervin Tang Cheok Yean
-*   Adilah
-*   Ho Ying Yee
-*   Annizell Cruz Chan (Sem 1 only)
+•	Ms Tan Wei Jing (OIC)  
+•	Mr Kervin Tang Cheok Yean  
+•	Ms Nur Adilah  
+•	Ms Ho Ying Yee  
+•	Mdm Annizell Cruz Chan (Sem 1 only)  
     
 
 ### Training Venue and Days
-**Day**: Tuesday & Friday  
+**Day**: Tuesday &amp; Friday  
 **Time**: 3.15 pm - 5.30 pm (Tue) / 2.00 pm - 5.30 pm (Fri)  
 **Venue**: School Compound
 
 ### Photographs
 
-(embed google slide / images here)
+![](/images/NPCC/photo%20(2).jpeg)
+
+![](/images/NPCC/photo%20(1).jpeg)
+
+![](/images/NPCC/photo%20(4).jpeg)
+
+![](/images/NPCC/photo%20(3).jpeg)
+

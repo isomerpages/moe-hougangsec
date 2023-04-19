@@ -6,8 +6,6 @@ third_nav_title: Uniformed Groups
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Boys' Brigade Open House" src="https://www.youtube.com/embed/rLZpVbO6qY8" height="315" width="830"></iframe></center>
 
-![](/images/boys%20brigade-lower%20i.jpeg)
-![](/images/boys%20brigade-upper%20i.jpeg)
 
 
 ### Introduction
@@ -33,10 +31,11 @@ To nurture Youth, based on sound values, to lead and serve
 
 ### Achievements
 
-*   Best Unit Award for 2021– Silver
-*   BB Best Boy Award 2022 – S P Chua Medal: – Jerald Tan (4A1, 2022)
-*   Character Quest 2022 – Silver Honour Roll
-*   Play Inclusive! 2022 with MINDS Fernvale Gardens School – Silver for unified Basketball and Football teams
+* Best Unit Award for 2022– Silver
+* BB Best Boy Award 2023 – S P Chua Medal: Leow Peng Siang (4N, 2023)
+* Character Quest 2023 – Silver Honour Roll
+* Play Inclusive! 2022 with MINDS Fernvale Gardens School – Silver for unified basketball and football team
+
 
   
 
@@ -47,18 +46,21 @@ To nurture Youth, based on sound values, to lead and serve
 *   LTA Jonathan Pek (Officer mentor)
 *   Mr Chin Khai Fung (Teacher OIC)
 *   Mr Andy Chong (Teacher Officer)
+*   Mr Ding Jen Han (Teacher Officer)
 
 ### Leadership Structure
 
-*   SSGT Leow Peng Siang (Company Sergeant Major)
-*   SSGT Tan Hong Yu (Assistant CSM)
-*   SSGT Bryan Tang (Squad Leader)
-*   SSGT Lim Hock Long (Squad Leader)
-*   SSGT Wang Rong (Squad Leader)
-*   SGT Javier Wong (Logistics IC)
-*   CPL Ong Jing Kai (Media IC, Assistant Squad Leader)
-*   CPL Reeman (Assistant Squad Leader)
-*   CPL Jerome Neo (Assistant Squad Leader)
+* SGT Ong Jing Kai (Company Sergeant Major)
+* SGT Neo Shao Feng Jerome (Assistant CSM)
+* SGT Sean Pheh Jin Kang (Squad Leader)
+* SGT Venkatesan Bagavathreeman (Squad Leader)
+* SGT Kwong Bing Chen (Squad Leader)
+* SGT Lin Yitong (Logistics IC)
+* SGT Elliot Loh Sheng Qi (Treasurer)
+* SGT Mavrick Yow Bo Zheng (Social Media IC)
+* CPL Ee Jia Le Nicholas (Assistant Squad Leader)
+* CPL Zulkifl Bin Mohd Nazrie (Assistant Squad Leader)
+
 
 ### Training Venue and Days
 
@@ -72,4 +74,5 @@ To nurture Youth, based on sound values, to lead and serve
 Find us here!&nbsp;[https://www.instagram.com/37thbb\_hss/](https://www.instagram.com/37thbb_hss/)
 
 ### Programmes and Activities
-<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR2OAZu1TMffqz2iNOtMhmloc0uW7znrerBrx7QL4lOVokSjpwxF9BT0Xtiaj0Z11AHByphQ0IMf_9L/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUX6o2uyr-lF7j_QF4Z1PX5qFJNMODB3phKF0M-ZVpmnkGdvoRPAKdJc-FFMwv-7ODJ_T_8qXKsEhT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

@@ -1,0 +1,5 @@
+collections:
+  archive:
+    output: true
+    order:
+      - Demo.md

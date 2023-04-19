@@ -4,10 +4,8 @@ permalink: /co-curricular-activities/Sports-and-Games/judo/
 description: ""
 third_nav_title: Sports and Games
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/BVwmUn2K5gk" title="2022 Judo Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/BVwmUn2K5gk" title="2022 Judo Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-![](/images/jd1.jpeg)
-![](/images/jd2.jpeg)
 
 ### Vision
 

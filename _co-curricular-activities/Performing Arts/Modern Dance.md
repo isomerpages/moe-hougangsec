@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Performing-Arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/WpBz-P_Kp3Q" title="2022 Dance Open house" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Dance Open house" src="https://www.youtube.com/embed/WpBz-P_Kp3Q" height="315" width="830"></iframe></center>
 
 
 ![](/images/modern%20dance-lower%20i.jpeg)
@@ -59,10 +59,10 @@ Make the Difference
 
 ### Training Details
 
-**Day:** Tuesday & Friday   
-**Time:** 3.15 pm - 5.45 pm (Tue) and 1.30 pm - 4.30 pm (Fri)   
-**Venue:** VOICEBOX
+**Day:**&nbsp;Tuesday &amp; Friday   
+**Time:**&nbsp;3.30 pm - 5.30 pm (Tue) and 1.30 pm - 4.30 pm (Fri)   
+**Venue:**&nbsp;VOICEBOX
 
 ### Photographs
 
-![](/images/modern%20dance%202.png)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6f6rPUjYfj9DeIUHXnVon-y_0nSqPopnMvITV_Kw5rBcwVovTJ54jXKaL7noXKPzX_CCX_Dcls-Y-/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>

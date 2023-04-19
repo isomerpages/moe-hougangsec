@@ -6,8 +6,7 @@ third_nav_title: Uniformed Groups
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 RCY Open House" src="https://www.youtube.com/embed/81Y_k6URokY" height="315" width="830"></iframe></center>
 
-![](/images/rcy1.jpeg)
-![](/images/rcy2.jpeg)
+
 
 
 ### Vision

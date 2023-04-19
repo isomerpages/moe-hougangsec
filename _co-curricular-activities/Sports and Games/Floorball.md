@@ -4,63 +4,101 @@ permalink: /co-curricular-activities/Sports-and-Games/floorball/
 description: ""
 third_nav_title: Sports and Games
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/YfXCFszSLgE" title="2022 Floorball Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+![](/images/Floorball/hsfb2023.jpeg)
 
-![](/images/flb1.jpeg)
-![](/images/flb2.jpeg)
+We are inspired, passionate and dedicated in Floorball and strive to give our BEST!
 
-We are inspired, motivated and dedicated in our CCA to give only the BEST!  
+### Motto  
+Play with Passion, Lead with Dedication, Be an Inspiration.
 
-### Motto
+### VISION
+We aim to nurture all-rounded passionate, dedicated and inspiring floorballers and future leaders in the game, school and community.
 
-Inspired, motivated and dedicated
+### MISSION
+To play with heart, mind and grit and be an inspiration to Hougeans.
+
+### Training Venue and Days
+**TRAINING DETAILS**  
+Tuesday: 3.30pm – 5.30pm (Boys &amp; Girls)      
+Friday: 1.30pm – 3.30pm (Girls)  
+Friday: 2.30pm – 4.30pm (Boys)
+
+**Venue**: Indoor Sports Hall 
+
+
 
 ### Programmes
 
-*   Cheshire Home (VIA)
-*   Training
-*   Physical Conditioning
-*   Plate and Bowl Competition
-*   ActiveSG
-*   SEP Programme
+•	Training  
+•	Physical Conditioning  
+•	Plate and Bowl Competition  
+•	Active SG  
+•	SEP  
+•	VIA (Values-in-Action)  
+
 
 ### Achievements
 
-*   B Division Floorball NSG
-*   C Division Floorball NSG
-
-### CCA Leadership Structure
-**B Div**:   
-Girls: Cap - Nur Fashawati 3T1 and V.Cap - Brandie Tan 3A1   
-Boys: Cap - Arthur Leo 3E1 and V.Cap - M. Aqeil 3E2
-
-**C Div**:   
-Girls: Cap - Dwi Naurah 2A2   
-Boys: Cap - Yeo Jia Yao 2T1
+•	‘B’ Division National School Games (Floorball)  
+•	‘C’ Division National School Games (Floorball)
 
 ### Teachers In-charge
-*  Dzafiirah B Mohd Hakim (OIC)
-*  Muhammad Irwan Bin Jamal
-*  Daniel Tan Chin Juay
-*  Vicknesh S/O Kunnasekaran
+•	Dzafiirah B Mohd Hakim (OIC)  
+•	Muhammad Irwan Bin Jamal  
+•	Daniel Tan Chin Juay  
+•	Vicknesh S/O Kunnasekaran  
 
-### Training Venue and Days
-**Day**: Tuesday & Friday     
-**Time**: 
-3.30 pm - 5.30 pm (Tue)     
-Girls 1.30 - 3.30pm (Fri)   
- Boys 2.30 pm - 4.30 pm (Fri)
 
-**Venue**: BASKETBALL COURT/ ISH
+
+### OUR LEADERS
+##### B’ DIVISION (2022/2023)  
+<u>**Boys Team**</u>  
+**Captain**: Raimy Huzaimy (4E)  
+**Vice-Captain**: Muhammad Harith (4O)  
+**VIA Leaders**: Danial Hakim (4E), Hyder Shaqeel (4O)  
+**Treasurer / Events IC**: Lau An Jie (4G)  
+**Fitness IC**: Dylan Siah (4S)  
+**Logistics IC**: Aadam Muhammad Izzat Irfan (4G)  
+
+<u>**Girls Team**</u>  
+**Captain**: Dana Lim (4U)  
+**Vice-Captain**: Koh Shu Han (4U)  
+**VIA Leaders:** Megan Lim (4H), Bianca (4O)  
+**Treasurer / Events IC**: Eka Marshanda (4G)  
+**Fitness &amp; Logistics IC**: Nur Adriana (4S)  
+
+##### B’ DIVISION (2023/2024)
+<u>**Boys Team**</u>  
+**Captain**: Ilhan Hakimi (3A)  
+**Vice-Captain**: Kieran Khaw (3U)  
+**VIA Leader**: Dominic Kyle (2E)  
+**Treasurer / Events IC**: Muhammad Arman (3N)  
+**Fitness IC**: Nigel Teo (3A)  
+**Logistics IC**: Francisco Matthew Lewis (3G)  
+
+<u>**Girls Team**</u>  
+**Captain**: Cherlyn Fan (3H)  
+**Vice-Captain**: Joee Chwa (3E)  
+**VIA Leader**: Charlotte Oh (3G)  
+**Treasurer / Events IC**: Charlene Ong Yu Wen (3N)  
+**Fitness IC**: Charlene Ong Chen Ying (3H)  
+**Logistics IC**: Chin Rui Xin (3G)  
+
+
 
 ### Photographs
+![](/images/Floorball/b%20div%20boys.jpeg)
 
-![](/images/flb3.jpeg)
+![](/images/Floorball/b%20div%20girls.jpeg)
 
-![](/images/flb4.jpeg)
+![](/images/Floorball/hsfb2022.jpeg)
 
-![](/images/flb5.jpeg)
+![](/images/Floorball/sec4cohort.jpeg)
 
-![](/images/flb6.jpeg)
 
-![](/images/flb7.jpeg)
+#### Floorball 
+<iframe width="830" height="315" src="https://www.youtube.com/embed/YfXCFszSLgE" title="Floorball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+#### Photo Slide Show
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRo9-9AYk86RnuuMFYc83IokKWClN9vEAc_5JhjsScr0lkrD_Ov4BM5_88B1jqJycIXiCaI8_RISBT9/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
