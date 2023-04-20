@@ -11,7 +11,7 @@ description: ""
 
 #### General Enquiries
 
-_Q1. What was the indicative PSLE_ _Achievement Levels (AL) scoring range_ _for pupils posted to your school last year (2021)?_
+_Q1. What was the indicative PSLE_&nbsp;_Achievement Levels (AL) scoring range_&nbsp;_for pupils posted to your school last year (2021)?_
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -91,7 +91,7 @@ _Q4: What are the Mother Tongue languages offered in your school?_
 
   
 
-Normal Curriculum for all streams for Chinese and Malay.  The school also offers Higher Chinese Language (HCL) for Sec 1-3.
+Normal Curriculum for all streams for Chinese and Malay.&nbsp; The school also offers Higher Chinese Language (HCL) for Sec 1-3.
 
   
 
@@ -155,21 +155,22 @@ _Q6: What are the official curriculum hours of your school?_
 </tbody>
 </table>
 
-_Q7:  What are the DSA-Sec talent offered in your school?_ 
+_Q7:&nbsp; What are the DSA-Sec talent offered in your school?_ 
 
-*   Language and Humanities – Debate
-*   Performing Arts – Speech and Drama (English)
-*   Performing Arts – Angklung/Kulintang Ensemble  
-*   Performing Arts – Guzheng Esemble
+*   Language and Humanities – Debating (Boys and Girls)
+*   Performing Arts – English Drama (Boys and Girls) 
+*   Performing Arts – Angklung/Kulintang Ensemble (Boys and Girls)  
+*   Performing Arts – Guzheng Esemble (Boys and Girls) 
 *   Sports and Games – Netball (Girls)
-*   Sports and Games – Judo
+*   Sports and Games – Judo (Boys and Girls) 
 *   Sports and Games – Football (Boys)
+*   Leadership and Uniformed Groups  – Leadership (Boys and Girls)
 
-_Q8:  How many classes does your school have in Secondary 1?_
+_Q8:&nbsp; How many classes does your school have in Secondary 1?_
 
 Depending on the intake of the school, we usually have 4 Express, 2 Normal (Academic) and 1 Normal (Technical) classes.
 
-_Q9:  Does your school offer Subject Based Banding (SBB)?_
+_Q9:&nbsp; Does your school offer Subject Based Banding (SBB)?_
 
 Yes. We offer SBB for English, Mother Tongues, Mathematics and Science.
 
@@ -347,7 +348,7 @@ _Q1. What are some of your special programmes for students / to develop student 
 
 _Q2: What are some of the awards that the school has won?_
 *   School Distinction Award
-*   Best Practice in Student All Round Development, Best Practice in Character & Citizenship Education and Best Practice in Teacher & Learning.
+*   Best Practice in Student All Round Development, Best Practice in Character &amp; Citizenship Education and Best Practice in Teacher &amp; Learning.
 *   The school has successfully value-added the Express Stream for the past few years
 *   The school’s Values in Action efforts have been commended on various media platforms and received the Service Learning Champion Gold Award.
 *   The school has also taken part in countless programmes / competitions throughout the years and had won many awards. The numerous awards are displayed outside the General office.
