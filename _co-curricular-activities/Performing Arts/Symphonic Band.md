@@ -4,10 +4,8 @@ permalink: /co-curricular-activities/Performing-Arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/oOMyMgO2QE8" title="2022 Symphonic Band Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/oOMyMgO2QE8" title="2022 Symphonic Band Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-![](/images/symphonic%20band-lower%20i.jpeg)
-![](/images/symphonic%20band-upper%20i.jpeg)
 
 ### Mission
 
@@ -58,7 +56,7 @@ Percussion - Jean Haw (S3-H)
 **Singapore Youth Festival:**
 * Certificate of Accomplishment (2021)  
 * Certificate of Accomplishment (2019)  
- 
+&nbsp;
 
 **School Based/ Public Performances**  
 * Singapore Band (Solo) Virtual Championship  
@@ -73,15 +71,14 @@ Percussion - Jean Haw (S3-H)
 
 ### Training Venue and Days
 
-**Day:** Tuesday & Friday   
-**Time:** 3.15pm - 5.30 pm (Tue) / 2.00 pm - 5.15 pm (Fri)    
-**Venue:** Music Room
+**Day:**&nbsp;Tuesday &amp; Friday   
+**Time:**&nbsp;3.15pm - 5.30 pm (Tue) / 2.00 pm - 5.15 pm (Fri)    
+**Venue:**&nbsp;Music Room
 
 ### Enrichment Activities
 *   Band Camp
-*   CCA-VIA Leaders Affirmation Night 
-*   Music Exchange with other schools 
+*   CCA-VIA Leaders Affirmation Night&nbsp;
+*   Music Exchange with other schools&nbsp;
 *   Watching SSO Concert at The Esplanade
 
 ![](/images/symphonicband.png)
-
