@@ -4,10 +4,8 @@ permalink: /co-curricular-activities/Performing-Arts/speech-and-drama/
 description: ""
 third_nav_title: Performing Arts
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/zmOjsWBSdo0" title="2022 Speech&Drama Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/zmOjsWBSdo0" title="2022 Speech&amp;Drama Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-![](/images/speech%20and%20drama-lower%20i.jpeg)
-![](/images/speech%20and%20drama-upper%20i.jpeg)
 
 Good communication and presentation skills are essential for one to accomplish tasks.
   
@@ -17,11 +15,11 @@ The team is committed to ensure students learn to listen with care, speak with c
 
 ### Vision
 
-To give students sufficient opportunities and support to be transformed into appreciative audience, creative and compassionate teenagers in a safe environment. 
+To give students sufficient opportunities and support to be transformed into appreciative audience, creative and compassionate teenagers in a safe environment.&nbsp;
 
 ### Mission
 
-To foster an environment to educate, encourage and enrich students’ lives through exposure and experience of collaborative creation of theatre and communication works. 
+To foster an environment to educate, encourage and enrich students’ lives through exposure and experience of collaborative creation of theatre and communication works.&nbsp;
 
 ### Motto
 
@@ -60,7 +58,7 @@ Vice-President: Tharra Danielle
 Lower Secondary Head: Siddharth Saju  
 Upper Secondary Head: Leow Yong Quan  
 VIA Leader: Avery Tan  
-   
+&nbsp;  
 **Drama**  
 President: Anthea Chew Pei Jun  
 Vice-Presidents: Muhd Aniq (Lower Sec IC), Karina Khanna (Upper Sec IC)  
@@ -70,16 +68,16 @@ VIA Leader: Nurina Batrisyia
 ### Teachers In-Charge
 
 *   Mdm Siti Sapiya Bte Mohd Sumri(OIC)
-*   Mr Aaron Yeo
-*   Mdm Martini Rahmat
+*   Mr&nbsp;Aaron Yeo
+*   Mdm&nbsp;Martini Rahmat
 *   Ms Tan Yin Wei
 
-**Instructor:** Ms Rossalina Nasir
+**Instructor:**&nbsp;Ms Rossalina Nasir
 
 ### Training Venue and Days
 
-**Day**: Tuesday & Friday  
-**Time**: 3.30 pm - 5.30  pm (Tue) / 2.00 pm -4.00 pm (Fri)  
+**Day**: Tuesday &amp; Friday  
+**Time**: 3.30 pm - 5.30&nbsp; pm (Tue) / 2.00 pm -4.00 pm (Fri)  
 **Venue**: SRC
 
 ### Values In Action
@@ -100,4 +98,3 @@ Weekly Training
 
 
 Debate
-
