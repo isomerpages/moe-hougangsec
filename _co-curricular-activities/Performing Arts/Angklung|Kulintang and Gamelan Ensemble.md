@@ -4,10 +4,8 @@ permalink: /co-curricular-activities/Performing-Arts/angklung-kulintang-and-game
 description: ""
 third_nav_title: Performing Arts
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/XsBwV_icwtQ" title="2022 AKG Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/XsBwV_icwtQ" title="2022 AKG Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
-![](/images/AngklungKulintangGamelan-lower%20i.jpeg)
-![](/images/AngklungKulintangGamelan-upper%20i.jpeg)
 
 ### Introduction
 
@@ -15,7 +13,7 @@ Angklung/Kulintang and Gamelan Ensemble comprises of both Angklung and Gamelan e
 
 ### Vision
 
-To inspire others through the joy found in music 
+To inspire others through the joy found in music&nbsp;
 
 ### Mission
 
@@ -29,23 +27,23 @@ The ensemble is only as strong as its weakest player
 
 **<u>Executive Committee</u>**  
 **President**: Ngoon Hwee Shyan, Isabelle (S3-A)   
-**Vice-President**: Sim Jia Xiang (S3-G)   
+**Vice-President**: Sim Jia Xiang (S3-G)&nbsp;  
 
 **Section Leaders**:  
 **Kulintang IC**: Qurratu’Ain (S3-S)  
 **Kulintang 2IC**: Soh Hui  
 **Bass IC**: Nichie Gan Min Sheng (S3-H)  
-**Bass 2IC**:  Dennis Un (S3-U)  
+**Bass 2IC**:&nbsp; Dennis Un (S3-U)  
 **TK IC**: Nabilah (S3-A)  
 **TK 2IC**: Putri Elfira Qistina (S2-E)  
 **Melody IC**: Leo Yi Jun Selwyn (S3-U)  
 **Melody 2IC**: He Jiahui Phobe (S2-A)  
 **Gamelan IC**: Lye Wei Xuan Hayden (S3-H)  
-**Gamelan 2IC**:  Muhd Afiq (S2-N)  
+**Gamelan 2IC**:&nbsp; Muhd Afiq (S2-N)  
 **Values in Action ICs**: Leo Yi Jun Selwyn (S3-U), Muhd Afiq (S2-N)  
 **Values in Action 2ICs**: Humaira (S3-E)(L3), Nur Suriani (S2-E)(L3)  
 **Logistics IC**: Dennis Un (S3-U) (L4)  
-**Logistics 2IC**:  Muhammad Izz Dany (S3-S) (L3)  
+**Logistics 2IC**:&nbsp; Muhammad Izz Dany (S3-S) (L3)  
 **Attendance IC**: Nur Natasya (S3-E) (L4)
 
 **<u>Wellness Ambassadors</u>**  
@@ -71,7 +69,7 @@ Singapore Youth Festival:
 *   Certificate of Distinction (2017)
 
   
-Public Performances (Angklung & Gamelan)
+Public Performances (Angklung &amp; Gamelan)
 *   July 2017: Malay Cultural Festival 2017 @ Our Tampines Hub
 *   2015: Pasir Ris-Punggol GRC SG50 National Day Dinner
 
@@ -83,9 +81,9 @@ Public Performances (Angklung & Gamelan)
 
 ### Training Venue and Days
 
-**Day:** Tuesday & Friday   
-**Time:** 3.15 pm - 5.30 pm (Tue) / 2.30 pm - 5.15 pm (Fri)   
-**Venue:** COE Room
+**Day:**&nbsp;Tuesday &amp; Friday   
+**Time:**&nbsp;3.15 pm - 5.30 pm (Tue) / 2.30 pm - 5.15 pm (Fri)   
+**Venue:**&nbsp;COE Room
 
 
 
@@ -98,7 +96,7 @@ SYF 2021 – Angklung Ensemble
 SYF 2021 – Angklung Ensemble
 
 ![](/images/akge3.jpeg)
- SYF 2021 – Gamelan Ensemble
+&nbsp;SYF 2021 – Gamelan Ensemble
 
 ![](/images/akge4.jpeg)
 SYF 2021 – Gamelan Ensemble
