@@ -60,7 +60,7 @@ description: ""
 <td class="tg-5ws4">HOD Science</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Khairul Adli Bin Rahmatg<br>khairul_adli_rahmat@moe.edu.sg</td>
+<td class="tg-2rp9">Mr Khairul Adli Bin Rahmat <br>khairul_adli_rahmat@moe.edu.sg</td>
 <td class="tg-5ws4">SSD</td>
 </tr>
 <tr>
