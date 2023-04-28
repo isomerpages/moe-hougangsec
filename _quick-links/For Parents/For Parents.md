@@ -104,4 +104,4 @@ To apply for transfer, please download the Application to Transfer Form and emai
 
 ### Class Timetable
 
-[2023 Semester 1 Class Timetable.pdf](/files/2023%20Semester%201%20Class%20Timetable.pdf)
+[2023 Semester 1 Class Timetable.pdf](/files/Timetables/2023%20Semester%201%20Class%20Timetable.pdf)
