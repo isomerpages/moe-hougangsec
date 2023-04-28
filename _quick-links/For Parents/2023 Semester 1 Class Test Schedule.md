@@ -7,4 +7,5 @@ third_nav_title: For Parents
 Dear parents/guardians,  
   
 Below is the Class Test Schedule for Semester 1:  
-[2023 Class Test Schedule Semester 1.pdf](https://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.1%20Students/Timetable/2023%20Class%20Test%20Schedule%20Semester%201.pdf)
+
+[2023 Class Test Schedule Semester 1.pdf](/files/Timetables/2023%20Class%20Test%20Schedule%20Semester%201.pdf)
