@@ -83,7 +83,7 @@ More details on the FAS is available on the MOE websites below.&nbsp;
 
 * * *
 
-### HS Parents Connect 2022
+### HS Parents Connect 2023
 
 **HS Parents Connect 2023 - Issue 1**&nbsp;  
 [HS Parents Connect 2023 - Issue 1.pdf](/files/HS%20Parents%20Connect%202023%20-%20Issue%201.pdf)
