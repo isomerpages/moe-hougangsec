@@ -121,8 +121,6 @@ description: ""
 <td class="tg-5ws4" style="width: 292.875px;">SH / ICT &amp; Data Management</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Mr Khairul Adli<br>khairul_adli_rahmat@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">Assistant SSD (Int)</td>
 </tr>
 <tr>
 <td class="tg-2rp9" style="width: 270px;">Mr Daniel Tan<br>tan_chin_juay_daniel@moe.edu.sg</td>
