@@ -12,7 +12,7 @@ Dear Parent/Guardian,
 
   
 
-2\. We encourage you to do so via the Parents’ Gateway (PG) app (refer to [https://pg.moe.edu.sg](https://pg.moe.edu.sg/)). If you do not have access to Parents’ Gateway (PG), you may do so by using the hardcopy form [here](/files/HS-2022-166%20Hardcopy%20Letter%20to%20Parents%20and%20Guardians%20Not%20Using%20PG.pdf).
+2\. We encourage you to do so via the Parents’ Gateway (PG) app (refer to [https://pg.moe.edu.sg](https://pg.moe.edu.sg/)). 
 
   
 
