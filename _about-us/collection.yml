@@ -4,7 +4,6 @@ collections:
     order:
       - terms-of-use.md
       - privacy.md
-      - faq.md
       - Principal’s Message.md
       - About HS.md
       - School History.md
