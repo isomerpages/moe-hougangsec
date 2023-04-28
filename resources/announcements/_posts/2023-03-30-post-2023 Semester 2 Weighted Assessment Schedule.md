@@ -10,4 +10,5 @@ Dear Hougeans,
 
 Below is the 2023 Semester 2 Weighted Assessment Schedule for your reference.
 
-[2023 Semester 2 Weighted Assessment Schedule](https://www.hougangsec.moe.edu.sg/files/2023_Semester_2_Weighted%20_Assessment%20Schedule.pdf)
+
+[2023 Semester 2 Weighted Assessment Schedule](/files/Timetables/2023_Semester_2_Weighted%20_Assessment%20Schedule.pdf)

@@ -7,11 +7,11 @@ description: ""
 
 **Frequently Asked Questions (FAQs)**
 
-**Year: 2021**
+**Year: 2022**
 
 #### General Enquiries
 
-_Q1. What was the indicative PSLE_&nbsp;_Achievement Levels (AL) scoring range_&nbsp;_for pupils posted to your school last year (2021)?_
+_Q1. What was the indicative PSLE_&nbsp;_Achievement Levels (AL) scoring range_&nbsp;_for pupils posted to your school last year (2021)?_ (Please refer to [SchoolFinder](https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=hougang-secondary-school) for the latest.)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -24,16 +24,16 @@ _Q1. What was the indicative PSLE_&nbsp;_Achievement Levels (AL) scoring range_&
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-citn"><span style="font-weight:normal;color:#333;background-color:#FFF">Express</span>                           : </td>
-    <td class="tg-citn"> 16 - 20</td>
+    <td class="tg-citn"><span style="font-weight:normal;color:#333;background-color:#FFF">Express/Posting Group 3</span>                           : </td>
+    <td class="tg-citn"> 10 - 22</td>
   </tr>
   <tr>
-    <td class="tg-citn">Normal Academic            : </td>
+    <td class="tg-citn">Normal Academic/Posting Group 2            : </td>
     <td class="tg-citn"> 21 - 24</td>
   </tr>
   <tr>
     <td class="tg-citn">Normal Technical             :</td>
-    <td class="tg-citn"> 25 - 27</td>
+    <td class="tg-citn"> 25 - 30</td>
   </tr>
 </tbody>
 </table>
@@ -73,12 +73,15 @@ _
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Coursework-based subjects:</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Design &amp; Technology, Food &amp; Consumer Education, Art</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Coursework-based electives:</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Design &amp; Technology, Nutrition and Food Science, Art, Elements of Business Skills</span></td>
+  </tr>
+	<tr><td class="tg-citn"><span style="font-weight:400;color:#333">Non-coursework-based electives:</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Computing; Additional Mathematics, Principles of Accounts</span></td>
   </tr>
   <tr>
     <td class="tg-citn"><span style="font-weight:400;color:#333">Sciences:</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Pure Biology, Chemistry, Physics and Combined Sciences</span></td>
+    <td class="tg-citn"><span style="font-weight:400;color:#333">Biology, Chemistry, Physics and Combined Sciences</span></td>
   </tr>
   <tr>
     <td class="tg-citn"><span style="font-weight:400;color:#333">Humanities:</span></td>
