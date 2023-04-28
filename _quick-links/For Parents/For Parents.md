@@ -54,7 +54,8 @@ third_nav_title: For Parents
 
 Please click this URL for more details on the DMA Parent Portal.
 
-Log in to Mobile Guardian here: [https://sg-portal.mobileguardian.com/#/login](https://sg-portal.mobileguardian.com/#/login)
+Log in to Mobile Guardian here:   
+[https://sg-portal.mobileguardian.com/#/login](https://sg-portal.mobileguardian.com/#/login)  
 Your parent's account will be created and emailed to you after your selection of the DMA option for your child/ward.
 
 ### Financial Assistance
