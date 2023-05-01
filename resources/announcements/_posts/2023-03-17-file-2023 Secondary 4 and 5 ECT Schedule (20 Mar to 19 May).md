@@ -4,6 +4,5 @@ date: 2023-03-17
 layout: file
 description: ""
 image: ""
-file_url: /files/2023 Term 2 ECT Schedule dated 16 March.pdf
+file_url: /files/Timetables/2023 Term 2 ECT Schedule dated 16 March.pdf
 ---
-

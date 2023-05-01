@@ -12,6 +12,12 @@ The central feature of the guidelines is how schools and parents can work hand-i
 
 We hope these guidelines on school-home partnership will be a useful reference for all to help our students have ownership over their learning, develop a sense of purpose and succeed in life.
 
-MOE has also provided the guide in the form of a 13-page poster which may be useful to you below.  
+MOE has also provided the guides which may be useful to you below.    
 
-[School-Home Partnership.pdf](/files/School-Home%20Partnership.pdf)
+[English](https://www.moe.gov.sg/-/media/files/news/press/2019/guidelines-for-school-home-partnership.pdf)
+
+[Chinese](https://www.moe.gov.sg/-/media/files/news/press/2019/guidelines-for-school-home-partnership-chinese.pdf)
+
+[Malay](https://www.moe.gov.sg/-/media/files/news/press/2019/guidelines-for-school-home-partnership-malay.pdf)
+
+[Tamil](https://www.moe.gov.sg/-/media/files/news/press/2019/guidelines-for-school-home-partnership-tamil.pdf)

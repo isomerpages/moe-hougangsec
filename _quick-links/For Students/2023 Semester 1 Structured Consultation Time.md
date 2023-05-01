@@ -8,4 +8,4 @@ Dear Hougeans,
   
 The schedule for the Structured Consultation Time for 2023 Semester 1 is available below for your reference:   
    
-[2023 Semester 1 SCT Schedule.pdf](https://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.1%20Students/2023%20Semester%201%20SCT%20Schedule.pdf)
+[2023 Semester 1 SCT Schedule.pdf](/files/Timetables/2023%20semester%201%20sct%20schedule.pdf)

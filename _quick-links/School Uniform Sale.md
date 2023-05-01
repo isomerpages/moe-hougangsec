@@ -7,7 +7,7 @@ Dear Parents/Guardians
 
 <u>I. ONLINE Purchase</u>
 
-The <u>online</u> uniform purchase is available on Student Mart/Jeep Sing online store, via Home Delivery.
+The&nbsp;<u>online</u>&nbsp;uniform purchase is available on Student Mart/Jeep Sing online store, via Home Delivery.
 
 [https://jeepsinguniform.com/collections/hougang-secondary-school](https://jeepsinguniform.com/collections/hougang-secondary-school)
 
@@ -15,7 +15,7 @@ The <u>online</u> uniform purchase is available on Student Mart/Jeep Sing onli
 
 <u>II. Purchase at Student Mart/Jeep Sing Retail Outlet</u>
 
-This option is by <u>appointment only, no walk-in</u>. Please book your time slots via this link.
+This option is by&nbsp;<u>appointment only, no walk-in</u>. Please book your time slots via this link.
 
 [https://jeepsinguniform.com/pages/appointment-booking](https://jeepsinguniform.com/pages/appointment-booking)
 
@@ -53,6 +53,3 @@ Walk-in purchase is available on the following dates and time.
 </tbody>
 </table>
 
-  
-[  
-HS 2022 uniform sale schedule.pdf](/files/HS%202022%20uniform%20sale%20schedule.pdf)

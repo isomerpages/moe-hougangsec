@@ -3,8 +3,6 @@ title: Traffic Advisory
 permalink: /quick-links/traffic-advisory/
 description: ""
 ---
-
-
 HS/2021/0120
 
 
@@ -29,5 +27,5 @@ The Land Transport Authority (LTA), Traffic Police (TP) and Hougang Secondary Sc
 5\. Thank you for your co-operation.
 
 Regards,   
-Mr Ari Manickam   
+Mr Brandon Lee  
 Principal, Hougang Secondary School
