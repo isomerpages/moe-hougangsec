@@ -4,7 +4,7 @@ permalink: /key-programmes/dsa/permalink/
 description: ""
 third_nav_title: DSA
 ---
-**Direct School Admission 2023**
+# **Direct School Admission 2023**
 
 These are the Direct School Admission talent areas that our school is offering for 2023.
 
@@ -45,7 +45,8 @@ These are the Direct School Admission talent areas that our school is offering f
  
 <p>Application for DSA to Hougang Secondary School starts on <span style="color: #ff0000;"><strong>4 May 2023 (11 am) and will end on 31 May 2023 (3 pm)</strong></span>.</p>
 <p>We welcome students who are keen to develop their potential in any of the following areas to join us as Secondary 1 students in 2024.</p>
-<p><strong>SELECTION CRITERIA</strong></p>
+
+## <p><strong>SELECTION CRITERIA</strong></p>
 <p>Do note that meeting all the criteria below does not guarantee the student will be shortlisted or given an offer.</p>
 <p><strong>Language and Humanities – Debating (Boys &amp; Girls)</strong></p>
 <p>Criteria:</p>
@@ -102,14 +103,14 @@ These are the Direct School Admission talent areas that our school is offering f
 <li>Preferably has experience as an appointed student leader impacting change amongst peers (e.g. Prefect, Class Monitor, CCA Leader, Peer Support Leader, etc)</li>
 </ul>
 
-**APPLICATION PROCESS**   
+## **APPLICATION PROCESS**   
 Application for DSA–Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 4 May 2023, 11am to 31 May 2023, 3pm. For more details, please refer to MOE website -  https://www.moe.gov.sg/dsa-sec.
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school, and participate in the activities related to the talent they are selected for from Secondary 1 to 4.
  
-**IMPORTANT DATES**	  
+## **IMPORTANT DATES**	  
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="690" style="width:517.15pt;border-collapse:collapse;border:none;mso-border-alt:
  solid #2A2A2A .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0mm 0mm 0mm 0mm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
@@ -174,7 +175,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 For more information on Direct School Admission, please visit [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).	
  
   
-**HOUGANG SECONDARY SCHOOL DSA 2023**	 
+## **HOUGANG SECONDARY SCHOOL DSA 2023**	 
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="690" style="width:517.15pt;border-collapse:collapse;border:none;mso-border-alt:
  solid #2A2A2A .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0mm 0mm 0mm 0mm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
@@ -339,7 +340,7 @@ For more information on Direct School Admission, please visit [www.moe.gov.sg/ds
 The selection criteria and process for the talent areas will be updated from early-May 2023. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)  
 
 
-**Contact Us**  
+### **Contact Us**  
 For further clarification, you may contact the following staff:  
 Mdm Jolin Chang  
 [jolin\_chang@schools.gov.sg](mailto:jolin_chang@schools.gov.sg)  
