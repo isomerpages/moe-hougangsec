@@ -4,7 +4,7 @@ permalink: /about-us/Partners/school-advisory-committee/
 description: ""
 third_nav_title: Partners
 ---
-| Name       | Title |
+| Name       | Role |
 | ------------- | -------- |
 | Dr Lina Chong Lin Lin     | Chairman   | 
 | Mr Kelvin Soh Choon Teck     | Member   | 
