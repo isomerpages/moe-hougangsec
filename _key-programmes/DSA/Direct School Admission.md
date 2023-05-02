@@ -46,7 +46,7 @@ These are the Direct School Admission talent areas that our school is offering f
 <p>Application for DSA to Hougang Secondary School starts on <span style="color: #ff0000;"><strong>4 May 2023 (11 am) and will end on 31 May 2023 (3 pm)</strong></span>.</p>
 <p>We welcome students who are keen to develop their potential in any of the following areas to join us as Secondary 1 students in 2024.</p>
 
-## <p><strong>SELECTION CRITERIA</strong></p>
+## **SELECTION CRITERIA**
 <p>Do note that meeting all the criteria below does not guarantee the student will be shortlisted or given an offer.</p>
 <p><strong>Language and Humanities – Debating (Boys &amp; Girls)</strong></p>
 <p>Criteria:</p>
