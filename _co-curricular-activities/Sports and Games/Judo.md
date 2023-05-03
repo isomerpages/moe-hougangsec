@@ -222,7 +222,7 @@ SJF -Student Judo Foundation
 *   Low Wee Kie Jasmine
 *   Toh Hui Khee Jazreel
 
-**Coach**: Mr Mohd Faizal Mohd Noor
+**Coach**: Lin Yu Sheng
 
 ### Training Venue and Days
 

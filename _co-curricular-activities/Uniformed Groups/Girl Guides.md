@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/9rt5SeC9I20" title="2022 Girl Guides Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Girl Guides Open House" src="https://www.youtube.com/embed/9rt5SeC9I20" height="315" width="830"></iframe></center>
   
 
 ### Introduction
@@ -103,4 +103,4 @@ The Five-Point Programme forms the foundation for Guiding in Singapore. Girls de
 VIA on some Tuesdays
 
 Photo Gallery
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQF5csILTYimWSvJThr_WmNrTlWEZuAof4xpUiIGWylOt7xIoVPnxzphVLHWU-wMUgGpiXlSU30l4ru/embed?start=true&amp;loop=true&amp;delayms=2000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqliW0l5_z4xKcY34kvQZz-tMwJrACvABGjTc465-1ePaWQVoKw7xl6cNx447mt69UlqDHHU-6TqDt/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
