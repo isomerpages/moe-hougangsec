@@ -4,7 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2021 Open House GB ver 2" src="https://www.youtube.com/embed/Yu6wV4n_ggE" height="315" width="830"></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/Yu6wV4n_ggE" title="2021 Open House GB ver 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
 
 
@@ -58,9 +58,9 @@ Developing each girl and officer to her fullest potential by equipping, empoweri
     <td class="tg-2rp9">Leadership Award Stage 1</td>
   </tr>
   <tr>
-    <td rowspan="3" class="tg-2rp9">2</td>
-    <td rowspan="5" class="tg-2rp9">Made for More<br>Made for Future<br>Made for Adventure<br>Made for Good Works<br> First Aid/GBI/Drills badge</td>
-    <td rowspan="3" class="tg-2rp9">Leadership Award Stage 2 (Bronze Pin)</td>
+    <td class="tg-2rp9" rowspan="3">2</td>
+    <td class="tg-2rp9" rowspan="5">Made for More<br>Made for Future<br>Made for Adventure<br>Made for Good Works<br> First Aid/GBI/Drills badge</td>
+    <td class="tg-2rp9" rowspan="3">Leadership Award Stage 2 (Bronze Pin)</td>
   </tr>
   <tr>
   </tr>
@@ -151,4 +151,4 @@ Private – Lance Corporal – Corporal – Sergeant – Staff Sergeant – Mast
 
 ### Photo Gallery
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRTUfA6pLYKPC0Yu9UjJULQtOG99srpoGM2mFNFELd5bsOk7MYJkUjYsq2i_GHrW8TdUZdMblb0GI2v/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSItbNYJEE5J1RdhJx-hM-FnrvRhfbsFlA_Afqs7g0VWZVhHYqawvURCfEzu5otGesW8PIB1auXAlRu/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe></center>
