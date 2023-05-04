@@ -25,13 +25,13 @@ Grow &amp; Go Beyond - Extend. Serve. Lead
 Developing each girl and officer to her fullest potential by equipping, empowering and enabling: Every Girl a leader, Every Officer a Servant Leader.
 
 ### Achievements
-
+*  Achieved Gold in Company Award 2022
+*  Achieved Bronze in Drill Competition 2023
+*  Achieved Pioneer Brigader Brooch in 2021,2022 and 2023 (Highest award for Pioneer GB girl) 
 *   Achieved Silver award in Dr. Low Guat Tin Challenge 2022
-*   Achieved Pioneer Brigader Brooch in 2021 and 2022&nbsp;(Highest award that a Pioneer GB girl can achieve)
 *   Achieved Gold in Company Award 2021
 *   Achieved Gold for Dr. Low Guat Tin Challenge&nbsp; 2021
 *   Top in Illustrate Category (Secondary) for Dr. Low Guat Tin Challenge 2021
-*   Achieved Silver in Company Award 2019
 
 ### Achievement Badges
 
@@ -123,6 +123,10 @@ Developing each girl and officer to her fullest potential by equipping, empoweri
 Company Sergeant Major, Assistant Company Sergeant Major, Squad leader, Assistant Squad Leader, Drill Mistress, Quarter Mistress, Executive Committee (VIA) and Welfare Committee
 
 ![](/images/GB2021.jpeg)
+
+*  CSM: PEE POI SHUEN, CARISSA (BAI PEIXUAN) (S3-U)  
+*  ACSM: LIM LI SHAN (S3-O)
+
 
 ### Route of Advancement
 
