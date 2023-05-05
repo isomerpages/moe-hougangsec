@@ -134,42 +134,42 @@ Students who are successfully admitted to the school via DSA are expected to hon
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">-<i>Sec Portal. You may refer to MOE website at: </i></span><span lang="EN-SG"><a href="https://go.gov.sg/nmsdsa-sec-application"><i><span style="font-size:
   12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#0070C0">https://go.gov.sg/nmsdsa-sec-application</span></i></a></span><i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">.</span></i><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">.</span></i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td></tr><tr style="mso-yfti-irow:1;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:10.5pt;line-height:
+  line-height:150%"><b><span lang="EN-SG" style="font-size:12pt;line-height:
   150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">26 June to 11 September 2023</span></b><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333">26 June to 11 September 2023</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Selection period.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Selection period.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Shortlisted applicants will be notified to attend in-person selection trials/audition or interview.</span></p></td></tr><tr style="mso-yfti-irow:2;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:10.5pt;line-height:
+  line-height:150%"><b><span lang="EN-SG" style="font-size:12pt;line-height:
   150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">By 14 September 2023</span></b><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333">By 14 September 2023</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Release of DSA-Sec application results to applicants.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:10.5pt;line-height:
+  line-height:150%"><b><span lang="EN-SG" style="font-size:12pt;line-height:
   150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">23 October to 27 October 2023</span></b><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333">23 October to 27 October 2023</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Exercise School Preference Submission (DSA-Sec Portal) for DSA-Sec applicants who have received at least 1 DSA offer.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Exercise School Preference Submission (DSA-Sec Portal) for DSA-Sec applicants who have received at least 1 DSA offer.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Parents/ guardians who are unable to submit online can approach your child’s/ ward’s primary school for assistance.</span></p></td></tr></tbody></table>  
 
 For more information on Direct School Admission, please visit [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).	
@@ -180,81 +180,81 @@ For more information on Direct School Admission, please visit [www.moe.gov.sg/ds
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="690" style="width:517.15pt;border-collapse:collapse;border:none;mso-border-alt:
  solid #2A2A2A .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0mm 0mm 0mm 0mm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
   solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-GB" style="font-size:10.5pt;line-height:
+  line-height:150%"><b><span lang="EN-GB" style="font-size:12pt;line-height:
   150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Talent Area</span></b><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333;mso-ansi-language:EN-GB">Talent Area</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border:solid #2A2A2A 1.0pt;border-left:
   none;mso-border-left-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-GB" style="font-size:10.5pt;line-height:
+  line-height:150%"><b><span lang="EN-GB" style="font-size:12pt;line-height:
   150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Programmes, activities and/or opportunities that students can expect to participate in each talent area</span></b><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333;mso-ansi-language:EN-GB">Programmes, activities and/or opportunities that students can expect to participate in each talent area</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td></tr><tr style="mso-yfti-irow:1;height:74.85pt"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt;height:74.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Football</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333;mso-ansi-language:EN-GB">Football</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Boys)</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333;mso-ansi-language:EN-GB">(Boys)</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:74.85pt"><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;
+  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#333333;mso-ansi-language:EN-GB">Students can look forward to opportunities such as conditioning of skills, NSG competitions. To further hone the skills of these students, they will also be given position-specific coaching (eg. Goalkeeper, Strikers) from specialist coaches. In addition, students can look forward to Futsal-specific training and competitions too.</span></p><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;
+  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#333333">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Netball</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333;mso-ansi-language:EN-GB">Netball</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Girls)</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333;mso-ansi-language:EN-GB">(Girls)</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;
+  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#333333;mso-ansi-language:EN-GB">Students can look forward to cultivating a deeper understanding and appreciation of Netball and sports safety. Their ball skills will be honed and they can participate in strategic play through training as well as game experience at both friendly and competitive levels. In addition to fostering strong friendships and developing good sportsmanship and teamwork, there will also be opportunities to plan activities that will promote team-building and benefit the community (eg. VIA activities).</span></p><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;
+  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#333333">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Judo</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333;mso-ansi-language:EN-GB">Judo</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Boys &amp; Girls)</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333;mso-ansi-language:EN-GB">(Boys &amp; Girls)</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;
+  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#333333;mso-ansi-language:EN-GB">Students can look forward to undergoing more targeted training to fine-tune their techniques and strengthen their physical condition. In addition, they will undergo training in basic Sports Psychology and Nutrition to help bring their performance to the next level. They will be exposed to higher-level competitions and combined training with other established Judo schools. Opportunities will also be available for students to serve in various leadership capacities.</span></p><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;
+  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#333333">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Guzheng Ensemble</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333;mso-ansi-language:EN-GB">Guzheng Ensemble</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#333333;mso-ansi-language:EN-GB">(Boys &amp; Girls)</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
