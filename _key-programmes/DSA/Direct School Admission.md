@@ -115,25 +115,25 @@ Students who are successfully admitted to the school via DSA are expected to hon
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="690" style="width:517.15pt;border-collapse:collapse;border:none;mso-border-alt:
  solid #2A2A2A .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0mm 0mm 0mm 0mm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
   solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:10.5pt;line-height:
+  line-height:150%"><b><span lang="EN-SG" style="font-size:12pt;line-height:
   150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
   color:#333333">4 May (11 am) to 31 May (3 pm) 2023</span></b><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="480" style="width:360.05pt;border:solid #2A2A2A 1.0pt;border-left:
   none;mso-border-left-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Application opens and all applicants will apply through the following centralised DSA-Sec Portal: </span><span lang="EN-SG"><a href="https://go.gov.sg/dsa-sec-application"><span style="font-size:10.5pt;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Application opens and all applicants will apply through the following centralised DSA-Sec Portal: </span><span lang="EN-SG"><a href="https://go.gov.sg/dsa-sec-application"><span style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#0070C0">https://go.gov.sg<i>/dsa-sec-application</i></span></a></span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">.<i></i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">*If you are a student studying in an MOE mainstream primary school, you may login to the DSA</span></i><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;
+  color:#0070C0">https://go.gov.sg<i>/dsa-sec-application</i></span></a></span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">.<i></i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">*If you are a student studying in an MOE mainstream primary school, you may login to the DSA</span></i><span lang="EN-SG" style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">-<i>Sec portal to apply via a parent’s Singpass. Parents/ guardians who are unable to apply online can approach your child’s/ ward’s primary school for assistance.</i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">* For&nbsp;&nbsp;Non</span></i><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">-<i>mainstream school students:</i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Parents should apply online for a Registration Number to access the DSA</span></i><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333">-<i>Sec portal to apply via a parent’s Singpass. Parents/ guardians who are unable to apply online can approach your child’s/ ward’s primary school for assistance.</i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">* For&nbsp;&nbsp;Non</span></i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">-<i>mainstream school students:</i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Parents should apply online for a Registration Number to access the DSA</span></i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">-<i>Sec Portal. You may refer to MOE website at: </i></span><span lang="EN-SG"><a href="https://go.gov.sg/nmsdsa-sec-application"><i><span style="font-size:
-  10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#0070C0">https://go.gov.sg/nmsdsa-sec-application</span></i></a></span><i><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;color:#0070C0">https://go.gov.sg/nmsdsa-sec-application</span></i></a></span><i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;">.</span></i><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td></tr><tr style="mso-yfti-irow:1;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
