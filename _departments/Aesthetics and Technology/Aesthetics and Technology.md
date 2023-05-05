@@ -36,8 +36,6 @@ Mr Mohammad Fauzi Bin Selamat
 
   
 
-  
-
 ### Department Vision
 **To nurture creative and confident thinkers**
  
@@ -96,7 +94,7 @@ o	Certificate of Participation: Sofiyyan Binte Jufri and Nur Rheerza from 3E3
 
 
 **Visual Art Unit**  
-•	**Live on Festival (LOF) Design 2022** 
+•	**Live on Festival (LOF) Design 2022**  
 o	Certificate of Distinction: Tricia Wu from 4A1  
 •	**Singapore Youth Festival 2022 Art Exhibition**  
 o	Certificate of Recognition: Chloe Soh from 4E4  
@@ -106,26 +104,32 @@ o	3rd Place in The Most Artistic Award: Kang Chei Min and Sakinah Bte Jefri from
 o	3rd Place in You Make a Difference Award: Joshua Wong and Chen Song Ze from 4S  
 •	**The SG Clean Comic Strip Competition 2022**  
 o	Shortlisted and featured in SG Clean Comic Book: Sakinah Bte Jefri from 4N  
-•	**Artwork selected for Ministry's repository of Coporate Gifts**  
+•	**Artwork selected for Ministry's repository of Coporate Gifts 2021**  
 o	Sheraz Lim from 4E4  
 •	**Live on Festival (LOF) Design 2021**  
 o	Certificate of Distinction: Ho Jun Wei from 3E3  
 
-
-**Staff**
-•	2022 MOE Service Excellence Award (Gold) – Mdm Azlinah Wahed  
-•	2022 MOE Service Excellence Award (Gold) – Mr Alfred Choo   
-•	2022 MOE Service Excellence Award (Silver) – Mr Anwarul Nizam B Ismail  
-•	2022 MOE Service Excellence Award (Silver) – Ms Dzafiirah Binte Mohammad Hakim  
-•	2022 MOE Service Excellence Award (Silver) – Ms Koh Bao Ru Jane  
-•	2022 MOE Service Excellence Award (Silver) – Ms Low Wee Kie Jasmine  
-•	2022 MOE Service Excellence Award (Silver) –Mr Muhammad Nazirul Mubin Bin Yusoff  
-•	2022 MOE Service Excellence Award (Silver) –Mr Ng Geok Leng Benny  
-•	2021 MOE Service Excellence Award (Platinum) – Mr Mohamed Fahizel  
-•	2021 MOE Service Excellence Award (Gold) – Mr Mohamed Fahizel   
-•	2021 MOE Service Excellence Award (Gold) – Ms Farahana Binte Abdul Rahim    
-•	2021 MOE Service Excellence Award (Gold) – Ms Tan Wei Jing   
-•	2021 MOE Service Excellence Award (Gold) - Mr Tangarajoo Marimuthu  
-•	2021 MOE Service Excellence Award (Silver) – Mdm Azlinah Wahed  
+**D&T Unit**  
+•	**2022 Design & Technology Awards**  
+o	Certificate of Participation for the project ‘Ping Pong Ball Dispenser’: Tan Li Min Alicia  
+o	Certificate of Participation for the project ‘Mobile Phone Repair Kit Holder’: Low Chee Siang  
+•	**2021 Ignite Challenge**  
+o	Certificate of Participation for ‘Dancing Drones’ challenge: Loh Wei Jie Vincent, Keane Ang Ju Ze, Isaac Seow Chin Pang.  
+o	Certificate of Participation for ‘Daedalus’ challenge: Mohamed Irfan bin Mohamed Azhar, Adyan Aayman bin Mohamed Rizal, Muhammad Zahir bin Mohamad Hanipah, Nurin Ayla binte Muhammad Faizal, Nursyafiqah Binte Mohamed Faizal, Putri Nur Eriqha binte Engku Yazid.
 
 
+
+**Staff**  
+•	**2023 Teacher-Led workshop on ‘Using Experiential Learning Approach to Teach Mechanism’** – Mr Ng Geok Leng Benny, Mr Anwarul Nizam B Ismail and Mr Choo Boon Kian Alfred  
+•	**2023 Teachers’ Conference and ExCEL Fest 2023 (TCEF2023)** presentation on ‘Leveraging digital tools to sequence and scaffold the Teaching of Composition in Art.’ – Mdm Farahana Binti Abdul Rahim, Ms Dzafiirah Binte Mohammad Hakim and Ms Koh Bao Ru Jane  
+•	**2022 AST ‘emPowereD Issue 7** on Inquiry-Based Learning featured teacher – Ms Jasmine Low Wee Kie  
+•	**2022 Teacher-Led workshop** on ‘Using Inquiry-based Learning in the Teaching of Food Label’ – Ms Tan Wei Jing, Mdm Tan Chan Jong, Mr Muhammad Nazirul and Mdm Azlinah Wahed  
+•	**2022 MOE Service Excellence Award (Gold)** – Mdm Azlinah Wahed and Mr Alfred Choo  
+•	**2022 MOE Service Excellence Award (Silver)** – Mr Anwarul Nizam B Ismail, Ms Dzafiirah Binte Mohammad Hakim, Ms Koh Bao Ru Jane, Ms Jasmine Low Wee Kie, Mr Muhammad Nazirul Mubin Bin Yusoff and Mr Ng Geok Leng Benny  
+•	**2022 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie  
+•	**2021 STAR e-publication ‘Sounding the Teaching V**: Technology and Inclusion in Pedagogy’ article; 'A study of the effectiveness of the music curriculum through Differentiated Instruction which harnesses different tools and approaches’ – Ms Jasmine Low Wee Kie  
+•	**2021 Teachers’ Conference and ExCEL Fest 2021 (TCEF2021)** presentation on ‘Using Inquiry-Based Learning to Teach Reading of Food Labels’ – Ms Tan Wei Jing, Mdm Tan Chan Jong, Mr Muhammad Nazirul, Mdm Azlinah Wahed  
+•	**2021 MOE Service Excellence Award (Platinum)** – Mr Mohamed Fahizel  
+•	**2021 MOE Service Excellence Award (Gold)** – Mr Mohamed Fahizel, Mdm Farahana Binti Abdul Rahim, Ms Tan Wei Jing and Mr Tangarajoo Marimuthu  
+•	**2021 MOE Service Excellence Award (Silver)** – Mdm Azlinah Wahed  
+•	**2021 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie  
