@@ -19,7 +19,7 @@ Mr Alfred Choo
 Mdm Farahana Binti Abdul Rahim (Subject Coordinator)   
 Mdm Nur Syahira Zulkifli     
 Mdm Dzafiirah Binte Mohammad Hakim    
-Miss Jane Koh
+Ms Jane Koh
 
 **Nutrition and Food Science**   
 Mdm Azlinah Wahed (Subject Coordinator)    
@@ -28,7 +28,7 @@ Mdm Tan Chan Jong
 Ms Tan Wei Jing  
 
 **Music Unit**  
-Miss Jasmine Low Wee Kie (Subject Coordinator) 
+Ms Jasmine Low Wee Kie (Subject Coordinator) 
   
 **Technical Support Officers**   
 Mr Tangarajoo Marimuthu   
@@ -55,7 +55,6 @@ Secondary 3 NFS Enrichment Programmes such as “Cookyn with Carbs” & “Food 
 Secondary 1 & 2 Lower Secondary Music Programme  
 Secondary Art Enrichment Programme  
 Secondary 3 Design & Technology ICT Lessons  
-Secondary 3 SciTechumatics Enrichment  
 Secondary 3 A&T Staff Day Project**  
 
 
