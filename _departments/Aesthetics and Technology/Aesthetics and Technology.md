@@ -57,11 +57,33 @@ Secondary Art Enrichment Programme
 Secondary 3 Design & Technology ICT Lessons  
 Secondary 3 A&T Staff Day Project**  
 
+### Collaborative Project 
+**Secondary 3 A&T Staff Day Project**  
+This is a collaborative project that involves three units - Art, Design & Technology (D&T), and Nutrition and Food Science (NFS) - within the A&T department, and it includes G1 students. The objective of the project is for the students to express their appreciation to the teaching and non-teaching staff at HS.
+
+Authentic project provides the desired authentic learning experiences and a glimpse of the work habits and skills of the food industry with the provision of exposure to the food industry (SEAB, 2015). It includes authentic design opportunities that are meaningful and trains them to display designerly dispositions (MOE, 2016). It incorporates the practices by artists and designers that enlighten students of their further learning and career opportunities (MOE, 2018). These statements echo the description of AA whereby students exhibit knowledge, skills, and attitudes needed in professional life (Gulikers et al., 2004).   
+
+![](/images/AnT/AnT/secondary%203%20a&t%20staff%20day%20project%20-%201.jpeg)
+
+The students were given specific assignments for the project, including designing department logos using Canva for Art, constructing dessert table structures for D&T, and planning, baking, and packaging biscuits into bottles for NFS.
+
+Students applied the skills taught in their lessons to design and prepare their task/products with the guidance of their subject teachers. The authentic learning experience also encourage students to trouble shoot on the problems faced during the whole process. Equipped with the skills taught during curriculum, students were given the ownership to plan, prepare and design their products.
 
 Accolades
 ---------
 
-**Students**
+**Students**  
+
+**Music Unit**  
+•	2023 Aspire Showcase by our N(T) Level Music students  
+![](/images/AnT/Music/music1.jpg)
+•	2020 Singapore Youth Festival, The Youth Station Project  
+o	Song composed: Without You  
+o	Composed by: Leah Faith Doraisamy, 2E1  
+•	2020 Xinyao Songwriting Competition  
+o	Song composed: 守护星  
+o	Composed by: Leah Faith Doraisamy from 2E1, Ng Xin Hui Avery from 3E1, Mayvadee Chang Chu Lin and Syafiqah Binte Sulaiman from 3E2  
+
 
 **Nutrition and Food Science Unit**  
 •**2022 Food and Beverage Entrepreneurship Competition organized by Republic Polytechnic, school of Hospitality**   
@@ -107,14 +129,3 @@ o	Certificate of Distinction: Ho Jun Wei from 3E3
 •	2021 MOE Service Excellence Award (Silver) – Mdm Azlinah Wahed  
 
 
-### Collaborative Project 
-**Secondary 3 A&T Staff Day Project**  
-This is a collaborative project that involves three units - Art, Design & Technology (D&T), and Nutrition and Food Science (NFS) - within the A&T department, and it includes G1 students. The objective of the project is for the students to express their appreciation to the teaching and non-teaching staff at HS.
-
-Authentic project provides the desired authentic learning experiences and a glimpse of the work habits and skills of the food industry with the provision of exposure to the food industry (SEAB, 2015). It includes authentic design opportunities that are meaningful and trains them to display designerly dispositions (MOE, 2016). It incorporates the practices by artists and designers that enlighten students of their further learning and career opportunities (MOE, 2018). These statements echo the description of AA whereby students exhibit knowledge, skills, and attitudes needed in professional life (Gulikers et al., 2004).   
-
-![](/images/AnT/AnT/secondary%203%20a&t%20staff%20day%20project%20-%201.jpeg)
-
-The students were given specific assignments for the project, including designing department logos using Canva for Art, constructing dessert table structures for D&T, and planning, baking, and packaging biscuits into bottles for NFS.
-
-Students applied the skills taught in their lessons to design and prepare their task/products with the guidance of their subject teachers. The authentic learning experience also encourage students to trouble shoot on the problems faced during the whole process. Equipped with the skills taught during curriculum, students were given the ownership to plan, prepare and design their products.
