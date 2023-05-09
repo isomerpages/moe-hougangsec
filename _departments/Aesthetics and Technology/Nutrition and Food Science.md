@@ -42,13 +42,13 @@ _“The lesson in this enrichment course not only reinforces the teaching I got 
 
 
 Enrichment Photo 1
-<img src="/images/Sec3EnrichmentP1.jpeg" style="width:45%">
+<img src="/images/Sec3EnrichmentP1.jpeg">
 
 Enrichment Photo 2
-<img src="/images/Sec3EnrichmentP2.jpeg" style="width:45%">
+<img src="/images/Sec3EnrichmentP2.jpeg">
 
 Enrichment Photo 3
-<img src="/images/Sec3EnrichmentP3.jpeg" style="width:45%">
+<img src="/images/Sec3EnrichmentP3.jpeg">
 
 
 ### Enrichment Programme “Food Presentation Workshop”  
