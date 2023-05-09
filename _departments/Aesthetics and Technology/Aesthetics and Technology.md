@@ -85,8 +85,7 @@ o	Composed by: Leah Faith Doraisamy from 2E1, Ng Xin Hui Avery from 3E1, Mayvade
 
 **Nutrition and Food Science Unit**  
 •**2022 Food and Beverage Entrepreneurship Competition organized by Republic Polytechnic, school of Hospitality**   
-o	Certificate of Participation: Leong Yu Xuan, Tan Shu Ern, Ong Sue Hann Joelle, Muhammad Aiman Bin Rosman from 4R7
-
+o	Certificate of Participation: Leong Yu Xuan, Tan Shu Ern, Ong Sue Hann Joelle, Muhammad Aiman Bin Rosman from 4R7  
 •	**2020 Food and Beverage Entrepreneurship Competition organized by Republic Polytechnic, school of Hospitality**   
 o	1st Prize: Pok Ka Sian Casanne and Lazo Federico III Pido for 3A1  
 o	3rd Prize: Koh Wei Hang and Jaden Tan Yi Jun from 3A2  
@@ -132,4 +131,4 @@ o	Certificate of Participation for ‘Daedalus’ challenge: Mohamed Irfan bin M
 •	**2021 MOE Service Excellence Award (Platinum)** – Mr Mohamed Fahizel  
 •	**2021 MOE Service Excellence Award (Gold)** – Mr Mohamed Fahizel, Mdm Farahana Binti Abdul Rahim, Ms Tan Wei Jing and Mr Tangarajoo Marimuthu  
 •	**2021 MOE Service Excellence Award (Silver)** – Mdm Azlinah Wahed  
-•	**2021 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie  
+•	**2021 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie
