@@ -97,6 +97,20 @@ Sec 3 -  Muhammad Afiq Bin Reduan Shah S3-N
 
 
 ### Photographs
+![SYF AP 2023](/images/AKG/akg1003.jpg)
+SYF AP 2023  
+
+![SYF AP 2023@Tuning Room](/images/AKG/akg1002.jpg)
+SYF AP 2023@Tuning Room
+
+![Combined Training with Meridien Secondary School and Naval Base Secondary School](/images/AKG/akg1001.jpg)
+Combined Training with Meridien Secondary School and Naval Base Secondary School
+
+![Combined Training @ Meridien Secondary School](/images/AKG/akg1004.png)
+Combined Training @ Meridien Secondary School
+
+
+
 
 ![](/images/akge1.jpeg)
 SYF 2021 – Angklung Ensemble
