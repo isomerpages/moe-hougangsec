@@ -4,7 +4,7 @@ permalink: /departments/Aesthetics-and-Technology/visual-art/
 description: ""
 third_nav_title: Aesthetics and Technology
 ---
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UVCv2ZCJpCU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UVCv2ZCJpCU" height="315" width="560"></iframe></center>
 
 Here in HS, we hope to be an active platform for our students to experience, explore and enjoy Art. We encourage them to record, observe and make meaning of what they see, allowing them to understand the values and relevance of art in our world.
 
@@ -19,7 +19,7 @@ Encourages every student to recognise the value of art through its historical an
 **Lower Secondary Lesson**   
 Lower Secondary Art lesson aims to give students a glimpse of the various art media. Encouraging creative expression and imaginative play in the art making process.
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTb7K61_mRx4Twd2SZpv6en4hGPLhbR_PPvbmFeW9tqeu2QcUgit2OQNTYLzNEGCOf7UGBTv_-nmphT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTb7K61_mRx4Twd2SZpv6en4hGPLhbR_PPvbmFeW9tqeu2QcUgit2OQNTYLzNEGCOf7UGBTv_-nmphT/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
 
 **Art Competitions and Learning Journeys:**
 
@@ -31,27 +31,26 @@ Students also have the opportunity to get inspired and broaden their learning ex
 
 Secondary 3 Art students can look forward to an exciting range of media, such as ceramics, digital art, painting, photography and printmaking.
 
-<img style="width:45%" src="/images/ae1.jpeg">
+<img src="/images/ae1.jpeg" style="width:45%">
 
 <br>
 
-<img style="width:45%" src="/images/ae2.jpeg">
+<img src="/images/ae2.jpeg" style="width:45%">
 
 <br>
 
-<img style="width:45%" src="/images/ae3.jpeg">
+<img src="/images/ae3.jpeg" style="width:45%">
 
 
-**Sino-SIN Exchange Programme:**
+**Sino-SIN Exchange Programme:**  
 
+HS hosted a three-day school visit with Haikou No 1. Middle school and our Art Unit was delighted to share a hands-on Art lesson with them. Students recreated the beautiful plants found at our Singapore Botanical Gardens on ceramic tiles.  
+
+**Art Exhibits**  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsz-u-BqRZ-ZuVoN8wMVehtcHrCZ9NQop4V8_YzCOWxsf_eirP3AuR50w0uZ-I5w/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
   
 
-HS hosted a three-day school visit with Haikou No 1. Middle school and our Art Unit was delighted to share a hands-on Art lesson with them. Students recreated the beautiful plants found at our Singapore Botanical Gardens on ceramic tiles.
-
-  
-
- **Live on Festival (LOF) Design 2021**  
-   
+&nbsp;**Live on Festival (LOF) Design 2021**   
 
 We are pleased to announce that the following student has emerged as one of the winners for LOF 2021 – Design Competition!
 
@@ -82,14 +81,14 @@ We are pleased to announce that the following student has emerged as one of the 
 </table>
 
 
-A congratulatory speech by the online Guest of Honour (GOH), Ms Gan Siow Huang (Minister of State for Education & Manpower shares about her appreciation to students and teachers for their inextinguishable effort and participation in the competition despite the COVID-19 situation.   
-   
+A congratulatory speech by the online Guest of Honour (GOH), Ms Gan Siow Huang (Minister of State for Education &amp; Manpower shares about her appreciation to students and teachers for their inextinguishable effort and participation in the competition despite the COVID-19 situation.&nbsp;  
+&nbsp;  
 
-**Online Design Gallery & Essay Showcase Presentation**
+**Online Design Gallery &amp; Essay Showcase Presentation**
 
- [https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool](https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool)
+&nbsp;[https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool](https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool)
 
-   
+&nbsp;  
 **Impian by Ho Jun Wei**
 
 ![](/images/jun%20wei%20copy.jpeg)
