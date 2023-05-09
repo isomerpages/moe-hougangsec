@@ -89,6 +89,12 @@ Sec 3 -  Muhammad Afiq Bin Reduan Shah S3-N
 **Venue:**&nbsp;COE Room
 
 
+### Programmes   
+●	SYF Arts Presentation  
+●	Annual Camp  
+●	VIA programmes/VIA Carnival with external organisations   
+●	Combined Training
+
 
 ### Photographs
 
