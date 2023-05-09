@@ -32,7 +32,7 @@ Enrichment Photo 1
 Enrichment Photo 2
 <img src="/images/Sec3EnrichmentP2.jpeg" style="width:45%">
 
-Enrichment Photo 3![]()
+Enrichment Photo 3
 <img src="/images/Sec3EnrichmentP3.jpeg" style="width:45%">
 
 
