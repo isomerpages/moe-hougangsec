@@ -36,9 +36,8 @@ Enrichment Photo 3![]()
 <img src="/images/Sec3EnrichmentP3.jpeg" style="width:45%">
 
 
-### Secondary 2 Innovation Project
+### Secondary 1 &amp; 2 Innovation Project  
 
-Secondary 1 &amp; 2 FCE innovation project
 We believe in providing our students with innovative and engaging learning opportunities that go beyond traditional classroom instruction. Our lower secondary students had the chance to participate in a project that allowed them to explore the world of nutrition and apply their learning in a practical way.
 
   ![](/images/AnT/NFS/nfsci1.jpg)
