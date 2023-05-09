@@ -72,21 +72,15 @@ During the tour, our students also had the opportunity to learn about the availa
 ![](/images/AnT/NFS/enrichment%20programme%20“food%20presentation%20workshop%20-%206a.jpg)
 
 
-
-
-
-
 ### SINO-SG Exchange
-
-  
 
 HS hosted a 3-day school visit with Haikou No 1. Middle school and as part of their learning in HS, our FCE Unit was delighted to share a hands-on Food Culture lesson with them. The students created the dish “Roti Jala” and tasted the dish with chicken curry. They also learnt the diverse culture and races in Singapore.
 
 SINOSG P1
-<img src="/images/SINO-SGP1.jpeg" style="width:45%">
+<img src="/images/SINO-SGP1.jpeg">
 
 SINOSG P2
-<img src="/images/SINO-SGP2.jpeg" style="width:45%">
+<img src="/images/SINO-SGP2.jpeg">
 
 SINOSG P3
-<img src="/images/SINO-SGP3.jpeg" style="width:45%">
+<img src="/images/SINO-SGP3.jpeg">
