@@ -27,16 +27,19 @@ Accept, not reject
 
 ### Programmes / Competitions
 
-*   Singapore Youth Festival Presentation
-*   Inter-school Debate Competitions
-*   Inter-school Public Speaking Competitions
-*   Values-In-Action Programmes
+*  SYF Arts Presentation  
+*  Drama Camp  
+*  Speech&amp;Drama Bonding Day   
+*  VIA programmes/VIA Carnival with external organisations   
+*  Debate competitions  
+*  Public speaking competitions  
 
 ### Achievements
 
-*   Certificate of Accomplishment in Singapore Youth Festival Presentation 2017
-*   Certificate of Accomplishment in Singapore Youth Festival Presentation 2019
-*   Certificate of Distinction in Singapore Youth Festival Presentation 2021
+**Singapore Youth Festival:**  
+*  Certificate of Accomplishment (2017 and 2019)
+*  Certificate of Distinction (2021)
+
 
 ### Performances
 
@@ -50,34 +53,38 @@ Accept, not reject
 *   Fairy Tale Trail Performances at Geylang Regional Library and Jurong West Public Library (2015)
 
 
-### CCA Leadership Structure
+### Executive Committee  
+**Drama Club:**  
+President: Goh Rui En Megan  
+Vice-President: Candeline Ivy Buczenski  
+Upper Sec Head: Supan Lereana Doringo  
+Lower Sec Head: Julian Ong Yu Yang  
+Quarter Mistress: Kwan Jia Min  
+VIA Leader: Ernest Woo Yu Zhe  
+Speech&amp;Drama Connector: Chua Xin Yu Jonas  
 
-**Speech**  
-President: Tricia Wu En Ting  
-Vice-President: Tharra Danielle  
-Lower Secondary Head: Siddharth Saju  
-Upper Secondary Head: Leow Yong Quan  
-VIA Leader: Avery Tan  
-&nbsp;  
-**Drama**  
-President: Anthea Chew Pei Jun  
-Vice-Presidents: Muhd Aniq (Lower Sec IC), Karina Khanna (Upper Sec IC)  
-Logistics Head: Dang Zhi Wen Nelson  
-VIA Leader: Nurina Batrisyia  
+**Speech Club:**   
+President: Adlin Adriana  
+Vice-President: Xavier Wong Choon Renh  
+Upper Sec Head: Bryan Ong Meng Fong  
+Lower Sec Head: Herlyna Marsyanda  
+VIA Leader: Tan Yi Shan Caitlin  
+
 
 ### Teachers In-Charge
 
 *   Mdm Siti Sapiya Bte Mohd Sumri(OIC)
-*   Mr&nbsp;Aaron Yeo
-*   Mdm&nbsp;Martini Rahmat
-*   Ms Tan Yin Wei
+*   Mr Aaron Yeo
+*   Ms Tan Yin Wei  
+*   Mdm Martini Rahmat
 
-**Instructor:**&nbsp;Ms Rossalina Nasir
+
+**Instructor:** Ms Rossalina Nasir
 
 ### Training Venue and Days
 
 **Day**: Tuesday &amp; Friday  
-**Time**: 3.30 pm - 5.30&nbsp; pm (Tue) / 2.00 pm -4.00 pm (Fri)  
+**Time**: 3.15 pm - 5.15&nbsp; pm (Tue) / 2.30 pm -5.00 pm (Fri)  
 **Venue**: SRC
 
 ### Values In Action
