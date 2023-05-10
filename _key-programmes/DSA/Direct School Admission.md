@@ -103,63 +103,49 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
  
 ## **IMPORTANT DATES**	  
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="690" style="width:517.15pt;border-collapse:collapse;border:none;mso-border-alt:
- solid #2A2A2A .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0mm 0mm 0mm 0mm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
-  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:
-  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">4 May (11 am) to 31 May (3 pm) 2023</span></b><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="480" style="width:360.05pt;border:solid #2A2A2A 1.0pt;border-left:
-  none;mso-border-left-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Application opens and all applicants will apply through the following centralised DSA-Sec Portal: </span><span lang="EN-SG"><a href="https://go.gov.sg/dsa-sec-application"><i><span style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">https://go.gov.sg/dsa-sec-application</span></i></a></span><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></i></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">*If you are a student studying in an MOE mainstream primary school, you may login to the DSA</span></i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">-<i>Sec portal to apply via a parent’s Singpass. Parents/guardians who are unable to apply online can approach your child’s/ward’s primary school for assistance.</i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">* For&nbsp;&nbsp;Non</span></i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">-<i>mainstream school students:</i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Parents should apply online for a Registration Number to access the DSA</span></i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">-<i>Sec Portal. You may refer to MOE website at: </i></span><span lang="EN-SG"><a href="https://go.gov.sg/nmsdsa-sec-application"><i><span style="font-size:
-  12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;">https://go.gov.sg/nmsdsa-sec-application</span></i></a></span><i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">.</span></i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
-  none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:
-  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">26 June onwards</span></b><span lang="EN-SG" style="font-size:12.0pt;line-height:
-  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
-  border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
-  mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
-  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Selection period.</span></b></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Shortlisted applicants will be notified to attend in-person selection trials/audition or interview.</span></p></td></tr><tr style="mso-yfti-irow:2;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
-  none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:
-  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">By 11 September 2023</span></b><span lang="EN-SG" style="font-size:12.0pt;
-  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
-  border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
-  mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
-  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Release of internal trial outcomes by school to applicants.</span></b></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Shortlisted applicants will find out whether they have been selected by Monday, 11 September 2023.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
-  none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:
-  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">23 October (9am) to 27 October (3pm) 2023</span></b><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
-  border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
-  mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
-  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">School Preference Submission</span></b></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">For DSA-Sec applicants who have received at least 1 DSA offer, they are to exercise their school preference via the DSA-Sec portal.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">Parents/guardians who are unable to submit online can approach your child’s/ward’s primary school for assistance.</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0" width="690" border="1" style="width: 517.15pt; border-collapse: collapse; border: none; mso-border-alt: solid #2A2A2A .75pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0mm 0mm 0mm 0mm;" class="MsoNormalTable">
+<tbody>
+<tr style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; height: 72.45pt;">
+<td width="209" style="width: 157.1pt; border: solid #2A2A2A 1.0pt; mso-border-alt: solid #2A2A2A .75pt; padding: 1.5pt 1.5pt 1.5pt 1.5pt; height: 72.45pt;">
+<p align="center" style="margin-bottom: 0mm; text-align: center; line-height: 150%;" class="MsoNormal"><strong><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">4 May (11 am) to 31 May (3 pm) 2023</span></strong></p>
+</td>
+<td width="480" style="width: 360.05pt; border: solid #2A2A2A 1.0pt; border-left: none; mso-border-left-alt: solid #2A2A2A .75pt; mso-border-alt: solid #2A2A2A .75pt; padding: 1.5pt 1.5pt 1.5pt 1.5pt; height: 72.45pt;">
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">Application opens and all applicants will apply through the following centralised DSA-Sec Portal: </span><span lang="EN-SG"><a href="https://go.gov.sg/dsa-sec-application"><em><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';">https://go.gov.sg/dsa-sec-application</span></em></a></span><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">.</span></p>
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><em><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">*If you are a student studying in an MOE mainstream primary school, you may login to the DSA</span></em><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">-<em>Sec portal to apply via a parent’s Singpass. Parents/guardians who are unable to apply online can approach your child’s/ward’s primary school for assistance.</em></span></p>
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><em><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">* For&nbsp;&nbsp;Non</span></em><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">-<em>mainstream school students:</em></span></p>
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><em><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">Parents should apply online for a Registration Number to access the DSA</span></em><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">-<em>Sec Portal. You may refer to MOE website at: </em></span><span lang="EN-SG"><a href="https://go.gov.sg/nmsdsa-sec-application"><em><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';">https://go.gov.sg/nmsdsa-sec-application</span></em></a></span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 1; height: 72.45pt;">
+<td width="209" style="width: 157.1pt; border: solid #2A2A2A 1.0pt; border-top: none; mso-border-top-alt: solid #2A2A2A .75pt; mso-border-alt: solid #2A2A2A .75pt; padding: 1.5pt 1.5pt 1.5pt 1.5pt; height: 72.45pt;">
+<p align="center" style="margin-bottom: 0mm; text-align: center; line-height: 150%;" class="MsoNormal"><strong><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">26 June onwards</span></strong></p>
+</td>
+<td width="480" style="width: 360.05pt; border-top: none; border-left: none; border-bottom: solid #2A2A2A 1.0pt; border-right: solid #2A2A2A 1.0pt; mso-border-top-alt: solid #2A2A2A .75pt; mso-border-left-alt: solid #2A2A2A .75pt; mso-border-alt: solid #2A2A2A .75pt; padding: 1.5pt 1.5pt 1.5pt 1.5pt; height: 72.45pt;">
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><strong><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">Selection period.</span></strong></p>
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">Shortlisted applicants will be notified to attend in-person selection trials/audition or interview.</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 2; height: 72.45pt;">
+<td width="209" style="width: 157.1pt; border: solid #2A2A2A 1.0pt; border-top: none; mso-border-top-alt: solid #2A2A2A .75pt; mso-border-alt: solid #2A2A2A .75pt; padding: 1.5pt 1.5pt 1.5pt 1.5pt; height: 72.45pt;">
+<p align="center" style="margin-bottom: 0mm; text-align: center; line-height: 150%;" class="MsoNormal"><strong><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">By 11 September 2023</span></strong></p>
+</td>
+<td width="480" style="width: 360.05pt; border-top: none; border-left: none; border-bottom: solid #2A2A2A 1.0pt; border-right: solid #2A2A2A 1.0pt; mso-border-top-alt: solid #2A2A2A .75pt; mso-border-left-alt: solid #2A2A2A .75pt; mso-border-alt: solid #2A2A2A .75pt; padding: 1.5pt 1.5pt 1.5pt 1.5pt; height: 72.45pt;">
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><strong><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">Release of internal trial outcomes by school to applicants.</span></strong></p>
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">Shortlisted applicants will find out whether they have been selected by Monday, 11 September 2023.</span></p>
+</td>
+</tr>
+<tr style="mso-yfti-irow: 3; mso-yfti-lastrow: yes; height: 72.45pt;">
+<td width="209" style="width: 157.1pt; border: solid #2A2A2A 1.0pt; border-top: none; mso-border-top-alt: solid #2A2A2A .75pt; mso-border-alt: solid #2A2A2A .75pt; padding: 1.5pt 1.5pt 1.5pt 1.5pt; height: 72.45pt;">
+<p align="center" style="margin-bottom: 0mm; text-align: center; line-height: 150%;" class="MsoNormal"><strong><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">23 October (9am) to 27 October (3pm) 2023</span></strong></p>
+</td>
+<td width="480" style="width: 360.05pt; border-top: none; border-left: none; border-bottom: solid #2A2A2A 1.0pt; border-right: solid #2A2A2A 1.0pt; mso-border-top-alt: solid #2A2A2A .75pt; mso-border-left-alt: solid #2A2A2A .75pt; mso-border-alt: solid #2A2A2A .75pt; padding: 1.5pt 1.5pt 1.5pt 1.5pt; height: 72.45pt;">
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><strong><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">School Preference Submission</span></strong></p>
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">For DSA-Sec applicants who have received at least 1 DSA offer, they are to exercise their school preference via the DSA-Sec portal.</span></p>
+<p style="margin-bottom: 0mm; line-height: 150%;" class="MsoNormal"><span style="font-size: 12.0pt; line-height: 150%; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman';" lang="EN-SG">Parents/guardians who are unable to submit online can approach your child’s/ward’s primary school for assistance.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
 
 For more information on Direct School Admission, please visit [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).	
  
