@@ -8,36 +8,36 @@ third_nav_title: DSA
 
 These are the Direct School Admission talent areas that our school is offering for 2023.
 
-<table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:134.45pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto" class="MsoNormal"><b>DSA Main Category</b><b><span style="font-size:12.0pt"></span></b></p></td><td style="width:9.0cm;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="340"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto" class="MsoNormal"><b>DSA Talent Areas</b><b><span style="font-size:12.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:134.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto" class="MsoNormal"><span style="font-size:12.0pt">Performing Arts</span></p></td><td style="width:9.0cm;border-top:none;border-left:none;
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><b>DSA Main Category</b><b><span style="font-size:12.0pt"></span></b></p></td><td width="340" valign="top" style="width:9.0cm;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><b>DSA Talent Areas</b><b><span style="font-size:12.0pt"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="font-size:12.0pt">Performing Arts</span></p></td><td width="340" valign="top" style="width:9.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="340"><ul type="disc"><li style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;margin-left:0cm;mso-list:l1 level1 lfo1" class="MsoListParagraph"><span style="font-size:
-       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Angklung/Kulintang Ensemble (Boys and Girls)</span></li><li style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;margin-left:0cm;mso-list:l1 level1 lfo1" class="MsoListParagraph"><span style="font-size:
-       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Guzheng Ensemble (Boys and Girls)</span></li><li style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;margin-left:0cm;mso-list:l1 level1 lfo1" class="MsoListParagraph"><span style="font-size:
-       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">English Drama (Boys and Girls)</span></li></ul></td></tr><tr style="mso-yfti-irow:2"><td style="width:134.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto" class="MsoNormal"><span style="font-size:12.0pt">Language and Humanities</span></p></td><td style="width:9.0cm;border-top:none;border-left:none;
+  padding:0cm 5.4pt 0cm 5.4pt"><ul type="disc"><li class="MsoListParagraph" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;margin-left:0cm;mso-list:l1 level1 lfo1"><span style="font-size:
+       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Angklung/Kulintang Ensemble (Boys and Girls)</span></li><li class="MsoListParagraph" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;margin-left:0cm;mso-list:l1 level1 lfo1"><span style="font-size:
+       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Guzheng Ensemble (Boys and Girls)</span></li><li class="MsoListParagraph" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;margin-left:0cm;mso-list:l1 level1 lfo1"><span style="font-size:
+       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">English Drama (Boys and Girls)</span></li></ul></td></tr><tr style="mso-yfti-irow:2"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="font-size:12.0pt">Language and Humanities</span></p></td><td width="340" valign="top" style="width:9.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="340"><ul type="disc"><li style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;margin-left:0cm;mso-list:l1 level1 lfo1" class="MsoListParagraph"><span style="font-size:
-       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Debating (Boys and Girls)</span></li></ul></td></tr><tr style="mso-yfti-irow:3"><td style="width:134.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto" class="MsoNormal"><span style="font-size:12.0pt">Sports and Games</span></p></td><td style="width:9.0cm;border-top:none;border-left:none;
+  padding:0cm 5.4pt 0cm 5.4pt"><ul type="disc"><li class="MsoListParagraph" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;margin-left:0cm;mso-list:l1 level1 lfo1"><span style="font-size:
+       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Debating (Boys and Girls)</span></li></ul></td></tr><tr style="mso-yfti-irow:3"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="font-size:12.0pt">Sports and Games</span></p></td><td width="340" valign="top" style="width:9.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="340"><ul type="disc"><li style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;margin-left:0cm;mso-list:l2 level1 lfo2" class="MsoListParagraph"><span style="font-size:
-       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Football (Boys only)</span></li><li style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;margin-left:0cm;mso-list:l2 level1 lfo2" class="MsoListParagraph"><span style="font-size:
-       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Netball (Girls only)</span></li><li style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;margin-left:0cm;mso-list:l2 level1 lfo2" class="MsoListParagraph"><span style="font-size:
-       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Judo (Boys and Girls)</span></li></ul></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:134.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="179"><p style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto" class="MsoNormal"><span style="font-size:12.0pt">Leadership and Uniformed Groups</span></p></td><td style="width:9.0cm;border-top:none;border-left:none;
+  padding:0cm 5.4pt 0cm 5.4pt"><ul type="disc"><li class="MsoListParagraph" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;margin-left:0cm;mso-list:l2 level1 lfo2"><span style="font-size:
+       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Football (Boys only)</span></li><li class="MsoListParagraph" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;margin-left:0cm;mso-list:l2 level1 lfo2"><span style="font-size:
+       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Netball (Girls only)</span></li><li class="MsoListParagraph" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;margin-left:0cm;mso-list:l2 level1 lfo2"><span style="font-size:
+       12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Judo (Boys and Girls)</span></li></ul></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td width="179" valign="top" style="width:134.45pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:auto"><span style="font-size:12.0pt">Leadership and Uniformed Groups</span></p></td><td width="340" valign="top" style="width:9.0cm;border-top:none;border-left:none;
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="340"><ul type="disc"><li style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
-       auto;margin-left:0cm;mso-list:l0 level1 lfo3" class="MsoListParagraph"><span style="font-size:
+  padding:0cm 5.4pt 0cm 5.4pt"><ul type="disc"><li class="MsoListParagraph" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;margin-left:0cm;mso-list:l0 level1 lfo3"><span style="font-size:
        12.0pt;mso-fareast-font-family:&quot;Times New Roman&quot;">Leadership (Boys and Girls)</span></li></ul></td></tr></tbody></table>
  
  
@@ -103,230 +103,227 @@ Students who are successfully admitted to the school via DSA are expected to hon
 
  
 ## **IMPORTANT DATES**	  
-
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="690" style="width:517.15pt;border-collapse:collapse;border:none;mso-border-alt:
  solid #2A2A2A .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0mm 0mm 0mm 0mm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
   solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:12pt;line-height:
-  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">4 May (11 am) to 31 May (3 pm) 2023</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="480" style="width:360.05pt;border:solid #2A2A2A 1.0pt;border-left:
+  line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">4 May (11 am) to 31 May (3 pm) 2023</span></b><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="480" style="width:360.05pt;border:solid #2A2A2A 1.0pt;border-left:
   none;mso-border-left-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Application opens and all applicants will apply through the following centralised DSA-Sec Portal: </span><span lang="EN-SG"><a href="https://go.gov.sg/dsa-sec-application"><span style="font-size:12pt;
-  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#0070C0">https://go.gov.sg<i>/dsa-sec-application</i></span></a></span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">.<i></i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">*If you are a student studying in an MOE mainstream primary school, you may login to the DSA</span></i><span lang="EN-SG" style="font-size:12pt;line-height:150%;
-  font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">-<i>Sec portal to apply via a parent’s Singpass. Parents/ guardians who are unable to apply online can approach your child’s/ ward’s primary school for assistance.</i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">* For&nbsp;&nbsp;Non</span></i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">-<i>mainstream school students:</i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Parents should apply online for a Registration Number to access the DSA</span></i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">-<i>Sec Portal. You may refer to MOE website at: </i></span><span lang="EN-SG"><a href="https://go.gov.sg/nmsdsa-sec-application"><i><span style="font-size:
-  12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
-  &quot;Times New Roman&quot;;color:#0070C0">https://go.gov.sg/nmsdsa-sec-application</span></i></a></span><i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;">.</span></i><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td></tr><tr style="mso-yfti-irow:1;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Application opens and all applicants will apply through the following centralised DSA-Sec Portal: </span><span lang="EN-SG"><a href="https://go.gov.sg/dsa-sec-application"><i><span style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">https://go.gov.sg/dsa-sec-application</span></i></a></span><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></i></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">*If you are a student studying in an MOE mainstream primary school, you may login to the DSA</span></i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">-<i>Sec portal to apply via a parent’s Singpass. Parents/guardians who are unable to apply online can approach your child’s/ward’s primary school for assistance.</i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">* For&nbsp;&nbsp;Non</span></i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">-<i>mainstream school students:</i></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Parents should apply online for a Registration Number to access the DSA</span></i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">-<i>Sec Portal. You may refer to MOE website at: </i></span><span lang="EN-SG"><a href="https://go.gov.sg/nmsdsa-sec-application"><i><span style="font-size:
+  12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  &quot;Times New Roman&quot;">https://go.gov.sg/nmsdsa-sec-application</span></i></a></span><i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">.</span></i><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:12pt;line-height:
-  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">26 June onwards</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
+  line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">26 June onwards</span></b><span lang="EN-SG" style="font-size:12.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"><b>Selection period.</b></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Shortlisted applicants will be notified to attend in-person selection trials/audition or interview.</span></p></td></tr><tr style="mso-yfti-irow:2;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
+  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Selection period.</span></b></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Shortlisted applicants will be notified to attend in-person selection trials/audition or interview.</span></p></td></tr><tr style="mso-yfti-irow:2;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:12pt;line-height:
-  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">By 14 September 2023</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
+  line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">By 11 September 2023</span></b><span lang="EN-SG" style="font-size:12.0pt;
+  line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Release of DSA-Sec application results to applicants.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
+  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Release of internal trial outcomes by school to applicants.</span></b></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Shortlisted applicants will find out whether they have been selected by Monday, 11 September 2023.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-SG" style="font-size:12pt;line-height:
-  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">23 October to 27 October 2023</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
+  line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:
+  150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;">23 October (9am) to 27 October (3pm) 2023</span></b><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Exercise School Preference Submission (DSA-Sec Portal) for DSA-Sec applicants who have received at least 1 DSA offer.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Parents/ guardians who are unable to submit online can approach your child’s/ ward’s primary school for assistance.</span></p></td></tr></tbody></table>  
+  height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><b><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">School Preference Submission</span></b></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">For DSA-Sec applicants who have received at least 1 DSA offer, they are to exercise their school preference via the DSA-Sec portal.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12.0pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;">Parents/guardians who are unable to submit online can approach your child’s/ward’s primary school for assistance.</span></p></td></tr></tbody></table>
 
 For more information on Direct School Admission, please visit [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).	
  
   
 ## **HOUGANG SECONDARY SCHOOL DSA 2023**	 
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="690" style="width:517.15pt;border-collapse:collapse;border:none;mso-border-alt:
- solid #2A2A2A .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0mm 0mm 0mm 0mm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
-  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-GB" style="font-size:12pt;line-height:
+<table style="width:517.15pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid #2A2A2A .75pt;mso-yfti-tbllook:1184;mso-padding-alt:0mm 0mm 0mm 0mm" width="690" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:109.3pt;border:solid #2A2A2A 1.0pt;mso-border-alt:
+  solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="146"><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:12pt;line-height:
   150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Talent Area</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border:solid #2A2A2A 1.0pt;border-left:
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Talent Area</span></b><span style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p></td><td style="width:407.85pt;border:solid #2A2A2A 1.0pt;border-left:
   none;mso-border-left-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><b><span lang="EN-GB" style="font-size:12pt;line-height:
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="544"><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><b><span style="font-size:12pt;line-height:
   150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Programmes, activities and/or opportunities that students can expect to participate in each talent area</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td></tr><tr style="mso-yfti-irow:1;height:74.85pt"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Programmes, activities and/or opportunities that students can expect to participate in each talent area</span></b><span style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:1;height:74.85pt"><td style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:74.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:74.85pt" width="146"><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Football</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Football</span><span style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Boys)</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">(Boys)</span><span style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p></td><td style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:74.85pt"><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:12pt;
+  height:74.85pt" width="544"><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Students can look forward to opportunities such as conditioning of skills, NSG competitions. To further hone the skills of these students, they will also be given position-specific coaching (eg. Goalkeeper, Strikers) from specialist coaches. In addition, students can look forward to Futsal-specific training and competitions too.</span></p><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:12pt;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Students can look forward to opportunities such as conditioning of skills, NSG competitions. To further hone the skills of these students, they will also be given position-specific coaching (eg. Goalkeeper, Strikers) from specialist coaches. In addition, students can look forward to Futsal-specific training and competitions too.</span></p><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
+  color:#333333" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="146"><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Netball</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Netball</span><span style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Girls)</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">(Girls)</span><span style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p></td><td style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
-  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:12pt;
+  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="544"><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Students can look forward to cultivating a deeper understanding and appreciation of Netball and sports safety. Their ball skills will be honed and they can participate in strategic play through training as well as game experience at both friendly and competitive levels. In addition to fostering strong friendships and developing good sportsmanship and teamwork, there will also be opportunities to plan activities that will promote team-building and benefit the community (eg. VIA activities).</span></p><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:12pt;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Students can look forward to cultivating a deeper understanding and appreciation of Netball and sports safety. Their ball skills will be honed and they can participate in strategic play through training as well as game experience at both friendly and competitive levels. In addition to fostering strong friendships and developing good sportsmanship and teamwork, there will also be opportunities to plan activities that will promote team-building and benefit the community (eg. VIA activities).</span></p><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
+  color:#333333" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="146"><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Judo</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Judo</span><span style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Boys &amp; Girls)</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">(Boys &amp; Girls)</span><span style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p></td><td style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
-  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:12pt;
+  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="544"><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Students can look forward to undergoing more targeted training to fine-tune their techniques and strengthen their physical condition. In addition, they will undergo training in basic Sports Psychology and Nutrition to help bring their performance to the next level. They will be exposed to higher-level competitions and combined training with other established Judo schools. Opportunities will also be available for students to serve in various leadership capacities.</span></p><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:12pt;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Students can look forward to undergoing more targeted training to fine-tune their techniques and strengthen their physical condition. In addition, they will undergo training in basic Sports Psychology and Nutrition to help bring their performance to the next level. They will be exposed to higher-level competitions and combined training with other established Judo schools. Opportunities will also be available for students to serve in various leadership capacities.</span></p><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:12pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
+  color:#333333" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="146"><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Guzheng Ensemble</span><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:12pt;line-height:150%;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Guzheng Ensemble</span><span style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:12pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Boys &amp; Girls)</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">(Boys &amp; Girls)</span><span style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p></td><td style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
-  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;
+  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="544"><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:10.5pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Students can look forward to opportunities to upgrade their level of competency in Guzheng and participate in Singapore Youth Festival. They can look forward to taking up positions as one of the lead players as they progress to Sec 2 and beyond. Students can also take the lead in projects (such as external performances and VIA projects),be groomed to take on EXCO positions.</span></p><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Students can look forward to opportunities to upgrade their level of competency in Guzheng and participate in Singapore Youth Festival. They can look forward to taking up positions as one of the lead players as they progress to Sec 2 and beyond. Students can also take the lead in projects (such as external performances and VIA projects),be groomed to take on EXCO positions.</span></p><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:10.5pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
+  color:#333333" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="146"><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:10.5pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Angklung/Kulintang Ensemble</span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Angklung/Kulintang Ensemble</span></p><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:10.5pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Boys &amp; Girls)</span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">(Boys &amp; Girls)</span></p></td><td style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
-  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;
+  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="544"><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:10.5pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Students can look forward to enhancing their competency in playing the Angklung and/or Kulintang instruments. As they progress with the CCA. Students will have the opportunities to take up mentoring roles to guide and develop their peers in their music competency (read scores, playing techniques, etc). In Secondary 2 and beyond, students may take up other leadership roles, such as section leader or the presidency, which will allow them to guide fellow members to work together to achieve the ensemble’s vision and mission. In addition, students will also be given opportunities to perform for school concerts and take part in the Singapore Youth Festival.</span></p><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Students can look forward to enhancing their competency in playing the Angklung and/or Kulintang instruments. As they progress with the CCA. Students will have the opportunities to take up mentoring roles to guide and develop their peers in their music competency (read scores, playing techniques, etc). In Secondary 2 and beyond, students may take up other leadership roles, such as section leader or the presidency, which will allow them to guide fellow members to work together to achieve the ensemble’s vision and mission. In addition, students will also be given opportunities to perform for school concerts and take part in the Singapore Youth Festival.</span></p><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:10.5pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:6"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:6"><td style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="146"><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:10.5pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">English Drama</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">English Drama</span><span style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:10.5pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Boys &amp; Girls)</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">(Boys &amp; Girls)</span><span style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p></td><td style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
-  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;
+  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="544"><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:10.5pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Students can look forward to developing skills for on-stage as well as off-stage work. Apart from performing, they will be exposed to stage management and crew work. They will also get to take part in performances for communities outside school to grow their portfolio. More focused attention on actor training and performance opportunities (e.g. Singapore Youth Festival, school peformances) will be given to the students so that they can hone their skills as a performer.</span></p><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Students can look forward to developing skills for on-stage as well as off-stage work. Apart from performing, they will be exposed to stage management and crew work. They will also get to take part in performances for communities outside school to grow their portfolio. More focused attention on actor training and performance opportunities (e.g. Singapore Youth Festival, school peformances) will be given to the students so that they can hone their skills as a performer.</span></p><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:10.5pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
+  color:#333333" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:7"><td style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="146"><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:10.5pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Debating</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Debating</span><span style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:10.5pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Boys &amp; Girls)</span><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">(Boys &amp; Girls)</span><span style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG"></span></p></td><td style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
-  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;
+  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="544"><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:10.5pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Students can look forward to training sessions on voice projection and building up stage presence, as well as taking part in identified national competitions. These national debate competitions give opportunities to students to hone their debating skills.</span></p><p class="MsoNormal" style="margin-bottom:0mm;text-align:justify;text-justify:
-  inter-ideograph;line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Students can look forward to training sessions on voice projection and building up stage presence, as well as taking part in identified national competitions. These national debate competitions give opportunities to students to hone their debating skills.</span></p><p style="margin-bottom:0mm;text-align:justify;text-justify:
+  inter-ideograph;line-height:150%" class="MsoNormal"><span style="font-size:10.5pt;
   line-height:150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td width="146" style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes"><td style="width:109.3pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  padding:1.5pt 1.5pt 1.5pt 1.5pt" width="146"><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:10.5pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">Leadership</span></p><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
-  line-height:150%"><span lang="EN-GB" style="font-size:10.5pt;line-height:150%;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">Leadership</span></p><p style="margin-bottom:0mm;text-align:center;
+  line-height:150%" align="center" class="MsoNormal"><span style="font-size:10.5pt;line-height:150%;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333;mso-ansi-language:EN-GB">(Boys &amp; Girls)</span></p></td><td width="544" style="width:407.85pt;border-top:none;border-left:none;
+  color:#333333;mso-ansi-language:EN-GB" lang="EN-GB">(Boys &amp; Girls)</span></p></td><td style="width:407.85pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
-  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Students can look forward to a variety of leadership opportunities to exercise self-leadership and team leadership. All students will undergo the Community Youth Leadership modules which are key component of the school’s Learning for Life Programme (LLP). Students will also be given opportunities to exercise team leadership in their class committees, CCAs, VIA, as well as opportunities to impact positive change at a broader level as a Student Councillor or Peer Support Leader. Students will also participate in customised leadership training programmes to hone their leadership skills and competencies based on the Leadership Challenge Model.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">&nbsp;</span></p></td></tr></tbody></table>	
+  mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt" width="544"><p style="margin-bottom:0mm;line-height:150%" class="MsoNormal"><span style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG">Students can look forward to a variety of leadership opportunities to exercise self-leadership and team leadership. All students will undergo the Community Youth Leadership modules which are key component of the school’s Learning for Life Programme (LLP). Students will also be given opportunities to exercise team leadership in their class committees, CCAs, VIA, as well as opportunities to impact positive change at a broader level as a Student Councillor or Peer Support Leader. Students will also participate in customised leadership training programmes to hone their leadership skills and competencies based on the Leadership Challenge Model.</span></p><p style="margin-bottom:0mm;line-height:150%" class="MsoNormal"><span style="font-size:10.5pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333" lang="EN-SG">&nbsp;</span></p></td></tr></tbody></table>	
 	 
 
 The selection criteria and process for the talent areas will be updated from early-May 2023. For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)  
