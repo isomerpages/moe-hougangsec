@@ -140,13 +140,13 @@ Students who are successfully admitted to the school via DSA are expected to hon
   padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
   line-height:150%"><b><span lang="EN-SG" style="font-size:12pt;line-height:
   150%;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:&quot;Times New Roman&quot;;
-  color:#333333">26 June to 11 September 2023</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  color:#333333">26 June onwards</span></b><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"></span></p></td><td width="480" style="width:360.05pt;border-top:none;border-left:none;
   border-bottom:solid #2A2A2A 1.0pt;border-right:solid #2A2A2A 1.0pt;
   mso-border-top-alt:solid #2A2A2A .75pt;mso-border-left-alt:solid #2A2A2A .75pt;
   mso-border-alt:solid #2A2A2A .75pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
   height:72.45pt"><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Selection period.</span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333"><b>Selection period.</b></span></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:150%"><span lang="EN-SG" style="font-size:12pt;line-height:150%;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333">Shortlisted applicants will be notified to attend in-person selection trials/audition or interview.</span></p></td></tr><tr style="mso-yfti-irow:2;height:72.45pt"><td width="209" style="width:157.1pt;border:solid #2A2A2A 1.0pt;border-top:
   none;mso-border-top-alt:solid #2A2A2A .75pt;mso-border-alt:solid #2A2A2A .75pt;
   padding:1.5pt 1.5pt 1.5pt 1.5pt;height:72.45pt"><p class="MsoNormal" align="center" style="margin-bottom:0mm;text-align:center;
