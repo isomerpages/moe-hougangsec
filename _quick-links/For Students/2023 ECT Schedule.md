@@ -6,6 +6,6 @@ third_nav_title: For Students
 ---
 Dear Hougeans,  
   
-Below is the Sec 4 & 5 ECT Schedule (20 Mar to 19 May).
+Below is the Sec 4 & 5 ECT Schedule: 
 
-[2023 Term 2 ECT Schedule dated 16 March.pdf](/files/Timetables/2023%20Term%202%20ECT%20Schedule%20dated%2016%20March.pdf)
+[2023 Sec 4 & 5 June Holiday ECT Schedule](/files/Timetables/2023%20june%20holiday%20ect%20schedule%20dated%2022%20may.pdf)
