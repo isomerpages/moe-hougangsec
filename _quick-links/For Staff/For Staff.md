@@ -79,7 +79,7 @@ third_nav_title: For Staff
     </tr>
     <tr>
       <td class="tg-2rp9">
-        <a href="LINKHERE" target="_self"><img src="/images/IDEAS.jpeg" style="width:60%" alt="IDEAS"></a> 
+        <a href="https://forms.moe.edu.sg/" target="_self"><img src="/images/allears.jpg" style="width:60%" alt="IDEAS"></a> 
       </td>
       <td class="tg-2rp9">
         <a href="https://iexams.seab.gov.sg/" target="_self"><img src="/images/EXAMS.gif" style="width:50%" alt="EXAMS"></a>
@@ -89,7 +89,7 @@ third_nav_title: For Staff
       </td>
     </tr>
     <tr>
-      <td class="tg-apyk">MOE INNO Portal (Intranet)</td>
+      <td class="tg-apyk">ALL EARS</td>
       <td class="tg-apyk">Integrated Examinations Management System (Intranet)<br>
       <br></td>
       <td class="tg-apyk">Connecting Teachers; Connecting Resources</td>
