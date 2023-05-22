@@ -79,7 +79,7 @@ third_nav_title: For Staff
     </tr>
     <tr>
       <td class="tg-2rp9">
-        <a href="LINKHERE" target="_self"><img src="/images/IDEAS.jpeg" style="width:60%" alt="IDEAS"></a> (insert link)
+        <a href="LINKHERE" target="_self"><img src="/images/IDEAS.jpeg" style="width:60%" alt="IDEAS"></a> 
       </td>
       <td class="tg-2rp9">
         <a href="https://iexams.seab.gov.sg/" target="_self"><img src="/images/EXAMS.gif" style="width:50%" alt="EXAMS"></a>
