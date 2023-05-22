@@ -26,68 +26,91 @@ The ensemble is only as strong as its weakest player
 ### CCA Leadership Structure
 
 **<u>Executive Committee</u>**  
-**President**: Ngoon Hwee Shyan, Isabelle (S3-A)   
-**Vice-President**: Sim Jia Xiang (S3-G)&nbsp;  
+**Drama Club:**  
+President: Soh Hui S3-E  
+Vice-President: Putri Elfira Qistina Bte Mohd Hafiz S3-E
 
-**Section Leaders**:  
-**Kulintang IC**: Qurratu’Ain (S3-S)  
-**Kulintang 2IC**: Soh Hui  
-**Bass IC**: Nichie Gan Min Sheng (S3-H)  
-**Bass 2IC**:&nbsp; Dennis Un (S3-U)  
-**TK IC**: Nabilah (S3-A)  
-**TK 2IC**: Putri Elfira Qistina (S2-E)  
-**Melody IC**: Leo Yi Jun Selwyn (S3-U)  
-**Melody 2IC**: He Jiahui Phobe (S2-A)  
-**Gamelan IC**: Lye Wei Xuan Hayden (S3-H)  
-**Gamelan 2IC**:&nbsp; Muhd Afiq (S2-N)  
-**Values in Action ICs**: Leo Yi Jun Selwyn (S3-U), Muhd Afiq (S2-N)  
-**Values in Action 2ICs**: Humaira (S3-E)(L3), Nur Suriani (S2-E)(L3)  
-**Logistics IC**: Dennis Un (S3-U) (L4)  
-**Logistics 2IC**:&nbsp; Muhammad Izz Dany (S3-S) (L3)  
-**Attendance IC**: Nur Natasya (S3-E) (L4)
+**Melody Angklung**  
+IC – He Jiahui Phoebe S3-A  
+2IC – Elva Daania-Marsha S2-G
 
-**<u>Wellness Ambassadors</u>**  
-Lim Ting Yu (S3-N)  
-Lim Xi Xuan, Shannon (S3-N)  
-Langyer Han Rae Lun (S3-N)  
-Ng Ching Heng, Gladwin (S2-H)
+TK Angklung
+IC – Nur Suriani Bte Samsudin S3-E
+2IC – Ezann Beh S2-N
+
+**Bass Angklung**  
+IC - Ng Ching Heng, Gladwin S3-H  
+2IC – Muhammad Ilham Bin Abdul Halim S2-G
+
+**Gamelan**  
+IC – Muhammad Afiq Bin Reduan Shah S3-N  
+2IC – Sim Jia Yu S2-U
+
+**Kulintang**  
+IC - Putri Elfira Qistina Bte Mohd Hafiz S3-E  
+2IC – Elisya Batrisyia Binte Mohd F S2-G
+
+**VIA**   
+IC – He Jiahui Phoebe S3-A  
+2IC - Sim Jia Yu S2-U
+
+**Level Leaders**  
+Sec 1 – Nur Amylia Bte Iswady S1-E  
+Sec 2 – Nasha Farzanah Bte Sharil Falindi S2-G  
+Sec 3 -  Muhammad Afiq Bin Reduan Shah S3-N
+
 
 ### Achievements
 
-**Angklung**  
-Singapore Youth Festival:  
-*   Certificate of Distinction (2021)  
-*   Certificate of Distinction (2019)
-*   Certificate of Distinction (2017)
+**Singapore Youth Festival:**  
 
-  
+**Angklung/ Kulintang Ensemble**  
+•	Certificate of Distinction (2023)  
+•	Certificate of Distinction (2021)  
+•	Certificate of Distinction (2019)  
 
-**Gamelan**
-Singapore Youth Festival:  
-*   Certificate of Distinction (2021)  
-*   Certificate of Accomplishment (2019)
-*   Certificate of Distinction (2017)
+**Gamelan Ensemble**  
+•	Certificate of Distinction (2023)  
+•	Certificate of Distinction (2021)  
+•	Certificate of Accomplishments (2019)  
 
-  
-Public Performances (Angklung &amp; Gamelan)
-*   July 2017: Malay Cultural Festival 2017 @ Our Tampines Hub
-*   2015: Pasir Ris-Punggol GRC SG50 National Day Dinner
+
 
 ### Teachers In-Charge
 
 * Mr Mohd Yazid Bin Md Yatim (OIC)  
 * Miss Siti Nurbaya Binte Rameh  
-* Mdm Fazilah Mohd Ismail
+* Mdm Fazillah Mohd Ismail
 
 ### Training Venue and Days
 
 **Day:**&nbsp;Tuesday &amp; Friday   
-**Time:**&nbsp;3.15 pm - 5.30 pm (Tue) / 2.30 pm - 5.15 pm (Fri)   
+**Time:**&nbsp;3.00 pm - 5.30 pm (Tue) / 2.15 pm - 5.15 pm (Fri)   
 **Venue:**&nbsp;COE Room
 
 
+### Programmes   
+●	SYF Arts Presentation  
+●	Annual Camp  
+●	VIA programmes/VIA Carnival with external organisations   
+●	Combined Training
+
 
 ### Photographs
+![SYF AP 2023](/images/AKG/akg1003.jpg)
+SYF AP 2023  
+
+![SYF AP 2023@Tuning Room](/images/AKG/akg1002.jpg)
+SYF AP 2023@Tuning Room
+
+![Combined Training with Meridien Secondary School and Naval Base Secondary School](/images/AKG/akg1001.jpg)
+Combined Training with Meridien Secondary School and Naval Base Secondary School
+
+![Combined Training @ Meridien Secondary School](/images/AKG/akg1004.png)
+Combined Training @ Meridien Secondary School
+
+
+
 
 ![](/images/akge1.jpeg)
 SYF 2021 – Angklung Ensemble

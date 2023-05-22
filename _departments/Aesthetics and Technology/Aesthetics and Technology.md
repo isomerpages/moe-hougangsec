@@ -19,7 +19,7 @@ Mr Alfred Choo
 Mdm Farahana Binti Abdul Rahim (Subject Coordinator)   
 Mdm Nur Syahira Zulkifli     
 Mdm Dzafiirah Binte Mohammad Hakim    
-Miss Jane Koh
+Ms Jane Koh
 
 **Nutrition and Food Science**   
 Mdm Azlinah Wahed (Subject Coordinator)    
@@ -28,13 +28,11 @@ Mdm Tan Chan Jong
 Ms Tan Wei Jing  
 
 **Music Unit**  
-Miss Jasmine Low Wee Kie (Subject Coordinator) 
+Ms Jasmine Low Wee Kie (Subject Coordinator) 
   
 **Technical Support Officers**   
 Mr Tangarajoo Marimuthu   
 Mr Mohammad Fauzi Bin Selamat
-
-  
 
   
 
@@ -55,58 +53,7 @@ Secondary 3 NFS Enrichment Programmes such as “Cookyn with Carbs” & “Food 
 Secondary 1 & 2 Lower Secondary Music Programme  
 Secondary Art Enrichment Programme  
 Secondary 3 Design & Technology ICT Lessons  
-Secondary 3 SciTechumatics Enrichment  
 Secondary 3 A&T Staff Day Project**  
-
-
-Accolades
----------
-
-**Students**
-
-**Nutrition and Food Science Unit**  
-•**2022 Food and Beverage Entrepreneurship Competition organized by Republic Polytechnic, school of Hospitality**   
-o	Certificate of Participation: Leong Yu Xuan, Tan Shu Ern, Ong Sue Hann Joelle, Muhammad Aiman Bin Rosman from 4R7
-
-•	**2020 Food and Beverage Entrepreneurship Competition organized by Republic Polytechnic, school of Hospitality**   
-o	1st Prize: Pok Ka Sian Casanne and Lazo Federico III Pido for 3A1  
-o	3rd Prize: Koh Wei Hang and Jaden Tan Yi Jun from 3A2  
-o	Certificate of Participation: Sofiyyan Binte Jufri and Nur Rheerza from 3E3  
-
-
-**Visual Art Unit**  
-•	**Live on Festival (LOF) Design 2022** 
-o	Certificate of Distinction: Tricia Wu from 4A1  
-•	**Singapore Youth Festival 2022 Art Exhibition**  
-o	Certificate of Recognition: Chloe Soh from 4E4  
-•	**ViaRT Art Award 2022**  
-o	3rd Place in The Most Artistic Award: Kang Chei Min and Sakinah Bte Jefri from 4N  
-•	**ViaRT Art Award 2022**  
-o	3rd Place in You Make a Difference Award: Joshua Wong and Chen Song Ze from 4S  
-•	**The SG Clean Comic Strip Competition 2022**  
-o	Shortlisted and featured in SG Clean Comic Book: Sakinah Bte Jefri from 4N  
-•	**Artwork selected for Ministry's repository of Coporate Gifts**  
-o	Sheraz Lim from 4E4  
-•	**Live on Festival (LOF) Design 2021**  
-o	Certificate of Distinction: Ho Jun Wei from 3E3  
-
-
-**Staff**
-•	2022 MOE Service Excellence Award (Gold) – Mdm Azlinah Wahed  
-•	2022 MOE Service Excellence Award (Gold) – Mr Alfred Choo   
-•	2022 MOE Service Excellence Award (Silver) – Mr Anwarul Nizam B Ismail  
-•	2022 MOE Service Excellence Award (Silver) – Ms Dzafiirah Binte Mohammad Hakim  
-•	2022 MOE Service Excellence Award (Silver) – Ms Koh Bao Ru Jane  
-•	2022 MOE Service Excellence Award (Silver) – Ms Low Wee Kie Jasmine  
-•	2022 MOE Service Excellence Award (Silver) –Mr Muhammad Nazirul Mubin Bin Yusoff  
-•	2022 MOE Service Excellence Award (Silver) –Mr Ng Geok Leng Benny  
-•	2021 MOE Service Excellence Award (Platinum) – Mr Mohamed Fahizel  
-•	2021 MOE Service Excellence Award (Gold) – Mr Mohamed Fahizel   
-•	2021 MOE Service Excellence Award (Gold) – Ms Farahana Binte Abdul Rahim    
-•	2021 MOE Service Excellence Award (Gold) – Ms Tan Wei Jing   
-•	2021 MOE Service Excellence Award (Gold) - Mr Tangarajoo Marimuthu  
-•	2021 MOE Service Excellence Award (Silver) – Mdm Azlinah Wahed  
-
 
 ### Collaborative Project 
 **Secondary 3 A&T Staff Day Project**  
@@ -119,3 +66,69 @@ Authentic project provides the desired authentic learning experiences and a glim
 The students were given specific assignments for the project, including designing department logos using Canva for Art, constructing dessert table structures for D&T, and planning, baking, and packaging biscuits into bottles for NFS.
 
 Students applied the skills taught in their lessons to design and prepare their task/products with the guidance of their subject teachers. The authentic learning experience also encourage students to trouble shoot on the problems faced during the whole process. Equipped with the skills taught during curriculum, students were given the ownership to plan, prepare and design their products.
+
+Accolades
+---------
+
+**Students**  
+
+**Music Unit**  
+•	2023 Aspire Showcase by our N(T) Level Music students  
+![](/images/AnT/Music/music1.jpg)
+•	2020 Singapore Youth Festival, The Youth Station Project  
+o	Song composed: Without You  
+o	Composed by: Leah Faith Doraisamy, 2E1  
+•	2020 Xinyao Songwriting Competition  
+o	Song composed: 守护星  
+o	Composed by: Leah Faith Doraisamy from 2E1, Ng Xin Hui Avery from 3E1, Mayvadee Chang Chu Lin and Syafiqah Binte Sulaiman from 3E2  
+
+
+**Nutrition and Food Science Unit**  
+•**2022 Food and Beverage Entrepreneurship Competition organized by Republic Polytechnic, school of Hospitality**   
+o	Certificate of Participation: Leong Yu Xuan, Tan Shu Ern, Ong Sue Hann Joelle, Muhammad Aiman Bin Rosman from 4R7  
+•	**2020 Food and Beverage Entrepreneurship Competition organized by Republic Polytechnic, school of Hospitality**   
+o	1st Prize: Pok Ka Sian Casanne and Lazo Federico III Pido for 3A1  
+o	3rd Prize: Koh Wei Hang and Jaden Tan Yi Jun from 3A2  
+o	Certificate of Participation: Sofiyyan Binte Jufri and Nur Rheerza from 3E3  
+
+
+**Visual Art Unit**  
+•	**Live on Festival (LOF) Design 2022**  
+o	Certificate of Distinction: Tricia Wu from 4A1  
+•	**Singapore Youth Festival 2022 Art Exhibition**  
+o	Certificate of Recognition: Chloe Soh from 4E4  
+•	**ViaRT Art Award 2022**  
+o	3rd Place in The Most Artistic Award: Kang Chei Min and Sakinah Bte Jefri from 4N  
+•	**ViaRT Art Award 2022**  
+o	3rd Place in You Make a Difference Award: Joshua Wong and Chen Song Ze from 4S  
+•	**The SG Clean Comic Strip Competition 2022**  
+o	Shortlisted and featured in SG Clean Comic Book: Sakinah Bte Jefri from 4N  
+•	**Artwork selected for Ministry's repository of Coporate Gifts 2021**  
+o	Sheraz Lim from 4E4  
+•	**Live on Festival (LOF) Design 2021**  
+o	Certificate of Distinction: Ho Jun Wei from 3E3  
+
+**D&T Unit**  
+•	**2022 Design & Technology Awards**  
+o	Certificate of Participation for the project ‘Ping Pong Ball Dispenser’: Tan Li Min Alicia  
+o	Certificate of Participation for the project ‘Mobile Phone Repair Kit Holder’: Low Chee Siang  
+•	**2021 Ignite Challenge**  
+o	Certificate of Participation for ‘Dancing Drones’ challenge: Loh Wei Jie Vincent, Keane Ang Ju Ze, Isaac Seow Chin Pang.  
+o	Certificate of Participation for ‘Daedalus’ challenge: Mohamed Irfan bin Mohamed Azhar, Adyan Aayman bin Mohamed Rizal, Muhammad Zahir bin Mohamad Hanipah, Nurin Ayla binte Muhammad Faizal, Nursyafiqah Binte Mohamed Faizal, Putri Nur Eriqha binte Engku Yazid.
+
+
+
+**Staff**  
+•	**2023 Teacher-Led workshop on ‘Using Experiential Learning Approach to Teach Mechanism’** – Mr Ng Geok Leng Benny, Mr Anwarul Nizam B Ismail and Mr Choo Boon Kian Alfred  
+•	**2023 Teachers’ Conference and ExCEL Fest 2023 (TCEF2023)** presentation on ‘Leveraging digital tools to sequence and scaffold the Teaching of Composition in Art.’ – Mdm Farahana Binti Abdul Rahim, Ms Dzafiirah Binte Mohammad Hakim and Ms Koh Bao Ru Jane  
+•	**2022 AST ‘emPowereD Issue 7** on Inquiry-Based Learning featured teacher – Ms Jasmine Low Wee Kie  
+•	**2022 Teacher-Led workshop** on ‘Using Inquiry-based Learning in the Teaching of Food Label’ – Ms Tan Wei Jing, Mdm Tan Chan Jong, Mr Muhammad Nazirul and Mdm Azlinah Wahed  
+•	**2022 MOE Service Excellence Award (Gold)** – Mdm Azlinah Wahed and Mr Alfred Choo  
+•	**2022 MOE Service Excellence Award (Silver)** – Mr Anwarul Nizam B Ismail, Ms Dzafiirah Binte Mohammad Hakim, Ms Koh Bao Ru Jane, Ms Jasmine Low Wee Kie, Mr Muhammad Nazirul Mubin Bin Yusoff and Mr Ng Geok Leng Benny  
+•	**2022 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie  
+•	**2021 STAR e-publication ‘Sounding the Teaching V**: Technology and Inclusion in Pedagogy’ article; 'A study of the effectiveness of the music curriculum through Differentiated Instruction which harnesses different tools and approaches’ – Ms Jasmine Low Wee Kie  
+•	**2021 Teachers’ Conference and ExCEL Fest 2021 (TCEF2021)** presentation on ‘Using Inquiry-Based Learning to Teach Reading of Food Labels’ – Ms Tan Wei Jing, Mdm Tan Chan Jong, Mr Muhammad Nazirul, Mdm Azlinah Wahed  
+•	**2021 MOE Service Excellence Award (Platinum)** – Mr Mohamed Fahizel  
+•	**2021 MOE Service Excellence Award (Gold)** – Mr Mohamed Fahizel, Mdm Farahana Binti Abdul Rahim, Ms Tan Wei Jing and Mr Tangarajoo Marimuthu  
+•	**2021 MOE Service Excellence Award (Silver)** – Mdm Azlinah Wahed  
+•	**2021 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie

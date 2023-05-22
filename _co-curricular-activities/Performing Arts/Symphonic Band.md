@@ -6,6 +6,9 @@ third_nav_title: Performing Arts
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/oOMyMgO2QE8" title="2022 Symphonic Band Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
+### Vision  
+Passionate Learners and Principled Leaders
+
 
 ### Mission
 
@@ -58,14 +61,9 @@ Percussion - Jean Haw (S3-H)
 * Certificate of Accomplishment (2019)  
 &nbsp;
 
-**School Based/ Public Performances**  
-* Singapore Band (Solo) Virtual Championship  
-* Chinese New Year Celebration Concert  
-* National Day Parade  
 
 ### Teachers In-Charge
 * Mr Lee Heng Han (OIC)  
-* Mr Chia Huang Hao  
 * Mr Nazirul Mubin  
 * Ms Serina Tan  
 
