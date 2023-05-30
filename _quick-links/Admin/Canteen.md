@@ -29,8 +29,8 @@ third_nav_title: Admin
 * Contact Person: Mr Sanker Ramaiah (Operations Manager)    
 
 **How to get there?**
-* Nearest MRT: Admiralty MRT (NS10 line) – 10 minutes walking distance
-* Bus number: 900 - 3 minutes walking distance
+* Nearest MRT: Hougang MRT, Buangkok MRT
+* Bus number: 43, 88, 101, 109, 156, 159, 161, 325, 329
 
 **Interest applicants must meet the following criteria:**
 * 
