@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Admin.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/2023 ECT Schedule.md
