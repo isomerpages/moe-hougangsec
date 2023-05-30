@@ -2,11 +2,11 @@ collections:
   quick-links:
     output: true
     order:
-      - Admin/Canteen.md
-      - Admin/Traffic Advisory.md
-      - Admin/School Uniform Sale.md
-      - Admin/School Textbook Sale.md
       - Admin/.keep
+      - Admin/Canteen.md
+      - Admin/School Textbook Sale.md
+      - Admin/School Uniform Sale.md
+      - Admin/Traffic Advisory.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/2023 ECT Schedule.md
