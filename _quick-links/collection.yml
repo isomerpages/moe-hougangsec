@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Admin/.keep
       - Admin.md
       - For Students/.keep
       - For Students/For Students.md
