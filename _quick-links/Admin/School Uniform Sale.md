@@ -2,6 +2,7 @@
 title: School Uniform Sale
 permalink: /quick-links/school-uniform-sale/
 description: ""
+third_nav_title: Admin
 ---
 Dear Parents/Guardians
 
@@ -52,4 +53,3 @@ Walk-in purchase is available on the following dates and time.
   </tr>
 </tbody>
 </table>
-

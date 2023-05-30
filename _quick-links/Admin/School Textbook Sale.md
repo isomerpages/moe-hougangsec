@@ -2,18 +2,19 @@
 title: School Textbook Sale
 permalink: /quick-links/school-text-book-sale/
 description: ""
+third_nav_title: Admin
 ---
 Dear Parents/Guardians  
 
 <u>I. ONLINE Purchase</u>
 
-The <u>online</u> textbook purchase is available from now to 16 Dec 2022 at our supplier’s website - [www.cascoedusupply.com.sg](http://www.cascoedusupply.com.sg/). Please refer to your child’s booklist for the username and password. 
+The&nbsp;<u>online</u>&nbsp;textbook purchase is available from now to 16 Dec 2022 at our supplier’s website -&nbsp;[www.cascoedusupply.com.sg](http://www.cascoedusupply.com.sg/). Please refer to your child’s booklist for the username and password.&nbsp;
 
-For online purchases, parents can opt for <u>either</u> home delivery at a fee <u>or</u> collect from the school bookshop (Pick & Go). For collection at the school bookshop, <u>only one adult and one student</u> are allowed per family.
+For online purchases, parents can opt for&nbsp;<u>either</u>&nbsp;home delivery at a fee&nbsp;<u>or</u>&nbsp;collect from the school bookshop (Pick &amp; Go). For collection at the school bookshop,&nbsp;<u>only one adult and one student</u>&nbsp;are allowed per family.
 
-<u>II. Purchase in School</u>
+<u>II.&nbsp;Purchase in School</u>
 
-Walk-in purchase is available on the following dates and time. <u>Only one adult is allowed to accompany the student.</u> Other details are on the booklist that was issued to students.
+Walk-in purchase is available on the following dates and time.&nbsp;<u>Only one adult is allowed to accompany the student.</u> Other details are on the booklist that was issued to students.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
