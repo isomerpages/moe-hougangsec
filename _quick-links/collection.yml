@@ -2,11 +2,10 @@ collections:
   quick-links:
     output: true
     order:
-      - Admin/.keep
-      - Admin/Canteen.md
-      - Admin/School Textbook Sale.md
-      - Admin/School Uniform Sale.md
-      - Admin/Traffic Advisory.md
+      - HBL SIL/.keep
+      - HBL SIL/HBL–SIL.md
+      - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
+      - HBL SIL/HS ICT Helpdesk Form.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/2023 ECT Schedule.md
@@ -27,9 +26,10 @@ collections:
       - PLD Initiative/DMA Parent Portal.md
       - PLD Initiative/Information For Students.md
       - PLD Initiative/FAQ.md
-      - HBL SIL/.keep
-      - HBL SIL/HBL–SIL.md
-      - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
-      - HBL SIL/HS ICT Helpdesk Form.md
+      - Admin/.keep
+      - Admin/Canteen.md
+      - Admin/School Textbook Sale.md
+      - Admin/School Uniform Sale.md
+      - Admin/Traffic Advisory.md
       - Appeal For Transfer Into HS.md
       - HS ICT Helpdesk Form.md
