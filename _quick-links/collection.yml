@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Admin/Traffic Advisory.md
       - Admin/School Uniform Sale.md
       - Admin/School Textbook Sale.md
       - Admin/.keep
