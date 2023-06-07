@@ -467,7 +467,7 @@ If you are new to this sales portal, you will need to register for an account as
 #### 2022 PDLP Briefing to S1 Students (For Students)
 
 **Quick Summary of Things to do**:&nbsp;  
-* Verify you can access your student&nbsp;iCon&nbsp;before 22 Feb 2023 by clicking the link below. Here is an example of a Student iCON email:&nbsp;_your\_name@students.edu.s_g
+* Verify you can access your student&nbsp;iCon&nbsp;before 22 Feb 2023 by clicking the link below. Here is an example of a Student iCON email:&nbsp; your_name@students.edu.s_g
 
 [https://go.gov.sg/hsstudentemail](https://go.gov.sg/hsstudentemail)&nbsp;  
 &nbsp;  
