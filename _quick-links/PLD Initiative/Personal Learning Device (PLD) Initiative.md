@@ -9,7 +9,7 @@ At MOE’s Committee of Supply Debate in March 2020, MOE launched the National D
 
 #### Personal Learning Device (PLD) for Secondary School Students
 
-2.    **Overview.** 
+2.&nbsp;&nbsp; &nbsp;**Overview.**&nbsp;
 
 The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.  
 
@@ -17,37 +17,37 @@ The PLD will be used in tandem with the national e-learning platform – the Sin
 
 **For newly posted in students at Secondary 1**, parents will need to ensure that the following are submitted before 31 December 2022
 
-> 1. [Intent to purchase and use of Edusave](https://go.gov.sg/pdlpadmin) (requires SingPass log in) – Parents without SingPass are to approach the general office for the hardcopy form.
-> 
-> 2. Information on existing household computing device(s)
+&gt; 1. [Intent to purchase and use of Edusave](https://go.gov.sg/pdlpadmin)&nbsp;(requires SingPass log in) – Parents without SingPass are to approach the general office for the hardcopy form.
+&gt; 
+&gt; 2. Information on existing household computing device(s)
 
   
 
-3.    **Purchase of PLD bundle.** 
+3.&nbsp;&nbsp; &nbsp;**Purchase of PLD bundle.**&nbsp;
 
-The school has made arrangements for you to purchase the PLD from ASIAPAC TECHNOLOGY PTE. LTD. (Vendor) for your child’s/ward’s use in school. The vendor has been identified based on the choice of the device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be the Enhanced Device Bundle comprising the following : 
+The school has made arrangements for you to purchase the PLD from&nbsp;ASIAPAC TECHNOLOGY PTE. LTD.&nbsp;(Vendor) for your child’s/ward’s use in school. The vendor has been identified based on the choice of the device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be the&nbsp;Enhanced Device Bundle&nbsp;comprising the following :&nbsp;
 
-*   Apple iPad \[10.2” 9th Gen model, A13 Bionic chip, 64 GB Storage\]  
-*   Apple Pencil 
-*   Ruggedized Keyboard Combo 3 Case 
+*   Apple iPad \[10.2” 9th Gen model, A13 Bionic chip, 64 GB Storage\]&nbsp;&nbsp;
+*   Apple Pencil&nbsp;
+*   Ruggedized Keyboard Combo 3 Case&nbsp;
 *   3 Year AppleCare+
 *   3 Year Insurance
 
-The price of the Enhanced Device Bundle is tentatively priced at $857.52 and is inclusive of 8% GST.   
+The price of the Enhanced Device Bundle is tentatively priced at $857.52 and is inclusive of 8% GST.&nbsp;  
 
   
 
-The Enhanced Device Bundle includes the device, associated accessories, insurance, warranty, and fortnightly courier service by Contractor to collect damaged devices from school _(Or parents can choose to send directly to the 6 Apple Service Centres)_
+The Enhanced Device Bundle includes the device, associated accessories, insurance, warranty, and fortnightly courier service by Contractor to collect damaged devices from school&nbsp;_(Or parents can choose to send directly to the 6 Apple Service Centres)_
 
   
 
-4. **Use of Edusave.**  
+4. **Use of Edusave.** &nbsp;
 
 MOE has provided Edusave top-ups of $200 in 2020, 2021 and 2022 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd tier miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD.  
 
   
 
-5.  **Financial Assistance.** 
+5.&nbsp; **Financial Assistance.**&nbsp;
 
 Subsidies are available for students who require financial assistance to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after subsidies have been granted.
 
@@ -169,19 +169,19 @@ More details on the functions and features of the DMA, and on the collection and
 
 #### Next Steps
 
-10\.  To proceed with the purchase of the PLD, please submit the online forms (see table 2) by **31 December 2022**. The online forms will be available after Sec 1 registration. If you are unable to submit the form online, please contact the school for a hardcopy version.  
+10\.&nbsp; To proceed with the purchase of the PLD, please submit the online forms (see table 2) by&nbsp;**31 December 2022**. The online forms will be available after Sec 1 registration. If you are unable to submit the form online, please contact the school for a hardcopy version.  
   
-11\.  For students with insufficient Edusave and remainder/full payment is required, the school will inform parents/guardians to make the balance payment. Payment modes are detailed below. For non-GIRO payment, payments should only be made after parents are informed by the school.  
-* (a) **Payment through GIRO (recommended)** : Please ensure sufficient funds in the GIRO account to be deducted.  
-* (b) **Payment by Cheque** : Please cross the cheque and indicate **Ministry of Education** as account payable.  
-* (c) **Payment through SAM** : Pay to **Ministry of Education**. Please key in your child/ward’s NRIC/FIN and amount payable when prompted.  
-* (d) **Payment by Cash** : Pay at the General Office after school dismissal.  
+11\.&nbsp; For students with insufficient Edusave and remainder/full payment is required, the school will inform parents/guardians to make the balance payment. Payment modes are detailed below. For non-GIRO payment, payments should only be made after parents are informed by the school.  
+* (a)&nbsp;**Payment through GIRO (recommended)**&nbsp;: Please ensure sufficient funds in the GIRO account to be deducted.  
+* (b)&nbsp;**Payment by Cheque**&nbsp;: Please cross the cheque and indicate&nbsp;**Ministry of Education**&nbsp;as account payable.  
+* (c)&nbsp;**Payment through SAM**&nbsp;: Pay to&nbsp;**Ministry of Education**. Please key in your child/ward’s NRIC/FIN and amount payable when prompted.  
+* (d)&nbsp;**Payment by Cash**&nbsp;: Pay at the General Office after school dismissal.  
 
   
 
 **Further Queries**  
 
-12\. Should there be any further queries or clarification, please contact Mr Javen Gwee, HOD/ICT & Data Management at 6385-1990.
+12\. Should there be any further queries or clarification, please contact Mr Javen Gwee, HOD/ICT &amp; Data Management at 6385-1990.
 
 Thank you!
 
@@ -280,7 +280,7 @@ Thank you!
 </tbody>
 </table>
 
-2\. Parents/Guardians may wish to consider the following questions before deciding on which After-School DMA Option is best for their child/ward. 
+2\. Parents/Guardians may wish to consider the following questions before deciding on which After-School DMA Option is best for their child/ward.&nbsp;
 
 **a. Child’s/Ward’s current device usage habits**
 * How much time does my child/ward spend on his/her device?
@@ -293,7 +293,7 @@ Thank you!
 * Am I aware of how to prevent different types of cyber threats that my child/ward might face?
 
 
-#### Annex C:  Privacy and Data Security
+#### Annex C:&nbsp; Privacy and Data Security
 
 **Part 1: Data Collected and Managed by the DMA**
 
@@ -303,7 +303,7 @@ Thank you!
 *   Login IDs and passwords entered into websites or into any applications
 *   Actions performed (e.g. posts, online comments, items added to a shopping cart, etc.) when visiting websites and using apps
 *   Documents and photos stored in the PLD
-*   PLD location 
+*   PLD location&nbsp;
 *   Webcam videos and microphone recordings
 
   
@@ -380,7 +380,7 @@ _Note: No data is collected after school hours for Alternative Setting: Option B
 
   
 
-4\. All user data collected through the DMA will be stored in secure servers managed by appointed DMA Vendors with stringent access controls and audit trials implemented. The DMA solutions used are cloud-based Software-as-a-Service (SaaS) solutions and are trusted solutions that have been operating for many years. They have also been subjected to regular security review and assessment by independent reviewers. 
+4\. All user data collected through the DMA will be stored in secure servers managed by appointed DMA Vendors with stringent access controls and audit trials implemented. The&nbsp;DMA solutions used are cloud-based Software-as-a-Service (SaaS) solutions and are trusted solutions that have been operating for many years. They have also been subjected to regular security review and assessment by independent reviewers.&nbsp;
 
   
 
@@ -392,20 +392,20 @@ _Note: No data is collected after school hours for Alternative Setting: Option B
 
   
 
-* Student iCON: [https://workspace.google.com/terms/education\_terms\_japan.html](https://workspace.google.com/terms/education_terms_japan.html)   
+* Student iCON: [https://workspace.google.com/terms/education\_terms\_japan.html](https://workspace.google.com/terms/education_terms_japan.html)&nbsp; &nbsp;
 
-* Microsoft ProPlus:  [https://portal.office.com/commerce/mosa.aspx](https://portal.office.com/commerce/mosa.aspx)   
-* Zoom: [https://zoom.us/docs/en-us/schools-privacy-statement.html](https://zoom.us/docs/en-us/schools-privacy-statement.html)  
-
-  
-
-7\. All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: [https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation/personal-data-protection](https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation/personal-data-protection)
+* Microsoft ProPlus:&nbsp; [https://portal.office.com/commerce/mosa.aspx](https://portal.office.com/commerce/mosa.aspx)&nbsp; &nbsp;
+* Zoom: [https://zoom.us/docs/en-us/schools-privacy-statement.html](https://zoom.us/docs/en-us/schools-privacy-statement.html)&nbsp;&nbsp;
 
   
 
-#### Annex D:  APPLICATION FOR SUBSIDY FOR PURCHASE OF PERSONAL LEARNING DEVICE (PLD)
+7\. All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies:&nbsp;[https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation/personal-data-protection](https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation/personal-data-protection)
 
-_This application is open to all students whose Gross Household Income (GHI) ≤ $4,400 or Per Capita Income (PCI)  ≤ $1,100.  PCI is GHI divided by the number of household members.  Students on MOE Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school._  
+  
+
+#### Annex D:&nbsp; APPLICATION FOR SUBSIDY FOR PURCHASE OF PERSONAL LEARNING DEVICE (PLD)
+
+_This application is open to all students whose Gross Household Income (GHI) ≤ $4,400 or Per Capita Income (PCI)&nbsp; ≤ $1,100.&nbsp; PCI is GHI divided by the number of household members.&nbsp; Students on MOE Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school._&nbsp;&nbsp;
 
   
 
@@ -438,7 +438,7 @@ Please indicate the details of the student applying for subsidy.
 
 **Section II: Information on Other Household Members**
 
-Please include details of the <u>parents, unmarried siblings and grandparents (if they are living in the same household) of the student</u>.  For household members who are employed/self-employed, please include the latest payslip or past 3 months CPF transactions or latest Income Tax Notice of Assessment, or a letter from the employer certifying gross income (where applicable).  Any other documents must be submitted as and when required by the school for the purpose of verifying the income.
+Please include details of the&nbsp;<u>parents, unmarried siblings and grandparents (if they are living in the same household) of the student</u>.&nbsp; For household members who are employed/self-employed, please include the latest payslip or past 3 months CPF transactions or latest Income Tax Notice of Assessment, or a letter from the employer certifying gross income (where applicable).&nbsp; Any other documents must be submitted as and when required by the school for the purpose of verifying the income.
 
 ![](/images/pdlpform.png)
 
@@ -446,36 +446,37 @@ Please include details of the <u>parents, unmarried siblings and grandparents (
 
 *   Collection and Set-up of iPad – on 22 Feb 2023
 *   Deciding the DMA Option – by 13 Mar 2023
-*   Optional Briefing for Parents on DMA – on 20 Mar 2023
+*   Optional Briefing for Parents on DMA – on 20 Mar&nbsp;2023
 
 #### DMA Parent Portal
 
-Log in to Mobile Guardian here: [https://sg-portal.mobileguardian.com/#/login](https://sg-portal.mobileguardian.com/#/login)  
+Log in to Mobile Guardian here:&nbsp;[https://sg-portal.mobileguardian.com/#/login](https://sg-portal.mobileguardian.com/#/login)  
   
 [Please click this URL for more details on the DMA Parent Portal.](/quick-links/PLD-Initiative/dma-parents-portal/)
 
 #### PLD Accessories Sales Portal
 
-Below is the sales portal for the purchase of new or replacement accessories related to the Apple iPad from our vendor, AsiaPac Technology Pte. Ltd.   
+Below is the sales portal for the purchase of new or replacement accessories related to the Apple iPad from our vendor, AsiaPac Technology Pte. Ltd.&nbsp;  
   
 [https://www.asiapac.com.sg/pld-apple/account/login](https://www.asiapac.com.sg/pld-apple/account/login)  
   
-If you are new to this sales portal, you will need to register for an account as a new user before you can purchase online. Please ensure that you have the BIRTH CERT NO.
+If you are new to this sales portal, you will need to register for an account as a new user before you can purchase online. Please ensure that you have the&nbsp;BIRTH CERT NO.
 
-(LAST 5 CHARACTERS) ready and choose Hougang Secondary School. 
+(LAST 5 CHARACTERS) ready and choose Hougang Secondary School.&nbsp;
 
 #### 2022 PDLP Briefing to S1 Students (For Students)
 
-**Quick Summary of Things to do**:   
-* Verify you can access your student iCon before 22 Feb 2023 by clicking the link below. Here is an example of a Student iCON email: _your\_name@students.edu.s_g
+**Quick Summary of Things to do**:&nbsp;  
+* Verify you can access your student&nbsp;iCon&nbsp;before 22 Feb 2023 by clicking the link below. Here is an example of a Student iCON email:&nbsp;_your\_name@students.edu.s_g
 
-[https://go.gov.sg/hsstudentemail](https://go.gov.sg/hsstudentemail)   
-   
+[https://go.gov.sg/hsstudentemail](https://go.gov.sg/hsstudentemail)&nbsp;  
+&nbsp;  
 
 If you need help with your user ID or password, please approach the IT team at SRC.
 
-* Bring your Student Pass on 9 Mar.
-* Report at 8.45 am to level one classroom on 22 Feb 2023. 
-* Familiarise yourself with the Onboarding slides here: 
+* Bring your&nbsp;Student Pass&nbsp;.
+* Report to level one classroom;
+* Familiarise yourself with the&nbsp;Onboarding slides here:&nbsp;
 
-[2022 PDLP Briefing to S1 Students.pdf](/files/Annex%20A-%20List_of_Overseas_Trips_for_2020%20v2.pdf)
+
+[2022 PDLP Briefing to S1 Students](/files/DMA/2022%20PDLP%20Briefing%20to%20S1%20Students%20For%20Students.pdf)
