@@ -81,9 +81,10 @@ third_nav_title: For Students
 
 [GRIT Journal 2022 final web.pdf](/files/GRIT%20Journal%202022%20final%20web.pdf)
 
-### Timetables 2023
+### Timetable 2023
 
-[2023 Semester 1 Class Timetable.pdf](/files/2023%20semester%201%20class%20timetable.pdf)
+[Timetable 2023 Semster 2](https://go.gov.sg/hstimetable)
+
 
 ### HS ICT Helpdesk Form
 
