@@ -96,6 +96,6 @@ If the form below is not loaded, you can also fill it in&nbsp;[here](https://for
 Log in to the Student iCON here. Do not log in to the mobile app directly.&nbsp;  
 [https://workspace.google.com/dashboard](https://workspace.google.com/dashboard)  
   
-Student iCON Username/ID is your Student iCON email address (If you have a common name, your Userid may have a suffix, eg, “john\_tan\_23@students.edu.sg”). Please refer to the poster below for more information.
+Student iCON Username/ID is your Student iCON email address (If you have a common name, your Userid may have a suffix, eg, “john\_tan\_23 @students.edu.sg”). Please refer to the poster below for more information.
 
 ![](/images/Studen%20iCON%20Poster%20A3P2022%2001Mar20221.jpeg)
