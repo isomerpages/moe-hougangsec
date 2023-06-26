@@ -8,7 +8,7 @@ third_nav_title: Admin
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| International Food Stall (halal)  | 12 June 2023     | Cuisine such as Western, Japanese, Korean is acceptable.    |
+| International Food Stall (halal)  | 14 July 2023     | Cuisine such as Western, Japanese, Korean is acceptable.    |
 || 
 
 **Application Procedure**
@@ -26,14 +26,14 @@ third_nav_title: Admin
 * Address: 2 Hougang Street 93, Singapore 534256
 * Contact No: 6385 1990
 * Email: hougang_ss@moe.edu.sg
-* Contact Person: Mr Sanker Ramaiah (Operations Manager)    
+* Contact Person: Mr Sanker Ramaiah (Operations Manager)  
 
 **How to get there?**
 * Nearest MRT: Hougang MRT, Buangkok MRT
 * Bus number: 43, 88, 101, 109, 156, 159, 161, 325, 329
 
 **Interest applicants must meet the following criteria:**
-* 
+ 
 1.	Singapore Citizens or Singapore Permanent Residents aged 21 years old and above.
 2.	Adhere to Healthy Meals in School Programme (HMSP) where all food sold must meet the programme requirement. Please see details at (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).
 3.	Maintain high standard of food and personal hygiene set out by Singapore Food Agency (SFA) for food handlers.
@@ -45,5 +45,5 @@ third_nav_title: Admin
 9.	Applicants who adopt green practices are also preferred.
 
 
- 
+
 *Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.*

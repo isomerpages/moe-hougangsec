@@ -81,8 +81,6 @@ description: ""
 <td class="tg-2705" style="width: 292.875px;"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span></td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Mdm Annizell Cruz Chan<br>annizell_cruz_chan@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">Level Head / EL</td>
 </tr>
 <tr>
 <td class="tg-2rp9" style="width: 270px;">Miss Audrey Chua Wen Min<br>chua_wen_min_audrey@moe.edu.sg</td>
@@ -94,7 +92,7 @@ description: ""
 </tr>
 <tr>
 <td class="tg-2rp9" style="width: 270px;">Ms Sisca Christine Haryanto<br>sisca_christine_haryanto@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">SH / Science (Int)</td>
+<td class="tg-5ws4" style="width: 292.875px;">SH / Science (Covering)</td>
 </tr>
 <tr>
 <td class="tg-2rp9" style="width: 270px;">Mrs Rachel Chan<br>teo_hui_en_rachel@moe.edu.sg</td>

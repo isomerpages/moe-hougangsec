@@ -4,7 +4,7 @@ permalink: /departments/Aesthetics-and-Technology/nutrition-and-food-science/
 description: ""
 third_nav_title: Aesthetics and Technology
 ---
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/Nl_O2Z4TXek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Nl_O2Z4TXek" height="315" width="560"></iframe></center>
 
 Here in HS, the students are encouraged to explore into the world of Food Sciences and out of the typical classroom experience through our enrichment and innovation programme.
 
