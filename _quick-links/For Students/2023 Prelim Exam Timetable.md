@@ -8,6 +8,4 @@ Dear Hougeans,
 
 Below are the list of prelim exam timetables for your reference:
 
-
-
-[2023 Sec 4 & 5 Prelim Exam Timetable](/files/Timetables/hs-2023-082%202023%20prelim%20exam%20cover%20letter%20&%20timetable.pdf)
+[2023 Sec 4 & 5 Prelim Exam Timetable](/files/Timetables/secondary%204%20and%205%20preliminary%20exam%20timetable.pdf)
