@@ -9,3 +9,5 @@ Dear Hougeans,
 Below are the list of prelim exam timetables for your reference:
 
 [[2023 MTL and MTLB Prelim Exam Timetable](/files/Timetables/2023%20MTL%20Prelim%20Exam%20Timetable.pdf)](/files/2023_MTL_MTLB_Prelim-Exam-Timetable.pdf)
+
+[2023 Sec 4 & 5 Prelim Exam Timetable](/files/Timetables/hs-2023-082%202023%20prelim%20exam%20cover%20letter%20&%20timetable.pdf)
