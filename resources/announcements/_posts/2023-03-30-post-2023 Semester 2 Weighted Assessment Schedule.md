@@ -6,9 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
-Dear Hougeans,
+**Type of Stal**l: International Food Stall (halal)
 
-Below is the 2023 Semester 2 Weighted Assessment Schedule for your reference.
+**Closing Date**: 14 July 2023  
 
+**Requirements**: Cuisine such as Western, Japanese, Korean is acceptable.    
 
-[2023 Semester 2 Weighted Assessment Schedule](/files/Timetables/2023_Semester_2_Weighted%20_Assessment%20Schedule.pdf)
+Please click this link for more details.
