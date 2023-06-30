@@ -17,123 +17,232 @@ description: ""
 
 
 
-<table class="tg">
+<p>&nbsp;</p>
+<br>
+<span style="color:#EEE;background-color:#2A2A2A">SUBJECT HEAD / LEVEL HEAD</span><table style="width: 648px;">
 <tbody>
 <tr>
-<td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">HEAD OF DEPARTMENT (HOD)</span></td>
-<td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span></td>
+
+<td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Mohamed Fahizel<br>mohamed_fahizel@moe.edu.sg</td>
-<td class="tg-5ws4">HOD A&amp;T</td>
+<td style="width: 364.891px;">
+<p>Mr Mohamed Fahizel<br> mohamed_fahizel@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD A&amp;T</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mrs Lee Yuzhen<br>kwek_yu_zhen@moe.edu.sg</td>
-<td class="tg-5ws4">HOD Character and Citizenship Education</td>
+<td style="width: 364.891px;">
+<p>Mrs Lee Yuzhen<br> kwek_yu_zhen@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD Character and Citizenship Education</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mdm S Chitradevi<br>s_chitradevi@moe.edu.sg</td>
-<td class="tg-5ws4">HOD English, Literature &amp; EBS</td>
+<td style="width: 364.891px;">
+<p>Mdm S Chitradevi<br> s_chitradevi@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD English, Literature &amp; EBS</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Andy Koh Min Chit<br>andy_koh_min_chit@moe.edu.sg</td>
-<td class="tg-5ws4">HOD Humanities</td>
+<td style="width: 364.891px;">
+<p>Mr Andy Koh Min Chit<br> andy_koh_min_chit@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD Humanities</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Gwee Chen Meng Javen<br>javen_gwee_chen_meng@moe.edu.sg</td>
-<td class="tg-5ws4">HOD ICT &amp; Data Management</td>
+<td style="width: 364.891px;">
+<p>Mr Gwee Chen Meng Javen<br> javen_gwee_chen_meng@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD ICT &amp; Data Management</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Chow Poh Boon<br>chow_poh_boon@moe.edu.sg</td>
-<td class="tg-5ws4">HOD&nbsp;Mathematics</td>
+<td style="width: 364.891px;">
+<p>Mr Chow Poh Boon<br> chow_poh_boon@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD&nbsp;Mathematics</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Ms Cheng Sze Mei Carmen<br>cheng_sze_mei@moe.edu.sg</td>
-<td class="tg-5ws4">HOD Mother Tongue Language</td>
+<td style="width: 364.891px;">
+<p>Ms Cheng Sze Mei Carmen<br> cheng_sze_mei@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD Mother Tongue Language</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Lee Lis King<br>lee_lis_king@moe.edu.sg</td>
-<td class="tg-5ws4">HOD PE/CCA</td>
+<td style="width: 364.891px;">
+<p>Mr Lee Lis King<br> lee_lis_king@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD PE/CCA</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Quek Yong Cai<br>quek_yong_cai@moe.edu.sg</td>
-<td class="tg-5ws4">HOD Science</td>
+<td style="width: 364.891px;">
+<p>Mr Quek Yong Cai<br> quek_yong_cai@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD Science</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Khairul Adli Bin Rahmat <br>khairul_adli_rahmat@moe.edu.sg</td>
-<td class="tg-5ws4">SSD</td>
+<td style="width: 364.891px;">
+<p>Mr Khairul Adli Bin Rahmat<br> khairul_adli_rahmat@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>SSD</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mdm Lim Choon Ling<br>lim_choon_ling@moe.edu.sg</td>
-<td class="tg-5ws4">Year Head</td>
+<td style="width: 364.891px;">
+<p>Mdm Lim Choon Ling<br> lim_choon_ling@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>Year Head</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Elangovan s/o V Muthoo<br>elangovan_v_muthoo@moe.edu.sg</td>
-<td class="tg-5ws4">Year Head</td>
+<td style="width: 364.891px;">
+<p>Mr Elangovan s/o V Muthoo<br> elangovan_v_muthoo@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>Year Head</p>
+</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<table class="tg" style="width: 579.875px;">
+<br>
+<br>
+	
+	
+	
+	
+<table width="648">
 <tbody>
 <tr>
-<td class="tg-2705" style="width: 270px;"><span style="color:#EEE;background-color:#2A2A2A">LEVEL / SUBJECT HEAD</span></td>
-<td class="tg-2705" style="width: 292.875px;"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span></td>
+<td>
+<span style="color:#EEE;background-color:#2A2A2A">SUBJECT HEAD / LEVEL HEAD</span></td>
+<td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span>
+</td>
 </tr>
 <tr>
+<td>
+<p>Miss Audrey Chua Wen Min<br> chua_wen_min_audrey@moe.edu.sg</p>
+</td>
+<td>
+<p>Level Head / EL &amp; Lit</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Miss Audrey Chua Wen Min<br>chua_wen_min_audrey@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">Level Head / EL &amp; Lit</td>
+<td>
+<p>Miss Jazreel Toh Hui Khee<br> toh_hui_khee_jazreel@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Science</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Miss Jazreel Toh Hui Khee<br>toh_hui_khee_jazreel@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">SH / Science</td>
+<td>
+<p>Ms Sisca Christine Haryanto<br> sisca_christine_haryanto@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Science (Covering)</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Ms Sisca Christine Haryanto<br>sisca_christine_haryanto@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">SH / Science (Covering)</td>
+<td>
+<p>Mrs Rachel Chan<br> teo_hui_en_rachel@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / CCE</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Mrs Rachel Chan<br>teo_hui_en_rachel@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">SH / CCE</td>
+<td>
+<p>Ms Tracy Huang Yuyan<br> huang_yuyan@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Math</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Ms Tracy Huang Yuyan<br>huang_yuyan@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">SH / Math</td>
+<td>
+<p>Mr Choo Boon Kian Alfred<br> choo_boon_kian@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Innovation</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Mr Choo Boon Kian Alfred<br>choo_boon_kian@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">SH / Innovation</td>
+<td>
+<p>Mdm Li Huilin<br> li_huilin@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Humanities</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Mdm Li Huilin<br>li_huilin@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">SH / Humanities</td>
+<td>
+<p>Mdm Amalina Samad<br> amalina_abdul_samad@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Pupil Management (Covering)</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Mr Philip Deepak<br>philip_deepak@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">SH / Pupil Management</td>
+<td>
+<p>Mr Charles Wong<br> wong_wai_kit_charles@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / ICT &amp; Data Management</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Mr Charles Wong<br>wong_wai_kit_charles@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">SH / ICT &amp; Data Management</td>
+<td>
+<p>Mr Daniel Tan<br> tan_chin_juay_daniel@moe.edu.sg</p>
+</td>
+<td>
+<p>Assistant Year Head</p>
+</td>
 </tr>
 <tr>
+<td>
+<p>Miss Serina Tan Bei Ling<br> tan_bei_ling@moe.edu.sg</p>
+</td>
+<td>
+<p>Assistant Year Head</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Mr Daniel Tan<br>tan_chin_juay_daniel@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">Assistant Year Head</td>
-</tr>
-<tr>
-<td class="tg-2rp9" style="width: 270px;">Miss Serina Tan Bei Ling<br>tan_bei_ling@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">Assistant Year Head</td>
-</tr>
-<tr>
-<td class="tg-2rp9" style="width: 270px;">Mdm Martini Rahmat<br>martini_rahmat@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">Assistant Year Head</td>
+<td>
+<p>Mdm Martini Rahmat<br> martini_rahmat@moe.edu.sg</p>
+</td>
+<td>
+<p>Assistant Year Head</p>
+</td>
 </tr>
 </tbody>
-</table>
+</table>	
+
+
+
+
+
+
 <p>&nbsp;</p>
 <table class="tg" style="width: 581.125px;">
 <tbody>
@@ -152,6 +261,9 @@ description: ""
 <tr>
 <td class="tg-2rp9" style="width: 271px;">Mr Sanker Ramaiah<br>sanker_ramaiah@moe.edu.sg</td>
 <td class="tg-5ws4" style="width: 292.125px;">Operations Manager</td>
+</tr>
+	<tr><td class="tg-2rp9" style="width: 271px;">Mr Marcus Loh<br>loh_kim_mee_marcus@moe.edu.sg</td>
+<td class="tg-5ws4" style="width: 292.125px;">ICT Manager</td>
 </tr>
 </tbody>
 </table>
