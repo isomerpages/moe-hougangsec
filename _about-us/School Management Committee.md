@@ -19,10 +19,11 @@ description: ""
 
 <p>&nbsp;</p>
 <br>
-<span style="color:#EEE;background-color:#2A2A2A">SUBJECT HEAD / LEVEL HEAD</span><table style="width: 648px;">
+<table width="648">
 <tbody>
 <tr>
-
+<td>
+<span style="color:#EEE;background-color:#2A2A2A">HEAD OF DEPARTMENT</span></td>
 <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span>
 </td>
 </tr>
