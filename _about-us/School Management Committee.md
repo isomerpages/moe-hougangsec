@@ -112,7 +112,7 @@ description: ""
 </tr>
 <tr>
 <td class="tg-2rp9" style="width: 270px;">Mdm Amalina Samad<br>amalina_abdul_samad@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.875px;">SH / Pupil Management</td>
+<td class="tg-5ws4" style="width: 292.875px;">SH / Pupil Management (Covering)</td>
 </tr>
 <tr>
 <td class="tg-2rp9" style="width: 270px;">Mr Charles Wong<br>wong_wai_kit_charles@moe.edu.sg</td>
