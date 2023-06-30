@@ -17,71 +17,125 @@ description: ""
 
 
 
-
-<table class="tg">
+<p>&nbsp;</p>
+<br>
+<span style="color:#EEE;background-color:#2A2A2A">SUBJECT HEAD / LEVEL HEAD</span><table style="width: 648px;">
 <tbody>
 <tr>
-<td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">HEAD OF DEPARTMENT (HOD)</span></td>
-<td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span></td>
+
+<td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Mohamed Fahizel<br>mohamed_fahizel@moe.edu.sg</td>
-<td class="tg-5ws4">HOD A&amp;T</td>
+<td style="width: 364.891px;">
+<p>Mr Mohamed Fahizel<br> mohamed_fahizel@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD A&amp;T</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mrs Lee Yuzhen<br>kwek_yu_zhen@moe.edu.sg</td>
-<td class="tg-5ws4">HOD Character and Citizenship Education</td>
+<td style="width: 364.891px;">
+<p>Mrs Lee Yuzhen<br> kwek_yu_zhen@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD Character and Citizenship Education</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mdm S Chitradevi<br>s_chitradevi@moe.edu.sg</td>
-<td class="tg-5ws4">HOD English, Literature &amp; EBS</td>
+<td style="width: 364.891px;">
+<p>Mdm S Chitradevi<br> s_chitradevi@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD English, Literature &amp; EBS</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Andy Koh Min Chit<br>andy_koh_min_chit@moe.edu.sg</td>
-<td class="tg-5ws4">HOD Humanities</td>
+<td style="width: 364.891px;">
+<p>Mr Andy Koh Min Chit<br> andy_koh_min_chit@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD Humanities</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Gwee Chen Meng Javen<br>javen_gwee_chen_meng@moe.edu.sg</td>
-<td class="tg-5ws4">HOD ICT &amp; Data Management</td>
+<td style="width: 364.891px;">
+<p>Mr Gwee Chen Meng Javen<br> javen_gwee_chen_meng@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD ICT &amp; Data Management</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Chow Poh Boon<br>chow_poh_boon@moe.edu.sg</td>
-<td class="tg-5ws4">HOD&nbsp;Mathematics</td>
+<td style="width: 364.891px;">
+<p>Mr Chow Poh Boon<br> chow_poh_boon@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD&nbsp;Mathematics</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Ms Cheng Sze Mei Carmen<br>cheng_sze_mei@moe.edu.sg</td>
-<td class="tg-5ws4">HOD Mother Tongue Language</td>
+<td style="width: 364.891px;">
+<p>Ms Cheng Sze Mei Carmen<br> cheng_sze_mei@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD Mother Tongue Language</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Lee Lis King<br>lee_lis_king@moe.edu.sg</td>
-<td class="tg-5ws4">HOD PE/CCA</td>
+<td style="width: 364.891px;">
+<p>Mr Lee Lis King<br> lee_lis_king@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD PE/CCA</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Quek Yong Cai<br>quek_yong_cai@moe.edu.sg</td>
-<td class="tg-5ws4">HOD Science</td>
+<td style="width: 364.891px;">
+<p>Mr Quek Yong Cai<br> quek_yong_cai@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD Science</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Khairul Adli Bin Rahmat <br>khairul_adli_rahmat@moe.edu.sg</td>
-<td class="tg-5ws4">SSD</td>
+<td style="width: 364.891px;">
+<p>Mr Khairul Adli Bin Rahmat<br> khairul_adli_rahmat@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>SSD</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mdm Lim Choon Ling<br>lim_choon_ling@moe.edu.sg</td>
-<td class="tg-5ws4">Year Head</td>
+<td style="width: 364.891px;">
+<p>Mdm Lim Choon Ling<br> lim_choon_ling@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>Year Head</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9">Mr Elangovan s/o V Muthoo<br>elangovan_v_muthoo@moe.edu.sg</td>
-<td class="tg-5ws4">Year Head</td>
+<td style="width: 364.891px;">
+<p>Mr Elangovan s/o V Muthoo<br> elangovan_v_muthoo@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>Year Head</p>
+</td>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <br>
 <br>
+	
+	
+	
 	
 <table width="648">
 <tbody>
 <tr>
 <td>
-<span style="color:#EEE;background-color:#2A2A2A">Subject Head / Level Head</span></td>
+<span style="color:#EEE;background-color:#2A2A2A">SUBJECT HEAD / LEVEL HEAD</span></td>
 <td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span>
 </td>
 </tr>
