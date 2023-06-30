@@ -111,7 +111,7 @@ description: ""
 <td class="tg-5ws4" style="width: 292.875px;">SH / Humanities</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 270px;">Mr Philip Deepak<br>philip_deepak@moe.edu.sg</td>
+<td class="tg-2rp9" style="width: 270px;">Mdm Amalina Samad<br>amalina_abdul_samad@moe.edu.sg</td>
 <td class="tg-5ws4" style="width: 292.875px;">SH / Pupil Management</td>
 </tr>
 <tr>
