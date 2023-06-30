@@ -153,5 +153,8 @@ description: ""
 <td class="tg-2rp9" style="width: 271px;">Mr Sanker Ramaiah<br>sanker_ramaiah@moe.edu.sg</td>
 <td class="tg-5ws4" style="width: 292.125px;">Operations Manager</td>
 </tr>
+	<tr><td class="tg-2rp9" style="width: 271px;">Mr Marcus Loh<br>loh_kim_mee_marcus@moe.edu.sg</td>
+<td class="tg-5ws4" style="width: 292.125px;">ICT Manager</td>
+</tr>
 </tbody>
 </table>
