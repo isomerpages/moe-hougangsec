@@ -123,7 +123,9 @@ description: ""
 <p>Year Head</p>
 </td>
 </tr>
-</tbody>
+<tr>
+<td>
+</td></tr></tbody>
 </table>
 <p>&nbsp;</p>
 <br>
@@ -141,11 +143,59 @@ description: ""
 </td>
 </tr>
 <tr>
+<td style="width: 364.891px;">
+<p>Mrs Rachel Chan<br> teo_hui_en_rachel@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>SH / CCE</p>
+</td>
+</tr>
+	<tr>
 <td>
 <p>Miss Audrey Chua Wen Min<br> chua_wen_min_audrey@moe.edu.sg</p>
 </td>
 <td>
 <p>Level Head / EL &amp; Lit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Li Huilin<br> li_huilin@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Humanities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Charles Wong<br> wong_wai_kit_charles@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / ICT &amp; Data Management</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mr Choo Boon Kian Alfred<br> choo_boon_kian@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Innovation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Tracy Huang Yuyan<br> huang_yuyan@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Math</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mdm Amalina Samad<br> amalina_abdul_samad@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Pupil Management (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -166,50 +216,10 @@ description: ""
 </tr>
 <tr>
 <td>
-<p>Mrs Rachel Chan<br> teo_hui_en_rachel@moe.edu.sg</p>
+<p>Ms Uma Magheswary D/o Pandyan<br> uma_magheswary@moe.edu.sg</p>
 </td>
 <td>
-<p>SH / CCE</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Ms Tracy Huang Yuyan<br> huang_yuyan@moe.edu.sg</p>
-</td>
-<td>
-<p>SH / Math</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mr Choo Boon Kian Alfred<br> choo_boon_kian@moe.edu.sg</p>
-</td>
-<td>
-<p>SH / Innovation</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mdm Li Huilin<br> li_huilin@moe.edu.sg</p>
-</td>
-<td>
-<p>SH / Humanities</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mdm Amalina Samad<br> amalina_abdul_samad@moe.edu.sg</p>
-</td>
-<td>
-<p>SH / Pupil Management (Covering)</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Mr Charles Wong<br> wong_wai_kit_charles@moe.edu.sg</p>
-</td>
-<td>
-<p>SH / ICT &amp; Data Management</p>
+<p>SH / Student Leadership (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -236,7 +246,9 @@ description: ""
 <p>Assistant Year Head</p>
 </td>
 </tr>
-</tbody>
+<tr>
+<td>
+</td></tr></tbody>
 </table>	
 
 
@@ -245,26 +257,46 @@ description: ""
 
 
 <p>&nbsp;</p>
-<table class="tg" style="width: 581.125px;">
+<table width="648">
 <tbody>
 <tr>
-<td class="tg-2705" style="width: 271px;"><span style="color: #eee; background-color: #2a2a2a;">EXECUTIVE AND ADMIN STAFF (EAS)</span></td>
-<td class="tg-2705" style="width: 292.125px;"><span style="color: #eee; background-color: #2a2a2a;">DESIGNATION</span></td>
+<td style="width: 364.891px;"><span style="color: #eee; background-color: #2a2a2a;">EXECUTIVE AND ADMIN STAFF (EAS)</span></td>
+<td style="width: 266.109px;"><span style="color: #eee; background-color: #2a2a2a;">DESIGNATION</span>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 271px;">Ms Jolin Chang Wan Yun<br>jolin_chang@schools.gov.sg</td>
-<td class="tg-5ws4" style="width: 292.125px;">Administration Manager</td>
+<td>
+<p>Ms Jolin Chang Wan Yun<br>jolin_chang@schools.gov.sg</p>
+</td>
+<td>
+<p>Administration Manager</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 271px;">Mr Oh Kwok Wan Ben<br>oh_kwok_wan@schools.gov.sg</td>
-<td class="tg-5ws4" style="width: 292.125px;">Administration Manager</td>
+<td>
+<p>Mr Oh Kwok Wan Ben<br>oh_kwok_wan@schools.gov.sg</p>
+</td>
+<td>
+<p>Administration Manager</p>
+</td>
 </tr>
 <tr>
-<td class="tg-2rp9" style="width: 271px;">Mr Sanker Ramaiah<br>sanker_ramaiah@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.125px;">Operations Manager</td>
+<td>
+<p>Mr Sanker Ramaiah<br>sanker_ramaiah@moe.edu.sg</p>
+</td>
+<td>
+<p>Operations Manager</p>
+</td>
 </tr>
-	<tr><td class="tg-2rp9" style="width: 271px;">Mr Marcus Loh<br>loh_kim_mee_marcus@moe.edu.sg</td>
-<td class="tg-5ws4" style="width: 292.125px;">ICT Manager</td>
+<tr>
+<td>
+<p>Mr Marcus Loh<br>loh_kim_mee_marcus@moe.edu.sg</p>
+</td>
+<td>
+<p>ICT Manager</p>
+</td>
 </tr>
-</tbody>
+<tr>
+<td>
+</td></tr></tbody>
 </table>
