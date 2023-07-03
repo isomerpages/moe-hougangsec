@@ -253,26 +253,26 @@ description: ""
 
 
 <p>&nbsp;</p>
-<table style="width: 648px;" class="tg">
+<table width="648">
 <tbody>
 <tr>
-<td style="width: 364.891px;" class="tg-2705"><span style="color: #eee; background-color: #2a2a2a;">EXECUTIVE AND ADMIN STAFF (EAS)</span></td>
-<td style="width: 292.125px;" class="tg-2705"><span style="color: #eee; background-color: #2a2a2a;">DESIGNATION</span></td>
+<td style="width: 364.891px;"><span style="color: #eee; background-color: #2a2a2a;">EXECUTIVE AND ADMIN STAFF (EAS)</span></td>
+<td style="width: 292.125px;"><span style="color: #eee; background-color: #2a2a2a;">DESIGNATION</span></td>
 </tr>
 <tr>
-<td style="width: 364.891px;" class="tg-2rp9">Ms Jolin Chang Wan Yun<br>jolin_chang@schools.gov.sg</td>
-<td style="width: 292.125px;" class="tg-5ws4">Administration Manager</td>
+<td style="width: 364.891px;">Ms Jolin Chang Wan Yun<br>jolin_chang@schools.gov.sg</td>
+<td style="width: 292.125px;">Administration Manager</td>
 </tr>
 <tr>
-<td style="width: 271px;" class="tg-2rp9">Mr Oh Kwok Wan Ben<br>oh_kwok_wan@schools.gov.sg</td>
-<td style="width: 292.125px;" class="tg-5ws4">Administration Manager</td>
+<td style="width: 271px;">Mr Oh Kwok Wan Ben<br>oh_kwok_wan@schools.gov.sg</td>
+<td style="width: 292.125px;">Administration Manager</td>
 </tr>
 <tr>
-<td style="width: 271px;" class="tg-2rp9">Mr Sanker Ramaiah<br>sanker_ramaiah@moe.edu.sg</td>
-<td style="width: 292.125px;" class="tg-5ws4">Operations Manager</td>
+<td style="width: 271px;">Mr Sanker Ramaiah<br>sanker_ramaiah@moe.edu.sg</td>
+<td style="width: 292.125px;">Operations Manager</td>
 </tr>
-	<tr><td style="width: 271px;" class="tg-2rp9">Mr Marcus Loh<br>loh_kim_mee_marcus@moe.edu.sg</td>
-<td style="width: 292.125px;" class="tg-5ws4">ICT Manager</td>
+	<tr><td style="width: 271px;">Mr Marcus Loh<br>loh_kim_mee_marcus@moe.edu.sg</td>
+<td style="width: 292.125px;">ICT Manager</td>
 </tr>
 </tbody>
 </table>
