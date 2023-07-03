@@ -30,7 +30,7 @@ Overall, this project provided our students with a hands-on learning experience 
 
 It is a privilege to witness the growth and development of our students as they engage in meaningful learning experiences.  We look forward to providing more innovative learning opportunities in the future.
 
-### Enrichment Programme “Cookyn with Carbs”**  
+### Enrichment Programme “Cookyn with Carbs” 
   
 An enrichment programme was planned for the Secondary 3 students in September for an ‘out of the classroom’ experience. The theme chosen was on carbohydrates where students were actively engaged in making their own fresh pasta and salted egg sauce. Accompanying this dish, they also made breaded chicken thigh. They also learnt to plate their cooked dishes. It was an enriching experience for the students.
 
