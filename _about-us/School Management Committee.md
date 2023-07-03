@@ -204,6 +204,14 @@ description: ""
 <p>SH / Pupil Management (Covering)</p>
 </td>
 </tr>
+	<tr>
+<td>
+<p>Ms Uma Magheswary D/o Pandyan<br> uma_magheswary@moe.edu.sg</p>
+</td>
+<td>
+<p>SH / Student Leadership (Covering)</p>
+</td>
+</tr>
 <tr>
 <td>
 <p>Mr Charles Wong<br> wong_wai_kit_charles@moe.edu.sg</p>
