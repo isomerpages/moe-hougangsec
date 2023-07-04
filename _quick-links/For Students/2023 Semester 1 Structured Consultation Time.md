@@ -6,6 +6,7 @@ third_nav_title: For Students
 ---
 Dear Hougeans,  
   
-The schedule for the Structured Consultation Time for 2023 Semester 1 is available below for your reference:   
+The schedule for the Structured Consultation Time for 2023 is available below for your reference:   
    
-[2023 Semester 1 SCT Schedule.pdf](/files/Timetables/2023%20semester%201%20sct%20schedule.pdf)
+
+[2023 Semester 2 SCT Schedule (Sec 4&5)-REVISED](/files/Timetables/2023%20semester%202%20sct%20schedule%20(sec%204&5)-revised.pdf)
