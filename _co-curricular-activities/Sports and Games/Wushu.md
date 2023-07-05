@@ -85,8 +85,8 @@ No Pain. No Gain
 
 ### Teachers in-charge
 *   Mr Ronnie Yeo (OIC)
-*   Ms Tracy Huang Yuyan
 *   Mdm Vanessa Ng
+*   Ms Tracy Huang Yuyan
 
 ### Training Venue and Days
 

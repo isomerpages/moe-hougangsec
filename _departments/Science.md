@@ -20,10 +20,9 @@ Mdm Radzawaty Bte Jamaludin
 **Teachers**  
 Ms Kwek Yu Zhen (HOD CCE)   
 Mr Javen Gwee (HOD/ICT)   
-Ms Kitty Tan Min Jie 
+Ms Kitty Tan Min Jie  
 Ms Rachel Yong Lai Kuan   
 Mr Soh Yen Meng   
-Miss Chua Yi Jun   
 Mr Ho Wee Khong   
 Ms Wong Lai Lee   
 Ms Phua Li Xian   
@@ -382,7 +381,7 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
   <tr>
     <td class="tg-2rp9">3NA Stretch Programme</td>
     <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5rPvqQZZmjtWXrcwx1jl0TMohTgiUM2XRFix_OBDXlSEfb8epT6dlSph7IdpkCKSGvIoUGCFKMFzJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center><br><br>
-			<iframe width="435" height="774" src="https://www.youtube.com/embed/ftDJ-qqaEkQ" title="SCI 3NA1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+			<iframe width="435" height="774" src="https://www.youtube.com/embed/ftDJ-qqaEkQ" title="SCI 3NA1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <br><br>Purpose<br>• To provide authentic experiences for students to apply concepts in Chemistry.<br>• To enable students to acquire observation skills in Chemistry experiments.<br>• To ignite the Joy of Learning in Chemistry.<br>• To promote 21st century skills of critical and inventive thinking.</td>
   </tr>
 </tbody>

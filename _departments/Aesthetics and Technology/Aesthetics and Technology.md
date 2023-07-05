@@ -16,19 +16,22 @@ Mr Anwarul Nizam B Ismail
 Mr Alfred Choo   
 
 **Visual Art Unit**   
-Mdm Farahana Binti Abdul Rahim (Subject Coordinator)   
+Mdm Farahana Binti Abdul Rahim (Subject Coordinator) 
 Mdm Nur Syahira Zulkifli     
 Mdm Dzafiirah Binte Mohammad Hakim    
 Ms Jane Koh
 
 **Nutrition and Food Science**   
 Mdm Azlinah Wahed (Subject Coordinator)    
-Mr Muhammad Nazirul Mubin  
 Mdm Tan Chan Jong   
 Ms Tan Wei Jing  
+Ms Wee Boon Yen (FAJT)  
+
 
 **Music Unit**  
-Ms Jasmine Low Wee Kie (Subject Coordinator) 
+Ms Jasmine Low Wee Kie (Subject Coordinator)  
+Ms Chan Ying Ying  (FAJT)
+
   
 **Technical Support Officers**   
 Mr Tangarajoo Marimuthu   

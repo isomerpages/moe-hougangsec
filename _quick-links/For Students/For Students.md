@@ -48,7 +48,7 @@ third_nav_title: For Students
           <img src="/images/MSFLOGO.png" style="width:100%"></a></td>
     <td class="tg-2rp9"><a href="https://pubhtml5.com/bookcase/vhhu/" target="_self"> 
           <img src="/images/ECGBOOKCASE.png" style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href="https://beta.moe.gov.sg/coursefinder/" target="_self"> 
+    <td class="tg-2rp9"><a href="https://www.moe.gov.sg/coursefinder/" target="_self"> 
           <img src="/images/MOECOURSEFINDER.jpeg" style="width:100%"></a></td>
   </tr>
   <tr>
@@ -71,15 +71,16 @@ third_nav_title: For Students
 </table>
 
 
-### Pathway for 4NA Students
+### Pathway for Students
 
-*   [Slides on Pathways for 4NA Students] (insert link here)
+*   [A Guide To Post-Secondary Admission Exercises](/files/Students/a%20guide%20to%20post-secondary%20admissions%20exercises.pdf)
 *   [On Poly Foundation Program (PFP)](https://pfp.polytechnic.edu.sg/PFP/pfp_application.html)
 *   [On ITE to Poly Program (DPP)](https://www.ite.edu.sg/wps/portal/definitely-des/)
 
-### GRIT Journal 2022
+### GRIT Journal 2023
 
-[GRIT Journal 2022 final web.pdf](/files/GRIT%20Journal%202022%20final%20web.pdf)
+[GRIT Handbook 2023](/files/Students/GRIT%20Handbook%202023.pdf)
+
 
 ### Timetable 2023
 
@@ -88,7 +89,7 @@ third_nav_title: For Students
 
 ### HS ICT Helpdesk Form
 
-If the form below is not loaded, you can also fill it in&nbsp;[here](https://form.gov.sg/5e411c92366d6a0011c76b50). Or at&nbsp;[https://go.gov.sg/hs-ict-helpdesk](https://go.gov.sg/hs-ict-helpdesk)
+Please submit your request on this form&nbsp;[https://go.gov.sg/hs-ict-helpdesk](https://go.gov.sg/hs-ict-helpdesk)
 
 
 ### Student iCON

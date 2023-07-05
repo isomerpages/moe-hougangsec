@@ -7,27 +7,26 @@ description: ""
 Mdm S Chitradevi
   
 
-**Level Head EL/Literature, Secondary 2 & 3:**   
+**Level Head EL/Literature, Secondary 2 &amp; 3:**   
 Ms Audrey Chua
   
 
-**Level Head EL/Literature, Secondary 1 & 4/5:**     
-Mdm Annizell Chan
   
 
 **Teachers**:   
 <div>Mr Kervin Tang [Senior Teacher, English Language]</div>  
-<div>Mdm Martini Rahmat</div>  
-<div>Mr Charles Wong</div>  
 <div>Mdm Amalina Abdul Samad</div>  
+<div>Ms C Minnoli</div>  
+<div>Mr Charles Wong</div>  
+<div>Mr Eugene Ling</div>  
 <div>Mrs Gomathi Guna</div>  
-<div>Mr Sean Oh</div>  
-<div>Mr Ronnie Yeo</div>  
 <div>Ms Joyce Lee</div>  
-<div>Ms Tan Yin Wei</div>  
+<div>Mdm Martini Rahmat</div>  
 <div>Ms Nur Adilah Bte Jasman</div>  
+<div>Mr Ronnie Yeo</div>  
+<div>Mr Sean Oh</div>  
+<div>Ms Tan Yin Wei</div>  
 <div>Ms Uma Magheswary</div>  
-<div>Ms Lee Wen Lin</div>  
 <div>Mdm Soonam Sivadasan (FAJT)</div>  
 <div>Mr Han Zheming Chuck-E (FAJT)</div>
   
