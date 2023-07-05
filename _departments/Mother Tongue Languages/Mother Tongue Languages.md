@@ -12,16 +12,18 @@ Ms Cheng Sze Mei Carmen
 **Teachers:**   
 Mr Ang Ruixiang   
 Ms Chen Si Si   
-Miss Liang Qidi     
-Ms Yu Honghong   
 Mr Lee Heng Han   
+Miss Liang Qidi     
+Ms Phang Shi Hui   
+Ms Qu Mei (UT)  
+Ms Yu Honghong   
 Mdm Wang Qingzhen  
-Mdm Sun Junmo  
+Mdm Sun Junmo (SRE)  
 Mr Mohd Yazid  
 Mr Muhammad Irwan Bin Jamal  
 Mdm Nor Suhailah Bte Abdul Rauf   
 Mdm Siti Sapiya Bte Mohd Sumri   
-Mdm Fazillah Binte Mohamed Ismail   
+Mr Amir Gany Bin Mohamed Ali (FAJT)
 
   
 ### Vision
