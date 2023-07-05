@@ -69,8 +69,10 @@ Serve with dedication
 ### Teachers in-charge
 
 *   Mr Anwarul (OIC)     
+*   Mr Muhd Hashim  
 *   Mr Ang Ruixiang
-*   Mr Muhd Hashim
+*   Me Eugene Ling  
+
 
 Coach: Mr Nor Azli, Geylang International FC  
 Asst Coach: Mr Azlan Alipah, Geylang International FC  
