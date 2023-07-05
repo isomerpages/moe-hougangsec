@@ -24,7 +24,7 @@ Once a Solo, Now a Harmony.
 
 * Mr Ho Wee Khong (OIC)
 * Mrs Rachel Chan
-* Ms Chua Yijun
+* Ms C Minnoli
 
 ### CCA Leadership Structure
 
