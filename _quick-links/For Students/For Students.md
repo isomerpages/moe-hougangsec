@@ -89,7 +89,7 @@ third_nav_title: For Students
 
 ### HS ICT Helpdesk Form
 
-If the form below is not loaded, you can also fill it in&nbsp;[here](https://form.gov.sg/5e411c92366d6a0011c76b50). Or at&nbsp;[https://go.gov.sg/hs-ict-helpdesk](https://go.gov.sg/hs-ict-helpdesk)
+Please submit your request on this form&nbsp;[https://go.gov.sg/hs-ict-helpdesk](https://go.gov.sg/hs-ict-helpdesk)
 
 
 ### Student iCON
