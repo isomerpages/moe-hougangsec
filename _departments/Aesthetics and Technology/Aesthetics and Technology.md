@@ -16,7 +16,7 @@ Mr Anwarul Nizam B Ismail
 Mr Alfred Choo   
 
 **Visual Art Unit**   
-Mdm Farahana Binti Abdul Rahim (Subject Coordinator)   
+Mdm Farahana Binti Abdul Rahim (Subject Coordinator) 
 Mdm Nur Syahira Zulkifli     
 Mdm Dzafiirah Binte Mohammad Hakim    
 Ms Jane Koh
