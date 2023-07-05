@@ -48,7 +48,7 @@ third_nav_title: For Students
           <img src="/images/MSFLOGO.png" style="width:100%"></a></td>
     <td class="tg-2rp9"><a href="https://pubhtml5.com/bookcase/vhhu/" target="_self"> 
           <img src="/images/ECGBOOKCASE.png" style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href="https://beta.moe.gov.sg/coursefinder/" target="_self"> 
+    <td class="tg-2rp9"><a href="https://www.moe.gov.sg/coursefinder/" target="_self"> 
           <img src="/images/MOECOURSEFINDER.jpeg" style="width:100%"></a></td>
   </tr>
   <tr>
