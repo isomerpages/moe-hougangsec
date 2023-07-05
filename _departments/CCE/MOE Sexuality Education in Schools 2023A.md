@@ -83,7 +83,8 @@ Information for Parents
 
 10.       Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.  
 
-11.       Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://hougangsec.moe.edu.sg/qql/slot/u499/Department/CCE/Annex%20A.pdf) [Annex A.pdf](https://hougangsec.moe.edu.sg/qql/slot/u499/Department/CCE/Annex%20A.pdf). The completed form is to be submitted by 16/01/2023.
+11.       Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/CCE/Annex%20A%20Opt%20Out%20Form%20for%20SEd2022.pdf) [Annex A.pdf](/files/CCE/Annex%20A%20Opt%20Out%20Form%20for%20SEd2022.pdf). 
+The completed form is to be submitted by 16/01/2023.
 
 12.       Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://hougangsec.moe.edu.sg/qql/slot/u499/Department/CCE/Annex%20B.pdf) [Annex B.pdf](https://hougangsec.moe.edu.sg/qql/slot/u499/Department/CCE/Annex%20B.pdf).  The completed form is to be submitted by 16/01/2023.
 
