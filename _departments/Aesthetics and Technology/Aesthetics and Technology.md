@@ -23,7 +23,6 @@ Ms Jane Koh
 
 **Nutrition and Food Science**   
 Mdm Azlinah Wahed (Subject Coordinator)    
-Mr Muhammad Nazirul Mubin  
 Mdm Tan Chan Jong   
 Ms Tan Wei Jing  
 
