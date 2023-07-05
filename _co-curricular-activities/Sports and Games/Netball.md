@@ -30,7 +30,7 @@ Look up, Get up but Never Give up
 ### Teachers In-Charge
 *   Amalina Abdul Samad (OIC)
 *   Chen Sisi
-*   Tan Wen Lin
+*   Qu Mei (UT)
 
 ### Coach
 Chow Chon Tee
