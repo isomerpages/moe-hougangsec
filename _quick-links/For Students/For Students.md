@@ -71,15 +71,16 @@ third_nav_title: For Students
 </table>
 
 
-### Pathway for 4NA Students
+### Pathway for Students
 
-*   [Slides on Pathways for 4NA Students] (insert link here)
+*   [A Guide To Post-Secondary Admission Exercises](/files/Students/a%20guide%20to%20post-secondary%20admissions%20exercises.pdf)
 *   [On Poly Foundation Program (PFP)](https://pfp.polytechnic.edu.sg/PFP/pfp_application.html)
 *   [On ITE to Poly Program (DPP)](https://www.ite.edu.sg/wps/portal/definitely-des/)
 
-### GRIT Journal 2022
+### GRIT Journal 2023
 
-[GRIT Journal 2022 final web.pdf](/files/GRIT%20Journal%202022%20final%20web.pdf)
+[GRIT Handbook 2023](/files/Students/GRIT%20Handbook%202023.pdf)
+
 
 ### Timetable 2023
 
