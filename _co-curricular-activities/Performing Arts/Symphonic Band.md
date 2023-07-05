@@ -64,8 +64,9 @@ Percussion - Jean Haw (S3-H)
 
 ### Teachers In-Charge
 * Mr Lee Heng Han (OIC)  
-* Mr Nazirul Mubin  
 * Ms Serina Tan  
+* Ms Phang Shi Hui  
+ 
 
 ### Training Venue and Days
 
