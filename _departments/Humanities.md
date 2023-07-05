@@ -18,8 +18,7 @@ Mr Chin Khai Fung
 Mrs Jeannie Pan  
 Miss Joanne Toh  
 Miss Nurbaya  
-Mr Nazirul Mubin  
-Mr Chia Huang Hao  
+ 
    
 
 Aristotle once said, _"For the things we have to learn before we can do them, we learn by doing them.”_
