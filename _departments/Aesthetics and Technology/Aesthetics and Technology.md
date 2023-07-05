@@ -25,9 +25,13 @@ Ms Jane Koh
 Mdm Azlinah Wahed (Subject Coordinator)    
 Mdm Tan Chan Jong   
 Ms Tan Wei Jing  
+Ms Wee Boon Yen (FAJT)  
+
 
 **Music Unit**  
-Ms Jasmine Low Wee Kie (Subject Coordinator) 
+Ms Jasmine Low Wee Kie (Subject Coordinator)  
+Ms Chan Ying Ying  (FAJT)
+
   
 **Technical Support Officers**   
 Mr Tangarajoo Marimuthu   
