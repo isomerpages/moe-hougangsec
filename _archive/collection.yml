@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - MOE Sexuality Education in Schools 2023.md
       - FAQ.md
       - 2023 Sec 3 Subject Combination Matters (For Sec 2, 2022).md
       - Demo.md
