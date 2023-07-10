@@ -35,8 +35,6 @@ third_nav_title: Achievements
 </table>
 
 
-<a id="0"></a>
-
 #### Chingay Parade Volunteers
 
 <img src="/images/cpv1.jpeg" style="width:55%">
