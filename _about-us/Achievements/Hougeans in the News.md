@@ -4,14 +4,6 @@ permalink: /about-us/Achievements/hougeans-in-the-news/
 description: ""
 third_nav_title: Achievements
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-13pz{font-size:18px;text-align:center;vertical-align:top}
-</style>
 <table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
 <col style="width: 400px">
@@ -39,8 +31,7 @@ third_nav_title: Achievements
     <td class="tg-13pz"><a href="#6">PAYM Service Learning Festival 2015</a></td>
   </tr>
 	<tr>
-
-</tbody>
+</tr></tbody>
 </table>
 
 
@@ -48,8 +39,7 @@ third_nav_title: Achievements
 
 #### Chingay Parade Volunteers
 
-<img src="/images/cpv1.jpeg" 
-     style="width:55%">
+<img src="/images/cpv1.jpeg" style="width:55%">
 
 
 We would first like to thank Hougang Secondary School for being supportive of the students volunteering for Chingay Parade 2017.
@@ -98,8 +88,7 @@ Best regards,
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-13pz"><img src="/images/people%20association.png" 
-     style="width:65%"></td>
+    <td class="tg-13pz"><img src="/images/people%20association.png" style="width:65%"></td>
     <td class="tg-nx8p"><span style="font-weight:400;font-style:normal">Mr Tam Ching Yi Manager (Arts Projects) | Singapore Chingay &amp; Events Network (SCENE)</span></td>
   </tr>
 </tbody>
@@ -111,10 +100,8 @@ Thank you, Level Coaches, Character Coaches, Students of 4NA and 4T1.
 <a id="1"></a>
 
 #### The Straits Times Article
-<img src="/images/Hougang%20Sec_mockup_A4%20acrylic.jpeg" 
-     style="width:65%">
-<img src="/images/Hougang%20Secondary%20%20teaching%20juniors-page-001.jpeg" 
-     style="width:65%">
+<img src="/images/Hougang%20Sec_mockup_A4%20acrylic.jpeg" style="width:65%">
+<img src="/images/Hougang%20Secondary%20%20teaching%20juniors-page-001.jpeg" style="width:65%">
 
 
 
@@ -143,7 +130,7 @@ The Dream Journal will be distributed to all secondary schools, ITEs in Singapor
 
   
 
-“Borne out of One Dream’s raison d’être that everyone should have a Dream --- a Dream which connects Self & Society, that as one gets more successful in life, to also help others fulfill their dreams. In a very simple way should all citizens and residents think and behave this way, Singapore and the world will be a much better, much brighter place.”
+“Borne out of One Dream’s raison d’être that everyone should have a Dream --- a Dream which connects Self &amp; Society, that as one gets more successful in life, to also help others fulfill their dreams. In a very simple way should all citizens and residents think and behave this way, Singapore and the world will be a much better, much brighter place.”
 
 \- Peter Ong, Leader, One Dream Initiative.
 
@@ -164,8 +151,7 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
 
 [Click here](/images/SLC.jpeg)
 
-<img src="/images/SLC.jpeg" 
-     style="width:65%">
+<img src="/images/SLC.jpeg" style="width:65%">
 
 
 
@@ -189,10 +175,8 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
     <td class="tg-nu80" colspan="2">Gold Award</td>
   </tr>
   <tr>
-    <td class="tg-tls3"><img src="/images/paym16-1.jpeg" 
-     style="width:100%"></td>
-    <td class="tg-tls3"><img src="/images/paym16-3.jpeg" 
-     style="width:100%"></td>
+    <td class="tg-tls3"><img src="/images/paym16-1.jpeg" style="width:100%"></td>
+    <td class="tg-tls3"><img src="/images/paym16-3.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
@@ -214,10 +198,8 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
     <td class="tg-nu80" colspan="2">Silver Award</td>
   </tr>
   <tr>
-    <td class="tg-tls3"><img src="/images/paym16-4.jpeg" 
-     style="width:100%"></td>
-    <td class="tg-tls3"><img src="/images/paym16-2.jpeg" 
-     style="width:100%"></td>
+    <td class="tg-tls3"><img src="/images/paym16-4.jpeg" style="width:100%"></td>
+    <td class="tg-tls3"><img src="/images/paym16-2.jpeg" style="width:100%"></td>
   </tr>
 </tbody>
 </table>
@@ -229,7 +211,5 @@ For more information, please see the link here https://www.hca.org.sg/hcaconnect
 
 
 
-<img src="/images/paym15-1.jpeg" 
-     style="width:65%">
-<img src="/images/paym15-2.jpeg" 
-     style="width:65%">
+<img src="/images/paym15-1.jpeg" style="width:65%">
+<img src="/images/paym15-2.jpeg" style="width:65%">
