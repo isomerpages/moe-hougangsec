@@ -107,7 +107,7 @@ Thank you, Level Coaches, Character Coaches, Students of 4NA and 4T1.
 
 [Hougang Secondary teaching juniors.pdf](/files/Hougang%20Secondary%20%20teaching%20juniors.pdf)
 
-*"Source:\[state publication\] © Singapore Press Holdings Limited. Permission required for reproduction”*
+*© Singapore Press Holdings Limited. Permission required for reproduction*
 
 
 <a id="2"></a>
