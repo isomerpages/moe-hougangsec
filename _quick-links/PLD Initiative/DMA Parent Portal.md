@@ -14,7 +14,7 @@ Please refer to the DMA Parent's Guide below for more details on the onboarding 
   
 [DMA Parent Guide v2.0 - Default (iPadOS)](/files//DMA/DMA%20Parent%20Guide%20v20%20-%20Default%20(iPadOS).pdf)   
 [DMA Parent Guide v20 - Option A (iPadOS)](/files/DMA/DMA%20Parent%20Guide%20v20%20-%20Option%20A%20(iPadOS).pdf)  
-[DMA Parent Guide v2.0 - Option B (iPadOS)](/files/DMA/DMA%20Parent%20Guide%20v20%20-%20Option%20B%20(iPadOS).pdf)
+[DMA Parent Guide v2.0 - Option B (iPadOS)](/files/DMA/DMA%20Parent%20Guide%20v20%20-%20Option%20B%20(iPadOS).pdf)  
    
   
 
