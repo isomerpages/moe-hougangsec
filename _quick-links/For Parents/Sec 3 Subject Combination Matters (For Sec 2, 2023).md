@@ -96,7 +96,7 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td class="tg-q4jd">4</td>
-    <td class="tg-q4jd">Principles of Accounts (<a href="http://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/POA_2.mp4"><span style="font-weight:500;text-decoration:underline;color:#21088A">Click to view presentation</span></a><span style="background-color:initial">)</span></td>
+    <td class="tg-q4jd">Principles of Accounts (<a href="https://youtu.be/-ySxvP1Lq8o"><span style="font-weight:500;text-decoration:underline;color:#21088A">Click to view presentation</span></a><span style="background-color:initial">)</span></td>
   </tr>
   <tr>
     <td class="tg-q4jd">5</td>
