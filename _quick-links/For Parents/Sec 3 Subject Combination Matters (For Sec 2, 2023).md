@@ -293,13 +293,10 @@ _Please view briefing slides for the criteria and more information on the subjec
   </tr>
   <tr>
     <td class="tg-bvth"> 9</td>
-    <td class="tg-3gjr">Q: For sensing, based on the preference survey, what is the demand for F&amp;N versus D&amp;T?<br>A: <br>Express<br>35 students opted for NFS and 28 students opted D&amp;T, the number of students who opted is above the number of vacancies available<br>Normal (Academic)<br>27 students opted for NFS and 17 students opted for D&amp;T. Students who opted for NFS are above the quota and D&amp;T is slightly below the quota.<br></td>
-  </tr>
-  <tr>
-    <td class="tg-bvth"> 10</td>
     <td class="tg-3gjr">Q: Will there be moving of stream for the other subjects like history?<br>A: From 2021, our students are eligible to study Humanities at a more demanding level. For example, from 1NT to 2NA and from 1NA to 2E. These eligible students have been promoted to a more demanding stream (lateral transfer) in 2022. </td>
   </tr>
-</tbody>
+	<tr>
+</tr></tbody>
 </table>
 
 
