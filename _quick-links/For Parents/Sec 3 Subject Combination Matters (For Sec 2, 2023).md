@@ -220,8 +220,8 @@ _\*\* out of stream subjects at Express_
 </tbody>
 </table>
 
+_\*coursework subjects_  
 _\*\* out of stream subjects at Normal Academic_   
-_\*coursework subjects_
 
 
 _Please view briefing slides for the criteria and more information on the subjects offered._
