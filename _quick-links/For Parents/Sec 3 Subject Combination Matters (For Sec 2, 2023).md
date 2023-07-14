@@ -55,7 +55,7 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td class="tg-q4jd">7</td>
-    <td class="tg-q4jd">Humanities (Choose 1  )<br>Social Studies &amp; Geography (<a href="https://youtu.be/J_RVKZRJ7ak"><span style="font-weight:500;text-decoration:underline;color:#21088A">Click to view Geog presentation</span></a><span style="background-color:initial">)</span> <br>Social Studies &amp; History (<a href="https://youtu.be/iDeDHlWEZ7E"><span style="font-weight:500;text-decoration:underline;color:#21088A">Click to view Hist presentation</span></a><span style="background-color:initial">)</span> <br>Social Studies &amp; Malay Literature (<a href="http://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/ML%20Lit-edit_2.mp4"><span style="font-weight:500;text-decoration:underline;color:#21088A">Click to view ML Lit presentation</span></a><span style="background-color:initial">)</span> </td>
+    <td class="tg-q4jd">Humanities (Choose 1  )<br>Social Studies &amp; Geography (<a href="https://youtu.be/J_RVKZRJ7ak"><span style="font-weight:500;text-decoration:underline;color:#21088A">Click to view Geog presentation</span></a><span style="background-color:initial">)</span> <br>Social Studies &amp; History (<a href="https://youtu.be/iDeDHlWEZ7E"><span style="font-weight:500;text-decoration:underline;color:#21088A">Click to view Hist presentation</span></a><span style="background-color:initial">)</span> <br>Social Studies &amp; Malay Literature (<a href="https://youtu.be/gIgQ105SnEQ"><span style="font-weight:500;text-decoration:underline;color:#21088A">Click to view ML Lit presentation</span></a><span style="background-color:initial">)</span> </td>
   </tr>
 </tbody>
 </table>
