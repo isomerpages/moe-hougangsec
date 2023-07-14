@@ -61,6 +61,7 @@ third_nav_title: For Parents
 </table>
 
 
+
 **Secondary Three Express (Combined Science)**
 
 <style type="text/css">
@@ -112,6 +113,11 @@ third_nav_title: For Parents
   </tr>
 </tbody>
 </table>
+
+
+_\*coursework subjects_  
+
+
 
 **Secondary Three Normal Academic**
 
