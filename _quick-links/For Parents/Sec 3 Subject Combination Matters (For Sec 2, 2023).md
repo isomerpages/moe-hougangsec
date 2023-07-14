@@ -295,8 +295,7 @@ _Please view briefing slides for the criteria and more information on the subjec
     <td class="tg-bvth"> 9</td>
     <td class="tg-3gjr">Q: Will there be moving of stream for the other subjects like history?<br>A: From 2021, our students are eligible to study Humanities at a more demanding level. For example, from 1NT to 2NA and from 1NA to 2E. These eligible students have been promoted to a more demanding stream (lateral transfer) in 2022. </td>
   </tr>
-	<tr>
-</tr></tbody>
+</tbody>
 </table>
 
 
