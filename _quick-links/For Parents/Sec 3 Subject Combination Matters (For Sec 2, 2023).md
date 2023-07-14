@@ -4,7 +4,7 @@ permalink: /quick-links/for-parents/sec-3-subject-combination-matters/
 description: ""
 third_nav_title: For Parents
 ---
-**Sec 2 subject combination parent engagement slides for 3 Express and 3 Normal Academic / Normal Technical.**  
+**Parent engagement on subject combination for 3 Express and 3 Normal Academic / Normal Technical.**  
 
   
 
