@@ -159,7 +159,7 @@ _\*coursework subjects_
   <tr>
     <td class="tg-q4jd">5</td>
     <td class="tg-q4jd"><span style="text-decoration:underline">Humanities (Choose 1  )</span><br><br><span style="background-color:initial">Social Studies &amp; Geography </span>(<a href="https://youtu.be/J_RVKZRJ7ak" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view Geog presentation</span></a><span style="background-color:initial">)</span>
-			Social Studies &amp; History (<a href="https://youtu.be/iDeDHlWEZ7E.mp4" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view Hist presentation</span></a><span style="background-color:initial">)</span></td>
+			Social Studies &amp; History (<a href="https://youtu.be/iDeDHlWEZ7E" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view Hist presentation</span></a><span style="background-color:initial">)</span></td>
   </tr>
   <tr>
     <td class="tg-q4jd">6</td>
