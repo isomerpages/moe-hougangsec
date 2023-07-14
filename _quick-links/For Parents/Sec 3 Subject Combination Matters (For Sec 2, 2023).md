@@ -211,7 +211,7 @@ _\*\* out of stream subjects at Express_
   </tr>
   <tr>
     <td class="tg-q4jd">5</td>
-    <td class="tg-q4jd"><span style="text-decoration:underline">Elective 1 (Choose 1)</span><br><br>Science (<a href="http://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/Science%20(NT)-edited_2.mp4" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view presentation</span></a><span style="background-color:initial">)</span><br>Elements of Business Skills (<a href="http://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/3NT_EBS_2.mp4" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view presentation</span></a><span style="background-color:initial">) </span></td>
+    <td class="tg-q4jd"><span style="text-decoration:underline">Elective 1 (Choose 1)</span><br><br>Science (<a href="https://youtu.be/URPlCea7Igs" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view presentation</span></a><span style="background-color:initial">)</span><br>Elements of Business Skills (<a href="https://youtu.be/kC0WhwN_L8Q" target="_blank" rel="noopener noreferrer"><span style="font-weight:500;color:#21088A">Click to view presentation</span></a><span style="background-color:initial">) </span></td>
   </tr>
   <tr>
     <td class="tg-q4jd">6</td>
