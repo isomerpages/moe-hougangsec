@@ -230,9 +230,9 @@ _Please view briefing slides for the criteria and more information on the subjec
 
 ### Briefing Slides
 
-[Subject Combination Briefing for 2E.pdf](  )
+[Subject Combination Briefing for 2E](  )
 &nbsp;  
-[Subject Combination Briefing for 2NANT.pdf]( )
+[Subject Combination Briefing for 2NANT]( )
 
 ### Questions and Answers
 
