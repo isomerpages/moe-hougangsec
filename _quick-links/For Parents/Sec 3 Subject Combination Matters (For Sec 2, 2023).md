@@ -234,7 +234,7 @@ _Please view briefing slides for the criteria and more information on the subjec
 &nbsp;  
 [Subject Combination Briefing for 2NANT](To be updated)
 
-### Questions and Answers
+### Frequently Asked Questions (FAQ)
 
 **General**
 
