@@ -51,7 +51,7 @@ third_nav_title: For Parents
   </tr>
   <tr>
     <td class="tg-q4jd">6</td>
-    <td class="tg-q4jd">Pure Science 2 (Choose 1 )<br>Physics  <br>Biology  <span style="background-color:initial">(</span><a href="http://hougangsec.moe.edu.sg/qql/slot/u499/5.%20Quicklinks/5.2%20Parents/Subject%20Combination%20Exercise/2020/Science_Express_2.mp4"><span style="font-weight:500;text-decoration:underline;color:#21088A;background-color:initial">Click to view Phy/Bio presentation</span></a><span style="background-color:initial">)</span> (RE-INSERT LINK HERE)</td>
+    <td class="tg-q4jd">Pure Science 2 (Choose 1 )<br>Physics  <br>Biology  <span style="background-color:initial">(</span><a href="https://youtu.be/5s1rQN2d5OY"><span style="font-weight:500;text-decoration:underline;color:#21088A;background-color:initial">Click to view Phy/Bio presentation</span></a><span style="background-color:initial">)</span> (RE-INSERT LINK HERE)</td>
   </tr>
   <tr>
     <td class="tg-q4jd">7</td>
