@@ -162,8 +162,8 @@ third_nav_title: For Parents
 </tbody>
 </table>
 
+_\*coursework subjects_  
 _\*\* out of stream subjects at Express_   
-_\*coursework subjects_
 
 
 **Secondary Three Normal Technical**
