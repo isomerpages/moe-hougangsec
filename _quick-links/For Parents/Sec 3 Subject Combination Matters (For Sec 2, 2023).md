@@ -230,9 +230,14 @@ _Please view briefing slides for the criteria and more information on the subjec
 
 ### Briefing Slides
 
-[Subject Combination Briefing for 2E](To be updated)
-&nbsp;  
-[Subject Combination Briefing for 2NANT](To be updated)
+[Main Briefing](/files/Subject%20Combination/main%20brief.pdf)
+
+[Parents Briefing (Express)](/files/Subject%20Combination/parents%20briefing%20(exp).pdf)
+
+[Parents Briefing (Normal Academic)](/files/Subject%20Combination/parents%20briefing%20(na).pdf)
+
+[Parents Briefing (Normal Technical)](/files/Subject%20Combination/parents%20briefing%20(nt).pdf)
+
 
 
 ### Frequently Asked Questions (FAQ)
