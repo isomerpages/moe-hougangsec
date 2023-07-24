@@ -2,5 +2,6 @@ collections:
   archive:
     output: true
     order:
+      - TESTS.md
       - MOE Sexuality Education in Schools 2023.md
       - FAQ.md
