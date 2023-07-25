@@ -12,6 +12,7 @@ Ms Cheng Sze Mei Carmen
 **Teachers:**   
 Mr Ang Ruixiang   
 Ms Chen Si Si   
+Mdm Fazillah Binte Mohamed Ismail  
 Mr Lee Heng Han   
 Miss Liang Qidi     
 Ms Phang Shi Hui   
