@@ -7,7 +7,6 @@ third_nav_title: Mother Tongue Languages
 **Head of Department:**   
 Ms Cheng Sze Mei Carmen
 
-  
 
 **Teachers:**   
 Mr Ang Ruixiang   
@@ -43,12 +42,12 @@ Our teachers are committed to produce students who are:
 *   Rooted in the values and appreciative of their cultural heritage
 
 ### Curriculum/Subjects Offered
+
 **Express**: CL / ML / TL / NTIL   
 **Normal Academic** : CL (NA) / ML (NA) / TL (NA) / NTIL (NA)    
 **Normal Technical** : BCL / BML / BTL
 
 ### Programmes/Focus/Events
-
 
 *   CNY Celebrations (Term 1)
 *   Mother Tongue Fortnight & Cultural Camp (Term 3-4)
