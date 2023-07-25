@@ -15,16 +15,16 @@ Ms Chen Si Si
 Mdm Fazillah Binte Mohamed Ismail  
 Mr Lee Heng Han   
 Miss Liang Qidi     
-Ms Phang Shi Hui   
-Ms Qu Mei (UT)  
-Ms Yu Honghong   
-Mdm Wang Qingzhen  
-Mdm Sun Junmo (SRE)  
 Mr Mohd Yazid  
 Mr Muhammad Irwan Bin Jamal  
-Mdm Nor Suhailah Bte Abdul Rauf   
+Ms Phang Shi Hui   
+Ms Yu Honghong   
+Mdm Wang Qingzhen  
 Mdm Siti Sapiya Bte Mohd Sumri   
-Mr Amir Gany Bin Mohamed Ali (FAJT)
+Mr Amir Gany Bin Mohamed Ali (FAJT)  
+Mdm Nor Suhailah Bte Abdul Rauf (FAJT)  
+Mdm Sun Junmo (SRE)  
+Ms Qu Mei (UT)  
 
   
 ### Vision
