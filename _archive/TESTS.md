@@ -343,3 +343,5 @@ description: ""
   mso-bidi-language:TA"></span></b></p><p class="MsoNormal" style="margin-bottom:0mm;line-height:normal"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:#333333;mso-font-kerning:0pt;mso-ligatures:none;
   mso-bidi-language:TA">A: Students are strongly advised to consult their subject teachers and ECG Counsellor before they consider dropping their Pure Science subject and taking up a Combined Science subject, as it may have an impact on his/her post-secondary options in terms of educational institutions or courses.</span></p></td></tr></tbody></table>
+	
+<u>this is underlined.</u> this is <b>NOT	</b> underlined. 
