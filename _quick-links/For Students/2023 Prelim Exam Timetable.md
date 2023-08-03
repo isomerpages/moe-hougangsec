@@ -4,8 +4,8 @@ permalink: /quick-links/for-students/2023-prelim-exam-timetable/
 description: ""
 third_nav_title: For Students
 ---
-Dear Hougeans,
+Dear Sec 4 & 5 Hougeans,
 
-Below are the list of prelim exam timetables for your reference:
+Below is the prelim exam timetable for your reference:
 
-[2023 Sec 4 & 5 Prelim Exam Timetable](/files/Timetables/prelim%20exam%20schedule.pdf)
+[HS-2023-082 2023 Prelim Exam Cover Letter & Timetable](/files/Timetables/hs-2023-082%202023%20prelim%20exam%20cover%20letter%20&%20timetable.pdf)
