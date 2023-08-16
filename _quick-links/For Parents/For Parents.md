@@ -53,7 +53,7 @@ third_nav_title: For Parents
 ### PLD DMA Parent's Portal ###
 
 Please click this URL for more details on the DMA Parent Portal.  
-https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/pld-initiative/
+https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/dma-parents-portal/
 
 Log in to Mobile Guardian here:   
 [https://sg-portal.mobileguardian.com/#/login](https://sg-portal.mobileguardian.com/#/login)  
