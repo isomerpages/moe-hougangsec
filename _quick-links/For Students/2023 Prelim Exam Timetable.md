@@ -6,7 +6,7 @@ third_nav_title: For Students
 ---
 Dear Sec 4 & 5 Hougeans,
 
-Below is the adprelim exam timetable for your reference:  
+Below is the addendum of the prelim exam timetable for your reference:  
 [HS-2023-146 Addendum Prelim Exam Cover Letter and Timetable](/files/Timetables/hs-2023-146%20addendum%20prelim%20exam%20cover%20letter%20and%20timetable.pdf)
 
 **Addendum**  
