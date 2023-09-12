@@ -154,7 +154,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="2">
+<td rowspan="3">
 <p>Sec 2O</p>
 </td>
 <td>
@@ -167,6 +167,11 @@ description: ""
 </td>
 </tr>
 <tr>
+<td>
+<p>Miss Qu Mei<br> qu_mei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>	
 <td rowspan="2">
 <p>Sec 2U</p>
 </td>
@@ -414,7 +419,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3">
+<td rowspan="2">
 <p>Sec 4E</p>
 </td>
 <td>
@@ -424,11 +429,6 @@ description: ""
 <tr>
 <td>
 <p>Mdm Vanessa Ng<br> ng_mei_leng_vanessa@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>Ms Qu Mei<br>qu_mei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
