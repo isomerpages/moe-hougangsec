@@ -2,4 +2,5 @@ collections:
   open-house:
     output: true
     order:
+      - Open House Virtual Tour.md
       - Welcome To Our Open House.md
