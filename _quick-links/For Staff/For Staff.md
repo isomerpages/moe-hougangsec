@@ -102,7 +102,7 @@ third_nav_title: For Staff
         <a href="https://portal.mims.moe.gov.sg/idmdash/#/default" target="_self"><img src="/images/HGSS-MOE.png" style="width:70%" alt="HGSS-MOE"></a>
       </td>
       <td class="tg-2rp9">
-        <a href="LINKHERE" target="_self"><img src="/images/SENPORTAL.jpeg" style="width:100%" alt="SENPORTAL"></a> (insert link)
+        <a href="https://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx" target="_self"><img src="/images/SENPORTAL.jpeg" style="width:100%" alt="SENPORTAL"></a>
       </td>
 </tr>
 <tr>
@@ -112,7 +112,8 @@ third_nav_title: For Staff
       <td class="tg-tlx9">
         <a href="https://portal.mims.moe.gov.sg/idmdash/"><span style="font-weight:500;text-decoration:underline;color:#21088A">MIMS Portal</span></a>
       </td>
-      <td class="tg-apyk">SEN Portal (Intranet)</td>
+      <td class="tg-apyk"><a href="https://intranet.moe.gov.sg/Send/Pages/SEN_Resource_Portal.aspx"><span style="font-weight:500;text-decoration:underline;color:#21088A">SEN Portal (Intranet)</span></a>
+			</td>
 </tr>
 <tr>
       <td class="tg-2rp9">
