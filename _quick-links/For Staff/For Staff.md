@@ -187,6 +187,6 @@ third_nav_title: For Staff
   </tbody>
 </table>
 
-### GRIT Journal 2022
+### GRIT Journal 2023
 
 [GRIT Journal 2023 final web.pdf](/files/GRIT%20Handbook%202023.pdf)
