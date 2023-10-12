@@ -92,7 +92,7 @@ Discipline Head
 
   
 
-#### Photographs
+#### Values in Action
 
 ![](/images/bb3.jpeg)
 <center>Values-in-action</center>
