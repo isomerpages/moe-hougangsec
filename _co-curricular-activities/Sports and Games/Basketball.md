@@ -33,6 +33,7 @@ One Team, One Goal
 *   ActiveSG-BAS Basketball Development League (B and C Division)
 *   Inter-school friendly matches (ad-hoc)
 *   Values-In-Action Programmes  
+*   Sport Education Programme (Tag Archery)
     
 
 ### Achievements
