@@ -12,6 +12,10 @@ sections:
         - title: Our Facebook
           description: ""
           url: https://www.facebook.com/hougangsecondaryschool/
+        - title: OUR INSTAGRAM
+          description: ""
+          url: https://www.instagram.com/hougang_secondary_official/
+      url: https://staging.d39vo9id9gavkv.amplifyapp.com/open-house/welcome/
   - resources:
       title: Announcements
       subtitle: Our latest updates
