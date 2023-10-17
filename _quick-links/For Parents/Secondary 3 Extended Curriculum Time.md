@@ -10,4 +10,4 @@ The school will be conducting the Extended Curriculum Time (ECT) for the Sec 3 s
 
 Please refer to the attached letter for more information.
 
-[](/files/Parents/sec%203%20extended%20curriculum%20time.pdf)
+[Sec 3 ECT Schedule](/files/Parents/sec%203%20extended%20curriculum%20time.pdf)
