@@ -6,7 +6,7 @@ third_nav_title: For Students
 ---
 For Sec 2 Hougeans,
 
-Choose the right subject combinations is crucial for your academic journey. 
+Choosing the right subject combinations is crucial for your academic journey. 
 Pleae download the briefing slide below for more information and use the correct QR code for your Subject Combination Exercise.
 
 The Subject Combination Exercise will start from **27 October and
