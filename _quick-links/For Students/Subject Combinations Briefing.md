@@ -13,4 +13,5 @@ The Subject Combination Exercise will start from **27 October and
 ends on 30 October, 3 pm**.
 
 
-[Subject Combinations Exercise Briefing on 19 Oct](/files/Students/subject%20combinations%20exercise%20briefing%20on%2019%20oct.pdf)
+
+[2023 Subject Combination Briefing to Students](/files/Students/2023%20subject%20combination%20briefing%20to%20students.pdf)
