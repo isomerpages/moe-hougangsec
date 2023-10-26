@@ -7,3 +7,4 @@ image: /images/Open House/openhouse2023.png
 external: www.hougangsec.moe.edu.sg/open-house/welcome/
 permalink: /open-house/welcome/
 ---
+![](/images/Open%20House/openhouse2023.png)
