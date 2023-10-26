@@ -4,7 +4,6 @@ permalink: /open-house/welcome/
 description: ""
 image: /images/Open House/openhouse2023.png
 ---
-# Welcome  
 ![](/images/Open%20House/openhouse2023.png)  
 
 #### Click the image below to begin your virtual tour.
