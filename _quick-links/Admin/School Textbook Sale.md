@@ -47,3 +47,16 @@ Walk-in purchase is available on the following dates and time.&nbsp;<u>Only one 
 </table>
 
 <center>*closed on Saturday, Sunday, Public Holiday and eve of Public Holiday.</center>
+  
+	
+=========  
+Dear Parents/Guardians  
+
+**I. ONLINE Purchase**  
+The online textbook purchase is available from now to 15 Dec 2023 at our supplier’s website hgss.cascoedusupply.com.sg. Please refer to your child’s booklist for the login instructions and other details.   
+
+For online purchase, parents can opt for either home delivery at a fee or collect from the school bookshop. For collection at the school bookshop, <u>only one adult and one student</u> are allowed per family.
+
+**II. Purchase in School**  
+
+Walk-in purchase is available on the following dates and time. <u>Only one adult is allowed to accompany the student</u>. Please refer to your child’s booklist for other details. 
