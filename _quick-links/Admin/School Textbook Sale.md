@@ -49,4 +49,5 @@ Walk-in purchase is available on the following dates and time. <u>Only one adult
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
   0pt;mso-ligatures:none">9am to 12pm</span></p></td></tr></tbody></table>
 
-<center>*closed on Saturdays, Sundays and Public Holidays.</center>
+<center>*closed on Saturdays, Sundays and Public Holidays.</center>  
+
