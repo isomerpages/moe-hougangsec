@@ -60,7 +60,6 @@ Singapore has one of the most rapidly ageing populations in the world. It is est
 <u>Sec 1</u>   
 This year, the Secondary One students visited two museums - the Sun Yat Sen Nanyang Memorial Hall and the National Museum of Singapore. They looked through the artefacts and exhibits on display to help them in their investigation of life in Colonial Singapore. Gathering evidence by photographing relevant exhibits and applying their newly learnt historical thinking concepts, the students were able to make inferences about Singapore’s past. HI learning journeys indeed sparked joy in the students’ learning as they brought history to life, outside the classroom. 
 
-
 | ![](/images/Humanities/hi_sec%201_2r.jpg)   | ![](/images/Humanities/hi_sec%201_1r.jpg)  | 
 | -------- | -------- |
 
