@@ -43,7 +43,13 @@ Nurturing lifelong learners in the study of Humanities
 #### Geographical Investigation (GI)
 
 <u>Sec 1</u>   
-Sec 1 students conducted their GI via water testing at the school’s ponds. They took samples of water from the ponds and used the water test kits to test pH of the water and examine its quality. This allowed for a hands-on activity for students to test real-world issues such as the water of ponds. 
+Sec 1 students conducted their GI via water testing at the school’s ponds. They took samples of water from the ponds and used the water test kits to test pH of the water and examine its quality. This allowed for a hands-on activity for students to test real-world issues such as the water of ponds.   
+
+| ![](/images/Humanities/gi_sec%201_1.jpg)   | ![](/images/Humanities/gi_sec%201_2.jpg)  | 
+| -------- | -------- |
+
+
+
 
 <u>Sec 2</u>  
 Singapore has one of the most rapidly ageing populations in the world. It is estimated that by 2030, one in four people will be aged over 65 years, and that this will rise to almost one in two by 2050. Sec 2 students were tasked to investigate the guiding question,”Is Hougang an elderly-friendly neighbourhood?”  The students embark on a self directed group project where they conduct surveys, collect, analyse and present their data. They will then come out with a conclusion and a reflection on the whole process of  their investigation.
@@ -79,19 +85,28 @@ Students were tasked to conduct the following:
 
 After which, they took their primary data back to the classroom to make sense of the data after visually representing it and discussing as a group.
 
-Stretch Programmes  
-History Challenge  
+#### Stretch Programmes  
+<u>History Challenge</u>  
 2 Sec Three students participated in the MOE History Challenge through SLS. They were able to understand more about the study of history through the questions asked. This year, there were over 400 students from 120 schools who participated in this competition. 
 
-Appeasement Board Game   
+<u>Appeasement Board Game</u>   
 Sec Three students played a board game about the Appeasement Policy, which was the prelude to the outbreak of World War II in Europe. They were able to play the roles of different countries and step into the shoes of key historical figures like PM Neveille Chamberlain. Game-based-learning allows students to apply historical thinking and analyse historical events. 
 
-World Vision   
+<u>World Vision</u>   
 As part of the Geography Unit’s stretch programme for the higher ability students, selected students attended a movie screening titled “Thank You for the Rain”. The documentary captures the journey of a Kenyan farmer challenged by climate change to that of an activist on the global stage. After the screening, there was a talk conducted by World Vision where students will learn more about and discuss global and local efforts in tackling climate change.
 
-Gardens By The Bay  
+<u>Gardens By The Bay</u>  
 As part of the Social Studies Unit’s stretch programme for the higher ability students, selected students attended a learning journey at Gardens By The Bay to learn about Singapore’s land reclamation efforts. Through the story of Marina Bay, students appreciate how the nation overcomes land scarcity, what land reclamation is and how land is used sustainably and efficiently in our city.
 
+#### Internalisation Trip to Vietnam, May 2023
+
+The Humanities Department organised the first learning journey after the pandemic to Vietnam. During the 5 Day 4 Night trip to Ho Chi Min City and Vung Tau City, students experienced the rich cultural, historical and geographical features of Vietnam. Students visited sites which helped them understand the rich and difficult history of the Vietnam War - through the Cu Chi Tunnels and War Remants Museum. 
+
+Students also visited different cultural and religious sites such as the statue of Jesus and buddhist/Vietnamese temples at Vung Tau City. They also visited a Vietnamese mosque at Ho Chi Min City. Through the visit of these sites, students learnt about local tourism and the rich diversity of cultures in Vietnam. Through the visit to the Vietnam-Singapore Industrial Park 1, students also learnt about the important bilateral trade ties between Singapore and Vietnam. 
+
+#### Internalisation Trip to Bali, Oct 2023  
+
+Our school's journey to Bali offers a unique Humanities learning opportunity with an added focus on understanding tourism in this enchanting island. Students immerse in the Balinese way of life, including an immersion program with Sekolah Negari Satu Denpasar to gain insights into education in Bali. From mastering traditional dance and gamelan rhythms to exploring the UNESCO-recognized Subak rice production system, they learn about the island's rich culture and environmental practices. Additionally, students get to explore the dynamics of tourism in Bali, witnessing how this industry interacts with the region's geography. Bali's lush landscapes and vibrant traditions offer an enriching educational adventure, turning the entire island into a living Humanities classroom.
 
 
 
