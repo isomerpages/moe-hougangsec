@@ -45,11 +45,8 @@ Nurturing lifelong learners in the study of Humanities
 <u>Sec 1</u>   
 Sec 1 students conducted their GI via water testing at the school’s ponds. They took samples of water from the ponds and used the water test kits to test pH of the water and examine its quality. This allowed for a hands-on activity for students to test real-world issues such as the water of ponds.   
 
-| ![](/images/Humanities/gi_sec%201_1.jpg)   | ![](/images/Humanities/gi_sec%201_2.jpg)  | 
-| -------- | -------- |
-
-
-
+![](/images/Humanities/gi_sec%201_1.jpg)  
+![](/images/Humanities/gi_sec%201_2.jpg)
 
 <u>Sec 2</u>  
 Singapore has one of the most rapidly ageing populations in the world. It is estimated that by 2030, one in four people will be aged over 65 years, and that this will rise to almost one in two by 2050. Sec 2 students were tasked to investigate the guiding question,”Is Hougang an elderly-friendly neighbourhood?”  The students embark on a self directed group project where they conduct surveys, collect, analyse and present their data. They will then come out with a conclusion and a reflection on the whole process of  their investigation.
@@ -60,8 +57,9 @@ Singapore has one of the most rapidly ageing populations in the world. It is est
 <u>Sec 1</u>   
 This year, the Secondary One students visited two museums - the Sun Yat Sen Nanyang Memorial Hall and the National Museum of Singapore. They looked through the artefacts and exhibits on display to help them in their investigation of life in Colonial Singapore. Gathering evidence by photographing relevant exhibits and applying their newly learnt historical thinking concepts, the students were able to make inferences about Singapore’s past. HI learning journeys indeed sparked joy in the students’ learning as they brought history to life, outside the classroom. 
 
-| ![](/images/Humanities/hi_sec%201_2r.jpg)   | ![](/images/Humanities/hi_sec%201_1r.jpg)  | 
-| -------- | -------- |
+![](/images/Humanities/hi_sec%201_2r.jpg)  
+![](/images/Humanities/hi_sec%201_1r.jpg)
+
 
 <u>Sec 2</u>   
 This year, the Secondary Two students went through a series of museum virtual tours designed by our very own Secondary Two history teachers. This was an opportunity to sculpt students’ learning experience by helping them delve into the traumas and heart wrenching episodes of World War 2 and the Japanese Occupation.  
@@ -70,9 +68,12 @@ After collecting photos and short video clips from National Museum, Changi Chape
 
 The students then used the “PAGES” app to fill up a guided template which led them through the historical investigation process.  
 
+![](/images/Humanities/hi_sec%202_1.jpg)  
+![](/images/Humanities/hi_sec%202_2.png)
+
 <u>Istana Heritage Challenge</u>   
 Sec Two students visited the Istana Heritage Gallery and participated in an exciting  historical discovery. They were able to examine the artefacts and exhibits of the gallery and learn about the iconic Istana and its rich heritage. Moreover, it provided the students glimpses into the lives of our Presidents and Singapore’s diplomatic relations with other nations.
-
+![](/images/Humanities/hi_istanar.jpg)
 
 ### Upper Secondary   
 #### Geographical Investigation  
@@ -86,7 +87,12 @@ Students were tasked to conduct the following:
 ●	Pedestrian count  
 ●	Observation through annotated photographs  
 
-After which, they took their primary data back to the classroom to make sense of the data after visually representing it and discussing as a group.
+After which, they took their primary data back to the classroom to make sense of the data after visually representing it and discussing as a group.  
+
+![](/images/Humanities/gi_jewel_4.jpg)  
+![](/images/Humanities/gi_jewel_1.jpg)  
+![](/images/Humanities/gi_jewel_3.jpg)  
+![](/images/Humanities/gi_jewel_2.jpg)
 
 #### Stretch Programmes  
 <u>History Challenge</u>  
