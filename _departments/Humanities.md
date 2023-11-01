@@ -71,6 +71,7 @@ Sec Two students visited the Istana Heritage Gallery and participated in an exci
 The Humanities Department has organized a Geographical Investigation (GI) for our Sec 4 and 5 Geography Elective students held at Jewel Changi Airport. Through this activity, students will be able to conduct data gathering and extend their classroom learning through direct observation and experience. 
 
 Their investigation revolved around the number of visitors that flock to Jewel and if there was a correlation to the either the variety of attractions and amenities found at Jewel, or the variety of food and beverage establishments present in the area.  
+
 Students were tasked to conduct the following:  
 ●	Detailed land use survey  
 ●	Pedestrian count  
