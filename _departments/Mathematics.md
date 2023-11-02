@@ -61,7 +61,7 @@ Sec 3 POA Investment Game
 **HS Maths ICT Programme**      
 1.	Infusion of ICT into Maths and POA lessons to enhance the learning of Maths and POA  
 2.	Provide students with opportunities to  
-    •	become responsible Net Savvy netizens  
+		•	become responsible Net Savvy netizens  
     •	develop 21st CC (i.e. Communication, Collaboration and information skills)
   
 
