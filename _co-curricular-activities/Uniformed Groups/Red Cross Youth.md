@@ -4,10 +4,7 @@ permalink: /co-curricular-activities/Uniformed-Groups/red-cross-youth/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 RCY Open House" src="https://www.youtube.com/embed/81Y_k6URokY" height="315" width="830"></iframe></center>
-
-
-
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 RCY Open House" src="https://www.youtube.com/embed/81Y_k6URokY" height="315" width="830"></iframe></center>  
 
 ### Vision
 *   To infuse good character and transform cadets with strong social awareness and responsibility, equipped with essential life saving skills.
@@ -73,4 +70,3 @@ To raise up young leaders who are dedicated to protecting human life and dignity
 
 ### Photographs
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/1FvSAvmmE7JbqYIwyqsE4wzYkpzCLZCrkoYaVAv1HfSs/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
