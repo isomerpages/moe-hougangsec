@@ -22,24 +22,25 @@ To raise up young leaders who are dedicated to protecting human life and dignity
 *   Humanity Is In Our Hands
 
 ### Achievements
-*   First Aid Championship
-*   2019: Senior Category Gold
-*   2019: Junior Category Gold
-*   2022: Senior Category Silver
-*   Excellent Unit Award
-*   2021: Gold
+•	First Aid Championship  
+   2019: Senior Category Gold and Junior Category Gold  
+2022: Senior Category Silver  
+•	Excellent Unit Award  
+2021: Gold  
+2022: Gold  
+
 
 ### CCA Leadership Structure
-*   **Chairperson**: Phua Jia Wen Janette
-*   **Vice-chairperson**: Serene Sim Hui Lin
-*   **Training Head**: Lim Pei Yi Annika
-*   **Operation Head**: Lim Jun Guan
-*   **Safety &amp; Media I/C**: Valdez Larissa Isabel Hufana, Sandra Tan Qian Yi
-*   **Logistics I/C**: Benedicto Yzelah Abalos, Chua Xin En Jernise
-*   **VIA Leaders**: Phua Jia Wen Janette, Serene Sim Hui Lin
-*   **Sec 1 Level Heads**: Tan Guang Chen, Deandra Kalyssa Murlis
-*   **Sec 2 Level Heads**: Xanthus Tan Wei An, Phylicia Gwenda Chai Yu Jun
-*   **Sec 3 Level Heads**: Sommer Ng Sze Teng
+•	**Chairperson**: SUCHETA UNNIKRISHNAN CHERUSSERY VELUTHEDATH  
+•	**Vice-chairperson**: TAN YI XUAN  
+•	**Training Head**: SHANICE GOH XUAN XUAN  
+•	**Operation Head**: ALONZO EZECXKIEL BALINANG  
+•	**Logistics I/C**: JOSHUA WONG YONG EN   
+•	**VIA Leaders**: SIM JIA EN &amp; GNANA THIRIPURASUNDARI  
+•	**Sec 1 Level Heads**: SUNIL FEBA ELZA &amp; MARSHALL CHEW QI YUAN  
+•	**Sec 2 Level Heads**: GNANA THIRIPURASUNDARI  
+•	**Sec 3 Level Heads**: LOUIS WONG MUN CHONG &amp; ONG QIAO EN RACHEL  
+
 
 ### Programmes
 **Subjects**:    
