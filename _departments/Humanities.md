@@ -120,12 +120,15 @@ As part of the Social Studies Unit’s stretch programme for the higher ability 
 
 The Humanities Department organised the first learning journey after the pandemic to Vietnam. During the 5 Day 4 Night trip to Ho Chi Min City and Vung Tau City, students experienced the rich cultural, historical and geographical features of Vietnam. Students visited sites which helped them understand the rich and difficult history of the Vietnam War - through the Cu Chi Tunnels and War Remants Museum. 
 
-Students also visited different cultural and religious sites such as the statue of Jesus and buddhist/Vietnamese temples at Vung Tau City. They also visited a Vietnamese mosque at Ho Chi Min City. Through the visit of these sites, students learnt about local tourism and the rich diversity of cultures in Vietnam. Through the visit to the Vietnam-Singapore Industrial Park 1, students also learnt about the important bilateral trade ties between Singapore and Vietnam. 
+Students also visited different cultural and religious sites such as the statue of Jesus and buddhist/Vietnamese temples at Vung Tau City. They also visited a Vietnamese mosque at Ho Chi Min City. Through the visit of these sites, students learnt about local tourism and the rich diversity of cultures in Vietnam. Through the visit to the Vietnam-Singapore Industrial Park 1, students also learnt about the important bilateral trade ties between Singapore and Vietnam.   
+![](/images/Humanities/internationalisation%20trip_1_.jpg)   
+
+![](/images/Humanities/internationalisation%20trip_2.jpg)
 
 #### Internalisation Trip to Bali, Oct 2023  
 
-Our school's journey to Bali offers a unique Humanities learning opportunity with an added focus on understanding tourism in this enchanting island. Students immerse in the Balinese way of life, including an immersion program with Sekolah Negari Satu Denpasar to gain insights into education in Bali. From mastering traditional dance and gamelan rhythms to exploring the UNESCO-recognized Subak rice production system, they learn about the island's rich culture and environmental practices. Additionally, students get to explore the dynamics of tourism in Bali, witnessing how this industry interacts with the region's geography. Bali's lush landscapes and vibrant traditions offer an enriching educational adventure, turning the entire island into a living Humanities classroom.
-
+Our school's journey to Bali offers a unique Humanities learning opportunity with an added focus on understanding tourism in this enchanting island. Students immerse in the Balinese way of life, including an immersion program with Sekolah Negari Satu Denpasar to gain insights into education in Bali. From mastering traditional dance and gamelan rhythms to exploring the UNESCO-recognized Subak rice production system, they learn about the island's rich culture and environmental practices. Additionally, students get to explore the dynamics of tourism in Bali, witnessing how this industry interacts with the region's geography. Bali's lush landscapes and vibrant traditions offer an enriching educational adventure, turning the entire island into a living Humanities classroom.   
+<iframe src="https://docs.google.com/presentation/d/1an9JULaYxoSJFGr0_STSJrlitgU7stcu_P9xRwn09BE/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 ### Social Studies
