@@ -73,4 +73,4 @@ To raise up young leaders who are dedicated to protecting human life and dignity
 
 ### Photographs
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6shDJyZCejSpvTZKv8oAL7e0ibXgQR_I2G3PdKiPs480lpONhd6YkkamxfNTSUMgI9SzMhQajkJGF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/1FvSAvmmE7JbqYIwyqsE4wzYkpzCLZCrkoYaVAv1HfSs/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
