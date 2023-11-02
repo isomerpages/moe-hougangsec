@@ -20,7 +20,8 @@ We are committed to serve the community.
 We are served and led by volunteers.  
 We are enterprising, in tune with our changing world.  
 We actively engage our stakeholders.  
-We are an organisation, for all Youth.  
+We are an organisation, for all Youth.
+  
 
 ### Vision
 To be the Youth Organisation of Choice
@@ -46,7 +47,7 @@ To nurture Youth, based on sound values, to lead and serve
 *   LTA Jonathan Pek (Officer mentor)
 *   Mr Chin Khai Fung (Teacher OIC)
 *   Mr Andy Chong (Teacher Officer)
-*   Mr Ding Jen Han (Teacher Officer)
+
 
 ### Leadership Structure
 
@@ -64,10 +65,11 @@ To nurture Youth, based on sound values, to lead and serve
 
 ### Training Venue and Days
 
-**Time**: 3.15 pm - 5.15 pm (Tue) / 1.45 pm - 5.00 pm (Fri)  
-**VIA Venues**: To be confirmed&nbsp;  
-**Parade Venue**: School Compound&nbsp;  
-**Day**: Tuesday (Values-in-Action) &amp; Friday (Parades)
+**CCA days**: Tuesday (Values-in-Action) &amp; Friday (Parades)  
+**Weekly Parade timing**: 1.45 pm - 5.00 pm (Fri)  
+**VIA timings**: 3.15 pm - 5.15 pm (Tues – whenever necessary)  
+**Parade Venue**: School Compound     
+
 
 ### Instagram
 
