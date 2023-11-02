@@ -67,37 +67,6 @@ Sec 3 POA Investment Game
 
   
 
-### Focus
-
-1. To develop in Hougeans the critical mathematical processes such as, reasoning, communication and modelling to enhance learning of mathematics and support the development of 21st century competencies.
-2. To develop a greater awareness of the nature of mathematics and the big ideas that are central to the discipline and bring coherence and connections between difference topics for a deeper understanding and better appreciation of the subject; and
-3. To develop Hougeans’ metacognition by promoting self-directed learning and reflection.
-
-  
-
-### Platforms
-To provide Hougeans with the following student development experiences to achieve the school’s desired outcomes of a lifelong learner, a Tech-Savvy Netizen, a Problem Solver and a Rooted Citizen
-
-  
-
-**HS Enrichment Programmes :** 
-Apply mathematics concepts to solve problems in real world context to make learning authentic and to instill the joy of learning in Problem Solving.
-
-  
-
-**HS Alternative Modes of Assessment :**&nbsp;   
-Develop higher order thinking skills, ability to reason and communicate mathematically to build confidence and deepen conceptual understanding in mathematics concepts through self-directed learning and collaborative learning.
-
-  
-
-**HS Maths Talent Programme :**&nbsp;   
-Enable Hougeans with interest and ability to reach their peak of excellence in a series of Stretch Programmes that include Singapore Math Kangaroo Contest, American Mathematics Contest, All Secondary School Mathematics Competition for Normal Stream, CPA and POA related competitions.
-
-  
-
-**HS Math ICT Programme :**&nbsp;   
-To develop Hougeans into Tech-Savvy netizens by equipping them with the necessary ICT skills during lessons for Mathematics, Principles of Accounts (POA) and Computer Applications (CPA).
-
 
 ### Learning Experiences
 
