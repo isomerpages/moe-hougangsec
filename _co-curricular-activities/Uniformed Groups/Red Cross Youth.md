@@ -69,3 +69,4 @@ To raise up young leaders who are dedicated to protecting human life and dignity
 **Venue**:&nbsp;Red Cross Youth Room / School Compound
 
 ### Photographs  
+<iframe src="https://docs.google.com/presentation/d/1FvSAvmmE7JbqYIwyqsE4wzYkpzCLZCrkoYaVAv1HfSs/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
