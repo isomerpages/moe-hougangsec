@@ -3,35 +3,40 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-### Our Vision
+**Head of Department**  
+Mr Chow Poh Boon  
 
-Every Hougean, a Problem Solver
+**Lead Teacher**  
+Mdm Seoh Bee Hua  
 
-### Our Mission
+**Subject Head**  
+Ms Tracy Huang  
 
-1. Develop mathematical reasoning, communication and modelling with 21st century competencies.
-2. Develop students’ metacognition through reflective practices and promote self-directed learning through Blended Learning.
-3. Teach towards Big Ideas to make connections and promote better appreciation of mathematics.
-
-  
-
-### Our Signature Programme
-
-Designing students’ Learning Experiences, aligned to the school’s desired outcomes of a Tech-Savvy Netizen, a Problem Solver and a Lifelong Learner.
-
-  
+**Teachers**  
+Mr Elangovan (Year Head)  
+Mr Khairul Adli (School Staff Developer)  
+Miss Judy Ng (Lead Teacher CCE)  
+Mr Daniel Tan (Assistant Year Head)  
+Miss Serina Tan (Assistant Year Head)  
+Mrs Rachel Chan (Subject Head CCE)  
+Miss Uma Magheswary (SH Student Leadership)  
+Mr Aaron Yeo  
+Mdm Goh Lay Hoon  
+Mdm Jessica Heng  
+Mdm Rebecca Ho  
+Miss Wee Swee Kee  
+Mdm Vanessa Ng   
+Mdm Zalina  
+Mr Vince Ding  
+Mr John Koh (FAJT)   
+    
 
 **HS Enrichment Programme**&nbsp;:&nbsp;   
-Apply mathematics concepts to solve problems in Real World Context.   
-Sec 1 Green Week   
-Sec 2 Maths Escape   
-Sec 1 – 3 Maths Real World Challenge
-
-  
-
-**HS Alternative Assessment**&nbsp;:&nbsp;   
-Become confident learners who can reason and communicate mathematically.
-
+To provide students with opportunity to apply mathematics concepts to solve problems in Real World Context and to develop critical thinking skills through our level programmes:  
+Sec 1 Data handling   
+Sec 2 Maths Escape  
+Sec 1 to 3 Maths Real World Challenge  
+Sec 3 POA Investment Game  
   
 
 **HS Maths Talent Programme**&nbsp;:&nbsp;   
@@ -79,9 +84,9 @@ To develop Hougeans into Tech-Savvy netizens by equipping them with the necessar
 ### Learning Experiences
 
 
-<center><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9_ExhAuXNrGGLwGM1QPJtMip4FD8LpC-xq-5v6TpTIgmC2wLmb-AbtdLoR5ZOKEqrE7NAdmwns9cZ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
+<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ9_ExhAuXNrGGLwGM1QPJtMip4FD8LpC-xq-5v6TpTIgmC2wLmb-AbtdLoR5ZOKEqrE7NAdmwns9cZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 
 ### Measuring Angles Using A Protractor
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BU3uEeaz0gI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BU3uEeaz0gI" height="315" width="560"></iframe>
