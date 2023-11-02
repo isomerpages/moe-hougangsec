@@ -113,7 +113,8 @@ As part of the Geography Unit’s stretch programme for the higher ability stude
 
 
 <u>Gardens By The Bay</u>  
-As part of the Social Studies Unit’s stretch programme for the higher ability students, selected students attended a learning journey at Gardens By The Bay to learn about Singapore’s land reclamation efforts. Through the story of Marina Bay, students appreciate how the nation overcomes land scarcity, what land reclamation is and how land is used sustainably and efficiently in our city.
+As part of the Social Studies Unit’s stretch programme for the higher ability students, selected students attended a learning journey at Gardens By The Bay to learn about Singapore’s land reclamation efforts. Through the story of Marina Bay, students appreciate how the nation overcomes land scarcity, what land reclamation is and how land is used sustainably and efficiently in our city.  
+<iframe src="https://docs.google.com/presentation/d/1KeEOAGnmIJho-l1wuT7GKtyFCAwdwRiy97ICMc4U8Jo/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 #### Internalisation Trip to Vietnam, May 2023
 
