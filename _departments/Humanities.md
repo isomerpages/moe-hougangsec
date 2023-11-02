@@ -99,10 +99,18 @@ After which, they took their primary data back to the classroom to make sense of
 2 Sec Three students participated in the MOE History Challenge through SLS. They were able to understand more about the study of history through the questions asked. This year, there were over 400 students from 120 schools who participated in this competition. 
 
 <u>Appeasement Board Game</u>   
-Sec Three students played a board game about the Appeasement Policy, which was the prelude to the outbreak of World War II in Europe. They were able to play the roles of different countries and step into the shoes of key historical figures like PM Neveille Chamberlain. Game-based-learning allows students to apply historical thinking and analyse historical events. 
+Sec Three students played a board game about the Appeasement Policy, which was the prelude to the outbreak of World War II in Europe. They were able to play the roles of different countries and step into the shoes of key historical figures like PM Neveille Chamberlain. Game-based-learning allows students to apply historical thinking and analyse historical events.  
+
+![](/images/Humanities/hi_sec%203_stretch%201.jpg)  
+
+![](/images/Humanities/hi_sec%203_stretch%202.jpg)
 
 <u>World Vision</u>   
-As part of the Geography Unit’s stretch programme for the higher ability students, selected students attended a movie screening titled “Thank You for the Rain”. The documentary captures the journey of a Kenyan farmer challenged by climate change to that of an activist on the global stage. After the screening, there was a talk conducted by World Vision where students will learn more about and discuss global and local efforts in tackling climate change.
+As part of the Geography Unit’s stretch programme for the higher ability students, selected students attended a movie screening titled “Thank You for the Rain”. The documentary captures the journey of a Kenyan farmer challenged by climate change to that of an activist on the global stage. After the screening, there was a talk conducted by World Vision where students will learn more about and discuss global and local efforts in tackling climate change.  
+![](/images/Humanities/world%20vision%20geo%20stretch%20programme%201of2.jpeg)  
+
+![](/images/Humanities/world%20vision%20geo%20stretch%20programme%202of2.jpeg)
+
 
 <u>Gardens By The Bay</u>  
 As part of the Social Studies Unit’s stretch programme for the higher ability students, selected students attended a learning journey at Gardens By The Bay to learn about Singapore’s land reclamation efforts. Through the story of Marina Bay, students appreciate how the nation overcomes land scarcity, what land reclamation is and how land is used sustainably and efficiently in our city.
