@@ -68,5 +68,4 @@ To raise up young leaders who are dedicated to protecting human life and dignity
 **Time**: 3.15 pm - 5.15 pm (Tue) / 1.30 pm - 5.30 pm (Fri)  
 **Venue**:&nbsp;Red Cross Youth Room / School Compound
 
-### Photographs
-
+### Photographs  
