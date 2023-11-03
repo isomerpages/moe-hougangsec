@@ -47,11 +47,11 @@ Online Support:
 
 Ms Juan Peiling
 
-Consultation @ Engagement Centre (Canteen) 
+Consultation&nbsp;@ Engagement Centre (Canteen)&nbsp;
 
-Day & Time: Mondays & Thursdays only (8.00 am – 5.00 pm)
+Day &amp; Time: Mondays &amp; Thursdays only (8.00 am – 5.00 pm)
 
-Email -  [juan_peiling@schools.gov.sg](mailto:juan_peiling@schools.gov.sg)  
+Email -&nbsp;&nbsp;[juan_peiling@schools.gov.sg](mailto:juan_peiling@schools.gov.sg)  
 
 Zoom (capped at 40mins), Google Meet, Microsoft Skype or Cisco WebEx  
 
@@ -60,8 +60,8 @@ Appointment arranged via ECG e-Service Request Online Form/Email/Telegram
 Video-conferencing details will be provided via Email
 
 
- **<u>School Counsellor and AED(LBS) e-Counselling/e-Coaching/e-Consultation Services</u>**
+ **<u>School Counsellor and AED(LBS) e-Counselling/e-Coaching/e-Consultation&nbsp;Services</u>**
 
-Individual (1-to-1 session) 
+Individual (1-to-1 session)&nbsp;
 
-Telephone call or Video-conferencing using Zoom/whatsapp conference call
+Telephone call or Video-conferencing using Zoom/whatsapp&nbsp;conference call

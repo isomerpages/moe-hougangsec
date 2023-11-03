@@ -4,7 +4,7 @@ title: Hougang Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/School Logo - Edited.png
 permalink: /
-notification: ""
+notification: HS Open House on 25 Nov 2023. From 9.00 am to 12.30 pm.
 sections:
   - hero:
       background: /images/homepagedemo.gif

@@ -5,18 +5,11 @@ collections:
       - HBL SIL/.keep
       - HBL SIL/HBL–SIL.md
       - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
-      - HBL SIL/HS ICT Helpdesk Form.md
       - For Students/.keep
       - For Students/For Students.md
       - For Students/Subject Combinations Briefing.md
       - For Students/Sec 3 ECT Timetable.md
-      - For Students/Sec 1 Code For Fun.md
-      - For Students/GCE O Level Science Practical 2023 Shift Schedule and
-        Briefing Slides.md
-      - For Students/2023 Prelim Exam Timetable.md
-      - For Students/End Of Year Exam Schedule.md
       - For Students/2023 Semester 2 Weighted Assessment Schedule.md
-      - For Students/2023 Structured Consultation Time.md
       - For Students/Library OPAC.md
       - For Parents/.keep
       - For Parents/For Parents.md
@@ -33,6 +26,7 @@ collections:
       - PLD Initiative/DMA Parent Portal.md
       - PLD Initiative/Information For Students.md
       - PLD Initiative/FAQ.md
+      - Admin/Direct School Admission.md
       - Admin/.keep
       - Admin/School Textbook Sale.md
       - Admin/School Uniform Sale.md

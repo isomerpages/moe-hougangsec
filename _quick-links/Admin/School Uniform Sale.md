@@ -4,29 +4,20 @@ permalink: /quick-links/school-uniform-sale/
 description: ""
 third_nav_title: Admin
 ---
-Dear Parents/Guardians
+Dear Parents/Guardians  
 
-<u>I. ONLINE Purchase</u>
+**I. ONLINE Purchase**  
+The <u>online</u> uniform purchase is available on Student Mart/Jeep Sing online store, via Home Delivery at a fee. 
+https://jeepsinguniform.com/collections/hougang-secondary-school
 
-The&nbsp;<u>online</u>&nbsp;uniform purchase is available on Student Mart/Jeep Sing online store, via Home Delivery.
+**II. Purchase at Student Mart/Jeep Sing Retail Outlet**  
+This option is by <u>appointment only, no walk-in</u>. Please book your time slot via this weblink.
+https://jeepsinguniform.com/pages/appointment-booking
 
-[https://jeepsinguniform.com/collections/hougang-secondary-school](https://jeepsinguniform.com/collections/hougang-secondary-school)
+**III. Purchase in School**  
+Walk-in purchase is available on the following dates and time.  
+<u>Only one adult is allowed to accompany the student</u>. Please bring the best fitted garment to compare and assist in selecting the size. Other details are on the pdf file below.
 
-  
-
-<u>II. Purchase at Student Mart/Jeep Sing Retail Outlet</u>
-
-This option is by&nbsp;<u>appointment only, no walk-in</u>. Please book your time slots via this link.
-
-[https://jeepsinguniform.com/pages/appointment-booking](https://jeepsinguniform.com/pages/appointment-booking)
-
-  
-
-<u>III. Purchase in School</u>
-
-Walk-in purchase is available on the following dates and time.
-
-<u>Only one adult is allowed to accompany the student.</u> Other details are on the pdf file below.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -48,8 +39,11 @@ Walk-in purchase is available on the following dates and time.
     <td class="tg-5ws4">Operating Hours</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">30 Nov, 1, 5, 6, 12, 13 Dec 2022 (Sec 2-5)<br><br>27, 28 Dec 2022 (all levels)</td>
-    <td class="tg-2rp9">9am to 3pm<br><br>(Lunch break 11.30am to 12.30pm)</td>
+    <td class="tg-2rp9">6, 7, 8, 12, 13, 14 Dec 2023 
+			(for 2024 Sec 2-4)<br><br>27, 28 Dec 2023 (all levels)</td>
+    <td class="tg-2rp9">9.00 am to 3.00 pm<br><br>(Lunch break 12.00 pm to 1.00 pm)</td>
   </tr>
 </tbody>
-</table>
+</table>  
+
+[2023 Student Uniform Sales Schedule](/files/Admin/2023%20student%20uniform%20sales%20schedule.pdf)
