@@ -53,7 +53,7 @@ Elements of Business Skills
 
 ### Programmes and Activities
 
-**1\. Academic Programmes**  
+**1. Academic Programmes**  
 Applied Learning Programme (ALP)
 * Secondary 1
 	*	Writing and Representing Creatively
