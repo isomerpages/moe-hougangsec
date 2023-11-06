@@ -43,16 +43,19 @@ Sec 4 &amp; 5: Bonding Day
 HS commemorated the four key National Education events through students-planned ceremony and activities.  
  
 **Total Defence Day**
-<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/1A6Uhies2d2EVM0Mq7B1nvtZkJW__6ZKq7jdfv1uF1e8/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1A6Uhies2d2EVM0Mq7B1nvtZkJW__6ZKq7jdfv1uF1e8/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 **International Friendship Day**  
-<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/1zaJ0D3FkDWRrjSDUCkzXGJUwDuLKVl5g-btk5Z8U34w/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1zaJ0D3FkDWRrjSDUCkzXGJUwDuLKVl5g-btk5Z8U34w/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 **Racial Harmony Day**  
-<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/1d9PXT3XzG7LNPqsOdHqVN9xW3cyiYqbFH1juT8yeccw/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1d9PXT3XzG7LNPqsOdHqVN9xW3cyiYqbFH1juT8yeccw/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 **National Day**  
-<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/1A6Uhies2d2EVM0Mq7B1nvtZkJW__6ZKq7jdfv1uF1e8/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1d9PXT3XzG7LNPqsOdHqVN9xW3cyiYqbFH1juT8yeccw/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/O1xk9ZZOKZs?si=xerNpZb7BW3Ofdjh" height="315" width="560"></iframe>
 
 
 ### Values-In-Action (VIA) through CCA
