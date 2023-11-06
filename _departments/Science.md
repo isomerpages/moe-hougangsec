@@ -142,30 +142,30 @@ The Science Department aims to leverage on a variety of pedagogical approaches a
 
 Chemistry Stretch Programme  
 Purpose  
-• To enhance students’ interest in the learning of Chemistry concept through authentic learning.
-• To inspire higher ability Secondary Two students in Chemistry, enabling them to pursue pure Chemistry at ‘O’ Level and beyond.
+• To enhance students’ interest in the learning of Chemistry concept through authentic learning.  
+• To inspire higher ability Secondary Two students in Chemistry, enabling them to pursue pure Chemistry at ‘O’ Level and beyond.  
 
 
 
 Funtasia 2023  
 Purpose  
-• To ignite students’ passion in Science through student-centered science-related activities
-• To provide a platform for the students to learn a scientific concept through a series of fun and engaging challenges.
+• To ignite students’ passion in Science through student-centered science-related activities 
+• To provide a platform for the students to learn a scientific concept through a series of fun and engaging challenges.  
 
 
 
 LSS Bio Stretch Programme  
 Purpose  
-• To arouse students’ interest in the learning of Science through authentic learning.
-• To enhance the students’ knowledge in the three different branches of Science to better aid them in choosing a suitable subject combination for themselves.
-• To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.
+• To arouse students’ interest in the learning of Science through authentic learning.  
+• To enhance the students’ knowledge in the three different branches of Science to better aid them in choosing a suitable subject combination for themselves.  
+• To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.  
 
 
 
 Phy Stretch Programme 
 Purpose  
-• To arouse students’ interest in the learning of Science through authentic learning.
-• To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.
+• To arouse students’ interest in the learning of Science through authentic learning.  
+• To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.  
 
 
 
