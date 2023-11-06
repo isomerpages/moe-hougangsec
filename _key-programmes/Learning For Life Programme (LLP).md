@@ -4,7 +4,7 @@ permalink: /learning-for-life-programme/
 description: ""
 variant: markdown
 ---
-**Make the Difference, A Hougean’s Way Of Life**  
+### **Make the Difference, A Hougean’s Way Of Life**  
 
 The LLP programme, Make the Difference, A Hougean’s Way Of Life, aims to:
 
@@ -16,7 +16,7 @@ Students go through experiences guided by our 3Es Approach:
 ![](/images/Department/CCE/3es%20for%20via.png)  
 
 
-**Tier One Community Youth Leadership (CYL) Programme:**    
+#### **Tier One Community Youth Leadership (CYL) Programme:**    
 
 <table style="width:100.0%;border-collapse:collapse;mso-yfti-tbllook:1184" width="100%" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:21.0%;border:solid #D6D6D6 1.0pt;
   mso-border-alt:solid #D6D6D6 .25pt;mso-border-bottom-alt:solid #D6D6D6 .75pt;
@@ -71,6 +71,21 @@ Students go through experiences guided by our 3Es Approach:
 
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/AGjSiXdyN_4" title="Loneliness in Elderly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>  
 
+
+
+#### **Tier Two CYL Programme:**  
+
+**Sec 2 Learn-A-Skill Workshop during Inspire Week in March 2023**  
+To level up their skills in engaging with beneficiaries, the Secondary 2 students attended Learn-a-Skill workshops:   
+•	Teochew Language  
+•	Sock Plushie Making  
+•	Magic Tricks   
+•	Balloon Sculpting  
+•	Sign Language  
+<iframe src="https://docs.google.com/presentation/d/1bApCZbkeh3CaW2p390QjNghWZ-_KqlLPhtf_Ih1W6NY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+
+
+/edit?usp=sharing
 
 #### Learn-A-Skill Through CCA (Hokkien Workshop by Dialect.sg for Choir, Wushu &amp; Band)
 
