@@ -167,6 +167,10 @@ Purpose
 • To arouse students’ interest in the learning of Science through authentic learning.  
 • To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.  
 <iframe src="https://docs.google.com/presentation/d/1lGv2qptgsMh8OObHdMvYldyYVq-y4rL6woCD1Bs-SfE/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
+
+ 
+
+
   
 
 <style type="text/css">
