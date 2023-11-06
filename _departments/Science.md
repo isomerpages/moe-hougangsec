@@ -174,7 +174,6 @@ Purpose
 • To inspire students to play a part in the green movement in the Singapore context.  
 • To increase awarenes in students about the relevance of Science and technology in their everyday lives.  
 • To inculcate in students the value of using Science and technology to improve the lives of mankind.  
-
 <iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJXvHM2xOCYeZ_LPqpXM4PZJAtTxQdWJc0z2BOmjzq-zLY1XDLPrR4y3a8fg4nu4Jo5ckncrNhkkFP/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 
