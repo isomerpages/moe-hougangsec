@@ -2,6 +2,7 @@
 title: English Language, Literature and Elements of Business Skills
 permalink: /departments/english-english-lit-elements-of-business-skills/
 description: ""
+variant: markdown
 ---
 **Head of Department/English:**    
 Mdm S Chitradevi
@@ -90,8 +91,8 @@ Applied Learning Programme (ALP)
 **Write for Kindness by Singapore Kindness Movement**
   
 
-### English Language Department - A Snap Shot
+### English Language Department - A Snap Shot  
 
+![](/images/Department/EL/2023%20literature%20snapshots.jpg)
 
-
-[https://online.pubhtml5.com/hivq/hlpc/](https://online.pubhtml5.com/hivq/hlpc/)
+[https://online.pubhtml5.com/hivq/pvuz/](https://online.pubhtml5.com/hivq/pvuz/)
