@@ -168,7 +168,14 @@ Purpose
 • To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.  
 <iframe src="https://docs.google.com/presentation/d/1lGv2qptgsMh8OObHdMvYldyYVq-y4rL6woCD1Bs-SfE/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
 
- 
+
+**Green Lesson**  
+Purpose  
+• To inspire students to play a part in the green movement in the Singapore context.  
+• To increase awarenes in students about the relevance of Science and technology in their everyday lives.  
+• To inculcate in students the value of using Science and technology to improve the lives of mankind.  
+
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJXvHM2xOCYeZ_LPqpXM4PZJAtTxQdWJc0z2BOmjzq-zLY1XDLPrR4y3a8fg4nu4Jo5ckncrNhkkFP/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 
   
