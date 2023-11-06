@@ -2,17 +2,24 @@
 title: Learning For Life Programme (LLP)
 permalink: /learning-for-life-programme/
 description: ""
+variant: markdown
 ---
-
 **Make the Difference, A Hougean’s Way Of Life**  
 
 The LLP programme, Make the Difference, A Hougean’s Way Of Life, aims to:
 
 1\. To develop students as GRIT Stars and Community Youth Leaders
 
-2\. To provide a sustained and enhanced student-centric values education progressively over 4/5 years which impacts the community.
+2\. To provide a sustained and enhanced student-centric values education progressively over 4/5 years which impacts the community.  
+
+Students go through experiences guided by our 3Es Approach:  
+![](/images/Department/CCE/3es%20for%20via.png)  
 
 
+**Tier One Community Youth Leadership (CYL) Programme:**   
+
+
+  
 **Programmes**:
 
 <style type="text/css">
@@ -61,22 +68,18 @@ The LLP programme, Make the Difference, A Hougean’s Way Of Life, aims to:
 </tbody>
 </table>
 
-#### Learn-A-Skill Through CCA (Hokkien Workshop by Dialect.sg for Choir, Wushu & Band)
+#### Learn-A-Skill Through CCA (Hokkien Workshop by Dialect.sg for Choir, Wushu &amp; Band)
 
-<img src="/images/llp1.jpeg" 
-     style="width:65%">
-		 <img src="/images/llp2.jpeg" 
-     style="width:65%">
+<img src="/images/llp1.jpeg" style="width:65%">
+		 <img src="/images/llp2.jpeg" style="width:65%">
 
 
 
 #### Community Youth Leadership (Students’ Work)
 
-<img src="/images/llp3.jpeg" 
-     style="width:65%">
-<img src="/images/llp4.png" 
-     style="width:65%">
+<img src="/images/llp3.jpeg" style="width:65%">
+<img src="/images/llp4.png" style="width:65%">
 
 #### Sec 3 (Be An Advocate)
 
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/AGjSiXdyN_4" title="Loneliness in Elderly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="830" height="315" src="https://www.youtube.com/embed/AGjSiXdyN_4" title="Loneliness in Elderly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
