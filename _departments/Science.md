@@ -177,7 +177,22 @@ Purpose
 <iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJXvHM2xOCYeZ_LPqpXM4PZJAtTxQdWJc0z2BOmjzq-zLY1XDLPrR4y3a8fg4nu4Jo5ckncrNhkkFP/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 
-  
+**Science Buskers**   
+The Science Buskers Festival Competition is an annual event where contestants will do a "show-and-tell" on any science topic, and judging will be based on audiences' votes and judges' scores. This event is organised during the Singapore Science Festival by Singapore Science Centre. In 2017, we clinched the Judges Choice Award - Proof of Concept and in 2018, we managed to get 1st Runner Up!  
+
+Purpose  
+• To enable students to develop Science communication skills.  
+• To build students’ confidence in public speaking.  
+• To encourage students to see the real-world application of syllabus content.  
+To ignite the joy of learning amongst students.  
+• To encourage a growth mindset in students.  
+• To promote 21st century skills of critical and inventive thinking.     
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSm0Oxfvg9XaUE-LukpkCciI-tBOLzwk-UJhBN4eet90g1A17lsH33X4vcW3T4LfMek88W9i8R6FYPJ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe>   
+
+
+
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
