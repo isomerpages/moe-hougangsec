@@ -190,6 +190,11 @@ To ignite the joy of learning amongst students.
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSm0Oxfvg9XaUE-LukpkCciI-tBOLzwk-UJhBN4eet90g1A17lsH33X4vcW3T4LfMek88W9i8R6FYPJ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
 
 
+**IgnITE**  
+Purpose  
+A collaboration with ITE, where students are exposed to learning of Science concepts through hands-on authentic learning, thereby seeing Science in everyday lives and hence inspiring them to pursue Science courses in ITE.
+
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFBTdrR1zGBEL3GbyqBDCSoO5gBQWXtgrHktzKCsAtW7Sw0eH7UVsaGqj6vve3ntZyCLSN5XAMtq9g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>  
 
 
 
