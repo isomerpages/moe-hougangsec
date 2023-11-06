@@ -93,6 +93,5 @@ Applied Learning Programme (ALP)
 
 #### English Language Literature Snap Shots  
 
-
 <a href="https://online.pubhtml5.com/hivq/pvuz/" target="_self"><img src="/images/Department/EL/2023%20literature%20snapshots.jpg" style="width:70%" alt="HGSS-English"></a>  
 [https://online.pubhtml5.com/hivq/pvuz/](https://online.pubhtml5.com/hivq/pvuz/)  
