@@ -187,7 +187,7 @@ Purpose
 To ignite the joy of learning amongst students.  
 • To encourage a growth mindset in students.  
 • To promote 21st century skills of critical and inventive thinking.     
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSm0Oxfvg9XaUE-LukpkCciI-tBOLzwk-UJhBN4eet90g1A17lsH33X4vcW3T4LfMek88W9i8R6FYPJ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true"></iframe>   
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSm0Oxfvg9XaUE-LukpkCciI-tBOLzwk-UJhBN4eet90g1A17lsH33X4vcW3T4LfMek88W9i8R6FYPJ/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
 
 
 
