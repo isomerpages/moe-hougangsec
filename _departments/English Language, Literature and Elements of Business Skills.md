@@ -12,8 +12,6 @@ Mdm S Chitradevi
 Ms Audrey Chua
   
 
-  
-
 **Teachers**:   
 <div>Mr Kervin Tang [Senior Teacher, English Language]</div>  
 <div>Mdm Amalina Abdul Samad</div>  
