@@ -85,11 +85,28 @@ To level up their skills in engaging with beneficiaries, the Secondary 2 student
 <iframe src="https://docs.google.com/presentation/d/1bApCZbkeh3CaW2p390QjNghWZ-_KqlLPhtf_Ih1W6NY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 
-
 #### Learn-A-Skill Across CCA in August 2023   
 After engaging with beneficiaries in Semester 1, selected CCAs were give the opportunity to conduct workshops to share their skill with other CCAs, as well as learn from other CCAs. This helped to develop them into active contributors and more confident persons.   
 <iframe src="https://docs.google.com/presentation/d/1O-b9OvghoRaUtOsxlZHeAjPIoSnFFy8KZZw-GA7ltJU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
+
+
+#### VIA Leaders Training   
+Each CCA’s VIA Leaders went for training to lead their members in the planning and implementation process. They also visited elderly at Feiyue @ Buangkok Green to understand their needs and relay this information to their members to aid in the planning.  
+![](/images/Key%20Programmes/LLP/via%20leaders%20visit%20to%20feiyue.jpeg)   
+	
+Five Selected VIA Leaders also represented the school to take part in St. Hilda's Secondary School 4th Biennial Service-Learning Symposium. Not only were they enriched by best practices shared by many schools, they were also encouraged to think critically and deeply on social issues faced by Singapore.     
+
+![](/images/Key%20Programmes/LLP/via%20leaders%20sl%20symposium%20at%20st%20hildas%20sec.jpeg)	 
+	
+In Semester 2, Our VIA Leaders had the opportunity to serve the community at Fernvale CC as part of the PAssionArts @ The Heartland Music Fest on 5 August 2023. Students taught members of the public how to fold origami flowers and butterflies.   
+![](/images/Key%20Programmes/LLP/via%20leaders%20community%20event%20at%20fernvale%20cc%201.jpeg)  
+
+![](/images/Key%20Programmes/LLP/via%20leaders%20community%20event%20at%20fernvale%20cc%202.jpeg)
+ 
+
+For more on Student Leadership Development, please visit 
+https://www.hougangsec.moe.edu.sg/key-programmes/student-leadership/
 
 
 
