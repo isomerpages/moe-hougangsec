@@ -56,8 +56,15 @@ HS commemorated the four key National Education events through students-planned 
 
 
 
-### Values-In-Action (VIA) through CCA
+### Character Coaching through Values-In-Action (VIA)   
+<u>Sec 4 Class-Based VIA</u>  
+Our Sec 4&amp;5s produced plank artwork in resplendent colours for display at the ‘Music in the Park’ community event held at Fernvale Park on 11 March 2023.  
+![VIA 1](/images/Department/CCE/sec%204%20via%20photo%201.jpeg)  
+![VIA 2](/images/Department/CCE/sec%204%20via%20photo%202.jpeg)  
 
-![](/images/via1.jpeg)
-![](/images/via2.png)
-![](/images/via3.jpeg)
+
+Sec 1-3 CCA-Based Learn-A-Skill Carnival
+CCAs brainstormed, planned, prepared and carried out activities for the carnival in Semester 1 which invited 7 beneficiaries. CCAs worked collaboratively to meet community/school needs.  
+<iframe src="https://docs.google.com/presentation/d/1j6Jmgk3Y8IxzG-EizRzrd1ODKLTyYmmTb5n-124fSZs/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
+
+
