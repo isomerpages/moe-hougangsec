@@ -154,7 +154,7 @@ Purpose
 <iframe src="https://docs.google.com/presentation/d/1UXUSnk9Xa3CDBMOk6AE8eADLxRnFA_xaZOpo_s1RlZs/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 
-**LSS Bio Stretch Programme**  
+**LSS Bio Stretch Programme**   
 Purpose  
 • To arouse students’ interest in the learning of Science through authentic learning.  
 • To enhance the students’ knowledge in the three different branches of Science to better aid them in choosing a suitable subject combination for themselves.  
@@ -162,12 +162,12 @@ Purpose
 <iframe src="https://docs.google.com/presentation/d/1YzkCKmUZx5OXe4MH02v5cFpQ1x304ODVYR3qERt8APo/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 
-**Phy Stretch Programme** 
+**Phy Stretch Programme**   
 Purpose  
 • To arouse students’ interest in the learning of Science through authentic learning.  
 • To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.  
-<iframe src="https://docs.google.com/presentation/d/1lGv2qptgsMh8OObHdMvYldyYVq-y4rL6woCD1Bs-SfE/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
-
+<iframe src="https://docs.google.com/presentation/d/1lGv2qptgsMh8OObHdMvYldyYVq-y4rL6woCD1Bs-SfE/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
+  
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
