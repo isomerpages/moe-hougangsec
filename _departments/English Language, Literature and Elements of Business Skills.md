@@ -91,8 +91,7 @@ Applied Learning Programme (ALP)
 **Write for Kindness by Singapore Kindness Movement**
   
 
-### English Language Department - A Snap Shot  
+#### English Language Literature Snap Shots  
 
 ![](/images/Department/EL/2023%20literature%20snapshots.jpg)
-
 [https://online.pubhtml5.com/hivq/pvuz/](https://online.pubhtml5.com/hivq/pvuz/)
