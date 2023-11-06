@@ -49,7 +49,7 @@ HS commemorated the four key National Education events through students-planned 
 <iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/1zaJ0D3FkDWRrjSDUCkzXGJUwDuLKVl5g-btk5Z8U34w/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 **Racial Harmony Day**  
-<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/1A6Uhies2d2EVM0Mq7B1nvtZkJW__6ZKq7jdfv1uF1e8/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/1d9PXT3XzG7LNPqsOdHqVN9xW3cyiYqbFH1juT8yeccw/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 **National Day**  
 <iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/1A6Uhies2d2EVM0Mq7B1nvtZkJW__6ZKq7jdfv1uF1e8/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
