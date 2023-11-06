@@ -149,7 +149,7 @@ Purpose
 
 Funtasia 2023  
 Purpose  
-• To ignite students’ passion in Science through student-centered science-related activities 
+• To ignite students’ passion in Science through student-centered science-related activities  
 • To provide a platform for the students to learn a scientific concept through a series of fun and engaging challenges.  
 
 
