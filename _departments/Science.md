@@ -10,7 +10,6 @@ Mr Quek Yong Cai
   
 
 **Subject Head**   
-Ms Sisca Christine Haryanto  
 Miss Jazreel Toh Hui Khee
 
   
@@ -31,7 +30,7 @@ Ms Ashley Li (FAJT)
 
   
 
-**Laboratory TSO/ OSO**   
+**Laboratory TSO**   
 Ms Kartini Bte Mohd Sidek (TSO)    
 Mdm Nur Suhaila (TSO)
 
