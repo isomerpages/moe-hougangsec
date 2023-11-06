@@ -86,9 +86,10 @@ To level up their skills in engaging with beneficiaries, the Secondary 2 student
 
 
 
-#### Learn-A-Skill Through CCA (Hokkien Workshop by Dialect.sg for Choir, Wushu &amp; Band)
+#### Learn-A-Skill Across CCA in August 2023   
+After engaging with beneficiaries in Semester 1, selected CCAs were give the opportunity to conduct workshops to share their skill with other CCAs, as well as learn from other CCAs. This helped to develop them into active contributors and more confident persons.   
+<iframe src="https://docs.google.com/presentation/d/1O-b9OvghoRaUtOsxlZHeAjPIoSnFFy8KZZw-GA7ltJU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
-<img src="/images/llp1.jpeg" style="width:65%">
-		 <img src="/images/llp2.jpeg" style="width:65%">
+
 
 
