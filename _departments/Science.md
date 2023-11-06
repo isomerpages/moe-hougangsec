@@ -7,12 +7,10 @@ variant: markdown
 **Head of Department**   
 Mr Quek Yong Cai  
 
-  
 
 **Subject Head**   
 Miss Jazreel Toh Hui Khee
 
-  
 
 **Senior Teacher**   
 Mdm Radzawaty Bte Jamaludin
@@ -28,15 +26,11 @@ Ms Wong Lai Lee
 Ms Phua Li Xian   
 Ms Ashley Li (FAJT)
 
-  
 
 **Laboratory TSO**   
 Ms Kartini Bte Mohd Sidek (TSO)    
 Mdm Nur Suhaila (TSO)
 
-  
-
-  
 
 ### Vision
 
@@ -198,5 +192,3 @@ A collaboration with ITE, where students are exposed to learning of Science conc
 
 **3NA Stretch Programme**  
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LQaOEcFwVhA?si=rELM3rW9bURRVGiF" height="315" width="560"></iframe>
-
-
