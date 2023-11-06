@@ -151,7 +151,7 @@ Purpose
 Purpose  
 • To ignite students’ passion in Science through student-centered science-related activities  
 • To provide a platform for the students to learn a scientific concept through a series of fun and engaging challenges.  
-
+<iframe src="https://docs.google.com/presentation/d/1UXUSnk9Xa3CDBMOk6AE8eADLxRnFA_xaZOpo_s1RlZs/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 
 **LSS Bio Stretch Programme**  
@@ -159,7 +159,7 @@ Purpose
 • To arouse students’ interest in the learning of Science through authentic learning.  
 • To enhance the students’ knowledge in the three different branches of Science to better aid them in choosing a suitable subject combination for themselves.  
 • To expose Science students of higher progress with content knowledge extended beyond lower secondary science syllabus.  
-
+<iframe src="https://docs.google.com/presentation/d/1YzkCKmUZx5OXe4MH02v5cFpQ1x304ODVYR3qERt8APo/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 
 **Phy Stretch Programme** 
@@ -411,7 +411,7 @@ Purpose
 <tbody>
   <tr>
     <td class="tg-2rp9">3NA Stretch Programme</td>
-    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5rPvqQZZmjtWXrcwx1jl0TMohTgiUM2XRFix_OBDXlSEfb8epT6dlSph7IdpkCKSGvIoUGCFKMFzJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center><br><br>
+    <td class="tg-citn"><center><iframe allowfullscreen="true" height="366" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS5rPvqQZZmjtWXrcwx1jl0TMohTgiUM2XRFix_OBDXlSEfb8epT6dlSph7IdpkCKSGvIoUGCFKMFzJ/edit?usp=sharing/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center><br><br>
 			<iframe width="435" height="774" src="https://www.youtube.com/embed/ftDJ-qqaEkQ" title="SCI 3NA1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 <br><br>Purpose<br>• To provide authentic experiences for students to apply concepts in Chemistry.<br>• To enable students to acquire observation skills in Chemistry experiments.<br>• To ignite the Joy of Learning in Chemistry.<br>• To promote 21st century skills of critical and inventive thinking.</td>
   </tr>
