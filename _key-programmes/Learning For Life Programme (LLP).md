@@ -85,7 +85,6 @@ To level up their skills in engaging with beneficiaries, the Secondary 2 student
 <iframe src="https://docs.google.com/presentation/d/1bApCZbkeh3CaW2p390QjNghWZ-_KqlLPhtf_Ih1W6NY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 
-/edit?usp=sharing
 
 #### Learn-A-Skill Through CCA (Hokkien Workshop by Dialect.sg for Choir, Wushu &amp; Band)
 
