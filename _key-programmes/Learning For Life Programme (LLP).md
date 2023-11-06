@@ -8,9 +8,9 @@ variant: markdown
 
 The LLP programme, Make the Difference, A Hougean’s Way Of Life, aims to:
 
-1\. To develop students as GRIT Stars and Community Youth Leaders
+1. To develop students as GRIT Stars and Community Youth Leaders
 
-2\. To provide a sustained and enhanced student-centric values education progressively over 4/5 years which impacts the community.  
+2. To provide a sustained and enhanced student-centric values education progressively over 4/5 years which impacts the community.  
 
 Students go through experiences guided by our 3Es Approach:  
 ![](/images/Department/CCE/3es%20for%20via.png)  
