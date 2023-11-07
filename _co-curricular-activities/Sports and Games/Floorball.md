@@ -3,6 +3,7 @@ title: Floorball
 permalink: /co-curricular-activities/Sports-and-Games/floorball/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 ![](/images/Floorball/hsfb2023.jpeg)
 
@@ -50,26 +51,11 @@ Friday: 2.30pm – 4.30pm (Boys)
 
 
 
-### OUR LEADERS
-##### B’ DIVISION (2022/2023)  
-<u>**Boys Team**</u>  
-**Captain**: Raimy Huzaimy (4E)  
-**Vice-Captain**: Muhammad Harith (4O)  
-**VIA Leaders**: Danial Hakim (4E), Hyder Shaqeel (4O)  
-**Treasurer / Events IC**: Lau An Jie (4G)  
-**Fitness IC**: Dylan Siah (4S)  
-**Logistics IC**: Aadam Muhammad Izzat Irfan (4G)  
+### OUR LEADERS  
 
-<u>**Girls Team**</u>  
-**Captain**: Dana Lim (4U)  
-**Vice-Captain**: Koh Shu Han (4U)  
-**VIA Leaders:** Megan Lim (4H), Bianca (4O)  
-**Treasurer / Events IC**: Eka Marshanda (4G)  
-**Fitness &amp; Logistics IC**: Nur Adriana (4S)  
-
-##### B’ DIVISION (2023/2024)
+##### B’ DIVISION (2023/2024)  
 <u>**Boys Team**</u>  
-**Captain**: Ilhan Hakimi (3A)  
+**Captain**: Ilhan Hakimi (3A)   
 **Vice-Captain**: Kieran Khaw (3U)  
 **VIA Leader**: Dominic Kyle (2E)  
 **Treasurer / Events IC**: Muhammad Arman (3N)  
@@ -83,8 +69,24 @@ Friday: 2.30pm – 4.30pm (Boys)
 **Treasurer / Events IC**: Charlene Ong Yu Wen (3N)  
 **Fitness IC**: Charlene Ong Chen Ying (3H)  
 **Logistics IC**: Chin Rui Xin (3G)  
-
-
+  
+##### ‘C’ DIVISION (2023/2024)   
+<u>**Boys Team**</u>  
+**Captain**: Muhammad Afiq Bin Mazlan (2H)  
+**Vice-Captain**: Syafi Bin Rizwan (2U)  
+**VIA Leader**: Dominic Kyle (2E)  
+**Treasurer / Events IC**: Aiden Chew (2G)  
+**Fitness IC**: Aiman Hakim Bin Ilyas Hakim (2A)  
+**Logistics IC**: Adli Hakim Bin Amran (2O)  
+  
+<u>**Girls Team**</u>  
+**Captain**: Toh Hui Ting Mareen (2E)  
+**Vice-Captain**: Teo Rui Zhi, Rachel (2A)   
+**Treasurer / Events IC**: Jess Tham Wan Lin (2E)  
+**Fitness IC**: Yap Ju Hui Penaflorida (2G)  
+**Logistics IC**: Lum Li Xuan Ariel (2H)  
+ 
+	
 
 ### Photographs
 ![](/images/Floorball/b%20div%20boys.jpeg)
