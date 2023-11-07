@@ -90,8 +90,10 @@ Friday: 2.30pm – 4.30pm (Boys)
 
 ### Video
 
-<iframe width="830" height="315" src="https://www.youtube.com/embed/YfXCFszSLgE" title="Floorball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="830" height="315" src="https://docs.google.com/presentation/d/1LpE27tCbNd9k9y4fHC9TA90hjmVfsJIJ" title="Floorball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 #### Photo Slide Show
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRo9-9AYk86RnuuMFYc83IokKWClN9vEAc_5JhjsScr0lkrD_Ov4BM5_88B1jqJycIXiCaI8_RISBT9/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRo9-9AYk86RnuuMFYc83IokKWClN9vEAc_5JhjsScr0lkrD_Ov4BM5_88B1jqJycIXiCaI8_RISBT9/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="749" allowfullscreen="true"></iframe>  
+
+/edit?usp=sharing&amp;ouid=104292189509076187140&amp;rtpof=true&amp;sd=true
