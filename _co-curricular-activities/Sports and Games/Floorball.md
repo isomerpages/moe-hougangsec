@@ -88,17 +88,8 @@ Friday: 2.30pm – 4.30pm (Boys)
  
 	
 
-### Photographs
-![](/images/Floorball/b%20div%20boys.jpeg)
+### Video
 
-![](/images/Floorball/b%20div%20girls.jpeg)
-
-![](/images/Floorball/hsfb2022.jpeg)
-
-![](/images/Floorball/sec4cohort.jpeg)
-
-
-#### Floorball 
 <iframe width="830" height="315" src="https://www.youtube.com/embed/YfXCFszSLgE" title="Floorball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 #### Photo Slide Show
