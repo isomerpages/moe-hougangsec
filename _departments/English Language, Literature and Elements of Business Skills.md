@@ -2,6 +2,7 @@
 title: English Language, Literature and Elements of Business Skills
 permalink: /departments/english-english-lit-elements-of-business-skills/
 description: ""
+variant: markdown
 ---
 **Head of Department/English:**    
 Mdm S Chitradevi
@@ -9,9 +10,7 @@ Mdm S Chitradevi
 
 **Level Head EL/Literature, Secondary 2 &amp; 3:**   
 Ms Audrey Chua
-  
-
-  
+   
 
 **Teachers**:   
 <div>Mr Kervin Tang [Senior Teacher, English Language]</div>  
@@ -52,7 +51,7 @@ Elements of Business Skills
 
 ### Programmes and Activities
 
-**1\. Academic Programmes**  
+**1. Academic Programmes**  
 Applied Learning Programme (ALP)
 * Secondary 1
 	*	Writing and Representing Creatively
@@ -90,8 +89,7 @@ Applied Learning Programme (ALP)
 **Write for Kindness by Singapore Kindness Movement**
   
 
-### English Language Department - A Snap Shot
+#### English Language Literature Snap Shots  
 
-
-
-[https://online.pubhtml5.com/hivq/hlpc/](https://online.pubhtml5.com/hivq/hlpc/)
+<a href="https://online.pubhtml5.com/hivq/pvuz/" target="_self"><img src="/images/Department/EL/2023%20literature%20snapshots.jpg" style="width:70%" alt="HGSS-English"></a>  
+[https://online.pubhtml5.com/hivq/pvuz/](https://online.pubhtml5.com/hivq/pvuz/)  
