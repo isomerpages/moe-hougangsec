@@ -13,21 +13,21 @@ Ms Audrey Chua
    
 
 **Teachers**:   
-<div>Mr Kervin Tang [Senior Teacher, English Language]</div>  
-<div>Mdm Amalina Abdul Samad</div>  
-<div>Ms C Minnoli</div>  
-<div>Mr Charles Wong</div>  
-<div>Mr Eugene Ling</div>  
-<div>Mrs Gomathi Guna</div>  
-<div>Ms Joyce Lee</div>  
-<div>Mdm Martini Rahmat</div>  
-<div>Ms Nur Adilah Bte Jasman</div>  
-<div>Mr Ronnie Yeo</div>  
-<div>Mr Sean Oh</div>  
-<div>Ms Tan Yin Wei</div>  
-<div>Ms Uma Magheswary</div>  
-<div>Mdm Soonam Sivadasan (FAJT)</div>  
-<div>Mr Han Zheming Chuck-E (FAJT)</div>
+Mr Kervin Tang [Senior Teacher, English Language]  
+Mdm Amalina Abdul Samad 
+Ms C Minnoli  
+Mr Charles Wong  
+Mr Eugene Ling  
+Mrs Gomathi Guna  
+Ms Joyce Lee  
+Mdm Martini Rahmat  
+Ms Nur Adilah Bte Jasman  
+Mr Ronnie Yeo  
+Mr Sean Oh  
+Ms Tan Yin Wei  
+Ms Uma Magheswary  
+Mdm Soonam Sivadasan (FAJT)  
+Mr Han Zheming Chuck-E (FAJT)
   
 
 ### Vision
@@ -46,8 +46,8 @@ Passionate Readers, Competent Writers , Eloquent Communicators
 
 ### Curriculum/Subject Offered
 English Language   
-Literature in English   
-Elements of Business Skills
+Literature in English    
+Elements of Business Skills  
 
 ### Programmes and Activities
 
@@ -78,18 +78,18 @@ Applied Learning Programme (ALP)
 * Debate Challenge for Secondary 3s
 
 
-**Reading Programme** 
+**3. Reading Programme** 
 
-**GRIT Moment Sharing** 
+**4. GRIT Moment Sharing** 
 
-**Learning Journeys for EBS and Literature students**
+**5. Learning Journeys for EBS and Literature students**
 
-**National Schools Literature Festival** 
+**6. National Schools Literature Festival** 
 
-**Write for Kindness by Singapore Kindness Movement**
+**7. Write for Kindness by Singapore Kindness Movement**
   
 
 #### English Language Literature Snap Shots  
 
 <a href="https://online.pubhtml5.com/hivq/pvuz/" target="_self"><img src="/images/Department/EL/2023%20literature%20snapshots.jpg" style="width:70%" alt="HGSS-English"></a>  
-[https://online.pubhtml5.com/hivq/pvuz/](https://online.pubhtml5.com/hivq/pvuz/)  
+[https://online.pubhtml5.com/hivq/pvuz/](https://online.pubhtml5.com/hivq/pvuz/)
