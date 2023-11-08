@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
+variant: markdown
 ---
 **PRINCIPAL**
 
@@ -91,6 +92,14 @@ description: ""
 <p>HOD PE/CCA</p>
 </td>
 </tr>
+<tr>
+<td style="width: 364.891px;">
+<p>Mr Low Yi En<br> low_yi_en@moe.edu.sg</p>
+</td>
+<td style="width: 266.109px;">
+<p>HOD Pupil Management</p>
+</td>
+</tr>	
 <tr>
 <td style="width: 364.891px;">
 <p>Mr Quek Yong Cai<br> quek_yong_cai@moe.edu.sg</p>
