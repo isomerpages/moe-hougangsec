@@ -12,7 +12,7 @@ GRIT 是我们后港中学五个学校价值观的首个字母缩写，即： GR
 
 <iframe src="https://docs.google.com/presentation/d/1uI0rKKKwLCv2hULp7e2PvMU1Mv0ib15Yt4oMtwKrmYI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
-
+  
 ### **阅读计划（Reading Programme）**   
 通过阅读，培养学生的学习兴趣。学生可以获取课堂之外的知识和信息，提高语言和思维能力，培养学生的逻辑思维、判断力、分析能力。为今后的学习、工作和生活打下坚实的基础。 
 
