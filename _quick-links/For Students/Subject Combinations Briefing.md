@@ -20,5 +20,7 @@ ends on 30 October, 3 pm**.
 **Appeal**   
 For students who wish to appeal for a change in subject combination,  
 
-1)  Please submit the appeal form by Tuesday 14 Nov 2023, 10 am to HOD Mathematics through email, chow_poh_boon@moe.edu.sg   
+1)  Please submit the appeal form, below, by Tuesday 14 Nov 2023, 10 am to HOD Mathematics through email, chow_poh_boon@moe.edu.sg   
 2)  You will be informed of the outcome of the appeal through email.
+
+[Appeal Form for Subject Combination](/files/Students/appeal%20form%20for%20subject%20combination.pdf)
