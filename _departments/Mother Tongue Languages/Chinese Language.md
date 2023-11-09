@@ -3,6 +3,7 @@ title: Chinese Language
 permalink: /departments/Mother-Tongue-Languages/chinese-language/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 #### 20周年的校庆，本部门第一次推出华文作文集
 
@@ -58,31 +59,7 @@ Chinese Lunar New Year Celebration 2020
 
 ![](/images/Slide7.gif)
 
-### 母语双周活动
 
-**Mother Tongue (Chinese Language) Fortnight Programme**   
-
-母语双周活动旨在让学生通过不同的管道引起学生学习华文华语的兴趣，从而达到乐学善用的学习方针。与此同时, 这次的活动也结合了我校的应用学习计划——通过实践性体验提升沟通能力，让学生有更多学习与应用华文华语的机会。  
-
-  
-
-Mother Tongue Fortnight activities aims to enhance students’ interest in learning Mother Tongue Languages beyond the classrooms context and to engage students in the appreciation of the Mother Tongue culture. Aligned with our school Applied Learning Programme (ALP), Effective Communication through Authentic Learning, this programme also serves as a platform to promote the use of Mother Tongue languages.
-    
-陈兆锦线上说故事
-
-![](/images/fn1.gif)
-
-阿果老师绘本《寻找》分享会
-
-![](/images/fn2.gif)
-
-剪纸活动——嫦娥本月/玉兔捣药（主题：中秋节）
-
-![](/images/fn3.gif)
-
-面塑——玉兔 （主题：中秋节）
-
-![](/images/fn4.gif)
 
 ### 2020 年GOODTALK(地球村)国际青少年双语演讲大赛
 
@@ -163,11 +140,11 @@ Teacher in-charge:
 The objectives of the competition was aimed at promoting better understanding and appreciation of the language and culture of each other among student participants from the two countries.
 
 Achievement:    
-何瑞芬 3E2  (参与奖)    
-沈靖霖 3E2  (参与奖)     
-何诗宇 2E3  (参与奖)   
-蔡楽雯 2E3  (参与奖)     
-黄扬翰 2E3  (参与奖)     
+何瑞芬 3E2&nbsp; (参与奖)    
+沈靖霖 3E2&nbsp; (参与奖)     
+何诗宇 2E3&nbsp; (参与奖)   
+蔡楽雯 2E3&nbsp; (参与奖)     
+黄扬翰 2E3&nbsp; (参与奖)     
   
 
 Teacher in-charge:   
@@ -179,10 +156,10 @@ Teacher in-charge:
 
 ![](/images/19gt3.jpeg)
 
-### Chinese Text Recommendation Competition for Secondary School Students (#选我选我  我是好文章——中学生好文推荐比赛)
+### Chinese Text Recommendation Competition for Secondary School Students (#选我选我&nbsp; 我是好文章——中学生好文推荐比赛)
 
   
-The new initiative led by the _Committee to Promote Chinese Language Learning (CPCLL)_ aims to facilitate the student population in compiling a list of recommended Chinese reading texts. This competition enables educators to be cognizant of the current reading habits of teenagers. We would like to encourage all students taking Chinese Language to participate in this recommendation exercise and also support the online-voting of your favourite Chinese texts via CPCLL Instagram likes. Please refer to the attached posters for more details.
+The new initiative led by the&nbsp;_Committee to Promote Chinese Language Learning (CPCLL)_&nbsp;aims to facilitate the student population in compiling a list of recommended Chinese reading texts. This competition enables educators to be cognizant of the current reading habits of teenagers. We would like to encourage all students taking Chinese Language to participate in this recommendation exercise and also support the online-voting of your favourite Chinese texts via CPCLL Instagram likes. Please refer to the attached posters for more details.
 
 ![](/images/ctrc1.jpeg)
 
