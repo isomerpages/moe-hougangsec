@@ -3,6 +3,7 @@ title: Mother Tongue Languages
 permalink: /departments/Mother-Tongue-Languages/mtl/
 description: ""
 third_nav_title: Mother Tongue Languages
+variant: markdown
 ---
 **Head of Department:**   
 Ms Cheng Sze Mei Carmen
@@ -23,7 +24,6 @@ Mdm Siti Sapiya Bte Mohd Sumri
 Mr Amir Gany Bin Mohamed Ali (FAJT)  
 Mdm Nor Suhailah Bte Abdul Rauf (FAJT)  
 Mdm Sun Junmo (SRE)  
-Ms Qu Mei (UT)  
 
   
 ### Vision
