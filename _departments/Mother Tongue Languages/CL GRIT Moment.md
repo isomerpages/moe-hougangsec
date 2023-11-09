@@ -9,7 +9,7 @@ third_nav_title: Mother Tongue Languages
 GRIT 是我们后港中学五个学校价值观的首个字母缩写，即： GRIT（Gratitude、 Respect、 Ingenuity、 Trustworthiness、 Grit ）代表感恩、尊重、独创性、可信赖性和坚毅。  
 
 学生们在偶数周的早上以华语的方式进行有关学校价值观的分享与心得。  
-
+  
 <iframe src="https://docs.google.com/presentation/d/1uI0rKKKwLCv2hULp7e2PvMU1Mv0ib15Yt4oMtwKrmYI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
   
