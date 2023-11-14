@@ -2,7 +2,7 @@ collections:
   archive:
     output: true
     order:
-      - Example Title.md
+      - FAS Application.md
       - test 2.md
       - Canteen.md
       - Sec 3 Subject Combination Matters (For Sec 2, 2023).md
