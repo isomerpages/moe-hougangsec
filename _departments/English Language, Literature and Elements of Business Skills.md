@@ -54,13 +54,13 @@ Elements of Business Skills
 ### Programmes and Activities
 
 **1. Academic Programmes**  
-•	Reading Programme  
-•	GRIT Moment Sharing  
-•	Learning Journeys for Secondary 3 &amp; 4 EBS students  
-•	In conversations with Playwright and Director of Literature Text for Secondary 4 Literature students  
-•	National Schools Literature Festival  
-•	Oldham Cup Debate Competition  
-•	Write for Kindness by Singapore Kindness Movement
+*	Reading Programme  
+*	GRIT Moment Sharing  
+*	Learning Journeys for Secondary 3 &amp; 4 EBS students  
+*	In conversations with Playwright and Director of Literature Text for Secondary 4 Literature students  
+*	National Schools Literature Festival  
+*	Oldham Cup Debate Competition  
+*	Write for Kindness by Singapore Kindness Movement
 )  
 
 **2. ALP Competitions**
