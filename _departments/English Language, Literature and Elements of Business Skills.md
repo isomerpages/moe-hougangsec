@@ -62,10 +62,10 @@ Elements of Business Skills
 *	Oldham Cup Debate Competition  
 *	Write for Kindness by Singapore Kindness Movement  
 
-**2. ALP Competitions**
-* Lexical Labyrinth for Secondary 1s
-* Toastmasters Series for Secondary 2s
-* Debate Challenge for Secondary 3s
+**2. ALP Competitions**  
+* Lexical Labyrinth for Secondary 1s  
+* Toastmasters Series for Secondary 2s  
+* Debate Challenge for Secondary 3s  
 
 
 **3. Reading Programme** 
