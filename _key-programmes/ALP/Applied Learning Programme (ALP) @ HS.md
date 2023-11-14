@@ -3,9 +3,8 @@ title: Applied Learning Programme (ALP) @ HS
 permalink: /applied-learning-programme/alp/
 description: ""
 third_nav_title: ALP
+variant: markdown
 ---
-
-
 With the aim of Promoting Communication Skills using Authentic Learning as a Platform, HS Applied Learning Programme has three student learning outcomes:
 
 1\. Infusing communication skills into the language (English Language and Mother Tongue Languages) curriculum
@@ -16,8 +15,8 @@ With the aim of Promoting Communication Skills using Authentic Learning as a Pla
 
 All students undergo a 3-year Applied Learning Programme, focussed on developing the following skills at each level:  
 ![](/images/ALP/ALP%20Roadmap.jpg)
-**ALP EL IC -** Mdm Annizell Chan   
-**ALP MTL IC -** Mdm Carmen Cheng 
+**ALP EL IC -**&nbsp;Ms Audrey Chua&nbsp;  
+**ALP MTL IC -**&nbsp;Mdm Carmen Cheng&nbsp;
 
   
 
@@ -36,4 +35,4 @@ With SMM still in place, this year’s ALP workshops were held as class-based ac
   
 
 #### EL ALP Video
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/leZieZchRD8" title="2022 EL ALP Activities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/leZieZchRD8" title="2022 EL ALP Activities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
