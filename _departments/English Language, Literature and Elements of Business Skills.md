@@ -14,7 +14,7 @@ Ms Audrey Chua
 
 **Teachers**:   
 Mr Kervin Tang [Senior Teacher, English Language]  
-Mdm Amalina Abdul Samad 
+Mdm Amalina Abdul Samad  
 Ms C Minnoli  
 Mr Charles Wong  
 Mr Eugene Ling  
@@ -22,12 +22,13 @@ Mrs Gomathi Guna
 Ms Joyce Lee  
 Mdm Martini Rahmat  
 Ms Nur Adilah Bte Jasman  
+Mr Rio Elijah Chua  
 Mr Ronnie Yeo  
-Mr Sean Oh  
+Mr Sean Oh   
 Ms Tan Yin Wei  
 Ms Uma Magheswary  
 Mdm Soonam Sivadasan (FAJT)  
-Mr Han Zheming Chuck-E (FAJT)
+Mr Han Zheming Chuck-E (FAJT)  
   
 
 ### Vision
@@ -36,10 +37,11 @@ Passionate Readers, Competent Writers , Eloquent Communicators
 
 ### Curricular Goals and Objectives
 
-* To develop students who communicate confidently, clearly and effectively in speech and writing in response to situation, purpose and audience.
-* To develop students who are competent readers with a love and appreciation for a variety of texts and the way writers use language to suit a range of purposes and achieve their effects.
-* To develop students who explore areas of human concern, leading to a greater understanding of self and others.
-*	To develop in students an awareness of the business landscape in Singapore and its opportunities and challenges, so that they will be more reflective of the knowledge and skills they need.
+•	To develop students who communicate confidently, clearly and effectively in speech and writing in response to situation, purpose and audience.  
+•	To develop students who are competent readers with a love and appreciation for a variety of texts and the way writers use language to suit a range of purposes and achieve their effects.  
+•	To develop students who explore areas of human concern, leading to a greater understanding of self and others.  
+•	To develop in students an awareness of the business landscape in Singapore and its opportunities and challenges, so that they will be more reflective of the knowledge and skills they need.  
+
 
 
   
