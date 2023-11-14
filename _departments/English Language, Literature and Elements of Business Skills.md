@@ -60,8 +60,7 @@ Elements of Business Skills
 *	In conversations with Playwright and Director of Literature Text for Secondary 4 Literature students  
 *	National Schools Literature Festival  
 *	Oldham Cup Debate Competition  
-*	Write for Kindness by Singapore Kindness Movement
-)  
+*	Write for Kindness by Singapore Kindness Movement  
 
 **2. ALP Competitions**
 * Lexical Labyrinth for Secondary 1s
