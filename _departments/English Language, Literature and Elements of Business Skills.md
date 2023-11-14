@@ -54,25 +54,14 @@ Elements of Business Skills
 ### Programmes and Activities
 
 **1. Academic Programmes**  
-Applied Learning Programme (ALP)
-* Secondary 1
-	*	Writing and Representing Creatively
-	*	Playwriting
-	*	Script Writing
-	*	Comedic Storytelling
-
-* Secondary 2
-	* Speaking and Representing Confidently
-	* Public Speaking
-	* Emceeing and Presentation
-	* Speech and Drama
-
-
-* Secondary 3
-	* Reading and Viewing Critically
-	* Developing Analytical Responses to Social Issues
-	* Video Production (YouTuber)
-	* Cyber Celebrity (Social Media Advertising)
+•	Reading Programme  
+•	GRIT Moment Sharing  
+•	Learning Journeys for Secondary 3 &amp; 4 EBS students  
+•	In conversations with Playwright and Director of Literature Text for Secondary 4 Literature students  
+•	National Schools Literature Festival  
+•	Oldham Cup Debate Competition  
+•	Write for Kindness by Singapore Kindness Movement
+)  
 
 **2. ALP Competitions**
 * Lexical Labyrinth for Secondary 1s
