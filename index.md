@@ -22,4 +22,7 @@ sections:
       button: View all
   - infobar:
       subtitle: Latest News
+      description: "The results of the 2023 Primary School Leaving Examination (PSLE)
+        will be released on Wednesday, 22 November 2023 at 11.00am. "
+      title: Release of 2023 PSLE Results
 ---
