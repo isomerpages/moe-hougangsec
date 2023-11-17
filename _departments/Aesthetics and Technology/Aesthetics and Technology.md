@@ -131,6 +131,15 @@ o	Certificate of Participation for ‘Daedalus’ challenge: Mohamed Irfan bin M
 
 
 #### **Staff**  
+**2023 Academy Award for Professional Development ‘Associate’**   
+Mdm Farahana Binti Abdul Rahim, Ms Dzafiirah Binte Mohammad Hakim, Ms Koh Bao Ru Jane
+
+**2023 MOE Innergy Award (Commendation)**  
+Mdm Farahana Binti Abdul Rahim, Ms Dzafiirah Binte Mohammad Hakim, Ms Koh Bao Ru Jane
+
+**2022 MOE Service Excellence Award (Gold)**  
+Ms Dzafiirah Binte Mohammad Hakim, Ms Koh Bao Ru Jane, Ms Low Wee Kie Jasmine, Mr Ng Geok Leng Benny and Ms Tan Wei Jing
+
 •	**2023 Teacher-Led workshop on ‘Using Experiential Learning Approach to Teach Mechanism’** – Mr Ng Geok Leng Benny, Mr Anwarul Nizam B Ismail and Mr Choo Boon Kian Alfred  
 •	**2023 Teachers’ Conference and ExCEL Fest 2023 (TCEF2023)** presentation on ‘Leveraging digital tools to sequence and scaffold the Teaching of Composition in Art.’ – Mdm Farahana Binti Abdul Rahim, Ms Dzafiirah Binte Mohammad Hakim and Ms Koh Bao Ru Jane  
 •	**2022 AST ‘emPowereD Issue 7** on Inquiry-Based Learning featured teacher – Ms Jasmine Low Wee Kie  
@@ -143,4 +152,6 @@ o	Certificate of Participation for ‘Daedalus’ challenge: Mohamed Irfan bin M
 •	**2021 MOE Service Excellence Award (Platinum)** – Mr Mohamed Fahizel  
 •	**2021 MOE Service Excellence Award (Gold)** – Mr Mohamed Fahizel, Mdm Farahana Binti Abdul Rahim, Ms Tan Wei Jing and Mr Tangarajoo Marimuthu  
 •	**2021 MOE Service Excellence Award (Silver)** – Mdm Azlinah Wahed  
-•	**2021 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie
+•	**2021 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie  
+•	**Staff Sharing**  
+Our Art teachers led an insightful sharing session for fellow art educators, exploring effective strategies for art coursework.
