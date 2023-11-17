@@ -3,6 +3,7 @@ title: Design and Technology
 permalink: /departments/aesthetics-and-technology/dnt/
 description: ""
 third_nav_title: Aesthetics and Technology
+variant: markdown
 ---
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/S_Nt0Y6sInw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></center>
 
@@ -103,3 +104,7 @@ A badge is a special or distinctive mark, token, or device worn as a sign of all
 From digital designs on your laptops to something tangible that you can hold in your hands. A 3D printer essentially works by extruding molten plastic through a tiny nozzle that it moves around precisely under computer control. It prints one layer, waits for it to dry, and then prints the next layer on top. Students undergo a program to generate ideas, make cardboard mock-ups, produce digital models and print out toys of their own design! 
 
 <img src="/images/MG7.jpeg" style="width:65%">
+
+
+Teacher-Led Workshop 
+<iframe src="https://docs.google.com/presentation/d/1WBqDfm0AZvZ75tPTJg516vczkj-HGISuV-marYQe4OM/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
