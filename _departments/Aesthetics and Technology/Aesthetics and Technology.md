@@ -80,8 +80,8 @@ Accolades
 * 	Top 5 in Singapore: Sakinah Binte Jefri from 4N  
 * 	Merit Award: Djaganuiraman Harisha from 2N  
 
-Student Learning Space Avatar Competition 2021
-Artwork selected: Holmberg Eunice from 3E3
+**Student Learning Space Avatar Competition 2021**  
+Artwork selected: Holmberg Eunice from 3E3  
 
 
 **Music Unit**  
