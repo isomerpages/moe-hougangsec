@@ -3,6 +3,7 @@ title: Aesthetics and Technology
 permalink: /departments/Aesthetics-and-Technology/aesthetics-and-technology/
 description: ""
 third_nav_title: Aesthetics and Technology
+variant: markdown
 ---
 **Head of Department (A&T)**   
 Mr Mohamed Fahizel
@@ -74,6 +75,14 @@ Accolades
 ---------
 
 **Students**  
+  
+**Live on Festival (LOF) Design Competition 2023 (School Category)  **
+* 	Top 5 in Singapore: Sakinah Binte Jefri from 4N  
+* 	Merit Award: Djaganuiraman Harisha from 2N  
+
+Student Learning Space Avatar Competition 2021
+Artwork selected: Holmberg Eunice from 3E3
+
 
 **Music Unit**  
 •	2023 Aspire Showcase by our N(T) Level Music students  
