@@ -155,3 +155,4 @@ Ms Dzafiirah Binte Mohammad Hakim, Ms Koh Bao Ru Jane, Ms Low Wee Kie Jasmine, M
 •	**2021 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie  
 •	**Staff Sharing**  
 Our Art teachers led an insightful sharing session for fellow art educators, exploring effective strategies for art coursework.
+
