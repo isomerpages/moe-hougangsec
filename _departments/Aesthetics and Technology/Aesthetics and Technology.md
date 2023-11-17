@@ -154,9 +154,11 @@ Ms Dzafiirah Binte Mohammad Hakim, Ms Koh Bao Ru Jane, Ms Low Wee Kie Jasmine, M
 •	**2021 MOE Service Excellence Award (Silver)** – Mdm Azlinah Wahed  
 •	**2021 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie  
 
+  
 **Staff Sharing**  
 Our Art teachers led an insightful sharing session for fellow art educators, exploring effective strategies for art coursework.
 ![Art Unit Sharing 1](/images/Department/AnT/Art_Unit_Sharing_1.jpeg)
 
 ![Art Unit Sharing 2](/images/Department/AnT/Art_Unit_Sharing_2.jpeg)
+
 ![Art Unit Sharing 3](/images/Department/AnT/Art_Unit_Sharing_3.jpeg)
