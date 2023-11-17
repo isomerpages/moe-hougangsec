@@ -106,5 +106,5 @@ From digital designs on your laptops to something tangible that you can hold in 
 <img src="/images/MG7.jpeg" style="width:65%">
 
 
-Teacher-Led Workshop 
+#### **Teacher-Led Workshop** 
 <iframe src="https://docs.google.com/presentation/d/1WBqDfm0AZvZ75tPTJg516vczkj-HGISuV-marYQe4OM/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
