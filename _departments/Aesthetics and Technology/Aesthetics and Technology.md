@@ -74,11 +74,11 @@ Students applied the skills taught in their lessons to design and prepare their 
 Accolades
 ---------
 
-**Students**  
+#### **Students**  
   
-**Live on Festival (LOF) Design Competition 2023 (School Category)  **
-* 	Top 5 in Singapore: Sakinah Binte Jefri from 4N  
-* 	Merit Award: Djaganuiraman Harisha from 2N  
+**Live on Festival (LOF) Design Competition 2023 (School Category)**  
+•	  Top 5 in Singapore: Sakinah Binte Jefri from 4N    
+•	  Merit Award: Djaganuiraman Harisha from 2N    
 
 **Student Learning Space Avatar Competition 2021**  
 Artwork selected: Holmberg Eunice from 3E3  
@@ -130,7 +130,7 @@ o	Certificate of Participation for ‘Daedalus’ challenge: Mohamed Irfan bin M
 
 
 
-**Staff**  
+#### **Staff**  
 •	**2023 Teacher-Led workshop on ‘Using Experiential Learning Approach to Teach Mechanism’** – Mr Ng Geok Leng Benny, Mr Anwarul Nizam B Ismail and Mr Choo Boon Kian Alfred  
 •	**2023 Teachers’ Conference and ExCEL Fest 2023 (TCEF2023)** presentation on ‘Leveraging digital tools to sequence and scaffold the Teaching of Composition in Art.’ – Mdm Farahana Binti Abdul Rahim, Ms Dzafiirah Binte Mohammad Hakim and Ms Koh Bao Ru Jane  
 •	**2022 AST ‘emPowereD Issue 7** on Inquiry-Based Learning featured teacher – Ms Jasmine Low Wee Kie  
