@@ -108,7 +108,6 @@ Below are the list of our winners:
 
 <iframe src="https://docs.google.com/presentation/d/1_YbrGCvPU5Ae3Wl_60QiCpm5xDOx-GNY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-/edit?usp=sharing&amp;ouid=104292189509076187140&amp;rtpof=true&amp;sd=true
 
 
 **Secondary 3 Art Enrichment**  
