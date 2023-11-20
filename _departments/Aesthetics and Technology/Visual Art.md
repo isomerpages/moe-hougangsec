@@ -187,8 +187,11 @@ On top of that, students also have the opportunity to get inspired and broaden t
 
 
 
-**Art Exhibits**  
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsz-u-BqRZ-ZuVoN8wMVehtcHrCZ9NQop4V8_YzCOWxsf_eirP3AuR50w0uZ-I5w/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
+**Sino-SIN Exchange Programme:**  
+
+HS hosted a three-day school visit with Haikou No 1. Middle school and our Art Unit was delighted to share a hands-on Art lesson with them. Students recreated the beautiful plants found at our Singapore Botanical Gardens on ceramic tiles.  
+
+<iframe src="https://docs.google.com/presentation/d/148HPW4H5V_mXujN8sHydA8Jt5YJ7ww2H/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
   
 
 &nbsp;**Live on Festival (LOF) Design 2021**   
