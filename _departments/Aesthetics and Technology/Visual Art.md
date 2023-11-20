@@ -174,13 +174,21 @@ Below are the list of our winners:
 
 Refer to our winning submissions [here](https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool).  
 
-<iframe src="https://docs.google.com/presentation/d/1IjQA37y0PbMx6Ulmh1BLYKLgTFKwJbDU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1IjQA37y0PbMx6Ulmh1BLYKLgTFKwJbDU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>  
+
+
+**Secondary 3 Art Enrichment and Learning Journeys**  
+Secondary 3 Art students can look forward to an exciting range of media, such as ceramics, digital art, painting, photography and printmaking.  
+
+On top of that, students also have the opportunity to get inspired and broaden their learning experiences beyond the walls of the classroom. The unit organized Learning Journeys to Art events such as ART STAGE, SYF Exhibition and visits to Secondary schools (Victoria, Zhong Hua, CHIJ, Orchid Park), Art Museums and Art Exhibitions, most recently Batik Kita Exhibition at Asian Civilisation Museum and Vincent Van Gogh Immersive Exhibition at Resorts World.   
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsz-u-BqRZ-ZuVoN8wMVehtcHrCZ9NQop4V8_YzCOWxsf_eirP3AuR50w0uZ-I5w/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
 
 
 
-**Sino-SIN Exchange Programme:**  
 
-HS hosted a three-day school visit with Haikou No 1. Middle school and our Art Unit was delighted to share a hands-on Art lesson with them. Students recreated the beautiful plants found at our Singapore Botanical Gardens on ceramic tiles.  
+
+
 
 **Art Exhibits**  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSsz-u-BqRZ-ZuVoN8wMVehtcHrCZ9NQop4V8_YzCOWxsf_eirP3AuR50w0uZ-I5w/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
