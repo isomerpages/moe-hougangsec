@@ -212,14 +212,9 @@ Visit our HS e-Gallery to view the masterpieces by our HS Artists!
 2023: https://go.gov.sg/hsartencounters  
 
 
-
-
 | ![](/images/Department/AnT/WhatsApp_Image_2023_10_25_at_15_55_18.jpeg) | ![](/images/Department/AnT/WhatsApp_Image_2023_10_25_at_15_11_21.jpeg) | 
 | -------- | -------- | 
  
-
-
-
 
 
 **Online Design Gallery &amp; Essay Showcase Presentation**
