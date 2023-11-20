@@ -17,7 +17,7 @@ sections:
         - title: OUR INSTAGRAM
           description: ""
           url: https://www.instagram.com/hougang_secondary_official/
-      url: https://staging.d39vo9id9gavkv.amplifyapp.com/open-house/welcome/
+      url: https://www.hougangsec.moe.edu.sg/open-house/welcome/
       variant: center
       button: Click Here For Our Open House
   - resources:
