@@ -194,51 +194,17 @@ HS hosted a three-day school visit with Haikou No 1. Middle school and our Art U
 <iframe src="https://docs.google.com/presentation/d/148HPW4H5V_mXujN8sHydA8Jt5YJ7ww2H/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
   
 
-&nbsp;**Live on Festival (LOF) Design 2021**   
+**Inter-disciplinary Museum-based learning**  
 
-We are pleased to announce that the following student has emerged as one of the winners for LOF 2021 – Design Competition!
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-apyk">LOF</td>
-    <td class="tg-apyk">Name</td>
-    <td class="tg-apyk">Class</td>
-    <td class="tg-apyk">Award</td>
-  </tr>
-  <tr>
-    <td class="tg-tlx9">Design Competition</td>
-    <td class="tg-tlx9">Ho Jun Wei</td>
-    <td class="tg-tlx9">3E3 (2021)</td>
-    <td class="tg-tlx9">Distinction</td>
-  </tr>
-</tbody>
-</table>
+Students were introduced to artworks by local and international artists, offering them the chance to appreciate and craft literary responses through poem-writing. The lesson was led by the Art and English Literature Unit.  
+<iframe src="https://docs.google.com/presentation/d/1FezC_t44_9k7anERorgLpdwsACv20GF5/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
 
 
-A congratulatory speech by the online Guest of Honour (GOH), Ms Gan Siow Huang (Minister of State for Education &amp; Manpower shares about her appreciation to students and teachers for their inextinguishable effort and participation in the competition despite the COVID-19 situation.&nbsp;  
-&nbsp;  
+
+
+
 
 **Online Design Gallery &amp; Essay Showcase Presentation**
 
 &nbsp;[https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool](https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool)
 
-&nbsp;  
-**Impian by Ho Jun Wei**
-
-![](/images/jun%20wei%20copy.jpeg)
-
-![](/images/Impian%20by%20Ho%20Jun%20Wei.jpeg)
-
-**Onward Singapore 2021**
-
-![](/images/SHeraz%20A3%20display%20copy.jpeg)
