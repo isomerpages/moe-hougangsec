@@ -17,7 +17,7 @@ In HS, we hope to be an active platform for our students to experience, explore 
 We encourage every student to recognise the value of art through its historical and cultural context.
 
 
-**Lower Secondary Lesson**   
+**Lower Secondary Art**   
 Lower Secondary Art lessons aim to give students a glimpse of the various art media. The art lessons are prepared to encourage creative expression and imaginative play in the art making process whilst taking the core learning experiences into consideration which are foundational experiences that provide students with a holistic understanding of Art and are unique to the learning of Art.  
 
 <center><iframe src="https://docs.google.com/presentation/d/1GDE80wYN0CZduX0yTWWydsOfmzrFMpK-/embed?start=false&amp;loop=false&amp;delayms=2000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
