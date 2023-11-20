@@ -178,6 +178,7 @@ Refer to our winning submissions [here](https://www.liveon.gov.sg/gallery.html?I
 
 
 **Secondary 3 Art Enrichment and Learning Journeys**  
+
 Secondary 3 Art students can look forward to an exciting range of media, such as ceramics, digital art, painting, photography and printmaking.  
 
 On top of that, students also have the opportunity to get inspired and broaden their learning experiences beyond the walls of the classroom. The unit organized Learning Journeys to Art events such as ART STAGE, SYF Exhibition and visits to Secondary schools (Victoria, Zhong Hua, CHIJ, Orchid Park), Art Museums and Art Exhibitions, most recently Batik Kita Exhibition at Asian Civilisation Museum and Vincent Van Gogh Immersive Exhibition at Resorts World.   
