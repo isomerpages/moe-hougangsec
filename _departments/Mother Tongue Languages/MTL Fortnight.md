@@ -66,6 +66,5 @@ During the week from 31 March-6 April and 31July-4August , the Mother Tongue Dep
 
 
 #### Sec 3 风筝制作  
-<iframe src="https://docs.google.com/presentation/d/1ckEnfzJzUgaDUFTxAeSo00mzMryfl_xa/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/1xurV91dLrbYEZ74vHNVxbKCqRheA-3rs/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
