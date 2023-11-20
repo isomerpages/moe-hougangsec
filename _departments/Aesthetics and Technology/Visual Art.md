@@ -22,7 +22,6 @@ Lower Secondary Art lessons aim to give students a glimpse of the various art me
 
 <center><iframe src="https://docs.google.com/presentation/d/1GDE80wYN0CZduX0yTWWydsOfmzrFMpK-/embed?start=false&amp;loop=false&amp;delayms=2000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe></center>
 
-/edit?usp=sharing&amp;ouid=104292189509076187140&amp;rtpof=true&amp;sd=true
 
 **Art Competitions**  
 Our students are given opportunities to participate in Art Competitions and events and have received accolades in major art events, such as Singapore Youth Festival Art Exhibition, IgnITE Skills Challenge, National Organ Transplant Unit Live On Festival Design Competition, VIArt, SLS Avatar Design Competition, Comic Strip and more.  
