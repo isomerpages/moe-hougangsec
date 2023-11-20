@@ -172,8 +172,9 @@ Below are the list of our winners:
   mso-border-top-alt:solid black 1.0pt;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="126"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial">Distinction (School Category)</span></p></td></tr></tbody></table>  
 
-Refer to our winning submissions [here](https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool).
+Refer to our winning submissions [here](https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool).  
 
+<iframe src="https://docs.google.com/presentation/d/1IjQA37y0PbMx6Ulmh1BLYKLgTFKwJbDU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
 
 
 
