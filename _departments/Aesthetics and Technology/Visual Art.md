@@ -110,19 +110,71 @@ Below are the list of our winners:
 
 
 
-**Secondary 3 Art Enrichment**  
+**National Organ Transplant Unit Live On Festival Design Competition**  
 
-Secondary 3 Art students can look forward to an exciting range of media, such as ceramics, digital art, painting, photography and printmaking.
+Every year, HS Art Unit encourage our fellow Sec 2 students &amp; Upper Secondary Art students to participate in the Live On Festival Design Competition organised by the National Organ Transplant Unit, also known as NOTU.   
 
-<img src="/images/ae1.jpeg" style="width:100%">
+We are proud to share that our school has achieved awards in this competition since participating in 2021.   
 
-<br>
+Below are the list of our winners:   
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid black .5pt;mso-yfti-tbllook:1024;mso-padding-alt:0mm 5.4pt 0mm 5.4pt;
+ mso-border-insideh:.5pt solid black;mso-border-insidev:.5pt solid black" width="371" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:42.0pt;border:solid black 1.0pt;
+  padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="56"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Year</span></b></p></td><td style="width:86.25pt;border:solid black 1.0pt;
+  border-left:none;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="115"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Name</span></b></p></td><td style="width:55.5pt;border:solid black 1.0pt;
+  border-left:none;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="74"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Class</span></b></p></td><td style="width:94.5pt;border:solid black 1.0pt;
+  border-left:none;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="126"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
+  Arial">Award</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:42.0pt;border:solid black 1.0pt;
+  border-top:none;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="56"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">2023</span></p></td><td style="width:86.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="115"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Sakinah Binte Jefri</span></p></td><td style="width:55.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="74"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">4N (2023)</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="126"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Top 5 in Singapore (School Category)</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:42.0pt;border:solid black 1.0pt;
+  border-top:none;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="56"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">2023</span></p></td><td style="width:86.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="115"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Djanaguiraman Harisha</span></p></td><td style="width:55.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="74"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">2N (2023)</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="126"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Merit</span></p><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">(School Category)</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:42.0pt;border:solid black 1.0pt;
+  border-top:none;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="56"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">2022</span></p></td><td style="width:86.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="115"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Tricia Wu En Ting</span></p></td><td style="width:55.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="74"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">4A1 (2022)</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="126"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Distinction</span></p><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">(School Category)</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes"><td style="width:42.0pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="56"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">2021</span></p></td><td style="width:86.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="115"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Ho Jun Wei</span></p></td><td style="width:55.5pt;border-top:none;border-left:none;
+  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;mso-border-top-alt:
+  solid black 1.0pt;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="74"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">3E (2021)</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;padding:0mm 5.0pt 0mm 5.0pt" valign="top" width="126"><p class="MsoNormal"><span style="font-size:10.0pt;font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial">Distinction (School Category)</span></p></td></tr></tbody></table>  
 
-<img src="/images/ae2.jpeg" style="width:100%">
+Refer to our winning submissions [here](https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool).
 
-<br>
 
-<img src="/images/ae3.jpeg" style="width:100%">
 
 
 **Sino-SIN Exchange Programme:**  
