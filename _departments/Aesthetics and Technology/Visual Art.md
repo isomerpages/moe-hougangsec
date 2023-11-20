@@ -114,15 +114,15 @@ Below are the list of our winners:
 
 Secondary 3 Art students can look forward to an exciting range of media, such as ceramics, digital art, painting, photography and printmaking.
 
-<img src="/images/ae1.jpeg" style="width:45%">
+<img src="/images/ae1.jpeg" style="width:100%">
 
 <br>
 
-<img src="/images/ae2.jpeg" style="width:45%">
+<img src="/images/ae2.jpeg" style="width:100%">
 
 <br>
 
-<img src="/images/ae3.jpeg" style="width:45%">
+<img src="/images/ae3.jpeg" style="width:100%">
 
 
 **Sino-SIN Exchange Programme:**  
