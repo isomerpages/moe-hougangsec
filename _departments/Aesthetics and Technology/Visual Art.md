@@ -204,12 +204,12 @@ Students were introduced to artworks by local and international artists, offerin
 
 Over the past year, our HS E-gallery and Art learning wall have served as valuable resources and teaching tools in our Art curriculum.   
 
-The 2023 edition showcases an exciting interdisciplinary collaboration with the English Literature and Music Unit.
+The 2023 edition showcases an exciting interdisciplinary collaboration with the English Literature and Music Unit.  
 
 Visit our HS e-Gallery to view the masterpieces by our HS Artists!  
 
-2022: https://go.gov.sg/hsartwhodoisee
-2023: https://go.gov.sg/hsartencounters
+2022: https://go.gov.sg/hsartwhodoisee  
+2023: https://go.gov.sg/hsartencounters  
 
 
 
