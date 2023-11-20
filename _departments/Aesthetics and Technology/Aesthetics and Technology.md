@@ -3,6 +3,7 @@ title: Aesthetics and Technology
 permalink: /departments/Aesthetics-and-Technology/aesthetics-and-technology/
 description: ""
 third_nav_title: Aesthetics and Technology
+variant: markdown
 ---
 **Head of Department (A&T)**   
 Mr Mohamed Fahizel
@@ -73,10 +74,18 @@ Students applied the skills taught in their lessons to design and prepare their 
 Accolades
 ---------
 
-**Students**  
+#### **Students**  
+  
+**Live on Festival (LOF) Design Competition 2023 (School Category)**  
+•	  Top 5 in Singapore: Sakinah Binte Jefri from 4N    
+•	  Merit Award: Djaganuiraman Harisha from 2N    
+
+**Student Learning Space Avatar Competition 2021**  
+Artwork selected: Holmberg Eunice from 3E3  
+
 
 **Music Unit**  
-•	2023 Aspire Showcase by our N(T) Level Music students  
+•	2022 Aspire Showcase by our N(T) Level Music students  
 ![](/images/AnT/Music/music1.jpg)
 •	2020 Singapore Youth Festival, The Youth Station Project  
 o	Song composed: Without You  
@@ -121,7 +130,16 @@ o	Certificate of Participation for ‘Daedalus’ challenge: Mohamed Irfan bin M
 
 
 
-**Staff**  
+#### **Staff**  
+**2023 Academy Award for Professional Development ‘Associate’**   
+Mdm Farahana Binti Abdul Rahim, Ms Dzafiirah Binte Mohammad Hakim, Ms Koh Bao Ru Jane
+
+**2023 MOE Innergy Award (Commendation)**  
+Mdm Farahana Binti Abdul Rahim, Ms Dzafiirah Binte Mohammad Hakim, Ms Koh Bao Ru Jane
+
+**2022 MOE Service Excellence Award (Gold)**  
+Ms Dzafiirah Binte Mohammad Hakim, Ms Koh Bao Ru Jane, Ms Low Wee Kie Jasmine, Mr Ng Geok Leng Benny and Ms Tan Wei Jing
+
 •	**2023 Teacher-Led workshop on ‘Using Experiential Learning Approach to Teach Mechanism’** – Mr Ng Geok Leng Benny, Mr Anwarul Nizam B Ismail and Mr Choo Boon Kian Alfred  
 •	**2023 Teachers’ Conference and ExCEL Fest 2023 (TCEF2023)** presentation on ‘Leveraging digital tools to sequence and scaffold the Teaching of Composition in Art.’ – Mdm Farahana Binti Abdul Rahim, Ms Dzafiirah Binte Mohammad Hakim and Ms Koh Bao Ru Jane  
 •	**2022 AST ‘emPowereD Issue 7** on Inquiry-Based Learning featured teacher – Ms Jasmine Low Wee Kie  
@@ -134,4 +152,13 @@ o	Certificate of Participation for ‘Daedalus’ challenge: Mohamed Irfan bin M
 •	**2021 MOE Service Excellence Award (Platinum)** – Mr Mohamed Fahizel  
 •	**2021 MOE Service Excellence Award (Gold)** – Mr Mohamed Fahizel, Mdm Farahana Binti Abdul Rahim, Ms Tan Wei Jing and Mr Tangarajoo Marimuthu  
 •	**2021 MOE Service Excellence Award (Silver)** – Mdm Azlinah Wahed  
-•	**2021 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie
+•	**2021 Academy Awards for Professional Development ‘Associate’** conferred on Ms Jasmine Low Wee Kie  
+
+  
+**Staff Sharing**  
+Our Art teachers led an insightful sharing session for fellow art educators, exploring effective strategies for art coursework.
+![Art Unit Sharing 1](/images/Department/AnT/Art_Unit_Sharing_1.jpeg)
+
+![Art Unit Sharing 2](/images/Department/AnT/Art_Unit_Sharing_2.jpeg)
+
+![Art Unit Sharing 3](/images/Department/AnT/Art_Unit_Sharing_3.jpeg)

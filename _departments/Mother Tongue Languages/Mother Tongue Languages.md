@@ -53,16 +53,6 @@ Our teachers are committed to produce students who are:
 *   Mother Tongue Fortnight & Cultural Camp (Term 3-4)
 *   Cultural Performance Exposure (Term 2-3)
 
-### Enrichment Programs
-
-**Secondary 1**
-*   Cultural Exposure through Seal-carving.
-
-**Secondary 2**  
-*   Cultural Exposure through Ink-and-water painting; Traditional book-binding
-
-**Secondary 3**
-*   Cultural Exposure through Diabolo Experience; Prof. Wang Deyuan's seminar; Innamorati Two Musical
 
   
 
