@@ -4,9 +4,7 @@ title: Hougang Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/School Logo - Edited.png
 permalink: /
-notification: The school will be closed on 21 Nov 2023 for Staff Learning
-  Journey. The school’s General Office will resume operation on 22 Nov 2023.
-  Thank you!
+notification: ""
 sections:
   - hero:
       background: /images/homepagedemo.gif
@@ -19,7 +17,7 @@ sections:
           url: https://www.instagram.com/hougang_secondary_official/
       url: https://www.hougangsec.moe.edu.sg/open-house/welcome/
       variant: center
-      button: Click Here For Our Open House
+      button: Click Here For Our Open House Programme
   - resources:
       title: Announcements
       subtitle: Our latest updates
