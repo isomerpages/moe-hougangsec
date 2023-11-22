@@ -38,4 +38,4 @@ Sec 3 HCL, Express classes: In the Stand-up Comedy Workshop, students learned ho
 
 Sec 3 NA, NT classes: In the Vlog Workshop, students learned how to create and edit Vlog videos. This helped students improved their abilities to express themselves.  More importantly,  the process helped students understand that every coins has two sides and they should always consider different perspectives. Students were empowered to enhance their self-expression capabilities while discovering their unique talents.  
 
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BFIz7lAvdpw?si=7ZFwm5fyvAhyqVlM" height="315" width="560"></iframe>
