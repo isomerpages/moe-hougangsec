@@ -46,19 +46,19 @@ Secondary 3 – Application of Critical Thinking Skills through:
 
 Secondary 4 Normal (A) – Developing Strategic Verbal Response Skills
 
-<u>**Tier 1 ALP Competitions in 2023:**</u>  
+<u>**Tier 1 ALP Competitions in 2023:**</u>   
 Secondary 1 – Lexical Labyrinth: an inter-class competition, challenging students in word power and vocabulary acquisition through games  
 Secondary 2 – Toastmasters Series: a level-wide public-speaking competition   
 Secondary 3 – ‘Escape from Egypt’: an immersive Escape Room game concept on various language skills    
 
-<u>**Tier 2 ALP Exposure in 2023: **</u> 
+<u>**Tier 2 ALP Exposure in 2023:**</u>  
 •	GRIT Moment Sharing during School Assembly  
 •	Write for Kindness by Singapore Kindness Movement   
 •	International Essay Contest for Young People   
 •	9th Oldham Cup Debate Competition   
 
 
-<u>**Snapshot of ALP Programmes in 2023:**  </u>  
+<u>**Snapshot of ALP Programmes in 2023:**</u>   
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8tChHLb2puI?si=oHu7JOwGwnFlxK3A" height="315" width="560"></iframe>   
 
 
