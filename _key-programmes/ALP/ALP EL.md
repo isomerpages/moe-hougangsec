@@ -8,7 +8,7 @@ third_nav_title: ALP
 **ALP EL IC -**&nbsp;Ms Audrey Chua&nbsp;  
 
  
- School-wide Reading Programme
+ **School-wide Reading Programme**  
 The Reading Programme in HS is both extensive and intensive, with the former giving students a wide range of reading resources and the latter focusing on rich texts that allow students to go deep in their understanding of a topic or theme. 
 With a healthy repertoire of reading resources, the benefits of reading widely are shared with students, and they undergird the Applied Learning Programme by giving our students the content knowledge to understand and apply in authentic platforms.    
   
