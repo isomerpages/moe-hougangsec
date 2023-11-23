@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: ALP
 ---
-<u>**Overview of 2023 ALP Workshops (ML)**</u>   
+<u>**Overview of 2023 ALP Workshops (Malay Language)**</u>   
 
 **Secondary 1: Introduction to ML Poetry**  
 Students were introduced to ML poetry reading, writing, and showcasing their talent in poetry recitation. Students were taught the correct method of reading with style. Dramatization was also introduced at a very basic level with the students putting up a performance at the end of the workshop.  
