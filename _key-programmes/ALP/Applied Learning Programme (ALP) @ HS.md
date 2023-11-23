@@ -20,7 +20,7 @@ Please refer to the webpages below for more information on the respective ALP:
 [Applied Learning Programme (English Language)](https://www.hougangsec.moe.edu.sg/key-programmes/alp-el/)
 
 
-[Applied Learning Programme (Chinese Language)](https://www.hougangsec.moe.edu.sg/applied-learning-programme/alp-cl/)
+[Applied Learning Programme (Chinese Language)](https://www.hougangsec.moe.edu.sg/key-programmes/alp-cl/)
 
   
 [Applied Learning Programme (Malay Language)](https://www.hougangsec.moe.edu.sg/key-programmes/alp-ml/)
