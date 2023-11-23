@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: ALP
 ---
-**ALP EL IC -**&nbsp;Ms Audrey Chua&nbsp;  
+**ALP English IC -**&nbsp;Ms Audrey Chua&nbsp;  
 
  
  **School-wide Reading Programme**  
