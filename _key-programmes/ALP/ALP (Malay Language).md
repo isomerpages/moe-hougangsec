@@ -14,4 +14,8 @@ Students were introduced to ML poetry reading, writing, and showcasing their tal
 The DJ/Podcast ML Workshop introduced students to the concept of the audio drama and content presentation. Students learnt of methods, techniques, and strategies that will entice their audience to be hooked to listening to their short stories or podcasts over audio channels. The increased popularity of Podcasts highlights the importance of effective communication and storytelling, with vocals being the primary tool.  
 
 **Secondary 3: ML Journalism**  
-Students learnt of the concept of 'journalism' in the Malay world. They learnt to use the different language register required of them when reporting a story. Students learnt the basic techniques of writing and reporting a story/event. Ethics and values undergird the basis of what is considered a good journalistic piece of work.
+Students learnt of the concept of 'journalism' in the Malay world. They learnt to use the different language register required of them when reporting a story. Students learnt the basic techniques of writing and reporting a story/event. Ethics and values undergird the basis of what is considered a good journalistic piece of work.  
+
+<iframe src="https://docs.google.com/presentation/d/1EVSIxLorqMvVa7L_zGDiZPCT1plzE8HQ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+
