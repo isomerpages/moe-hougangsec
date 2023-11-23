@@ -40,3 +40,4 @@ The Sec 3’s had the opportunity to do khat calligraphy; an artistic practise o
 
 **Sec 4E 5N – Poetry Appreciation**  
 ![](/images/Department/MTL/PoetryAppreciation.png)  
+![](/images/Department/MTL/Poetry2.jpg)
