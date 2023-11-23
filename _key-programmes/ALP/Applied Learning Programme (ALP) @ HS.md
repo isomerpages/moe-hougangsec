@@ -25,7 +25,7 @@ All students undergo a 3-year Applied Learning Programme, focussed on developing
 ALP workshops were held as class-based activities across each cohort.
 
  
-<u>Overview of 2021 ALP Workshops (EL)</u>   
+<u>Overview of ALP Workshops (EL)</u>   
 **Secondary 1**: Creative Writing Skills   
 **Secondary 2**: Public Speaking Skills   
 **Secondary 3E**: Debating Skills   
