@@ -25,7 +25,7 @@ Sahibba (Scrabble) – The Secondary 2 Malay Language students were involved in 
 
 **Sec 2: Keris**  
 The Sec 2’s also had the opportunity to learn about the keris; a distinctive, asymmetrical dagger used by the Malays as weapon and spiritual object in the eleventh century. They also had an opportunity to make their own keris using paper.  
-(picture)  
+<iframe src="https://docs.google.com/presentation/d/1umtci_3G3Zd7pUUsgao799wMMMy7DmK8/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>    
 
 
 **Sec 3 Batik Painting**  
