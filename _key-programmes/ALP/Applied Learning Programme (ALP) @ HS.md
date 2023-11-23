@@ -5,7 +5,8 @@ description: ""
 third_nav_title: ALP
 variant: markdown
 ---
-With the aim of Promoting Effective Communication using Authentic Learning as a Platform, HS Applied Learning Programme has three student learning outcomes:  
+With the aim of Promoting Effective Communication using Authentic Learning as a Platform, HS Applied Learning Programme has three student learning outcomes:   
+
 1.	Infusing communication skills into the language curriculum  
 
 2.	Gaining communication skills in both languages (EL and MTL) via various workshops, to boost their confidence and competencies in connecting with the real world  
@@ -19,7 +20,6 @@ All students undergo a three-year Applied Learning Programme, focused on develop
   
 
 **ALP EL IC -**&nbsp;Ms Audrey Chua&nbsp;  
-**ALP MTL IC -**&nbsp;Ms Carmen Cheng&nbsp;
 
  
  School-wide Reading Programme
@@ -59,6 +59,4 @@ Secondary 3 – ‘Escape from Egypt’: an immersive Escape Room game concept o
 
 
 <u>**Snapshot of ALP Programmes in 2023:**</u>   
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8tChHLb2puI?si=oHu7JOwGwnFlxK3A" height="315" width="560"></iframe>   
-
-
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8tChHLb2puI?si=oHu7JOwGwnFlxK3A" height="315" width="560"></iframe>
