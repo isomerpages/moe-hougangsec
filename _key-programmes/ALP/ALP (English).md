@@ -5,6 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: ALP
 ---
+All students undergo a three-year Applied Learning Programme, focused on developing the following skills at each level:   
+
+![](/images/Key%20Programmes/ALP/ALP_EL_1.jpg)
 **ALP English IC -**&nbsp;Ms Audrey Chua&nbsp;  
 
  
