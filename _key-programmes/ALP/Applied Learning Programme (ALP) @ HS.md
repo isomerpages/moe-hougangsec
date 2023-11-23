@@ -13,9 +13,3 @@ With the aim of Promoting Effective Communication using Authentic Learning as a 
 
 3.	Being given opportunities to lead during assemblies, performances and student-initiated activities to maximise the authentic learning experience.  
 
-All students undergo a three-year Applied Learning Programme, focused on developing the following skills at each level:   
-
-![](/images/Key%20Programmes/ALP/ALP_EL_1.jpg)
-
-  
-
