@@ -9,8 +9,9 @@ Malay Language Programmes
 
 Sec 1:  Congkak   
 As part of the MTL Fortnight, the Secondary 1 Malay Language students had the opportunity to experience how to play Congkak and to hold a conversation with their peers.  
-(picture)  
-	
+<iframe src="https://docs.google.com/presentation/d/1tFo2_4XDankeLdtehChm36ubKhTVu8vT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+
+
 
 Sec 1: Gasing  
 The Sec 1’s also had the opportunity to know more about the traditional game ‘gasing’ or top and created one using a toothpick and coloured papers. It was amazing to see that it actually worked!  
