@@ -75,9 +75,7 @@ During the week from 31 March-6 April and 31July-4August , the Mother Tongue Dep
 
 #### Sec4&amp;5N 中国结  
 
-| ![](/images/Department/MTL/Picture26.jpg) | ![](/images/Department/MTL/Picture25.jpg) | ![](/images/Department/MTL/Picture27.jpg) |
-| -------- | -------- | -------- |
-
-
-
+![](/images/Department/MTL/Picture26.jpg)   
+![](/images/Department/MTL/Picture25.jpg)   
+![](/images/Department/MTL/Picture27.jpg)  
 
