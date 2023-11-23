@@ -20,8 +20,8 @@ The Sec 1’s also had the opportunity to know more about the traditional game �
 
 **Sec 2: Sahibba**  
 Sahibba (Scrabble) – The Secondary 2 Malay Language students were involved in a classic battle of wits and words where every word counts in a game of Sahibba.  
-(picture)  
-
+<iframe src="https://docs.google.com/presentation/d/17UfleAfK1KnILqZIX2SW5blqiVu9Vs3k/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
+  
 
 **Sec 2: Keris**  
 The Sec 2’s also had the opportunity to learn about the keris; a distinctive, asymmetrical dagger used by the Malays as weapon and spiritual object in the eleventh century. They also had an opportunity to make their own keris using paper.  
