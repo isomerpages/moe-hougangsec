@@ -2,11 +2,11 @@ collections:
   key-programmes:
     output: true
     order:
-      - ALP MTL.md
-      - ALP EL.md
       - ALP/.keep
       - ALP/Applied Learning Programme (ALP) @ HS.md
       - ALP/Chinese ALP.md
+      - ALP EL.md
+      - ALP MTL.md
       - HS Innovates/.keep
       - HS Innovates/HS Innovation Framework.md
       - HS Innovates/Every Hougean Innovates.md
