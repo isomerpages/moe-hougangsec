@@ -1,6 +1,6 @@
 ---
 title: ALP MTL
 permalink: /key-programmes/alp-mtl/
-variant: tiptap
+variant: markdown
 description: ""
 ---
