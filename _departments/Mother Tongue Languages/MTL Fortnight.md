@@ -25,4 +25,15 @@ The MTL Fortnight is organized within a designated two-week period, one week in 
 
 - Cultural Appreciation: Students are encouraged to reflect on their cultural identity and share personal stories related to their heritage. This fosters a deeper connection to their roots and a sense of belonging.  
 
-In summary, the MTL Fortnight serves as an immersive platform for students to learn and appreciate their Mother Tongue Languages and Cultures. Fun and engaging activities are curated to stimulate students’ interests, motivating them to learn more.
+In summary, the MTL Fortnight serves as an immersive platform for students to learn and appreciate their Mother Tongue Languages and Cultures. Fun and engaging activities are curated to stimulate students’ interests, motivating them to learn more.  
+
+
+Please visit the webpages below for more information.  
+
+[MTL Fortnight (Chinese Language)](https://www.hougangsec.moe.edu.sg/departments/mother-tongue-languages/mtl-fnt-cl/)
+
+
+[MTL Fortnight (Malay Language)](https://www.hougangsec.moe.edu.sg/departments/mother-tongue-languages/mtl-fnt-ml/)
+
+
+
