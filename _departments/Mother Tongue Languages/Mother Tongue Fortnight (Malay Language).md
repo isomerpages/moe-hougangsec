@@ -30,12 +30,12 @@ The Sec 2’s also had the opportunity to learn about the keris; a distinctive, 
 
 **Sec 3 Batik Painting**  
 The Secondary 3 Malay Language Students had a fun time exhibiting their creativity in colouring the traditional art of batik painting.  
-(picture)  
+<iframe src="https://docs.google.com/presentation/d/1su_OOgLLTL2pzIcG1rS9Kdr2UpPQzUBx/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
 
 
 **Sec 3: Khat Calligraphy**  
 The Sec 3’s had the opportunity to do khat calligraphy; an artistic practise of handwriting using brushwork based on Jawi scripts. Jawi is written in a modified Arabic script and read in Malay. Did you know that Jawi was the official script in most parts of the Malay Archipelago, including Singapore, for more than 700 years?  
-(picture)  
+<iframe src="https://docs.google.com/presentation/d/1rceMKYHLemMOLTzqzSnPiRWRKlN5P0CU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
 
 
 **Sec 4E 5N – Poetry Appreciation**  
