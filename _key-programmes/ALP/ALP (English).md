@@ -8,7 +8,6 @@ third_nav_title: ALP
 All students undergo a three-year Applied Learning Programme, focused on developing the following skills at each level:   
 
 ![](/images/Key%20Programmes/ALP/ALP_EL_1.jpg)
-**ALP English IC -**&nbsp;Ms Audrey Chua&nbsp;  
 
  
  **School-wide Reading Programme**  
@@ -45,6 +44,9 @@ Secondary 3 – ‘Escape from Egypt’: an immersive Escape Room game concept o
 •	Write for Kindness by Singapore Kindness Movement   
 •	International Essay Contest for Young People   
 •	9th Oldham Cup Debate Competition   
+
+**ALP English IC -**&nbsp;Ms Audrey Chua&nbsp;  
+
 
 
 <u>**Snapshot of ALP Programmes in 2023:**</u>   
