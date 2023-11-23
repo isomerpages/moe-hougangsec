@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
-### **Mother Tongue Language (MTL) Fortnight 2023**   
+### **Mother Tongue Language (MTL) Fortnight 2023 Overview**   
 
 The MTL Fortnight is an annual program designed to create an immersive environment for students to learn and appreciate Mother Tongue Languages and Cultures. It aims to make MTL learning engaging and relevant by offering a range of activities that bring language and culture to life.  
 
@@ -25,6 +25,4 @@ The MTL Fortnight is organized within a designated two-week period, one week in 
 
 - Cultural Appreciation: Students are encouraged to reflect on their cultural identity and share personal stories related to their heritage. This fosters a deeper connection to their roots and a sense of belonging.  
 
-In summary, the MTL Fortnight serves as an immersive platform for students to learn and appreciate their Mother Tongue Languages and Cultures. Fun and engaging activities are curated to stimulate students’ interests, motivating them to learn more.  
-
-
+In summary, the MTL Fortnight serves as an immersive platform for students to learn and appreciate their Mother Tongue Languages and Cultures. Fun and engaging activities are curated to stimulate students’ interests, motivating them to learn more.
