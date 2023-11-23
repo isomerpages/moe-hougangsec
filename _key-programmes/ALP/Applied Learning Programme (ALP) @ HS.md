@@ -13,3 +13,15 @@ With the aim of Promoting Effective Communication using Authentic Learning as a 
 
 3.	Being given opportunities to lead during assemblies, performances and student-initiated activities to maximise the authentic learning experience.  
 
+Please refer to the webpages below for more information on the respective ALP:  
+
+
+
+[Applied Learning Programme (English)](https://www.hougangsec.moe.edu.sg/key-programmes/alp-el/)
+
+
+[Applied Learning Programme (Chinese)](https://www.hougangsec.moe.edu.sg/applied-learning-programme/alp-cl/)
+
+  
+[Applied Learning Programme (Malay)](https://www.hougangsec.moe.edu.sg/key-programmes/alp-ml/)
+
