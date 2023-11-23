@@ -1,6 +1,6 @@
 ---
 title: ALP EL
 permalink: /key-programmes/alp-el/
-variant: tiptap
+variant: markdown
 description: ""
 ---
