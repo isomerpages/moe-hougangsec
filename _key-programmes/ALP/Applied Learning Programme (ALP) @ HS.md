@@ -24,34 +24,37 @@ All students undergo a three-year Applied Learning Programme, focused on develop
  
  School-wide Reading Programme
 The Reading Programme in HS is both extensive and intensive, with the former giving students a wide range of reading resources and the latter focusing on rich texts that allow students to go deep in their understanding of a topic or theme. 
-With a healthy repertoire of reading resources, the benefits of reading widely are shared with students, and they undergird the Applied Learning Programme by giving our students the content knowledge to understand and apply in authentic platforms. 
-Cohort Programmes in 2023 
-Tier 1 ALP Workshops in 2023: 
-Secondary 1 – Experiencing Drama through:
-•	Script Writing
-•	Comedic Storytelling
-•	Media Production
-Secondary 2 – Speaking and Representing Confidently through:
-•	Public Speaking
-•	Emcee and Presentation Skills
-•	Cyber Celebrity 
+With a healthy repertoire of reading resources, the benefits of reading widely are shared with students, and they undergird the Applied Learning Programme by giving our students the content knowledge to understand and apply in authentic platforms.    
+  
+**Cohort Programmes in 2023**
 
-Secondary 3 – Application of Critical Thinking Skills through:
-•	AI-powered Public Speaking
-•	Cyber Celebrity (Social Causes)
-•	YouTuber workshops	
+<u>**Tier 1 ALP Workshops in 2023:**</u>   
+Secondary 1 – Experiencing Drama through:  
+•	Script Writing  
+•	Comedic Storytelling  
+•	Media Production    
+
+Secondary 2 – Speaking and Representing Confidently through:  
+•	Public Speaking  
+•	Emcee and Presentation Skills  
+•	Cyber Celebrity   
+
+Secondary 3 – Application of Critical Thinking Skills through:  
+•	AI-powered Public Speaking  
+•	Cyber Celebrity (Social Causes)  
+•	YouTuber workshops	  
 
 Secondary 4 Normal (A) – Developing Strategic Verbal Response Skills
 
-Tier 1 ALP Competitions in 2023:  
+<u>**Tier 1 ALP Competitions in 2023:**</u>  
 Secondary 1 – Lexical Labyrinth: an inter-class competition, challenging students in word power and vocabulary acquisition through games  
 Secondary 2 – Toastmasters Series: a level-wide public-speaking competition   
 Secondary 3 – ‘Escape from Egypt’: an immersive Escape Room game concept on various language skills    
 
-Tier 2 ALP Exposure in 2023:  
-•	GRIT Moment Sharing during School Assembly
-•	Write for Kindness by Singapore Kindness Movement 
-•	International Essay Contest for Young People 
+<u>**Tier 2 ALP Exposure in 2023: **</u> 
+•	GRIT Moment Sharing during School Assembly  
+•	Write for Kindness by Singapore Kindness Movement   
+•	International Essay Contest for Young People   
 •	9th Oldham Cup Debate Competition   
 
 
