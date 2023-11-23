@@ -5,6 +5,13 @@ variant: markdown
 description: ""
 third_nav_title: Mother Tongue Languages
 ---
+**Reading Programme (EL write-up):**  
+In Hougang Secondary School’s MTL Reading Programme, students are exposed to a variety of reading resources comprising of articles as well as literary texts such as novels, short stories and poems. Students are kept abreast of contemporary issues when they read online newspapers like Zao Bao, Berita Harian and Gen G from their professional learning device (I-pad). For follow-up activities, students provided their viewpoints and applied critical and higher order thinking upon reading subscribed materials through platforms such as Grit Moment sessions during morning FRC.  
+
+**Reading Programme (ML write-up):**   
+Dalam Program Membaca Bahasa Ibunda di Sekolah Menengah Hougang, pelajar didedahkan kepada pelbagai sumber bacaan yang terdiri daripada artikel dan teks sastera seperti novel, cerpen dan puisi. Pelajar sentiasa mengikuti perkembangan isu kontemporari apabila mereka membaca akhbar dalam talian seperti Berita Harian dan Gen G daripada peranti pembelajaran profesional (I-pad) mereka. Untuk aktiviti susulan, pelajar memberikan pandangan mereka dan menggunakan pemikiran aras kritis dan lebih tinggi apabila membaca bahan yang dilanggan melalui platform seperti sesi Grit Moment semasa FRC pagi.
+
+
 ### **阅读计划（Reading Programme）**   
 通过阅读，培养学生的学习兴趣。学生可以获取课堂之外的知识和信息，提高语言和思维能力，培养学生的逻辑思维、判断力、分析能力。为今后的学习、工作和生活打下坚实的基础。 
 
