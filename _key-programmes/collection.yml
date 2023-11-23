@@ -2,6 +2,7 @@ collections:
   key-programmes:
     output: true
     order:
+      - ALP EL.md
       - ALP/.keep
       - ALP/Applied Learning Programme (ALP) @ HS.md
       - ALP/Chinese ALP.md
