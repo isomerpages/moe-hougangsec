@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Aesthetics and Technology
 variant: markdown
 ---
-**Head of Department (A&T)**   
+**Head of Department (A&amp;T)**   
 Mr Mohamed Fahizel
 
   
@@ -19,7 +19,7 @@ Mr Alfred Choo
 **Visual Art Unit**   
 Mdm Farahana Binti Abdul Rahim (Subject Coordinator) 
 Mdm Nur Syahira Zulkifli     
-Mdm Dzafiirah Binte Mohammad Hakim    
+Mdm Dzafiirah Binte Mohammad Hakim&nbsp;   
 Ms Jane Koh
 
 **Nutrition and Food Science**   
@@ -43,7 +43,7 @@ Mr Mohammad Fauzi Bin Selamat
 ### Department Vision
 **To nurture creative and confident thinkers**
  
-The Aesthetics & Technology department comprises of four subjects - Design & Technology, Nutrition and Food Science, Visual Arts and Music.
+The Aesthetics &amp; Technology department comprises of four subjects - Design &amp; Technology, Nutrition and Food Science, Visual Arts and Music.
 
 Our dedicated staff team aims to nurture our students to become confident thinkers with deep appreciation of design, aesthetics and food technology. Our curriculum is thoughtfully designed and is coursework-based, providing experiential learning to all students.
 
@@ -52,24 +52,24 @@ Our students are also given multiple opportunities to experience real-life learn
 
 ### Highlights
 
-**Secondary 1 & 2 FCE Innovation Projects  
-Secondary 3 NFS Enrichment Programmes such as “Cookyn with Carbs” & “Food Presentation Workshop”  
-Secondary 1 & 2 Lower Secondary Music Programme  
+**Secondary 1 &amp; 2 FCE Innovation Projects  
+Secondary 3 NFS Enrichment Programmes such as “Cookyn with Carbs” &amp; “Food Presentation Workshop”  
+Secondary 1 &amp; 2 Lower Secondary Music Programme  
 Secondary Art Enrichment Programme  
-Secondary 3 Design & Technology ICT Lessons  
-Secondary 3 A&T Staff Day Project**  
+Secondary 3 Design &amp; Technology ICT Lessons  
+Secondary 3 A&amp;T Staff Day Project**  
 
 ### Collaborative Project 
-**Secondary 3 A&T Staff Day Project**  
-This is a collaborative project that involves three units - Art, Design & Technology (D&T), and Nutrition and Food Science (NFS) - within the A&T department, and it includes G1 students. The objective of the project is for the students to express their appreciation to the teaching and non-teaching staff at HS.
+**Secondary 3 A&amp;T Staff Day Project**  
+This is a collaborative project that involves three units - Art, Design &amp; Technology (D&amp;T), and Nutrition and Food Science (NFS) - within the A&amp;T department, and it includes G1 students. The objective of the project is for the students to express their appreciation to the teaching and non-teaching staff at HS.  
 
 Authentic project provides the desired authentic learning experiences and a glimpse of the work habits and skills of the food industry with the provision of exposure to the food industry (SEAB, 2015). It includes authentic design opportunities that are meaningful and trains them to display designerly dispositions (MOE, 2016). It incorporates the practices by artists and designers that enlighten students of their further learning and career opportunities (MOE, 2018). These statements echo the description of AA whereby students exhibit knowledge, skills, and attitudes needed in professional life (Gulikers et al., 2004).   
 
-![](/images/AnT/AnT/secondary%203%20a&t%20staff%20day%20project%20-%201.jpeg)
+<iframe src="https://docs.google.com/presentation/d/1xtfkua67AvWpVcnOyVsDyjhK6yHCQeoP/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
-The students were given specific assignments for the project, including designing department logos using Canva for Art, constructing dessert table structures for D&T, and planning, baking, and packaging biscuits into bottles for NFS.
+The students were given specific assignments for the project, including designing department logos using Canva for Art, constructing dessert table structures for D&amp;T, and planning, baking, and packaging biscuits into bottles for NFS.  
 
-Students applied the skills taught in their lessons to design and prepare their task/products with the guidance of their subject teachers. The authentic learning experience also encourage students to trouble shoot on the problems faced during the whole process. Equipped with the skills taught during curriculum, students were given the ownership to plan, prepare and design their products.
+Students applied the skills taught in their lessons to design and prepare their task/products with the guidance of their subject teachers. The authentic learning experience also encourage students to trouble shoot on the problems faced during the whole process. Equipped with the skills taught during curriculum, students were given the ownership to plan, prepare and design their products.  
 
 Accolades
 ---------
@@ -120,8 +120,8 @@ o	Sheraz Lim from 4E4
 •	**Live on Festival (LOF) Design 2021**  
 o	Certificate of Distinction: Ho Jun Wei from 3E3  
 
-**D&T Unit**  
-•	**2022 Design & Technology Awards**  
+**D&amp;T Unit**  
+•	**2022 Design &amp; Technology Awards**  
 o	Certificate of Participation for the project ‘Ping Pong Ball Dispenser’: Tan Li Min Alicia  
 o	Certificate of Participation for the project ‘Mobile Phone Repair Kit Holder’: Low Chee Siang  
 •	**2021 Ignite Challenge**  
