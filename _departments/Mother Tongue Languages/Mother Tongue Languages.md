@@ -50,7 +50,7 @@ Our teachers are committed to produce students who are:
 ### Programmes/Focus/Events
 
 *   CNY Celebrations (Term 1)
-*   Mother Tongue Fortnight & Cultural Camp (Term 3-4)
+*   [Mother Tongue Fortnight & Cultural Camp (Term 3-4)](https://www.hougangsec.moe.edu.sg/departments/mother-tongue-languages/mtl-fortnight/)
 *   Cultural Performance Exposure (Term 2-3)
 
 
