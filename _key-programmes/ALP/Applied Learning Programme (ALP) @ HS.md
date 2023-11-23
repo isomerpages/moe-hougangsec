@@ -20,9 +20,9 @@ All students undergo a 3-year Applied Learning Programme, focussed on developing
 
   
 
-#### Cohort Programmes carried out in 2021
+#### Cohort Programmes 
 
-With SMM still in place, this year’s ALP workshops were held as class-based activities across each cohort.
+ALP workshops were held as class-based activities across each cohort.
 
  
 <u>Overview of 2021 ALP Workshops (EL)</u>   
