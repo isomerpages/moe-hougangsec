@@ -3,6 +3,7 @@ title: For Parents
 permalink: /quick-links/For-Parents/for-parents/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -50,7 +51,7 @@ third_nav_title: For Parents
 </tbody>
 </table>
 
-### PLD DMA Parent's Portal ###
+### PLD DMA Parent's Portal 
 
 Please click this URL for more details on the DMA Parent Portal.  
 https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/dma-parents-portal/
@@ -59,7 +60,11 @@ Log in to Mobile Guardian here:
 [https://sg-portal.mobileguardian.com/#/login](https://sg-portal.mobileguardian.com/#/login)  
 Your parent's account will be created and emailed to you after your selection of the DMA option for your child/ward.
 
-### Financial Assistance
+### Financial Assistance   
+
+
+
+
 
   
 
