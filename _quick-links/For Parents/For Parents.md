@@ -3,6 +3,7 @@ title: For Parents
 permalink: /quick-links/For-Parents/for-parents/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -50,7 +51,7 @@ third_nav_title: For Parents
 </tbody>
 </table>
 
-### PLD DMA Parent's Portal ###
+### PLD DMA Parent's Portal 
 
 Please click this URL for more details on the DMA Parent Portal.  
 https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/dma-parents-portal/
@@ -59,22 +60,24 @@ Log in to Mobile Guardian here:
 [https://sg-portal.mobileguardian.com/#/login](https://sg-portal.mobileguardian.com/#/login)  
 Your parent's account will be created and emailed to you after your selection of the DMA option for your child/ward.
 
-### Financial Assistance
-
-  
-
-The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government, Government-aided schools, Specialised Schools, and the Institute of Higher Learning so that all Singaporeans can benefit from the best opportunities in education. It also provides financial assistance to Singapore Citizen students from lower and middle-income families.
-
-  
+### Financial Assistance   
+Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, special education (SPED), specialised and some independent schools. Learn if your child is eligible.  
+![](/images/Admin/2024_MOE_FAS_pamphet__EL_.jpg)
 
 Students who are eligible must meet the following criteria:
 
 * Are Singapore Citizens.
 * Attend government or government-aided schools.
-* Have a monthly gross household income of $3,000 or less, or a monthly per capita household income of $750 or less.
+* Have a monthly gross household income of $3,000 or less, or a monthly per capita household income of $750 or less.  
+
+**IMDA DigitalAccess@Home Scheme**  
+The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets to lower income family.  Parents can apply online at www.digitalaccess.gov.sg or via hardcopy form.  
+
+
+
 
 How to apply:
-* You can download the&nbsp;[MOE FAS Application Form Oct 2022.pdf](/files/Parents/MOE%20FAS%20Application%20Form%20Oct%202022.pdf).&nbsp;Please submit the completed form to General Office by the end of the semester.&nbsp;Alternatively, you wish to apply via eFAS here:&nbsp;[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+* You can download the&nbsp; [MOE FAS Application Form](/files/Admin/2024_MOE_FAS_Application_Form.pdf).&nbsp;Please submit the completed form to General Office by the end of the semester.&nbsp;Alternatively, you wish to apply via eFAS here:&nbsp;[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
 More details on the FAS is available on the MOE websites below.&nbsp;
 

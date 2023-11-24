@@ -69,9 +69,9 @@ Below are the list of our winners:
   mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
   padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="194"><p style="background:white" class="MsoNormal"><span style="font-size:10.5pt;
   font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial;color:black;
-  mso-color-alt:windowtext">Lam Sin Ru, Syafiqah Aziz and Ceine Teo from 3T1</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"></span></p></td></tr></tbody></table>
+  mso-color-alt:windowtext">Lam Sin Ru, Syafiqah Aziz and Ceine Teo from 3T1</span><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:Arial"></span></p></td></tr></tbody></table>   
 
-**Singapore Youth Festival Art Exhibition**  
+**Singapore Youth Festival Art Exhibition**   
 <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0mm 5.4pt 0mm 5.4pt;
  mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black" width="388" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:145.6pt;border:solid black 1.0pt;
@@ -106,7 +106,7 @@ Below are the list of our winners:
   normal"><span style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial"></span></i></p></td></tr></tbody></table>
 
-<iframe src="https://docs.google.com/presentation/d/1_YbrGCvPU5Ae3Wl_60QiCpm5xDOx-GNY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1_YbrGCvPU5Ae3Wl_60QiCpm5xDOx-GNY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 
 
@@ -206,9 +206,11 @@ Over the past year, our HS E-gallery and Art learning wall have served as valuab
 
 The 2023 edition showcases an exciting interdisciplinary collaboration with the English Literature and Music Unit.  
 
-Visit our HS e-Gallery to view the masterpieces by our HS Artists!  
+Visit our HS e-Gallery to view the masterpieces by our HS Artists!   
 
-2022:  [https://go.gov.sg/hsartwhodoisee](https://go.gov.sg/hsartwhodoisee)   
-2023:  [https://go.gov.sg/hsartencounters](https://go.gov.sg/hsartencounters)   
+**2023**
+<a href="https://go.gov.sg/hsartencounters">![](/images/AnT/VA/HS_artencounterEDM2.jpg)</a>  
 
 
+**2022**
+<a href="https://go.gov.sg/hsartwhodoisee">![](/images/AnT/VA/HSS_ArtsFest_EDM_19Oct2022_12pm.jpg)</a>
