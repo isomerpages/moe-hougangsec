@@ -61,16 +61,8 @@ Log in to Mobile Guardian here:
 Your parent's account will be created and emailed to you after your selection of the DMA option for your child/ward.
 
 ### Financial Assistance   
-
-
-
-
-
-  
-
-The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government, Government-aided schools, Specialised Schools, and the Institute of Higher Learning so that all Singaporeans can benefit from the best opportunities in education. It also provides financial assistance to Singapore Citizen students from lower and middle-income families.
-
-  
+Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, special education (SPED), specialised and some independent schools. Learn if your child is eligible.  
+![](/images/Admin/2024_MOE_FAS_pamphet__EL_.jpg)
 
 Students who are eligible must meet the following criteria:
 
