@@ -219,17 +219,6 @@ GRIT 是我们后港中学五个学校价值观的首个字母缩写，即： GR
 
 
 
-
-![](/images/r1.png)
-
-![](/images/r2.png)
-
-![](/images/r3.png)
-
-![](/images/r4.png)
-
-![](/images/r5.png)  
-
 #### 20周年的校庆，本部门第一次推出华文作文集
 
 ![](/images/chi1.jpeg)
