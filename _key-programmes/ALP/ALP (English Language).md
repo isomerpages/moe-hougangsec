@@ -39,7 +39,7 @@ Secondary 1 – Lexical Labyrinth: an inter-class competition, challenging stude
 Secondary 2 – Toastmasters Series: a level-wide public-speaking competition   
 Secondary 3 – ‘Escape from Egypt’: an immersive Escape Room game concept on various language skills    
 
-<u>**Tier 2 ALP Exposure in 2023:**</u>  
+**<u>Tier 2 ALP Exposure in 2023:</u>**  
 •	GRIT Moment Sharing during School Assembly  
 •	Write for Kindness by Singapore Kindness Movement   
 •	International Essay Contest for Young People   
@@ -48,8 +48,6 @@ Secondary 3 – ‘Escape from Egypt’: an immersive Escape Room game concept o
 **ALP English IC -**&nbsp;Ms Audrey Chua&nbsp;  
 
 
-<u>**Snapshot of ALP Programmes in 2023:**</u>   
+**<u>Snapshot of ALP Programmes in 2023:</u>**   
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/8tChHLb2puI?si=oHu7JOwGwnFlxK3A" height="315" width="560"></iframe>     
 
-<u>**Photo Gallery**</u>
-<iframe src="https://docs.google.com/presentation/d/1YJTMUNdZi_9p-znNtwYeUTwOg8kvceoT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
