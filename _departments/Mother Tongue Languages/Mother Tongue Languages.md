@@ -75,6 +75,97 @@ The MTL Fortnight is organized within a designated two-week period, one week in 
 In summary, the MTL Fortnight serves as an immersive platform for students to learn and appreciate their Mother Tongue Languages and Cultures. Fun and engaging activities are curated to stimulate students’ interests, motivating them to learn more.  
 
 
+#### 2023年母语双周活动    
+#### 2023 Mother Tongue (Chinese Language) Fortnight Programme  
+ 
+3月31日至4月6日和7月31至8月4日这两周，后港中学母语部进行了全校母语双周活动，这次活动是课堂教学延申，旨在让学生在各种活动中，体验学习华文的乐趣，使学生在潜移默化中爱上华文, 并做到寓教于乐，乐学善用。
+During the week from 31 March-6 April and 31July-4August , the Mother Tongue Department of Hougang Secondary School carried out the Mother Tongue Fortnight activities for the whole school. The objective for these activities is to create the platform for students to develop interest and love for their mother tongues languages. Students get to know more about their culture through the fun activities we planned for them. 
+![](/images/Department/MTL/mtl-cl1.png)
+
+
+#### Traditional Ethnic Costumes  
+#### 传统民族服装  
+<iframe src="https://docs.google.com/presentation/d/1s7oVK7GNDn7H0CtgLeMvB8LONpV8sgxWIN6BlgLqX5w/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+
+
+
+#### Sec 1  闯关游戏 
+<iframe src="https://docs.google.com/presentation/d/1TzKGq-QFMX0lU49KvZjojAJjL09YnpAI9fm287MIliM/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+
+
+
+#### Sec 1 谁是推理王 
+<iframe src="https://docs.google.com/presentation/d/1uQnNJbNRKGzSpktSHpNwbudafwdGtQsQCLAEvhEb9a0/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+
+
+#### Sec1 Chinese Traditional Auspicious animals 3D Model Construction
+<iframe src="https://docs.google.com/presentation/d/15MPUnqx2DtgCfECZkI6LxAReP-dCcYHiOKQkQydsGTE/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+
+
+#### Sec 2 小组呈现《与声剧来》创作的剧本  
+<iframe src="https://docs.google.com/presentation/d/1DZycMlje69--FuHzyvY9rGE0i0QVv1fm/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+
+
+#### Sec 3 茶艺茶文化  
+<iframe src="https://docs.google.com/presentation/d/1ckEnfzJzUgaDUFTxAeSo00mzMryfl_xa/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+
+#### Sec 3 风筝制作  
+<iframe src="https://docs.google.com/presentation/d/1xurV91dLrbYEZ74vHNVxbKCqRheA-3rs/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+
+#### Sec3 - 5 辩论比赛  
+<iframe src="https://docs.google.com/presentation/d/19XLfux9GE0S99-G3-XkZqvybjguDPHfT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+
+
+#### Sec4&amp;5N 中国结  
+
+![](/images/Department/MTL/Picture26.jpg)   
+![](/images/Department/MTL/Picture25.jpg)   
+![](/images/Department/MTL/Picture27.jpg)
+
+
+#### **2023 Mother Tongue (Malay Language) Fortnight Programme**  
+
+**Sec 1:  Congkak**   
+As part of the MTL Fortnight, the Secondary 1 Malay Language students had the opportunity to experience how to play Congkak and to hold a conversation with their peers.  
+<iframe src="https://docs.google.com/presentation/d/1tFo2_4XDankeLdtehChm36ubKhTVu8vT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+
+
+
+**Sec 1: Gasing**  
+The Sec 1’s also had the opportunity to know more about the traditional game ‘gasing’ or top and created one using a toothpick and coloured papers. It was amazing to see that it actually worked!  
+<iframe src="https://docs.google.com/presentation/d/1I5sTtQhjezgj7uYkMEaicrKoeUcNwStG/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+ 
+
+**Sec 2: Sahibba**  
+Sahibba (Scrabble) – The Secondary 2 Malay Language students were involved in a classic battle of wits and words where every word counts in a game of Sahibba.  
+<iframe src="https://docs.google.com/presentation/d/17UfleAfK1KnILqZIX2SW5blqiVu9Vs3k/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
+  
+
+**Sec 2: Keris**  
+The Sec 2’s also had the opportunity to learn about the keris; a distinctive, asymmetrical dagger used by the Malays as weapon and spiritual object in the eleventh century. They also had an opportunity to make their own keris using paper.  
+<iframe src="https://docs.google.com/presentation/d/1umtci_3G3Zd7pUUsgao799wMMMy7DmK8/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>    
+
+
+**Sec 3 Batik Painting**  
+The Secondary 3 Malay Language Students had a fun time exhibiting their creativity in colouring the traditional art of batik painting.  
+<iframe src="https://docs.google.com/presentation/d/1su_OOgLLTL2pzIcG1rS9Kdr2UpPQzUBx/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
+
+
+**Sec 3: Khat Calligraphy**  
+The Sec 3’s had the opportunity to do khat calligraphy; an artistic practise of handwriting using brushwork based on Jawi scripts. Jawi is written in a modified Arabic script and read in Malay. Did you know that Jawi was the official script in most parts of the Malay Archipelago, including Singapore, for more than 700 years?  
+<iframe src="https://docs.google.com/presentation/d/1rceMKYHLemMOLTzqzSnPiRWRKlN5P0CU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
+
+
+**Sec 4E 5N – Poetry Appreciation**  
+![](/images/Department/MTL/PoetryAppreciation.png)  
+![](/images/Department/MTL/Poetry2.jpg)
+
+
+
 
 
 
