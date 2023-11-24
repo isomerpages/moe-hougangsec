@@ -187,7 +187,7 @@ The Sec 3’s had the opportunity to do khat calligraphy; an artistic practise o
 
 
 
-#### Selected Reading Program School Representatives   
+### Selected Reading Program School Representatives   
 
 **Reading Programme (EL write-up):**  
 In Hougang Secondary School’s MTL Reading Programme, students are exposed to a variety of reading resources comprising of articles as well as literary texts such as novels, short stories and poems. Students are kept abreast of contemporary issues when they read online newspapers like Zao Bao, Berita Harian and Gen G from their professional learning device (I-pad). For follow-up activities, students provided their viewpoints and applied critical and higher order thinking upon reading subscribed materials through platforms such as Grit Moment sessions during morning FRC.  
