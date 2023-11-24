@@ -206,9 +206,13 @@ Over the past year, our HS E-gallery and Art learning wall have served as valuab
 
 The 2023 edition showcases an exciting interdisciplinary collaboration with the English Literature and Music Unit.  
 
-Visit our HS e-Gallery to view the masterpieces by our HS Artists!  
+Visit our HS e-Gallery to view the masterpieces by our HS Artists!   
 
-2022:  [https://go.gov.sg/hsartwhodoisee](https://go.gov.sg/hsartwhodoisee)   
-2023:  [https://go.gov.sg/hsartencounters](https://go.gov.sg/hsartencounters)   
+**2023**
+<a href="https://go.gov.sg/hsartencounters">![](/images/AnT/VA/HS_artencounterEDM2.jpg)</a>  
+
+
+**2022**
+<a href="https://go.gov.sg/hsartwhodoisee">![](/images/AnT/VA/HSS_ArtsFest_EDM_19Oct2022_12pm.jpg)</a>
 
 
