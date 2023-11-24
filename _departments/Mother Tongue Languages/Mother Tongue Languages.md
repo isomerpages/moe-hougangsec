@@ -52,6 +52,26 @@ Our teachers are committed to produce students who are:
 Other Related Links:&nbsp;[https://zbschools.sg/](https://zbschools.sg/)  
 
 
+
+#### Chinese New Year Classroom Decoration Competition   
+The Chinese New Year Classroom Decoration Competition is an exciting event aimed at fostering cultural awareness and celebrating the rich traditions of the Chinese New Year within Hougang Secondary School. The primary objective of this competition is to engage students, teachers, and staff in a creative and educational experience that goes beyond the typical classroom setting. By encouraging participants to decorate their classrooms in accordance with the Chinese New Year theme, we aim to promote cross-cultural understanding, appreciation of diversity, and respect for the Chinese cultural heritage.  
+Through this competition, we hope to provide a platform for students to learn about the customs, symbols, and significance of the Chinese New Year, all while promoting teamwork and creativity. The event also serves as an opportunity for students to develop essential skills such as research, teamwork, and communication as they collaborate to design and execute their decorative ideas. 
+<iframe src="https://docs.google.com/presentation/d/1lGuXXNOFXHMeH9A098RxhfN-eGjk8naM/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+
+
+#### Hougang Secondary School Cultural Performance Exposure Scheme (CPES) Programme 2023   
+On 31 July 2023, the Secondary 1 Chinese Language students felt the charm of traditional opera up close at Tampines East Community Club through watching the Peking Opera performance "The Monkey King Borrow Treasure from Dragon Palace".  
+
+The play was performed by Mr Guo Xuqian, Artistic Director of the Singapore Chinese Arts Centre, and his team. The play consists of performances, martial arts, tumbling skills, and interactive sessions. Students reacted with enthusiasm to the amazing martial arts scenes and interactions on and off the stage. Many students said that it was their first time watching a Peking Opera performance. Nevertheless, they found that it was very different from the performances they had seen before. The content was easy to understand, and the performance was relatively interesting.   
+
+At the end of the performance, Mr Guo gave an introduction to Peking Opera. Students get to know the types of Peking Opera and the classification of characters based on the roles. When it came to the final interactive session, students were all eager to try and experience the recitation of the main character's monologue. Through watching the Peking Opera performance, students had an in-depth understanding of traditional Chinese opera culture, thus cultivating their interest in Chinese culture.  
+<iframe src="https://docs.google.com/presentation/d/1fhBpDyydcbfNR5a_uXWNZrIa16qYAtFl/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
+  
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pKujUEl3yi8?si=km64a_20B-xpM1Is" height="315" width="560"></iframe>  
+
+
+
+
 ### **Mother Tongue Language (MTL) Fortnight 2023 Overview**   
 
 The MTL Fortnight is an annual program designed to create an immersive environment for students to learn and appreciate Mother Tongue Languages and Cultures. It aims to make MTL learning engaging and relevant by offering a range of activities that bring language and culture to life.  
@@ -75,7 +95,7 @@ The MTL Fortnight is organized within a designated two-week period, one week in 
 In summary, the MTL Fortnight serves as an immersive platform for students to learn and appreciate their Mother Tongue Languages and Cultures. Fun and engaging activities are curated to stimulate students’ interests, motivating them to learn more.  
 
 
-#### 2023年母语双周活动    
+    
 #### 2023 Mother Tongue (Chinese Language) Fortnight Programme  
  
 3月31日至4月6日和7月31至8月4日这两周，后港中学母语部进行了全校母语双周活动，这次活动是课堂教学延申，旨在让学生在各种活动中，体验学习华文的乐趣，使学生在潜移默化中爱上华文, 并做到寓教于乐，乐学善用。
@@ -167,26 +187,38 @@ The Sec 3’s had the opportunity to do khat calligraphy; an artistic practise o
 
 
 
+#### Selected Reading Program School Representatives   
+
+**Reading Programme (EL write-up):**  
+In Hougang Secondary School’s MTL Reading Programme, students are exposed to a variety of reading resources comprising of articles as well as literary texts such as novels, short stories and poems. Students are kept abreast of contemporary issues when they read online newspapers like Zao Bao, Berita Harian and Gen G from their professional learning device (I-pad). For follow-up activities, students provided their viewpoints and applied critical and higher order thinking upon reading subscribed materials through platforms such as Grit Moment sessions during morning FRC.  
+
+**Reading Programme (ML write-up):**   
+Dalam Program Membaca Bahasa Ibunda di Sekolah Menengah Hougang, pelajar didedahkan kepada pelbagai sumber bacaan yang terdiri daripada artikel dan teks sastera seperti novel, cerpen dan puisi. Pelajar sentiasa mengikuti perkembangan isu kontemporari apabila mereka membaca akhbar dalam talian seperti Berita Harian dan Gen G daripada peranti pembelajaran profesional (I-pad) mereka. Untuk aktiviti susulan, pelajar memberikan pandangan mereka dan menggunakan pemikiran aras kritis dan lebih tinggi apabila membaca bahan yang dilanggan melalui platform seperti sesi Grit Moment semasa FRC pagi.
 
 
-#### Chinese New Year Classroom Decoration Competition   
-The Chinese New Year Classroom Decoration Competition is an exciting event aimed at fostering cultural awareness and celebrating the rich traditions of the Chinese New Year within Hougang Secondary School. The primary objective of this competition is to engage students, teachers, and staff in a creative and educational experience that goes beyond the typical classroom setting. By encouraging participants to decorate their classrooms in accordance with the Chinese New Year theme, we aim to promote cross-cultural understanding, appreciation of diversity, and respect for the Chinese cultural heritage.  
-Through this competition, we hope to provide a platform for students to learn about the customs, symbols, and significance of the Chinese New Year, all while promoting teamwork and creativity. The event also serves as an opportunity for students to develop essential skills such as research, teamwork, and communication as they collaborate to design and execute their decorative ideas. 
-<iframe src="https://docs.google.com/presentation/d/1lGuXXNOFXHMeH9A098RxhfN-eGjk8naM/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+### **阅读计划（Reading Programme）**   
+通过阅读，培养学生的学习兴趣。学生可以获取课堂之外的知识和信息，提高语言和思维能力，培养学生的逻辑思维、判断力、分析能力。为今后的学习、工作和生活打下坚实的基础。 
+
+通过阅读，在校内举办各种活动，激发学生学习的兴趣。
+
+<iframe src="https://docs.google.com/presentation/d/1629S_Ek10MFqLnuPCaSUdlhJPR2I0Lncf76XG9jGppo/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 
-#### Hougang Secondary School Cultural Performance Exposure Scheme (CPES) Programme 2023   
-On 31 July 2023, the Secondary 1 Chinese Language students felt the charm of traditional opera up close at Tampines East Community Club through watching the Peking Opera performance "The Monkey King Borrow Treasure from Dragon Palace".  
+### **校园早报**
+推动和鼓励学生利用晨读或业余时间阅读课外书以及网上《校园早报》，丰富和扩大学生们的知识面，增加阅历和见识。 
+<iframe src="https://docs.google.com/presentation/d/1HmBV8deMQtLmZnzrCWizAXt9xPzqDGV9y4XWCmz8SeI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
-The play was performed by Mr Guo Xuqian, Artistic Director of the Singapore Chinese Arts Centre, and his team. The play consists of performances, martial arts, tumbling skills, and interactive sessions. Students reacted with enthusiasm to the amazing martial arts scenes and interactions on and off the stage. Many students said that it was their first time watching a Peking Opera performance. Nevertheless, they found that it was very different from the performances they had seen before. The content was easy to understand, and the performance was relatively interesting.   
 
-At the end of the performance, Mr Guo gave an introduction to Peking Opera. Students get to know the types of Peking Opera and the classification of characters based on the roles. When it came to the final interactive session, students were all eager to try and experience the recitation of the main character's monologue. Through watching the Peking Opera performance, students had an in-depth understanding of traditional Chinese opera culture, thus cultivating their interest in Chinese culture.  
-<iframe src="https://docs.google.com/presentation/d/1fhBpDyydcbfNR5a_uXWNZrIa16qYAtFl/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
+### **GRIT MOMENT**  
+GRIT 是我们后港中学五个学校价值观的首个字母缩写，即： GRIT（Gratitude、 Respect、 Ingenuity、 Trustworthiness、 Grit ）代表感恩、尊重、独创性、可信赖性和坚毅。  
+
+学生们在偶数周的早上以华语的方式进行有关学校价值观的分享与心得。  
   
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pKujUEl3yi8?si=km64a_20B-xpM1Is" height="315" width="560"></iframe>  
+<iframe src="https://docs.google.com/presentation/d/1uI0rKKKwLCv2hULp7e2PvMU1Mv0ib15Yt4oMtwKrmYI/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
-#### Selected Reading Program School Representatives
+
+
 
 ![](/images/r1.png)
 
