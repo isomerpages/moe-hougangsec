@@ -67,4 +67,12 @@ Sec 3 Exp: Malay Lit (Elective)
 ### HS MALAY LANGUAGE PROGRAMME/ACTIVITIES  
 
 **<u>ML Scrabble 2023 @ Pei Hwa Secondary School</u>**  
-On 17 October 2023, 2 teams of Secondary 2 and Secondary 3 ML students took part in the N3 ML Scrabble organized by Pei Hwa Secondary School. While both teams walked away with certificates of participation, the Secondary 2 achieved second place overall with Muhammad Ismail Bin Jumadi from 2E winning second in the individual category.
+On 17 October 2023, 2 teams of Secondary 2 and Secondary 3 ML students took part in the N3 ML Scrabble organized by Pei Hwa Secondary School. While both teams walked away with certificates of participation, the Secondary 2 achieved second place overall with Muhammad Ismail Bin Jumadi from 2E winning second in the individual category.  
+
+
+**<u>Malay Literature Dari Pena Ke Panggung (DPKP) 2023</u>**   
+Literature In Malay students did a dramatisation showcase of a poem entitled ‘Tidak Senang Dengan Duduk-Duduk’ on 7 September 2023. The DPKP dramatisation which is held at the Republic Cultural Centre, Studio at Republic Polytechnic, is aimed to deepen students’ understanding of the literary texts and to provide an avenue to interpret and adapt the text into a theatrical performance.  
+
+
+
+
