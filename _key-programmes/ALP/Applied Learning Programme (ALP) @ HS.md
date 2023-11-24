@@ -98,7 +98,22 @@ Sec 3 NA, NT classes: In the Vlog Workshop, students learned how to create and e
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/BFIz7lAvdpw?si=7ZFwm5fyvAhyqVlM" height="315" width="560"></iframe>    
   .
 
-<iframe src="https://docs.google.com/presentation/d/1YJTMUNdZi_9p-znNtwYeUTwOg8kvceoT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1YJTMUNdZi_9p-znNtwYeUTwOg8kvceoT/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
+
+### ALP Malay   
+
+<u>**Overview of 2023 ALP Workshops (Malay Language)**</u>   
+
+**Secondary 1: Introduction to ML Poetry**  
+Students were introduced to ML poetry reading, writing, and showcasing their talent in poetry recitation. Students were taught the correct method of reading with style. Dramatization was also introduced at a very basic level with the students putting up a performance at the end of the workshop.  
+
+**Secondary 2: DJ/Podcast in ML**  
+The DJ/Podcast ML Workshop introduced students to the concept of the audio drama and content presentation. Students learnt of methods, techniques, and strategies that will entice their audience to be hooked to listening to their short stories or podcasts over audio channels. The increased popularity of Podcasts highlights the importance of effective communication and storytelling, with vocals being the primary tool.  
+
+**Secondary 3: ML Journalism**  
+Students learnt of the concept of 'journalism' in the Malay world. They learnt to use the different language register required of them when reporting a story. Students learnt the basic techniques of writing and reporting a story/event. Ethics and values undergird the basis of what is considered a good journalistic piece of work.  
+
+<iframe src="https://docs.google.com/presentation/d/1EVSIxLorqMvVa7L_zGDiZPCT1plzE8HQ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
