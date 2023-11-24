@@ -36,9 +36,9 @@ variant: markdown
 </table>
 
 
-#### 后港中学 母语周活动 2021 中一至中五 活动照片分享
+#### 后港中学 母语周活动活动照片分享
 
-<center><iframe allowfullscreen="true" height="422" width="700" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdgr9wc5VRnSFZgQLeBKGU-Q3tVpIJEMQygsf-M21Tz1Gzg42SvhIodgq0eO0oD0qy7RDSPat2iaPY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+https://www.hougangsec.moe.edu.sg/departments/mother-tongue-languages/mtl-fnt-cl/
 
 
 ### 后港中学庆新年——“数（鼠）我最宝”
