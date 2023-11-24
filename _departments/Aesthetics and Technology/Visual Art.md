@@ -208,16 +208,7 @@ The 2023 edition showcases an exciting interdisciplinary collaboration with the 
 
 Visit our HS e-Gallery to view the masterpieces by our HS Artists!  
 
-2022: https://go.gov.sg/hsartwhodoisee  
-2023: https://go.gov.sg/hsartencounters  
+2022:  [https://go.gov.sg/hsartwhodoisee](https://go.gov.sg/hsartwhodoisee)   
+2023:  [https://go.gov.sg/hsartencounters](https://go.gov.sg/hsartencounters)   
 
-
-| ![](/images/Department/AnT/WhatsApp_Image_2023_10_25_at_15_55_18.jpeg) | ![](/images/Department/AnT/WhatsApp_Image_2023_10_25_at_15_11_21.jpeg) | 
-| -------- | -------- | 
- 
-
-
-**Online Design Gallery &amp; Essay Showcase Presentation**
-
-&nbsp;[https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool](https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool)
 

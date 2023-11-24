@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /co-curricular-activities/Uniformed-Groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Girl Guides Open House" src="https://www.youtube.com/embed/9rt5SeC9I20" height="315" width="830"></iframe></center>
   
