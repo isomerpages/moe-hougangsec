@@ -16,7 +16,7 @@ With a healthy repertoire of reading resources, the benefits of reading widely a
   
 **Cohort Programmes in 2023**
 
-<u>**Tier 1 ALP Workshops in 2023:**</u>   
+**<u>Tier 1 ALP Workshops in 2023:</u>**     
 Secondary 1 – Experiencing Drama through:  
 •	Script Writing  
 •	Comedic Storytelling  
