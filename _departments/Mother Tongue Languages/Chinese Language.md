@@ -41,24 +41,10 @@ variant: markdown
 https://www.hougangsec.moe.edu.sg/departments/mother-tongue-languages/mtl-fnt-cl/
 
 
-### 后港中学庆新年——“数（鼠）我最宝”
-
-Chinese Lunar New Year Celebration 2020
-
-![](/images/Slide1.gif)
-
-![](/images/Slide2.gif)
-
-![](/images/Slide3.gif)
-
-![](/images/Slide4.gif)
-
-![](/images/Slide5.gif)
-
-![](/images/Slide6.gif)
-
-![](/images/Slide7.gif)
-
+### Chinese New Year Classroom Decoration Competition   
+The Chinese New Year Classroom Decoration Competition is an exciting event aimed at fostering cultural awareness and celebrating the rich traditions of the Chinese New Year within Hougang Secondary School. The primary objective of this competition is to engage students, teachers, and staff in a creative and educational experience that goes beyond the typical classroom setting. By encouraging participants to decorate their classrooms in accordance with the Chinese New Year theme, we aim to promote cross-cultural understanding, appreciation of diversity, and respect for the Chinese cultural heritage.  
+Through this competition, we hope to provide a platform for students to learn about the customs, symbols, and significance of the Chinese New Year, all while promoting teamwork and creativity. The event also serves as an opportunity for students to develop essential skills such as research, teamwork, and communication as they collaborate to design and execute their decorative ideas. 
+<iframe src="https://docs.google.com/presentation/d/1lGuXXNOFXHMeH9A098RxhfN-eGjk8naM/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
 
 
 ### 2020 年GOODTALK(地球村)国际青少年双语演讲大赛
