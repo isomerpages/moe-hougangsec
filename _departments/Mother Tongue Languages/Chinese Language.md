@@ -53,7 +53,9 @@ On 31 July 2023, the Secondary 1 Chinese Language students felt the charm of tra
 The play was performed by Mr Guo Xuqian, Artistic Director of the Singapore Chinese Arts Centre, and his team. The play consists of performances, martial arts, tumbling skills, and interactive sessions. Students reacted with enthusiasm to the amazing martial arts scenes and interactions on and off the stage. Many students said that it was their first time watching a Peking Opera performance. Nevertheless, they found that it was very different from the performances they had seen before. The content was easy to understand, and the performance was relatively interesting.   
 
 At the end of the performance, Mr Guo gave an introduction to Peking Opera. Students get to know the types of Peking Opera and the classification of characters based on the roles. When it came to the final interactive session, students were all eager to try and experience the recitation of the main character's monologue. Through watching the Peking Opera performance, students had an in-depth understanding of traditional Chinese opera culture, thus cultivating their interest in Chinese culture.  
-<iframe src="https://docs.google.com/presentation/d/1fhBpDyydcbfNR5a_uXWNZrIa16qYAtFl/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe> 
+<iframe src="https://docs.google.com/presentation/d/1fhBpDyydcbfNR5a_uXWNZrIa16qYAtFl/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>   
+  
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pKujUEl3yi8?si=km64a_20B-xpM1Is" height="315" width="560"></iframe>  
 
 
 #### Selected Reading Program School Representatives
