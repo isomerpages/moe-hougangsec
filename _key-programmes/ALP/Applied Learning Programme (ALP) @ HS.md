@@ -115,5 +115,3 @@ The DJ/Podcast ML Workshop introduced students to the concept of the audio drama
 Students learnt of the concept of 'journalism' in the Malay world. They learnt to use the different language register required of them when reporting a story. Students learnt the basic techniques of writing and reporting a story/event. Ethics and values undergird the basis of what is considered a good journalistic piece of work.  
 
 <iframe src="https://docs.google.com/presentation/d/1EVSIxLorqMvVa7L_zGDiZPCT1plzE8HQ/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-
