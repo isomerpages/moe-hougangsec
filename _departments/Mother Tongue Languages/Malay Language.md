@@ -74,4 +74,4 @@ On 17 October 2023, 2 teams of Secondary 2 and Secondary 3 ML students took part
 
 **<u>Malay Literature Dari Pena Ke Panggung (DPKP) 2023</u>**   
 Literature In Malay students did a dramatisation showcase of a poem entitled ‘Tidak Senang Dengan Duduk-Duduk’ on 7 September 2023. The DPKP dramatisation which is held at the Republic Cultural Centre, Studio at Republic Polytechnic, is aimed to deepen students’ understanding of the literary texts and to provide an avenue to interpret and adapt the text into a theatrical performance.  
-<iframe src="https://docs.google.com/presentation/d/1JTlOGOGDgzzK_eEfbYPKhU-20J0hCwT-/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+<iframe src="https://docs.google.com/presentation/d/1JTlOGOGDgzzK_eEfbYPKhU-20J0hCwT-/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
