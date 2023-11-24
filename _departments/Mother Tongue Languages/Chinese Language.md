@@ -38,7 +38,7 @@ variant: markdown
 	
 #### 后港中学 母语周活动活动照片分享
 
-https://www.hougangsec.moe.edu.sg/departments/mother-tongue-languages/mtl-fnt-cl/
+[https://www.hougangsec.moe.edu.sg/departments/mother-tongue-languages/mtl-fnt-cl/](https://www.hougangsec.moe.edu.sg/departments/mother-tongue-languages/mtl-fnt-cl/)
 
 
 #### Chinese New Year Classroom Decoration Competition   
