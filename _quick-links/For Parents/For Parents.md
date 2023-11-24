@@ -68,7 +68,13 @@ Students who are eligible must meet the following criteria:
 
 * Are Singapore Citizens.
 * Attend government or government-aided schools.
-* Have a monthly gross household income of $3,000 or less, or a monthly per capita household income of $750 or less.
+* Have a monthly gross household income of $3,000 or less, or a monthly per capita household income of $750 or less.  
+
+**IMDA DigitalAccess@Home Scheme**  
+The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets to lower income family.  Parents can apply online at www.digitalaccess.gov.sg or via hardcopy form.  
+
+
+
 
 How to apply:
 * You can download the&nbsp; [MOE FAS Application Form](/files/Admin/2024_MOE_FAS_Application_Form.pdf).&nbsp;Please submit the completed form to General Office by the end of the semester.&nbsp;Alternatively, you wish to apply via eFAS here:&nbsp;[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
