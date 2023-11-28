@@ -2,8 +2,9 @@
 title: Pupil Management
 permalink: /departments/pupil-management/
 description: ""
+variant: markdown
 ---
-Hougang Secondary School adopts a whole-school holistic approach in managing school discipline with the aim of instilling self-discipline in our pupils. As a community, all Hougeans are expected to conduct themselves in a respectful manner that promotes a conducive environment for learning. Overall, the rules and regulations are designed to create a safe and secure environment for students to learn and teachers to carry out their duties. 
+Hougang Secondary School adopts a whole-school holistic approach in managing school discipline with the aim of instilling self-discipline in our pupils. As a community, all Hougeans are expected to conduct themselves in a respectful manner that promotes a conducive environment for learning. Overall, the rules and regulations are designed to create a safe and secure environment for students to learn and teachers to carry out their duties.&nbsp;
 
 The Pupil Management Department carries out reflection sessions (adapted from the Restorative Approach) with the students to address misbehaviour and guide students to think responsibly, reflect on their actions and come up with solutions. Punishments for offences are accompanied by reflections so that students can understand the rationale for the punishment and learn to be responsible for their own actions.
 
@@ -25,11 +26,11 @@ The Pupil Management Department carries out reflection sessions (adapted from th
   </tr>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">SH/Pupil Management (Int)</span></td>
-    <td class="tg-emg8"><span style="color:#222">Mr Philip Deepak</span></td>
+    <td class="tg-emg8"><span style="color:#222">Mdm  Amalina Abdul Samad</span></td>
   </tr>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">Sec 1 Discipline Level Coordinator</span></td>
-    <td class="tg-kxyf"><span style="font-weight:400;color:#333">Mdm Azlina Bte Wahid and Mr Philip Deepak</span></td>
+    <td class="tg-kxyf"><span style="font-weight:400;color:#333">Mdm Azlina Bte Wahid</span></td>
   </tr>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">Sec 2 Discipline Level Coordinator</span></td>
@@ -65,7 +66,7 @@ The Pupil Management Department carries out reflection sessions (adapted from th
 **Respect for our Personal and School Property**
 * Students are to keep every part of the school clean.
 * Students are to take good care of all school property and keep them clean at all times.
-* Students can only enter special rooms with the supervision of a teacher. Students must observe the rules and regulations governing the use of these rooms and the equipment in them. 
+* Students can only enter special rooms with the supervision of a teacher. Students must observe the rules and regulations governing the use of these rooms and the equipment in them.&nbsp;
 * Students are to report any equipment fault to the relevant parties promptly.
 * Students are to return all borrowed items to the appropriate parties promptly and in good condition.
 * Students must be responsible and accountable for safekeeping of their personal belongings. The school will not be held liable for any loss.
@@ -73,10 +74,10 @@ The Pupil Management Department carries out reflection sessions (adapted from th
   
 
 **Attendance and Punctuality**
-* Students must observe punctuality at all times for all school-related activities. 
+* Students must observe punctuality at all times for all school-related activities.&nbsp;
 * Students are required to be seated at the stipulated reporting venue by 0730 h every day.
-* If a student is unable to attend school because he/she is unwell, he/she should submit the medical certificate (only from MOH-registered clinics) to the Character Coach the following school day. 
-* Students who like to apply leave from school must submit their parent’s request to the Principal, at least 2 weeks in advance. Taking leave during term time for local or overseas holiday is not allowed and will be considered as absence without valid reason. 
+* If a student is unable to attend school because he/she is unwell, he/she should submit the medical certificate (only from MOH-registered clinics) to the Character Coach the following school day.&nbsp;
+* Students who like to apply leave from school must submit their parent’s request to the Principal, at least 2 weeks in advance. Taking leave during term time for local or overseas holiday is not allowed and will be considered as absence without valid reason.&nbsp;
 
   
 
@@ -94,39 +95,39 @@ The Pupil Management Department carries out reflection sessions (adapted from th
 
   
 
-**Attendance** 
-* Students are to be present and punctual for all classes. 
+**Attendance**&nbsp;
+* Students are to be present and punctual for all classes.&nbsp;
 * Students must obtain permission pass from the teacher before leaving the classroom.
 * Students must obtain written permission from the Character Coach before leaving school during curriculum time.
 
   
 
-**Attire** 
-* Students are to ensure attire and grooming is right. 
+**Attire**&nbsp;
+* Students are to ensure attire and grooming is right.&nbsp;
 
   
 
-**Attitude** 
+**Attitude**&nbsp;
 * Students must not bring things that are not relevant to the curriculum and/or the learning process. For example, game/ trading cards and sharp objects (including scissors with sharp points).
-* Students are to demonstrate the GRIT values and Social Skills in class. 
-* Students are not allowed to purchase or consume food during curriculum time. 
+* Students are to demonstrate the GRIT values and Social Skills in class.&nbsp;
+* Students are not allowed to purchase or consume food during curriculum time.&nbsp;
 
   
 
-**Activities** 
+**Activities**&nbsp;
 * Students are to ensure learning environment is clean.
 * Students to have their learning materials (including Personal Learning Device) ready before lessons.
-* Students are to participate actively during lesson. 
+* Students are to participate actively during lesson.&nbsp;
 	* “Screens down” – Students to focus on teacher and put PLD in sleep mode
 	* “Screens up”- Students to begin/continue with learning activity using PLD
-* Students are to move in an orderly and quiet manner when moving from one classroom to another during curriculum time. 
-* Students must complete and submit all homework promptly and neatly. 
+* Students are to move in an orderly and quiet manner when moving from one classroom to another during curriculum time.&nbsp;
+* Students must complete and submit all homework promptly and neatly.&nbsp;
 
   
 
-**Attention** 
-* Students are to stand up and greet their teachers before the commencement of lesson and at the end of lesson. 
-* Students to pay full attention to teacher. 
+**Attention**&nbsp;
+* Students are to stand up and greet their teachers before the commencement of lesson and at the end of lesson.&nbsp;
+* Students to pay full attention to teacher.&nbsp;
 
   
 
@@ -141,7 +142,7 @@ The Pupil Management Department carries out reflection sessions (adapted from th
 * Students are to return back to class quickly and quietly five minutes before the end of recess time.
 * Students may bring light, healthy snacks with them and consume in class during the snack break.
 * During the snack break, students are not allowed to go to the canteen to purchase food.
-* Students must take ownership in ensuring good hygiene practices during the snack break to keep their classrooms clean and conducive for learning e.g.  proper disposal of the wrappers from the consumption of the snacks.
+* Students must take ownership in ensuring good hygiene practices during the snack break to keep their classrooms clean and conducive for learning e.g.&nbsp; proper disposal of the wrappers from the consumption of the snacks.
 * The no-usage of mobile phone rule applies during snack break period.
 
 <style type="text/css">
@@ -167,16 +168,16 @@ The Pupil Management Department carries out reflection sessions (adapted from th
 </table>
 
 
-**Weekly Assembly** 
+**Weekly Assembly**&nbsp;
 * Students are to move quickly and quietly to the hall.
-* Students are to observe silence when they are in the hall at all times. 
+* Students are to observe silence when they are in the hall at all times.&nbsp;
 * Students are to be seated with their class neatly in a row.
 * Students must show respect towards all speakers and/or performers by paying attention.
 
   
 
 **After Dismissal**
-* Students must not loiter in public areas such as shopping malls, playgrounds and void decks after school. 
+* Students must not loiter in public areas such as shopping malls, playgrounds and void decks after school.&nbsp;
 * Students must behave in a respectable manner and uphold the school values at all times.
 
   
@@ -191,22 +192,22 @@ The Pupil Management Department carries out reflection sessions (adapted from th
 * Mobile phones/electronic devices should be kept out of sight and switched off during the change-over of lessons and while students are walking along the corridor.
 * During recess, the use of mobile phones/electronic devices will be restricted to the two call zones: the canteen and the foyer area.
 * Students can only use the mobile phones/electronic devices for learning purposes when permission is given by a school staff.
-* If the mobile phone policy is violated, mobile phone/electronic device will be confiscated for 5 school days (inclusive of the day of confiscation) and kept under lock and key in the General Office. For example, if a mobile phone is confiscated on Monday in Term 1 Week 1, the phone will be returned after 5 full school days of confiscation, which is on Monday in Term 1 Week 2. 
-* An information form will be issued to student. Confiscated mobile phone/ electronic device will be returned only after 5 school days with a signed parent’s reply slip. 
-* Failure to comply with the confiscation order will be treated as defiance towards authority which is classified as a major offence in the school. 
+* If the mobile phone policy is violated, mobile phone/electronic device will be confiscated for 5 school days (inclusive of the day of confiscation) and kept under lock and key in the General Office. For example, if a mobile phone is confiscated on Monday in Term 1 Week 1, the phone will be returned after 5 full school days of confiscation, which is on Monday in Term 1 Week 2.&nbsp;
+* An information form will be issued to student. Confiscated mobile phone/ electronic device will be returned only after 5 school days with a signed parent’s reply slip.&nbsp;
+* Failure to comply with the confiscation order will be treated as defiance towards authority which is classified as a major offence in the school.&nbsp;
 
   
 
 **Responsibilities in using Personal Learning Devices (PLDs) in HS**    
 **General**
-* Students are responsible for their PLDs. The school will not be held responsible for any damage, theft or loss of their devices. In the event of loss or theft of devices, students must make a police report and report the matter to the school. 
+* Students are responsible for their PLDs. The school will not be held responsible for any damage, theft or loss of their devices. In the event of loss or theft of devices, students must make a police report and report the matter to the school.&nbsp;
 * The PLDs are intended for use every day at school. Students must be responsible for bringing their PLDs to all classes, unless specifically advised not to do so by their teacher.
-* Students should bring their PLDs home with them at the end of every school day. 
-* Students should not use the school’s electrical power to charge their PLDs. Students should ensure that their PLDs are fully charged before bringing them to school.  Students are responsible for securely storing the PLDs in the common storage facility when they are not in use for learning purposes. Under no circumstance should PLDs be stored in unsupervised areas. Unsupervised areas include the school grounds, canteen, library, special rooms, toilets or any other entity that is not securely locked or in which there is no supervision.
+* Students should bring their PLDs home with them at the end of every school day.&nbsp;
+* Students should not use the school’s electrical power to charge their PLDs. Students should ensure that their PLDs are fully charged before bringing them to school.&nbsp; Students are responsible for securely storing the PLDs in the common storage facility when they are not in use for learning purposes. Under no circumstance should PLDs be stored in unsupervised areas. Unsupervised areas include the school grounds, canteen, library, special rooms, toilets or any other entity that is not securely locked or in which there is no supervision.
 * Students’ PLDs are installed with device management software. When enrolled, the software will manage students’ device usage based on settings determined by the school. Students should not attempt to uninstall or de-enroll themselves from the software. Any violation might lead to disciplinary action in accordance to the school’s discipline policy.
-* Students are responsible for using school-owned ICT facilities, equipment and resources for the purpose of learning. Personal use such as gaming and engaging in social media platforms is strictly prohibited. 
+* Students are responsible for using school-owned ICT facilities, equipment and resources for the purpose of learning. Personal use such as gaming and engaging in social media platforms is strictly prohibited.&nbsp;
 * Students are responsible for any resource that is borrowed from school for the duration of the loan. The student will bear the cost of damage, theft or loss due to negligence and face disciplinary action in accordance to the school’s discipline policy.
-* Students should always use respectful and appropriate language on cyberspace. Students should not transmit any material that is profane, obscene, abusive, or offensive to others. 
+* Students should always use respectful and appropriate language on cyberspace. Students should not transmit any material that is profane, obscene, abusive, or offensive to others.&nbsp;
 * Students may be selected at random to provide the PLDs for inspection. The purpose for inspection is to check for proper care and maintenance, and for inappropriate material carried into the school.
 * Use of PLDs for personal use (e.g.: watching shows/using social media) is not allowed in school.
 
@@ -218,21 +219,21 @@ The Pupil Management Department carries out reflection sessions (adapted from th
 * Student should change their passwords every 3 months. Failure to do so would constitute as negligence.
 * Students are to use their full name as stated in their EZlink cards for all account IDs. Aliases, nicknames and pseudonyms are not allowed.
 * Students should not use school-owned computing devices for any online trade (i.e. buying and selling of goods and services).
-* Students should not use devices to store, modify or create content (e.g. documents, presentations, pictures, videos) that is pornographic or defamatory in nature. 
+* Students should not use devices to store, modify or create content (e.g. documents, presentations, pictures, videos) that is pornographic or defamatory in nature.&nbsp;
 
   
 
-**Email & Social Media**
+**Email &amp; Social Media**
 * Students should not post or share any indecent, obscene, pornographic, defamatory material/message that offends and causes distress to other people.
 * Students are reminded that threats, harassment, embarrassment, impersonation and intimidation to others is a chargeable offence under Singapore Legal System.
-* Students are expected to remain courteous and polite in all online interactions. 
+* Students are expected to remain courteous and polite in all online interactions.&nbsp;
 
   
 
 **Privacy and Safety**
-* Students should not reveal their personal details (e.g. phone number, home address, NRIC, passwords, or passwords of other people) openly online. 
+* Students should not reveal their personal details (e.g. phone number, home address, NRIC, passwords, or passwords of other people) openly online.&nbsp;
 * If students inadvertently access a website that contains obscene, pornographic, or otherwise offensive material, notify a trusted adult (e.g. parents or teachers) immediately.
-* Any attempt to alter data, the configuration of a computer, or the files of another user, without the consent of the individual, is an act of vandalism and subject to disciplinary action in accordance with school’s discipline policy. 
+* Any attempt to alter data, the configuration of a computer, or the files of another user, without the consent of the individual, is an act of vandalism and subject to disciplinary action in accordance with school’s discipline policy.&nbsp;
 * Students should not go into any chat room other than those set up or mandated by your teacher. Private chatting during class without permission is not allowed.
 
   
@@ -241,7 +242,7 @@ The Pupil Management Department carries out reflection sessions (adapted from th
 * Students should not access, download, copy or share any copyrighted materials (such as pictures, videos, music) without explicit permission from the owner.
 * Students should not own, copy or share software in an unauthorized or illegal manner.
 * The rights of all materials and data created using the school’s ICT facilities and resources are jointly owned by the school and the student.
-* Plagiarism is a violation of the school’s discipline code. Students should give credit to all sources used, whether quoted or summarized. This includes all forms of media on the Internet such as graphics, movies, music, and text. 
+* Plagiarism is a violation of the school’s discipline code. Students should give credit to all sources used, whether quoted or summarized. This includes all forms of media on the Internet such as graphics, movies, music, and text.&nbsp;
 
   
 
@@ -266,8 +267,8 @@ All students are required to abide by the rules stated above on the usage of lea
 
 ![](/images/girlsuni.png)
 
-* Long hair must be tied up neatly. 
-* Girls with shoulder-length hair or hair touching the collar must tie up their hair at all times. 
+* Long hair must be tied up neatly.&nbsp;
+* Girls with shoulder-length hair or hair touching the collar must tie up their hair at all times.&nbsp;
 * Fringe touching the eyebrows must be pinned up using a black pin.
 * Only simple black hair accessories are allowed.
 * Dyeing of hair is not allowed.

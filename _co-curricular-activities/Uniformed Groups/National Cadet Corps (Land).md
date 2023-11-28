@@ -3,6 +3,7 @@ title: National Cadet Corps (Land)
 permalink: /co-curricular-activities/Uniformed-Groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 NCC Open HouseTake 2" src="https://www.youtube.com/embed/Q2OJIGTxYoI" height="315" width="830"></iframe></center>
 
@@ -107,8 +108,7 @@ To serve with pride and dedication
 
 ### Teachers In-Charge
 
-•	Mr Sean Oh Boon Chong (OIC, TIC for Cadet Leaders )  
-•	Mr Philip Deepak (TIC for Senior Cadet Leaders)  
+•	Mr Sean Oh Boon Chong (OIC, TIC for Cadet Leaders, Senior Cadet Leaders)  
 •	Mdm Azlinah Wahed (TIC for Senior Cadets)  
 •	Mr Charles Wong (TIC for Junior Cadets)  
 
