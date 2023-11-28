@@ -3,13 +3,11 @@ title: Every Staff Innovates
 permalink: /hs-innovates/every-staff-innovates/
 description: ""
 third_nav_title: HS Innovates
+variant: markdown
 ---
 ### Challenge the Process
 
 Our HS staff regularly shares their best innovation practices through various platforms, such as Challenge the Process during staff contact time, InnoBuzz – our infographic newsletter showcasing all innovation programmes, as well as through the HS Learning Festival. 
-
-![](/images/InnoSpace/challenge%20the%20process.jpg)
-*Challenge the Process (Staff Contact Time)*
 
 ![](/images/InnoSpace/2023%20term%201%20innobuzz.png)
 *InnoBuzz – Infographic Newsletter*
