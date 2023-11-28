@@ -25,7 +25,7 @@ The Pupil Management Department carries out reflection sessions (adapted from th
     <td class="tg-fxx4"><span style="color:#222">Mr Low Yi En</span></td>
   </tr>
   <tr>
-    <td class="tg-kxyf"><span style="font-weight:400;color:#333">SH/Pupil Management (Int)</span></td>
+    <td class="tg-kxyf"><span style="font-weight:400;color:#333">SH/Pupil Management (Covering)</span></td>
     <td class="tg-emg8"><span style="color:#222">Mdm  Amalina Abdul Samad</span></td>
   </tr>
   <tr>
