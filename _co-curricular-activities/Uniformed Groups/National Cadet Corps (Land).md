@@ -32,10 +32,6 @@ To serve with pride and dedication
 *   Distinction (2019)  
 *   Distinction (2018)
 
-##### **Best Unit Competition:**  
-
-*   Silver (2017)  
-*   Silver (2016)
 
 ### Route of Advancement
 
@@ -48,25 +44,25 @@ To serve with pride and dedication
 
 ### Leadership Structure
 
-**Unit Sergeant Major**: Daryl Chua Meng Xun  
-**Assistant Unit Sergeant Major**: Lim Bo Le Eric   
+**Unit Sergeant Major**: MSG Daryl Chua Meng Xun  
+**Assistant Unit Sergeant Major**: MSG Lim Bo Le Eric   
 
-**Junior Cadets Platoon Sergeant**:  Goh Wei Chen 
-**Junior Cadets Asst Platoon Sergeant**: Tan Zi Yi Bryan,  Chen Hua Ao, Colin Chiang
+**Junior Cadets Platoon Sergeant**:  SSG Bryan Tan Zi Yi 
+**Junior Cadets Asst Platoon Sergeant**: SSG Chen Hua Ao, 3SG Wang Geng Hui, 3SG Mikkel Teo Zhi Qi  
 
-**Senior Cadets Platoon Sergeant**: Tristan Lee Zhen Ping   
-**Senior Cadets Asst Platoon Sergeant**: Su Jun Hong Lucas, Low Zhi Yik, Hiah Rui Feng Jayden  
+**Senior Cadets Platoon Sergeant**: SSG Goh Wei Chen  
+**Senior Cadets Asst Platoon Sergeant**: SSG Colin Chiang, 3SG Hiah Rui Feng Jayden, 3SG Mah Ming Xi   
 
-**Cadet Leaders Platoon Sergeant**:&nbsp;1SG Jamas Quek  
-**Cadet Leaders Asst Platoon Sergeant**: 1SG Muhammad Hidayat, 3SG Zachary Oh, 3SG Gavin Lui  
+**Cadet Leaders Platoon Sergeant**: SSG Tristan Lee   
+**Cadet Leaders Asst Platoon Sergeant**: SSG Su Jun Hong Lucas, 3SG Low Zhi Yik, 3SG Firas Rifqi Bin Halil   
 
+**Senior Cadet Leaders Platoon Sergeant**: MSG Lim Bo Le Eric   
+**SeniorCadet Leaders Asst Platoon Sergeant**: 3SG Foo Yao Wen  
 
-**Senior Cadet Leaders Platoon Sergeant**: Lim Bo Le Eric   
-**SeniorCadet Leaders Asst Platoon Sergeant**: Foo Yao Wen  
-
-**PTI**: Su Jun Hong Lucas, Goh Wei Chen, Chen Hua Ao  
-
-**Logistics &amp; Games IC**: Mohammed Izzan Bin Mohammed Salehin  
+**Activities IC, PTI**: SSG Su Jun Hong Lucas, SSG Goh Wei Chen, SSG Chen Hua Ao
+ 
+**Logistics &amp; Games IC / Urban Ops**: 3SG Mohammed Izzan Bin Mohammed Salehin, 3SG Loo Shao Liang, 3SG Mah Ming Xi
+  
 
 **PDS IC:**: Daryl Chua Meng Xun  
 
@@ -108,9 +104,9 @@ To serve with pride and dedication
 
 ### Teachers In-Charge
 
-•	Mr Sean Oh Boon Chong (OIC, TIC for Cadet Leaders, Senior Cadet Leaders)  
-•	Mdm Azlinah Wahed (TIC for Senior Cadets)  
-•	Mr Charles Wong (TIC for Junior Cadets)  
+•	Mr Sean Oh Boon Chong (OIC, TIC for Senior Cadet Leaders / Junior Cadets)
+•	Mdm Azlinah Wahed (TIC for Cadet Leaders)
+•	Mr Charles Wong (TIC for Senior Cadets) 
 
 
 ### Training Venue and Days
