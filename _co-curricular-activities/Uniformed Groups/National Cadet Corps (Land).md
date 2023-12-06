@@ -32,10 +32,6 @@ To serve with pride and dedication
 *   Distinction (2019)  
 *   Distinction (2018)
 
-##### **Best Unit Competition:**  
-
-*   Silver (2017)  
-*   Silver (2016)
 
 ### Route of Advancement
 
