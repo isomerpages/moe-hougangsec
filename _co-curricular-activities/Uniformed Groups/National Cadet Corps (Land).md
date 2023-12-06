@@ -44,21 +44,20 @@ To serve with pride and dedication
 
 ### Leadership Structure
 
-**Unit Sergeant Major**: Daryl Chua Meng Xun  
-**Assistant Unit Sergeant Major**: Lim Bo Le Eric   
+**Unit Sergeant Major**: MSG Daryl Chua Meng Xun  
+**Assistant Unit Sergeant Major**: MSG Lim Bo Le Eric   
 
-**Junior Cadets Platoon Sergeant**:  Goh Wei Chen 
-**Junior Cadets Asst Platoon Sergeant**: Tan Zi Yi Bryan,  Chen Hua Ao, Colin Chiang
+**Junior Cadets Platoon Sergeant**:  SSG Bryan Tan Zi Yi 
+**Junior Cadets Asst Platoon Sergeant**: SSG Chen Hua Ao, 3SG Wang Geng Hui, 3SG Mikkel Teo Zhi Qi  
 
-**Senior Cadets Platoon Sergeant**: Tristan Lee Zhen Ping   
-**Senior Cadets Asst Platoon Sergeant**: Su Jun Hong Lucas, Low Zhi Yik, Hiah Rui Feng Jayden  
+**Senior Cadets Platoon Sergeant**: SSG Goh Wei Chen  
+**Senior Cadets Asst Platoon Sergeant**: SSG Colin Chiang, 3SG Hiah Rui Feng Jayden, 3SG Mah Ming Xi   
 
-**Cadet Leaders Platoon Sergeant**:&nbsp;1SG Jamas Quek  
-**Cadet Leaders Asst Platoon Sergeant**: 1SG Muhammad Hidayat, 3SG Zachary Oh, 3SG Gavin Lui  
+**Cadet Leaders Platoon Sergeant**: SSG Tristan Lee   
+**Cadet Leaders Asst Platoon Sergeant**: SSG Su Jun Hong Lucas, 3SG Low Zhi Yik, 3SG Firas Rifqi Bin Halil   
 
-
-**Senior Cadet Leaders Platoon Sergeant**: Lim Bo Le Eric   
-**SeniorCadet Leaders Asst Platoon Sergeant**: Foo Yao Wen  
+**Senior Cadet Leaders Platoon Sergeant**: MSG Lim Bo Le Eric   
+**SeniorCadet Leaders Asst Platoon Sergeant**: 3SG Foo Yao Wen  
 
 **PTI**: Su Jun Hong Lucas, Goh Wei Chen, Chen Hua Ao  
 
