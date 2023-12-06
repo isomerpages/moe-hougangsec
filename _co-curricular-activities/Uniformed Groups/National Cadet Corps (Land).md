@@ -104,9 +104,9 @@ To serve with pride and dedication
 
 ### Teachers In-Charge
 
-•	Mr Sean Oh Boon Chong (OIC, TIC for Cadet Leaders, Senior Cadet Leaders)  
-•	Mdm Azlinah Wahed (TIC for Senior Cadets)  
-•	Mr Charles Wong (TIC for Junior Cadets)  
+•	Mr Sean Oh Boon Chong (OIC, TIC for Senior Cadet Leaders / Junior Cadets)
+•	Mdm Azlinah Wahed (TIC for Cadet Leaders)
+•	Mr Charles Wong (TIC for Senior Cadets) 
 
 
 ### Training Venue and Days
