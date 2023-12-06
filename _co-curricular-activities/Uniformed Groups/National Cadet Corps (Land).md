@@ -59,9 +59,10 @@ To serve with pride and dedication
 **Senior Cadet Leaders Platoon Sergeant**: MSG Lim Bo Le Eric   
 **SeniorCadet Leaders Asst Platoon Sergeant**: 3SG Foo Yao Wen  
 
-**PTI**: Su Jun Hong Lucas, Goh Wei Chen, Chen Hua Ao  
-
-**Logistics &amp; Games IC**: Mohammed Izzan Bin Mohammed Salehin  
+**Activities IC, PTI**: SSG Su Jun Hong Lucas, SSG Goh Wei Chen, SSG Chen Hua Ao
+ 
+**Logistics &amp; Games IC / Urban Ops**: 3SG Mohammed Izzan Bin Mohammed Salehin, 3SG Loo Shao Liang, 3SG Mah Ming Xi
+  
 
 **PDS IC:**: Daryl Chua Meng Xun  
 
