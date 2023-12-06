@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: markdown
 ---
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 NCC Open HouseTake 2" src="https://www.youtube.com/embed/Q2OJIGTxYoI" height="315" width="830"></iframe></center>
+<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 NCC Open HouseTake 2" src="https://www.youtube.com/embed/as4QGU0bwRE" height="315" width="830"></iframe></center>
 
 ### Introduction
 
