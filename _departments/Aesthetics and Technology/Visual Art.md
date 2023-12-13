@@ -210,7 +210,7 @@ Visit our HS e-Gallery to view the masterpieces by our HS Artists!
 
 **2023**
 <a href="https://go.gov.sg/hsartencounters">![](/images/AnT/VA/HS_artencounterEDM2.jpg)</a>  
-
+ 
 
 **2022**
 <a href="https://go.gov.sg/hsartwhodoisee">![](/images/AnT/VA/HSS_ArtsFest_EDM_19Oct2022_12pm.jpg)</a>
