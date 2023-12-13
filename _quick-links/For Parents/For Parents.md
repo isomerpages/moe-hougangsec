@@ -109,6 +109,5 @@ To apply for transfer, please download the Application to Transfer Form and emai
 [GRIT Handbook 2023.pdf](/files/GRIT%20Handbook%202023.pdf)
 
 
-### Class Timetable
-
-[2023 Semester 1 Class Timetable.pdf](/files/Timetables/2023%20Semester%201%20Class%20Timetable.pdf)
+### Class Timetable  
+To be announced.

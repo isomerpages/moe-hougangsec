@@ -15,16 +15,14 @@ sections:
         - title: OUR INSTAGRAM
           description: ""
           url: https://www.instagram.com/hougang_secondary_official/
-      url: https://www.hougangsec.moe.edu.sg/open-house/welcome/
       variant: center
-      button: Click Here For Our Open House Programme
   - resources:
       title: Announcements
       subtitle: Our latest updates
       button: View all
   - infobar:
       subtitle: Latest News
-      description: The results of the 2023 Primary School Leaving Examination (PSLE)
-        will be released on Wednesday, 22 November 2023 at 11.00am.
-      title: Release of 2023 PSLE Results
+      description: The posting results will be released between Wednesday, 20 December
+        and Friday, 22 December 2023 (tentative).
+      title: Secondary 1 (S1) School Posting Results
 ---
