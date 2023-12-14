@@ -8,7 +8,7 @@ variant: markdown
 Dear Parents/Guardians  
 
 **I. ONLINE Purchase**  
-The online textbook purchase is available from now to 15 Dec 2023 at our supplier’s website [www.cascoedusupply.com.sg](www.cascoedusupply.com.sg). Please refer to your child’s booklist for the login instructions and other details.   
+The online textbook purchase is available from now to 15 Dec 2023 at our supplier’s website [(https://cascoedusupply.com.sg/)](https://cascoedusupply.com.sg/). Please refer to your child’s booklist for the login instructions and other details.   
 
 For online purchase, parents can opt for either home delivery at a fee or collect from the school bookshop. For collection at the school bookshop, <u>only one adult and one student</u> are allowed per family.
 
