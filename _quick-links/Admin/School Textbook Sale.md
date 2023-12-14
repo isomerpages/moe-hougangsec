@@ -3,11 +3,12 @@ title: School Textbook Sale
 permalink: /quick-links/school-text-book-sale/
 description: ""
 third_nav_title: Admin
+variant: markdown
 ---
 Dear Parents/Guardians  
 
 **I. ONLINE Purchase**  
-The online textbook purchase is available from now to 15 Dec 2023 at our supplier’s website [hgss.cascoedusupply.com.sg](hgss.cascoedusupply.com.sg). Please refer to your child’s booklist for the login instructions and other details.   
+The online textbook purchase is available from now to 15 Dec 2023 at our supplier’s website [www.cascoedusupply.com.sg](www.cascoedusupply.com.sg). Please refer to your child’s booklist for the login instructions and other details.   
 
 For online purchase, parents can opt for either home delivery at a fee or collect from the school bookshop. For collection at the school bookshop, <u>only one adult and one student</u> are allowed per family.
 
@@ -49,5 +50,4 @@ Walk-in purchase is available on the following dates and time. <u>Only one adult
   mso-fareast-font-family:&quot;Times New Roman&quot;;color:#333333;mso-font-kerning:
   0pt;mso-ligatures:none">9am to 12pm</span></p></td></tr></tbody></table>
 
-<center>*closed on Saturdays, Sundays and Public Holidays.</center>  
-
+<center>*closed on Saturdays, Sundays and Public Holidays.</center>
