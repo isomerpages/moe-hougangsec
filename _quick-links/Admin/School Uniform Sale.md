@@ -3,12 +3,13 @@ title: School Uniform Sale
 permalink: /quick-links/school-uniform-sale/
 description: ""
 third_nav_title: Admin
+variant: markdown
 ---
 Dear Parents/Guardians  
 
 **I. ONLINE Purchase**  
-The <u>online</u> uniform purchase is available on Student Mart/Jeep Sing online store, via Home Delivery at a fee. 
-https://jeepsinguniform.com/collections/hougang-secondary-school
+The [online](https://jeepsinguniform.com/collections/hougang-secondary-school) uniform purchase is available on Student Mart/Jeep Sing online store, via Home Delivery at a fee. 
+[https://jeepsinguniform.com/collections/hougang-secondary-school](https://jeepsinguniform.com/collections/hougang-secondary-school)
 
 **II. Purchase at Student Mart/Jeep Sing Retail Outlet**  
 This option is by <u>appointment only, no walk-in</u>. Please book your time slot via this weblink.
@@ -46,4 +47,5 @@ Walk-in purchase is available on the following dates and time.
 </tbody>
 </table>  
 
-[2023 Student Uniform Sales Schedule](/files/Admin/2023%20student%20uniform%20sales%20schedule.pdf)
+
+[2023 student uniform sales schedule.pdf](/files/Admin/2023%20student%20uniform%20sales%20schedule.pdf)

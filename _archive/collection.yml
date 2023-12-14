@@ -2,6 +2,8 @@ collections:
   archive:
     output: true
     order:
+      - test 3.md
+      - Test 2.md
       - Secondary One Registration.md
       - Financial Assistance.md
       - Canteen.md
