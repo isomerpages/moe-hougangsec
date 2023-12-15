@@ -4,7 +4,7 @@ permalink: /quick-links/waitinglist/
 description: ""
 variant: markdown
 ---
-To appeal for transfer into HS, please download the "Application to Transfer Form" below and email the completed form together with your child's year-end results slip to [hougang\_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg). Only shortlisted candidates will be notified.   
+To appeal for transfer into HS, please download the "Application To Be On Waiting List" below and email the completed form together with your child's year-end results slip to [hougang\_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg). Only shortlisted candidates will be notified.   
   
 
  
