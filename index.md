@@ -4,7 +4,8 @@ title: Hougang Secondary School
 description: An Isomer site of the Singapore Government
 image: /images/School Logo - Edited.png
 permalink: /
-notification: ""
+notification: The 2023 Secondary 1 (S1) posting results will be released on
+  Wednesday, 20 December 2023 at 9.00am.
 sections:
   - hero:
       background: /images/homepagedemo.gif
