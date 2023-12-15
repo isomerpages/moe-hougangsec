@@ -23,16 +23,4 @@ sections:
       button: View all
   - infobar:
       subtitle: Latest News
-  - infocols:
-      title: Info-columns
-      subtitle: Add snippets of text in columns
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
-        - title: Infobox
-          description: Infobox description
 ---
