@@ -23,11 +23,4 @@ sections:
       button: View all
   - infobar:
       subtitle: Latest News
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
