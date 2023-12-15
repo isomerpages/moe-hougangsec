@@ -4,4 +4,76 @@ permalink: /archive/test2/
 variant: markdown
 description: ""
 ---
-<details class="isomer-details"><summary><strong>TITLE</strong></summary><div data-type="detailsContent" class="isomer-details-content"><pre><code>BODY CONTENT</code></pre></div></details><details class="isomer-details"><summary>Preview</summary><div data-type="detailsContent" class="isomer-details-content"><p>{% highlight ruby %} puts 'Expanded message' {% endhighlight %}</p></div></details><p>&lt;details&gt;</p><ol><li><p><strong><u>Subject Based Banding (SBB)</u></strong></p></li></ol><p>If your child/ward is eligible to study subject(s) at a more/less demanding level, please attend the online zoom briefing on <strong><u>Friday, 22 December 2023 from 8.30 am to 9.00 am</u></strong>. Details will be sent via Parents Gateway (PG) on <strong><u>Wednesday, 20</u> <u>December 2023, after 5 pm</u>. </strong>Acceptance/rejection of the subject(s) offered will need to be submitted via the offer sent through PG before <strong><u>Tuesday, 26 December 2023, 12 pm</u>.</strong><br>&lt;/details&gt;</p><p></p>
+
+
+
+
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.collapsible:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  background-color: #f1f1f1;
+}
+</style>
+
+
+
+<h2>Animated Collapsibles</h2>
+
+<p>A Collapsible:</p>
+<button class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+	
+	<details><summary>Test 1</summary> 
+
+<p>Collapsible Set:</p>
+<button class="collapsible">Open Section 1</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button class="collapsible">Open Section 2</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button class="collapsible">Open Section 3</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+
+
+
+
+</details>
