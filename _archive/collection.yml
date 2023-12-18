@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - test 3.md
-      - Secondary One Registration (Collapsible).md
+      - Secondary One Registration.md
       - oldS1reg.md
       - Financial Assistance.md
       - Canteen.md
