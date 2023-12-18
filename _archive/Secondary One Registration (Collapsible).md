@@ -13,7 +13,7 @@ Welcome to Hougang Secondary School (HS). The school would like to extend a warm
 1.  Online Registration Form</b></u></summary>
     
 
-As part of Secondary 1 Registration, we would appreciate it if parents/guardians could take some time to complete [this form](https://go.gov.sg/s1studentdetails) by Thursday, 21 December 2023, 12 pm. This is to allow us to get to know your child/ward better.&nbsp;
+As part of Secondary 1 Registration, we would appreciate it if parents/guardians could take some time to complete [this form](https://go.gov.sg/s1studentdetails) by <b><u>Thursday, 21 December 2023, 12 pm</u></b>. This is to allow us to get to know your child/ward better.&nbsp;
 </details>
 <br>
 <details><summary><u><b>
