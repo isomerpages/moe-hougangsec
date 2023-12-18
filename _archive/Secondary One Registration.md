@@ -12,15 +12,14 @@ Welcome to Hougang Secondary School (HS). The school would like to extend a warm
 <details><summary><u><b>
 1.  Online Registration Form</b></u></summary>
     
-
 As part of Secondary 1 Registration, we would appreciate it if parents/guardians could take some time to complete [this form](https://go.gov.sg/s1studentdetails) by <b><u>Thursday, 21 December 2023, 12 pm</u></b>. This is to allow us to get to know your child/ward better.&nbsp;
 </details>
+
 <br>
 <details><summary><u><b>
 2.  Subject Based Banding (SBB)</b></u></summary>
     
-
-If your child/ward is eligible to study subject(s) at a more/less demanding level, please attend the online zoom briefing on Friday, 22 December 2023 from 8.30 am to 9.00 am. Details will be sent via Parents Gateway (PG) on Wednesday, 20 December 2023, after 5 pm. Acceptance/rejection of the subject(s) offered will need to be submitted via the offer sent through PG before Tuesday, 26 December 2023, 12 pm.
+If your child/ward is eligible to study subject(s) at a more/less demanding level, please attend the online zoom briefing on <u><b>Friday, 22 December 2023 from 8.30 am to 9.00 am</b></u>. Details will be sent via Parents Gateway (PG) on <u><b>Wednesday, 20 December 2023, after 5 pm</b></u>. Acceptance/rejection of the subject(s) offered will need to be submitted via the offer sent through PG before <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.
 </details>
 
 <br>	
@@ -28,7 +27,7 @@ If your child/ward is eligible to study subject(s) at a more/less demanding leve
 3.  Higher Mother Tongue Languages (HMTL)</b></u></summary>
     
 
-1.  Parents of students offered HMTL by MOE will be notified via Parents Gateway (PG) on Wednesday, 20 &nbsp; December 2023 after 5 pm. Acceptance/rejection of the HMTL offer via PG must be done before Tuesday, 26 December 2023, 12 pm.
+1.  Parents of students offered HMTL by MOE will be notified via Parents Gateway (PG) on <u><b>Wednesday, 20 &nbsp; December 2023 after 5 pm</b></u>. Acceptance/rejection of the HMTL offer via PG must be done before <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.
     
 2.  Parents of students not offered Higher Chinese Language (HCL) by MOE but have attained at least a Merit in HCL or an AL2 or better at PSLE will be offered HCL by the school. Parents will be notified via PG on Wednesday, 20 December 2023, after 5 pm. Acceptance/rejection of the HMTL offer via PG must be done before Tuesday, 26 December 2023, 12 pm.
     
