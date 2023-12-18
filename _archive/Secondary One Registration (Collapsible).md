@@ -4,23 +4,27 @@ permalink: /archive/secondary-one-registration-collapsible/
 variant: markdown
 description: ""
 ---
-
 Important information for 2024 Sec 1 Students and Parents
 =========================================================
 
 Welcome to Hougang Secondary School (HS). The school would like to extend a warm welcome to all Secondary 1 students and parents. To prepare for the start of your secondary school journey with us, please look through the information below.&nbsp;
 
-1.  Online Registration Form
+<details><summary><u><b>
+1.  Online Registration Form</b></u></summary>
     
 
 As part of Secondary 1 Registration, we would appreciate it if parents/guardians could take some time to complete [this form](https://go.gov.sg/s1studentdetails) by Thursday, 21 December 2023, 12 pm. This is to allow us to get to know your child/ward better.&nbsp;
+</details>
 
-2.  Subject Based Banding (SBB)
+<details><summary><u><b>
+2.  Subject Based Banding (SBB)</b></u></summary>
     
 
 If your child/ward is eligible to study subject(s) at a more/less demanding level, please attend the online zoom briefing on Friday, 22 December 2023 from 8.30 am to 9.00 am. Details will be sent via Parents Gateway (PG) on Wednesday, 20 December 2023, after 5 pm. Acceptance/rejection of the subject(s) offered will need to be submitted via the offer sent through PG before Tuesday, 26 December 2023, 12 pm.
-
-3.  Higher Mother Tongue Languages (HMTL)
+</details>
+	
+<details><summary><u><b>
+3.  Higher Mother Tongue Languages (HMTL)</b></u></summary>
     
 
 1.  Parents of students offered HMTL by MOE will be notified via Parents Gateway (PG) on Wednesday, 20 &nbsp; December 2023 after 5 pm. Acceptance/rejection of the HMTL offer via PG must be done before Tuesday, 26 December 2023, 12 pm.
@@ -29,23 +33,16 @@ If your child/ward is eligible to study subject(s) at a more/less demanding leve
     
 
 For other MT-related matters, please refer to [this link](about:blank).
-
+</details>
   
 
-4\. Purchase of Books, Uniform and PE Attire for Secondary 1
+<details><summary><u><b>
+4. Purchase of Books, Uniform and PE Attire for Secondary 1</b></u></summary>
 
 Method 1: Online Purchase (Preferred)
 
 <table style="border:none;border-collapse:collapse;"><colgroup><col width="208"><col width="231"><col width="433"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><br></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Link</span></p></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Instructions</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:middle;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Books and Stationery</span></p><br></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:middle;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><a style="text-decoration:none;" href="http://www.cascoedusupply.com.sg/"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#1155cc;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Casco Educational Supply&nbsp;</span></a></p><br></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:middle;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Parents are required to set up an account via the link provided.</span></p><br></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:middle;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Uniforms and PE Attire</span></p><br></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:middle;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><a style="text-decoration:none;" href="https://jeepsinguniform.com/collections/hougang-secondary-school"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#1155cc;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Jeepsing Uniform</span></a></p><br></td><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:middle;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Please indicate Sec 1 as class if class is not available when making online purchase</span></p></td></tr></tbody></table>
 
-  
-  
-  
-  
-  
-  
-  
-  
 
 Method 2: Purchase/Collection at Hougang Secondary School
 
@@ -60,8 +57,7 @@ We seek your understanding that only one adult is allowed to accompany each stud
 
 Please note:
 
-*   For Textbooks: You can view the booklist below or collect a hardcopy from the bookshop. Please choose the correct course (G1, G2 OR G3) for your child.
-    
+*   For Textbooks: You can view the booklist below or collect a hardcopy from the bookshop. Please choose the correct course (G1, G2 OR G3) for your child.    
 
 <table style="border:none;border-collapse:collapse;"><colgroup><col width="343"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-indent: -14.2pt;text-align: center;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 0pt 14.2pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffff00;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Booklist 2024</span></p></td></tr><tr style="height:0pt"><td style="border-left:solid #000000 1pt;border-right:solid #000000 1pt;border-bottom:solid #000000 1pt;border-top:solid #000000 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-indent: -14.2pt;text-align: center;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 0pt 14.2pt;" dir="ltr"><span data-rich-links="{&quot;fple-t&quot;:&quot;2024 Booklist - Sec 1.pdf&quot;,&quot;fple-u&quot;:&quot;https://drive.google.com/file/d/1aV33hAd3GK7a1QEN7v9GinpV0pnOB_f_/view?usp=drive_link&quot;,&quot;fple-mt&quot;:&quot;application/pdf&quot;,&quot;type&quot;:&quot;first-party-link&quot;}" style="font-size:12pt;font-family:Arial,sans-serif;color:#000000;background-color:#ffff00;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"></span><a style="text-decoration:none;" href="https://drive.google.com/file/d/1aV33hAd3GK7a1QEN7v9GinpV0pnOB_f_/view?usp=drive_link"><span data-rich-links="{&quot;fple-t&quot;:&quot;2024 Booklist - Sec 1.pdf&quot;,&quot;fple-u&quot;:&quot;https://drive.google.com/file/d/1aV33hAd3GK7a1QEN7v9GinpV0pnOB_f_/view?usp=drive_link&quot;,&quot;fple-mt&quot;:&quot;application/pdf&quot;,&quot;type&quot;:&quot;first-party-link&quot;}" style="font-size:12pt;font-family:Arial,sans-serif;color:#1155cc;background-color:#ffff00;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2024 Booklist - Sec 1.pdf</span></a></p></td></tr></tbody></table>
 
@@ -73,13 +69,10 @@ You can refer to the suggested quantity to purchase for uniforms:
 Boys: 1 packet of name tags (Green), 1 school tie, 1 shirt, 2 school polo tees, 3 long pants and 2 sets of PE attire (2 T-shirts and 2 shorts).
 
 Girls: 1 packet of name tags (Green), 1 school tie, 1 blouse, 2 school polo tees, 3 skirts and 2 sets of PE attire (2 T-shirts and 2 shorts).
-
+</details>
   
-  
-  
-  
-
-5\. FINANCIAL ASSISTANCE SCHEME (FAS)
+<details><summary><u><b>
+5. FINANCIAL ASSISTANCE SCHEME (FAS)</b></u></summary>
 
 1.  Sec 1 FAS approved by their Primary Schools: Parents/Guardians of Secondary 1 students whose MOE FAS application was approved by their Primary Schools will need to go to the HS General Office to collect your FAS approval letter from Thursday, 21 to Thursday, 28 December 2023 before 2 pm. You need to bring your MOE FAS approval letter from Primary School for verification. After receiving the FAS approval letter from HS, you can proceed to collect the textbooks and uniforms. Please refer to the schedule above for the collection of textbooks and uniforms.&nbsp;
     
@@ -140,4 +133,4 @@ here’s wishing all our 2024 Sec 1 Hougeans and families a wonderful year ahead
   
   
   
-**
+**</details>
