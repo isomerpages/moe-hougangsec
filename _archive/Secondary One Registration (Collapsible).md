@@ -4,7 +4,6 @@ permalink: /archive/secondary-one-registration-collapsible/
 variant: markdown
 description: ""
 ---
-**  
 
 Important information for 2024 Sec 1 Students and Parents
 =========================================================
