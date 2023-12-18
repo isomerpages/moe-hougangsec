@@ -2,9 +2,8 @@ collections:
   archive:
     output: true
     order:
-      - test 3.md
-      - Test 2.md
       - Secondary One Registration.md
+      - oldS1reg.md
       - Financial Assistance.md
       - Canteen.md
       - Sec 3 Subject Combination Matters (For Sec 2, 2023).md
