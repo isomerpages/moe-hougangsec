@@ -33,7 +33,7 @@ If your child/ward is eligible to study subject(s) at a more/less demanding leve
 2.  Parents of students not offered Higher Chinese Language (HCL) by MOE but have attained at least a Merit in HCL or an AL2 or better at PSLE will be offered HCL by the school. Parents will be notified via PG on Wednesday, 20 December 2023, after 5 pm. Acceptance/rejection of the HMTL offer via PG must be done before Tuesday, 26 December 2023, 12 pm.
     
 
-For other MT-related matters, please refer to [this link](about:blank).
+For other MT-related matters, please refer to [this link](about:blank).  
 </details>
 
 <br> 
