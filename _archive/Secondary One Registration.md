@@ -74,10 +74,10 @@ Girls: 1 packet of name tags (Green), 1 school tie, 1 blouse, 2 school polo tees
 <details><summary><u><b>
 5. Financial Assistance Scheme (FAS)</b></u></summary>
 
-1.  Sec 1 FAS approved by their Primary Schools: Parents/Guardians of Secondary 1 students whose MOE FAS application was approved by their Primary Schools will need to go to the HS General Office to collect your FAS approval letter from Thursday, 21 to Thursday, 28 December 2023 before 2 pm. You need to bring your MOE FAS approval letter from Primary School for verification. After receiving the FAS approval letter from HS, you can proceed to collect the textbooks and uniforms. Please refer to the schedule above for the collection of textbooks and uniforms.&nbsp;
+1.  Sec 1 FAS approved by their Primary Schools: Parents/Guardians of Secondary 1 students whose MOE FAS application was approved by their Primary Schools will need to go to the HS General Office to collect your FAS approval letter from <u><b>Thursday, 21 to Thursday, 28 December 2023 before 2 pm</b></u>. You need to bring your MOE FAS approval letter from Primary School for verification. After receiving the FAS approval letter from HS, you can proceed to collect the textbooks and uniforms. Please refer to the schedule above for the collection of textbooks and uniforms.&nbsp;
     
 
-2.  New MOE FAS applicants: Please download, print, and complete the [2023 MOE FAS Application Form](/files/Admin/2024_MOE_FAS_Application_Form.pdf)  [application form](https://go.gov.sg/hsfasapply).&nbsp; You can also collect the form from the HS General Office during school operating hours from 9 am to 5 pm. Kindly ensure the form is completed and submitted with the supporting documents, to our staff in the General Office by Tuesday, 26 December 2023, 12 pm.
+2.  New MOE FAS applicants: Please download, print, and complete the [2023 MOE FAS Application Form](/files/Admin/2024_MOE_FAS_Application_Form.pdf)  [application form](https://go.gov.sg/hsfasapply).&nbsp; You can also collect the form from the HS General Office during school operating hours from 9 am to 5 pm. Kindly ensure the form is completed and submitted with the supporting documents, to our staff in the General Office by <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.
 </details>    
 
   
@@ -87,7 +87,7 @@ Girls: 1 packet of name tags (Green), 1 school tie, 1 blouse, 2 school polo tees
 
 The use of Personal Learning Devices (PLD) is a requirement for secondary schools. The PLD initiative aims to develop and strengthen the digital literacy of your child/ward. For important information and required actions relating to the PLD initiative, including financial assistance as well as purchase of the PLD, please refer to [this link](https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/pld-initiative/).&nbsp;
 
-Do note that the submission of the [online application](https://go.gov.sg/pdlpadmin) includes the authorisation to use your child’s Edusave for the purchase of the PLD. It is important that these are submitted before Tuesday, 26 December 2023, 12 pm so that the school can initiate the procurement of the PLDs without delay.
+Do note that the submission of the [online application](https://go.gov.sg/pdlpadmin) includes the authorisation to use your child’s Edusave for the purchase of the PLD. It is important that these are submitted before <u><b>Tuesday, 26 December 2023, 12 pm</b></u> so that the school can initiate the procurement of the PLDs without delay.
 </details>
   
   
@@ -95,7 +95,7 @@ Do note that the submission of the [online application](https://go.gov.sg/pdlpad
 <details><summary><u><b>
 7. Sec 1 Orientation &amp; GREAT Start Week (Term 1, Week 1, 2 to 4 January 2024)</b></u></summary>
 
-On Tuesday, 2 January 2024, your child/ward is required to report to the school hall (Level 2) in HS PE Attire by 7.25 am. You can view the Orientation Programme [here](https://tinyurl.com/S1Oprog23). The schedule for GREAT Start Week will be sent to all parents and guardians via PG before Tuesday, 2 January 2024. Though there are no lessons for the first 3 days, students are expected to bring a working thermometer, stationery and water bottle for the activities planned for the week.
+On <u><b>Tuesday, 2 January 2024</b></u>, your child/ward is required to report to the school hall (Level 2) in HS PE Attire by <u><b>7.25 am</b></u>. You can view the Orientation Programme [here](https://tinyurl.com/S1Oprog23). The schedule for GREAT Start Week will be sent to all parents and guardians via PG before <u><b>Tuesday, 2 January 2024</b></u>. Though there are no lessons for the first 3 days, students are expected to bring a working thermometer, stationery and water bottle for the activities planned for the week.
 
 In case of possible delivery delays for uniforms purchased online, Sec 1 students may report to school in their Primary School uniform for the first week of school, in this case, Primary School PE attire on 2 January 2024. For more information on school attire and general appearance, please refer to our [school website (Pupil Management)](https://hougangsec.moe.edu.sg/departments/pupil-management).
 </details>
@@ -111,7 +111,7 @@ If there is/are any change(s) in your contact details (mobile, residential/chang
 <details><summary><u><b>
 9. Appeal Matters (Transfer out of HS)</b></u></summary>
 
-(A) For medical reason(s): Documentary evidence is required based on serious medical conditions or severe physical impairments. &nbsp;Kindly submit your request and supporting documents to our General Office staff before Thursday, 21 December 2023, 12 pm
+(A) For medical reason(s): Documentary evidence is required based on serious medical conditions or severe physical impairments. &nbsp;Kindly submit your request and supporting documents to our General Office staff before <u><b>Thursday, 21 December 2023, 12 pm</b></u>.
 
 (B) For non-medical reasons: Please submit your intent to the other school. Once you have received the confirmed placement in the other school, you need to bring the MOE school transfer form, signed by the other school, and submit it to our General Office staff for processing.
 
