@@ -72,7 +72,7 @@ Girls: 1 packet of name tags (Green), 1 school tie, 1 blouse, 2 school polo tees
   
 <br> 
 <details><summary><u><b>
-5. FINANCIAL ASSISTANCE SCHEME (FAS)</b></u></summary>
+5. Financial Assistance Scheme (FAS)</b></u></summary>
 
 1.  Sec 1 FAS approved by their Primary Schools: Parents/Guardians of Secondary 1 students whose MOE FAS application was approved by their Primary Schools will need to go to the HS General Office to collect your FAS approval letter from Thursday, 21 to Thursday, 28 December 2023 before 2 pm. You need to bring your MOE FAS approval letter from Primary School for verification. After receiving the FAS approval letter from HS, you can proceed to collect the textbooks and uniforms. Please refer to the schedule above for the collection of textbooks and uniforms.&nbsp;
     
