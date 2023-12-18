@@ -35,8 +35,8 @@ If your child/ward is eligible to study subject(s) at a more/less demanding leve
 
 For other MT-related matters, please refer to [this link](about:blank).
 </details>
-  
 
+<br> 
 <details><summary><u><b>
 4. Purchase of Books, Uniform and PE Attire for Secondary 1</b></u></summary>
 
@@ -72,28 +72,29 @@ Boys: 1 packet of name tags (Green), 1 school tie, 1 shirt, 2 school polo tees, 
 Girls: 1 packet of name tags (Green), 1 school tie, 1 blouse, 2 school polo tees, 3 skirts and 2 sets of PE attire (2 T-shirts and 2 shorts).
 </details>
   
+<br> 
 <details><summary><u><b>
 5. FINANCIAL ASSISTANCE SCHEME (FAS)</b></u></summary>
 
 1.  Sec 1 FAS approved by their Primary Schools: Parents/Guardians of Secondary 1 students whose MOE FAS application was approved by their Primary Schools will need to go to the HS General Office to collect your FAS approval letter from Thursday, 21 to Thursday, 28 December 2023 before 2 pm. You need to bring your MOE FAS approval letter from Primary School for verification. After receiving the FAS approval letter from HS, you can proceed to collect the textbooks and uniforms. Please refer to the schedule above for the collection of textbooks and uniforms.&nbsp;
     
 
-  
-
 2.  New MOE FAS applicants: Please download, print, and complete the [application form](https://go.gov.sg/hsfasapply).&nbsp; You can also collect the form from the HS General Office during school operating hours from 9 am to 5 pm. Kindly ensure the form is completed and submitted with the supporting documents, to our staff in the General Office by Tuesday, 26 December 2023, 12 pm.
     
 
   
-
-6.&nbsp; Personal Digital Learning Programme (PDLP)
+<br> 
+<details><summary><u><b>
+6.&nbsp; Personal Digital Learning Programme (PDLP)</b></u></summary>
 
 The use of Personal Learning Devices (PLD) is a requirement for secondary schools. The PLD initiative aims to develop and strengthen the digital literacy of your child/ward. For important information and required actions relating to the PLD initiative, including financial assistance as well as purchase of the PLD, please refer to [this link](https://go.gov.sg/hspdlp).&nbsp;
 
 Do note that the submission of the [online application](https://go.gov.sg/pdlpadmin) includes the authorisation to use your child’s Edusave for the purchase of the PLD. It is important that these are submitted before Tuesday, 26 December 2023, 12 pm so that the school can initiate the procurement of the PLDs without delay.
-
+</details>
   
   
-
+<br> 
+<details><summary><u><b>
 7. Sec 1 Orientation &amp; GREAT Start Week (Term 1, Week 1, 2 to 4 January 2024)
 
 On Tuesday, 2 January 2024, your child/ward is required to report to the school hall (Level 2) in HS PE Attire by 7.25 am. You can view the Orientation Programme [here](https://tinyurl.com/S1Oprog23). The schedule for GREAT Start Week will be sent to all parents and guardians via PG before Tuesday, 2 January 2024. Though there are no lessons for the first 3 days, students are expected to bring a working thermometer, stationery and water bottle for the activities planned for the week.
@@ -134,4 +135,4 @@ here’s wishing all our 2024 Sec 1 Hougeans and families a wonderful year ahead
   
   
   
-**</details>
+**</b></u></summary></details></details>
