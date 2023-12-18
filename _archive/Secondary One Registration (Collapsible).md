@@ -15,14 +15,15 @@ Welcome to Hougang Secondary School (HS). The school would like to extend a warm
 
 As part of Secondary 1 Registration, we would appreciate it if parents/guardians could take some time to complete [this form](https://go.gov.sg/s1studentdetails) by Thursday, 21 December 2023, 12 pm. This is to allow us to get to know your child/ward better.&nbsp;
 </details>
-
+<br>
 <details><summary><u><b>
 2.  Subject Based Banding (SBB)</b></u></summary>
     
 
 If your child/ward is eligible to study subject(s) at a more/less demanding level, please attend the online zoom briefing on Friday, 22 December 2023 from 8.30 am to 9.00 am. Details will be sent via Parents Gateway (PG) on Wednesday, 20 December 2023, after 5 pm. Acceptance/rejection of the subject(s) offered will need to be submitted via the offer sent through PG before Tuesday, 26 December 2023, 12 pm.
 </details>
-	
+
+<br>	
 <details><summary><u><b>
 3.  Higher Mother Tongue Languages (HMTL)</b></u></summary>
     
