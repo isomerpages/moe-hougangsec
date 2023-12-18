@@ -7,7 +7,7 @@ description: ""
 Important information for 2024 Sec 1 Students and Parents
 =========================================================
 
-Welcome to Hougang Secondary School (HS). The school would like to extend a warm welcome to all Secondary 1 students and parents. To prepare for the start of your secondary school journey with us, please look through the information below.&nbsp;
+Welcome to Hougang Secondary School (HS). The school would like to extend a warm welcome to all Secondary 1 students and parents. To prepare for the start of your secondary school journey with us, please look through the information below. Please click the underlined text for the details. 
 
 <details><summary><u><b>
 1.  Online Registration Form</b></u></summary>
