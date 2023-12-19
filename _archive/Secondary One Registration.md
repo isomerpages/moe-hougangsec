@@ -32,8 +32,9 @@ If your child/ward is eligible to study subject(s) at a more/less demanding leve
 (B)  Parents of students not offered Higher Chinese Language (HCL) by MOE but have attained at least a Merit in HCL or an AL2 or better at PSLE will be offered HCL by the school. Parents will be notified via PG on <u><b>Wednesday, 20 December 2023, after 5 pm</b></u>. Acceptance/rejection of the HMTL offer via PG must be done before <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.</p>
     
 <p>
-For other MT-related matters, please refer to <a href="https://www.hougangsec.moe.edu.sg/files/S1reg/2024__Sec_1_Registration_MTL_related_Matters.pdf">this link</a></p>
+For other MT-related matters, please refer to <a href="https://www.hougangsec.moe.edu.sg/files/S1reg/2024__sec_1_registration_mtl_related_matters.pdf">this link</a></p>
 </details>
+
 
 <br> 
 <details><p></p><summary><u><b>
@@ -90,13 +91,15 @@ Do note that the submission of the <a href="https://go.gov.sg/pdlpadmin">online 
 		Please click the link below to submit your purchase of the PLD.  
 		</p><p> <a href="https://go.gov.sg/pdlpadmin">Click here to purchase the PLD</a>
 </p></details>
-  
+ 
   
 <br> 
 <details><p></p><summary><u><b>
 7. Sec 1 Orientation &amp; GREAT Start Week (Term 1, Week 1, 2 to 4 January 2024)</b></u></summary>
 <p>
-On <u><b>Tuesday, 2 January 2024</b></u>, your child/ward is required to report to the school hall (Level 2) in HS PE Attire by <u><b>7.25 am</b></u>. You can view the Orientation Programme <a href="(https://www.hougangsec.moe.edu.sg/files/S1reg/2024_Sec_1_Orientation_Programme.pdf)">here</a>.
+On <u><b>Tuesday, 2 January 2024</b></u>, your child/ward is required to report to the school hall (Level 2) in HS PE Attire by <u><b>7.25 am</b></u>. You can view the Orientation Programme  <a href="https://www.hougangsec.moe.edu.sg/files/S1reg/2024_Sec_1_Orientation_Programme.pdf">here</a>.
+
+	
  The schedule for GREAT Start Week will be sent to all parents and guardians via PG before <u><b>Tuesday, 2 January 2024</b></u>. Though there are no lessons for the first 3 days, students are expected to bring a working thermometer, stationery and water bottle for the activities planned for the week.
 </p><p>
 In case of possible delivery delays for uniforms purchased online, Sec 1 students may report to school in their Primary School uniform for the first week of school, in this case, Primary School PE attire on 2 January 2024. For more information on school attire and general appearance, please refer to our <a href="https://hougangsec.moe.edu.sg/departments/pupil-management">school website [Pupil Management]</a>
