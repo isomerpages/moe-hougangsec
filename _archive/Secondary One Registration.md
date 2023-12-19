@@ -108,7 +108,7 @@ If there is/are any change(s) in your contact details (mobile, residential/chang
 <p>
 (A) For medical reason(s): Documentary evidence is required based on serious medical conditions or severe physical impairments. &nbsp;Kindly submit your request and supporting documents to our General Office staff before <u><b>Thursday, 21 December 2023, 12 pm</b></u>.
 </p><p>
-(B) For non-medical reasons: Please submit your intent to the other school. Once you have received the confirmed placement in the other school, you need to bring the MOE school transfer form, signed by the other school, and submit it to our General Office staff for processing.
+(B) For non-medical reasons: Please submit your intent to the other school. Once you have received the confirmed placement in the other school, you need to bring the MOE school transfer form, signed by the other school, and submit it to our General Office staff for processing.  
 </p><p>
 * Please purchase your textbooks and uniforms only after confirmation of a placement in the school of choice.</p>
 </details>
