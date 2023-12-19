@@ -59,7 +59,7 @@ Please note:
 	</p><p>
 <a href="https://www.hougangsec.moe.edu.sg/files/S1reg/2024_booklist_sec_1.pdf">2024 Booklist - Sec 1.pdf</a>
 	
-
+</p><p>
 *   For Uniforms: No trying on of uniforms will be allowed.&nbsp; Please bring the best fitting garment to compare when selecting the suitable size for purchase in school.&nbsp;
 	    
 </p><p>
