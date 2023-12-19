@@ -65,18 +65,18 @@ Please note:
 </p><p>
 You can refer to the suggested quantity to purchase for uniforms:
 </p><p>
-Boys: 1 packet of name tags (Green), 1 school tie, 1 shirt, 2 school polo tees, 3 long pants and 2 sets of PE attire (2 T-shirts and 2 shorts).
+	<b>Boys</b>: 1 packet of name tags (Green), 1 school tie, 1 shirt, 2 school polo tees, 3 long pants and 2 sets of PE attire (2 T-shirts and 2 shorts).
 </p><p>
-Girls: 1 packet of name tags (Green), 1 school tie, 1 blouse, 2 school polo tees, 3 skirts and 2 sets of PE attire (2 T-shirts and 2 shorts).</p>
+	<b>Girls</b>: 1 packet of name tags (Green), 1 school tie, 1 blouse, 2 school polo tees, 3 skirts and 2 sets of PE attire (2 T-shirts and 2 shorts).</p>
 </details>
   
 <br> <p>
 </p><details><summary><u><b>
 5. Financial Assistance Scheme (FAS)</b></u></summary>
 <p>
-1.  Sec 1 FAS approved by their Primary Schools: Parents/Guardians of Secondary 1 students whose MOE FAS application was approved by their Primary Schools will need to go to the HS General Office to collect your FAS approval letter from <u><b>Thursday, 21 to Thursday, 28 December 2023 before 2 pm</b></u>. You need to bring your MOE FAS approval letter from Primary School for verification. After receiving the FAS approval letter from HS, you can proceed to collect the textbooks and uniforms. Please refer to the schedule above for the collection of textbooks and uniforms.&nbsp;
+A.  Sec 1 FAS approved by their Primary Schools: Parents/Guardians of Secondary 1 students whose MOE FAS application was approved by their Primary Schools will need to go to the HS General Office to collect your FAS approval letter from <u><b>Thursday, 21 to Thursday, 28 December 2023 before 2 pm</b></u>. You need to bring your MOE FAS approval letter from Primary School for verification. After receiving the FAS approval letter from HS, you can proceed to collect the textbooks and uniforms. Please refer to the schedule above for the collection of textbooks and uniforms.&nbsp;
 </p><p>
-2.  New MOE FAS applicants: Please download, print, and complete this <a href="https://www.hougangsec.moe.edu.sg/files/Admin/2024_MOE_FAS_Application_Form.pdf">2024 MOE FAS Application Form</a>. You can also collect the form from the HS General Office during school operating hours from 9 am to 5 pm. Kindly ensure the form is completed and submitted with the supporting documents, to our staff in the General Office by <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.</p>
+B.  New MOE FAS applicants: Please download, print, and complete this <a href="https://www.hougangsec.moe.edu.sg/files/Admin/2024_MOE_FAS_Application_Form.pdf">2024 MOE FAS Application Form</a>. You can also collect the form from the HS General Office during school operating hours from 9 am to 5 pm. Kindly ensure the form is completed and submitted with the supporting documents, to our staff in the General Office by <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.</p>
 </details>    
 
   
