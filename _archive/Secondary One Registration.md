@@ -6,20 +6,20 @@ description: ""
 ---
 Important information for 2024 Sec 1 Students and Parents
 =========================================================
-
-Welcome to Hougang Secondary School (HS). The school would like to extend a warm welcome to all Secondary 1 students and parents. To prepare for the start of your secondary school journey with us, please look through the information below. Please click the underlined text for the details. 
+<p>
+Welcome to Hougang Secondary School (HS). The school would like to extend a warm welcome to all Secondary 1 students and parents. To prepare for the start of your secondary school journey with us, please look through the information below. Please click the underlined text for the details. </p>
 
 <details><summary><u><b>
 1.  Online Registration Form</b></u></summary>
-    
-As part of Secondary 1 Registration, we would appreciate it if parents/guardians could take some time to complete <a href="https://form.gov.sg/656fdf0356df3e0012c5d039">this form</a> by <b><u>Thursday, 21 December 2023, 12 pm</u></b>. This is to allow us to get to know your child/ward better.&nbsp;
+ <p>   
+As part of Secondary 1 Registration, we would appreciate it if parents/guardians could take some time to complete <a href="https://form.gov.sg/656fdf0356df3e0012c5d039">this form</a> by <b><u>Thursday, 21 December 2023, 12 pm</u></b>. This is to allow us to get to know your child/ward better.&nbsp;</p>
 </details>
 
 <br>
 <details><summary><u><b>
 2.  Subject Based Banding (SBB)</b></u></summary>
-    
-If your child/ward is eligible to study subject(s) at a more/less demanding level, please attend the online zoom briefing on <u><b>Friday, 22 December 2023 from 8.30 am to 9.00 am</b></u>. Details will be sent via Parents Gateway (PG) on <u><b>Wednesday, 20 December 2023, after 5 pm</b></u>. Acceptance/rejection of the subject(s) offered will need to be submitted via the offer sent through PG before <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.
+<p>    
+If your child/ward is eligible to study subject(s) at a more/less demanding level, please attend the online zoom briefing on <u><b>Friday, 22 December 2023 from 8.30 am to 9.00 am</b></u>. Details will be sent via Parents Gateway (PG) on <u><b>Wednesday, 20 December 2023, after 5 pm</b></u>. Acceptance/rejection of the subject(s) offered will need to be submitted via the offer sent through PG before <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.</p>
 </details>
 
 <br>	
@@ -55,10 +55,10 @@ Please follow the schedule below for the purchase/collection of textbooks and un
 
 Please note:
 <p>
-*   For Textbooks: You can view the booklist below or collect a hardcopy from the bookshop. Please choose the correct course (G1, G2 OR G3) for your child.    
-<a href="https://www.hougangsec.moe.edu.sg//files/S1reg/2024_Booklist___Sec_1.pdf">2024 Booklist - Sec 1.pdf</a>
+*   For Textbooks: You can view the booklist below or collect a hardcopy from the bookshop. Please choose the correct course (G1, G2 OR G3) for your child.    <br>
+<a href="https://www.hougangsec.moe.edu.sg/files/S1reg/2024_booklist_sec_1.pdf">2024 Booklist - Sec 1.pdf</a>
 	</p>
-	
+
 <p>
 *   For Uniforms: No trying on of uniforms will be allowed.&nbsp; Please bring the best fitting garment to compare when selecting the suitable size for purchase in school.&nbsp;
 	</p>    
