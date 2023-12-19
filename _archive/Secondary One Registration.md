@@ -88,7 +88,7 @@ The use of Personal Learning Devices (PLD) is a requirement for secondary school
 Do note that the submission of the <a href="https://go.gov.sg/pdlpadmin">online application</a>  includes the authorisation to use your child’s Edusave for the purchase of the PLD. It is important that these are submitted before <u><b>Tuesday, 26 December 2023, 12 pm</b></u> so that the school can initiate the procurement of the PLDs without delay.</p>
 	<p>
 		Please click the link below to submit your purchase of the PLD.  
-		</p><p> <a href="https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/pld-initiative/">Click here to purchase the PLD</a>
+		</p><p> <a href="https://go.gov.sg/pdlpadmin">Click here to purchase the PLD</a>
 </p></details>
   
   
