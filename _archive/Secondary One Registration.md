@@ -9,15 +9,15 @@ Important information for 2024 Sec 1 Students and Parents
 <p>
 Welcome to Hougang Secondary School (HS). The school would like to extend a warm welcome to all Secondary 1 students and parents. To prepare for the start of your secondary school journey with us, please look through the information below. Please click the underlined text for the details. </p>
 
-<details><summary><u><b></b></u><p><u><b>
-1.  Online Registration Form</b></u></p></summary>
+<details><p></p><summary><u><b>
+1.  Online Registration Form</b></u></summary>
  <p>   
 As part of Secondary 1 Registration, we would appreciate it if parents/guardians could take some time to complete <a href="https://form.gov.sg/656fdf0356df3e0012c5d039">this form</a> by <b><u>Thursday, 21 December 2023, 12 pm</u></b>. This is to allow us to get to know your child/ward better.&nbsp;</p>
 </details>
 
 <br>
-<details><summary><u><b></b></u><p><u><b>
-2.  Subject Based Banding (SBB)</b></u></p></summary>
+<details><p></p><summary><u><b>
+2.  Subject Based Banding (SBB)</b></u></summary>
 <p>    
 If your child/ward is eligible to study subject(s) at a more/less demanding level, please attend the online zoom briefing on <u><b>Friday, 22 December 2023 from 8.30 am to 9.00 am</b></u>. Details will be sent via Parents Gateway (PG) on <u><b>Wednesday, 20 December 2023, after 5 pm</b></u>. Acceptance/rejection of the subject(s) offered will need to be submitted via the offer sent through PG before <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.</p>
 </details>
