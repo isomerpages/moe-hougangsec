@@ -3,6 +3,7 @@ title: Personal Learning Device (PLD) Initiative
 permalink: /quick-links/PLD-Initiative/pld-initiative/
 description: ""
 third_nav_title: PLD Initiative
+variant: markdown
 ---
 At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy. One of the components of the NDLP is the introduction of the Personalised Digital Learning Programme (PDLP) for all secondary school students, whereby every secondary school student will own a school-prescribed Personal Learning Device (PLD) by end-2021. This provides important information about how you can purchase the PLD for your child/ward as well as about the accompanying applications that the school may be rolling out as part of the NDLP.  
   
@@ -144,22 +145,22 @@ More details on the functions and features of the DMA, and on the collection and
     <td class="tg-scjc">Remarks and Links</td>
   </tr>
   <tr>
-    <td class="tg-7fd7">31 Dec 2023</td>
+    <td class="tg-7fd7">26 Dec 2023</td>
     <td class="tg-2rp9">Submission of application forms<br> <br>Submit information on existing household computing device<br><br><span style="background-color:initial">Other applications</span><br><br> </td>
     <td class="tg-7fd7"><span style="font-style:italic">required:</span><br><span style="background-color:initial">1. Intent to Purchase PLD and Use of Edusave (go to:</span> <a href="https://go.gov.sg/pdlpadmin" target="_blank" rel="noopener noreferrer">https://go.gov.sg/pdlpadmin</a>)<br><span style="background-color:initial">2. Survey on Household Computing Device (</span><a href="https://go.gov.sg/hssurveycomputingdevicesec1" target="_blank" rel="noopener noreferrer">https://go.gov.sg/hssurveycomputingdevicesec1</a><span style="background-color:initial">)</span><br> <br><br><span style="font-style:italic">where applicable:</span><br>1. Application for Subsidy (See Annex D)<br>2. Application for Home Access Programme (subsidised fibre broadband, go to: <a href="http://www.digitalaccess.gov.sg/" target="_blank" rel="noopener noreferrer">www.digitalaccess.gov.sg</a>)</td>
   </tr>
   <tr>
-    <td class="tg-7fd7">Jan 2023</td>
+    <td class="tg-7fd7">Jan 2024</td>
     <td class="tg-2rp9">Confirmation of Order<br> <br>Briefing to Parents (Optional)</td>
     <td class="tg-7fd7">Parents who had confirmed the purchase and submitted the required information will be informed. Parents choosing to use their own iPad will need to have their iPad assessed by the school for suitability.</td>
   </tr>
   <tr>
-    <td class="tg-7fd7">Feb 2023</td>
+    <td class="tg-7fd7">Feb 2024</td>
     <td class="tg-2rp9">Billing and Payment</td>
     <td class="tg-7fd7">via SAM, Giro, or Cheque/Cash payment to school after receiving the bill<br>(If you are using Giro, please ensure that there are sufficient funds for the deduction)</td>
   </tr>
   <tr>
-    <td class="tg-7fd7">Mar – May 2023</td>
+    <td class="tg-7fd7">Mar – May 2024</td>
     <td class="tg-2rp9">Deployment and onboarding of PLD and DMA</td>
     <td class="tg-7fd7">Date to be advised.</td>
   </tr>
@@ -444,9 +445,9 @@ Please include details of the&nbsp;<u>parents, unmarried siblings and grandparen
 
 #### Upcoming Activities for PDLP
 
-*   Collection and Set-up of iPad – on 22 Feb 2023
-*   Deciding the DMA Option – by 13 Mar 2023
-*   Optional Briefing for Parents on DMA – on 20 Mar&nbsp;2023
+*   Collection and Set-up of iPad – on Feb 2024
+*   Deciding the DMA Option – by Mar 2024
+*   Optional Briefing for Parents on DMA – on  Mar 2023
 
 #### DMA Parent Portal
 
@@ -464,10 +465,10 @@ If you are new to this sales portal, you will need to register for an account as
 
 (LAST 5 CHARACTERS) ready and choose Hougang Secondary School.&nbsp;
 
-#### 2022 PDLP Briefing to S1 Students (For Students)
+#### 2024 PDLP Briefing to S1 Students (For Students)
 
 **Quick Summary of Things to do**:&nbsp;  
-* Verify you can access your student&nbsp;iCon&nbsp;before 22 Feb 2023 by clicking the link below. Here is an example of a Student iCON email:&nbsp; your_name@students.edu.s_g
+* Verify you can access your student&nbsp;iCon&nbsp;before Feb 2024 by clicking the link below. Here is an example of a Student iCON email:&nbsp; your_name@students.edu.s_g
 
 [https://go.gov.sg/hsstudentemail](https://go.gov.sg/hsstudentemail)&nbsp;  
 &nbsp;  
