@@ -61,11 +61,11 @@ Please note:
 
 *   For Uniforms: No trying on of uniforms will be allowed.&nbsp; Please bring the best fitting garment to compare when selecting the suitable size for purchase in school.&nbsp;
 	    
-<br>
+</p><p>
 You can refer to the suggested quantity to purchase for uniforms:
-<br>
+</p><p>
 Boys: 1 packet of name tags (Green), 1 school tie, 1 shirt, 2 school polo tees, 3 long pants and 2 sets of PE attire (2 T-shirts and 2 shorts).
-<br>
+</p><p>
 Girls: 1 packet of name tags (Green), 1 school tie, 1 blouse, 2 school polo tees, 3 skirts and 2 sets of PE attire (2 T-shirts and 2 shorts).</p>
 </details>
   
