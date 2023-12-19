@@ -101,8 +101,7 @@ More details on the FAS is available on the MOE websites below.&nbsp;
 ### HS Application to Transfer Form
 
 To apply for transfer, please download the Application to Transfer Form and email the completed form together with your child's year-end results slip to&nbsp;[hougang\_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg). Only shortlisted candidates will be notified.&nbsp;  
-&nbsp;[Application to Transfer Form w.e.f 2022.pdf](/files/Application%20to%20Transfer%20Form%20wef%202022.pdf)
-&nbsp;  
+&nbsp; [Application To Be On Waiting List](/files/Admin/Application_to_be_on_Waiting_List_w_e_f_Dec_2023.pdf)
 
 ### GRIT Journal 2023
 
