@@ -1,8 +1,9 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
-##  General  
+##  General   
 Thank you for visiting this website (“Website”) which is owned and operated by the Hougang Secondary School (“Hougang Sec”). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
 
 Hougang Sec reserves the right to change these Terms of Use from time to time. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes.
