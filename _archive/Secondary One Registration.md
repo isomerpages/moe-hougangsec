@@ -90,28 +90,27 @@ Do note that the submission of the <a href="https://go.gov.sg/pdlpadmin">online 
 <br> 
 <details><p></p><summary><u><b>
 7. Sec 1 Orientation &amp; GREAT Start Week (Term 1, Week 1, 2 to 4 January 2024)</b></u></summary>
-
+<p>
 On <u><b>Tuesday, 2 January 2024</b></u>, your child/ward is required to report to the school hall (Level 2) in HS PE Attire by <u><b>7.25 am</b></u>. You can view the Orientation Programme [here](/files/S1reg/2024_Sec_1_Orientation_Programme.pdf). The schedule for GREAT Start Week will be sent to all parents and guardians via PG before <u><b>Tuesday, 2 January 2024</b></u>. Though there are no lessons for the first 3 days, students are expected to bring a working thermometer, stationery and water bottle for the activities planned for the week.
-
-In case of possible delivery delays for uniforms purchased online, Sec 1 students may report to school in their Primary School uniform for the first week of school, in this case, Primary School PE attire on 2 January 2024. For more information on school attire and general appearance, please refer to our [school website (Pupil Management)](https://hougangsec.moe.edu.sg/departments/pupil-management). <p></p>
+</p><p>
+In case of possible delivery delays for uniforms purchased online, Sec 1 students may report to school in their Primary School uniform for the first week of school, in this case, Primary School PE attire on 2 January 2024. For more information on school attire and general appearance, please refer to our [school website (Pupil Management)](https://hougangsec.moe.edu.sg/departments/pupil-management). </p>
 </details>
 
 <br> 
-<details><summary><u><b>
+<details><p></p><summary><u><b>
 8. Updating of Contact Details in Parent’s Gateway (PG)</b></u></summary>
-
-If there is/are any change(s) in your contact details (mobile, residential/change of email address) for the last 3 months, kindly refer to the [instructions](about:blank) and update accordingly.&nbsp;<p></p>
+<p>ails (mobile, residential/change of email address) for the last 3 months, kindly refer to the [instructions](about:blank) and update accordingly.&nbsp;</p>
 </details>	
 
 <br> 
 <details><p></p><summary><u><b>
 9. Appeal Matters (Transfer out of HS)</b></u></summary>
-
+<p>
 (A) For medical reason(s): Documentary evidence is required based on serious medical conditions or severe physical impairments. &nbsp;Kindly submit your request and supporting documents to our General Office staff before <u><b>Thursday, 21 December 2023, 12 pm</b></u>.
-
+</p><p>
 (B) For non-medical reasons: Please submit your intent to the other school. Once you have received the confirmed placement in the other school, you need to bring the MOE school transfer form, signed by the other school, and submit it to our General Office staff for processing.
-
-\* Please purchase your textbooks and uniforms only after confirmation of a placement in the school of choice.&nbsp;<p></p>
+</p><p>
+* Please purchase your textbooks and uniforms only after confirmation of a placement in the school of choice.</p>
 </details>
   
 
