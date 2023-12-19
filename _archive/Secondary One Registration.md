@@ -55,7 +55,8 @@ Please follow the schedule below for the purchase/collection of textbooks and un
 
 Please note:
 <p>
-*   For Textbooks: You can view the booklist below or collect a hardcopy from the bookshop. Please choose the correct course (G1, G2 OR G3) for your child.    <br>
+*   For Textbooks: You can view the booklist below or collect a hardcopy from the bookshop. Please choose the correct course (G1, G2 OR G3) for your child.    
+	</p><p>
 <a href="https://www.hougangsec.moe.edu.sg/files/S1reg/2024_booklist_sec_1.pdf">2024 Booklist - Sec 1.pdf</a>
 	
 
