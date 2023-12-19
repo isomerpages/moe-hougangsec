@@ -27,7 +27,7 @@ If your child/ward is eligible to study subject(s) at a more/less demanding leve
 3.  Higher Mother Tongue Languages (HMTL)</b></u></summary>
     
 
-(A)  Parents of students offered HMTL by MOE will be notified via Parents Gateway (PG) on <u><b>Wednesday, 20 &nbsp; December 2023 after 5 pm</b></u>. Acceptance/rejection of the HMTL offer via PG must be done before <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.
+(A)  Parents of students offered HMTL by MOE will be notified via Parents Gateway (PG) on <u><b>Wednesday, 20 &nbsp; December 2023 after 5 pm</b></u>. Acceptance/rejection of the HMTL offer via PG must be done before <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.  &nbsp;
     
 (B)  Parents of students not offered Higher Chinese Language (HCL) by MOE but have attained at least a Merit in HCL or an AL2 or better at PSLE will be offered HCL by the school. Parents will be notified via PG on <u><b>Wednesday, 20 December 2023, after 5 pm</b></u>. Acceptance/rejection of the HMTL offer via PG must be done before <u><b>Tuesday, 26 December 2023, 12 pm</b></u>.
     
