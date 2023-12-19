@@ -14,11 +14,8 @@ Please refer to the PDF slides for more information.
 * Updates to HS ICT Helpdesk Form
 * Checking your iCon email regularly
 
-  
+[PDLP Updates to Students Oct 2021.pdf](/files/DMA/PDLP%20Updates%20to%20Students%20Oct%202021.pdf)
 
-[PDLP Updates to Students Oct 2021.pdf](/files/dma/PDLP%20Updates%20to%20Students%20Oct%202021.pdf)
-
-  
 
 #### HS Apple iPad Device Handover Slides
 
