@@ -56,8 +56,9 @@ Please follow the schedule below for the purchase/collection of textbooks and un
 Please note:
 <p>
 *   For Textbooks: You can view the booklist below or collect a hardcopy from the bookshop. Please choose the correct course (G1, G2 OR G3) for your child.    
-<a href="https://www.hougangsec.moe.edu.sg/files/s1reg/2024_Booklist___Sec_1.pdf/">2024 Booklist - Sec 1.pdf</a>
+<a href="https://www.hougangsec.moe.edu.sg//files/S1reg/2024_Booklist___Sec_1.pdf">2024 Booklist - Sec 1.pdf</a>
 	</p>
+	
 <p>
 *   For Uniforms: No trying on of uniforms will be allowed.&nbsp; Please bring the best fitting garment to compare when selecting the suitable size for purchase in school.&nbsp;
 	</p>    
