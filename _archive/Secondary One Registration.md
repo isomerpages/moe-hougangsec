@@ -56,8 +56,7 @@ Please follow the schedule below for the purchase/collection of textbooks and un
 Please note:
 
 *   For Textbooks: You can view the booklist below or collect a hardcopy from the bookshop. Please choose the correct course (G1, G2 OR G3) for your child.    
-[2024 Booklist - Sec 1.pdf](/files/S1reg/2024__Sec_1_Registration_MTL_related_Matters.pdf)
-	
+<a href="https://form.gov.sg/656fdf0356df3e0012c5d039">2024 Booklist - Sec 1.pdf</a>
 
 
 *   For Uniforms: No trying on of uniforms will be allowed.&nbsp; Please bring the best fitting garment to compare when selecting the suitable size for purchase in school.&nbsp;
