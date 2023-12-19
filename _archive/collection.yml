@@ -2,7 +2,6 @@ collections:
   archive:
     output: true
     order:
-      - Secondary One Registration.md
       - oldS1reg.md
       - Financial Assistance.md
       - Canteen.md
