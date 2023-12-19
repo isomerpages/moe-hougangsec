@@ -61,7 +61,7 @@ Please note:
 	
 </p><p>
 *   For Uniforms: No trying on of uniforms will be allowed.&nbsp; Please bring the best fitting garment to compare when selecting the suitable size for purchase in school.&nbsp;
-	    
+
 </p><p>
 You can refer to the suggested quantity to purchase for uniforms:
 </p><p>
