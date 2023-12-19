@@ -13,6 +13,7 @@ Welcome to Hougang Secondary School (HS). The school would like to extend a warm
 1.  Online Registration Form</b></u></summary>
     
 As part of Secondary 1 Registration, we would appreciate it if parents/guardians could take some time to complete [this form](https://go.gov.sg/s1studentdetails) by <b><u>Thursday, 21 December 2023, 12 pm</u></b>. This is to allow us to get to know your child/ward better.&nbsp;
+<a href="https://go.gov.sg/s1studentdetailsl">this form</a>
 </details>
 
 <br>
@@ -95,7 +96,7 @@ Do note that the submission of the [online application](https://go.gov.sg/pdlpad
 <details><summary><u><b>
 7. Sec 1 Orientation &amp; GREAT Start Week (Term 1, Week 1, 2 to 4 January 2024)</b></u></summary>
 
-On <u><b>Tuesday, 2 January 2024</b></u>, your child/ward is required to report to the school hall (Level 2) in HS PE Attire by <u><b>7.25 am</b></u>. You can view the Orientation Programme [here](https://tinyurl.com/S1Oprog23). The schedule for GREAT Start Week will be sent to all parents and guardians via PG before <u><b>Tuesday, 2 January 2024</b></u>. Though there are no lessons for the first 3 days, students are expected to bring a working thermometer, stationery and water bottle for the activities planned for the week.
+On <u><b>Tuesday, 2 January 2024</b></u>, your child/ward is required to report to the school hall (Level 2) in HS PE Attire by <u><b>7.25 am</b></u>. You can view the Orientation Programme [here](/files/S1reg/2024_Sec_1_Orientation_Programme.pdf). The schedule for GREAT Start Week will be sent to all parents and guardians via PG before <u><b>Tuesday, 2 January 2024</b></u>. Though there are no lessons for the first 3 days, students are expected to bring a working thermometer, stationery and water bottle for the activities planned for the week.
 
 In case of possible delivery delays for uniforms purchased online, Sec 1 students may report to school in their Primary School uniform for the first week of school, in this case, Primary School PE attire on 2 January 2024. For more information on school attire and general appearance, please refer to our [school website (Pupil Management)](https://hougangsec.moe.edu.sg/departments/pupil-management).
 </details>
