@@ -94,7 +94,7 @@ Subsidies are available for students who require funding support to purchase a P
 
 **Software Applications**  
 
-6\. 	IT Applications. 
+6\. 	**IT Applications.** 
 Schools will progressively roll out IT applications that will be vital for students’ teaching and learning. These include:
 (a) Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
 (b) Microsoft ProPlus: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.
@@ -102,13 +102,11 @@ Schools will progressively roll out IT applications that will be vital for stude
 
 The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user accounts. The school may also choose to roll out applications other than those listed above.
 
-7\.	Device Management Application. 
-A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:
-(a) Classroom Management Service. This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
-(b) Mobile Device Management Service. This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.
-(c) Usage Management Service. This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
+7\.	**Device Management Application. ("DMA"). A DMA** will come pre-installed on all PLDs purchased through the school and will be installed on any student-owned devices parents/guardians opt for the student to use in lieu of the PLD, subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:
+   (a)	Classroom Management Service. To help teachers manage students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
+   (b)	Mobile Device Management Service. To help update and manage the PLD, protect the PLD from malicious software, and protects students from objectionable internet content.
+   (c)	Usage Management Service. To enable school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
 
-The DMA has a variety of functions that will support the use of the PLD in the classroom, as well as safeguard students’ cyber-wellness. Please refer to our school website for more information on the DMA, as well as how parents may play an active role through the use of the DMA to monitor your child’s well-being.
 
 8\.	Cyber-wellness. 
 In rolling out the PLD, MOE is acutely aware of concerns regarding students’ cyber-wellness. The DMA allows the school to manage this, by
