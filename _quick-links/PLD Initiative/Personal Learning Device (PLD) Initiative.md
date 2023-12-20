@@ -117,7 +117,7 @@ In rolling out the PLD, MOE is acutely aware of concerns regarding students’ c
 More details on the functions and features of the DMA, and on the collection and protection of personal data will be shared nearer the onboarding date.  
 Please refer to Annexes A, B and C for more details on the functions and features of the DMA, and on the collection and protection of personal data.  
 
-9. To proceed with the purchase of the PLD, please fill in the online form at this link: https://go.gov.sg/pdlpadmin by [date]. If you are unable to submit the form online, please contact the school for a hardcopy version.
+9. To proceed with the purchase of the PLD, please fill in the online form at this link: https://go.gov.sg/pdlpadmin by [26 Dec 2023]. If you are unable to submit the form online, please contact the school for a hardcopy version.
 
 10\.	Upcoming activities. Billing and payment for the PLD will commence in February and the delivery of the PLD is expected to be in Term 2. The projected timeline for the key activities is shown below:
 
@@ -171,9 +171,9 @@ Please refer to Annexes A, B and C for more details on the functions and feature
 
 #### Next Steps
 
-10\.&nbsp; To proceed with the purchase of the PLD, please submit the online forms (see table 2) by&nbsp;**31 December 2022**. The online forms will be available after Sec 1 registration. If you are unable to submit the form online, please contact the school for a hardcopy version.  
+11\.&nbsp; To proceed with the purchase of the PLD, please submit the online forms (see table 2) by&nbsp;**31 December 2022**. The online forms will be available after Sec 1 registration. If you are unable to submit the form online, please contact the school for a hardcopy version.  
   
-11\.&nbsp; For students with insufficient Edusave and remainder/full payment is required, the school will inform parents/guardians to make the balance payment. Payment modes are detailed below. For non-GIRO payment, payments should only be made after parents are informed by the school.  
+12\.&nbsp; For students with insufficient Edusave and remainder/full payment is required, the school will inform parents/guardians to make the balance payment. Payment modes are detailed below. For non-GIRO payment, payments should only be made after parents are informed by the school.  
 * (a)&nbsp;**Payment through GIRO (recommended)**&nbsp;: Please ensure sufficient funds in the GIRO account to be deducted.  
 * (b)&nbsp;**Payment by Cheque**&nbsp;: Please cross the cheque and indicate&nbsp;**Ministry of Education**&nbsp;as account payable.  
 * (c)&nbsp;**Payment through SAM**&nbsp;: Pay to&nbsp;**Ministry of Education**. Please key in your child/ward’s NRIC/FIN and amount payable when prompted.  
@@ -183,7 +183,7 @@ Please refer to Annexes A, B and C for more details on the functions and feature
 
 **Further Queries**  
 
-12\. Should there be any further queries or clarification, please contact Mr Javen Gwee, HOD/ICT &amp; Data Management at 6385-1990.
+13\. Should there be any further queries or clarification, please contact Mr Javen Gwee, HOD/ICT &amp; Data Management at 6385-1990.
 
 Thank you!
 
