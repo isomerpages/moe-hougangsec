@@ -16,7 +16,7 @@ The PLD will be used in tandem with the national e-learning platform – the Sin
 
   
 
-**For newly posted in students at Secondary 1**, parents will need to ensure that the following are submitted before 31 December 2022
+**For newly posted in students at Secondary 1**, parents will need to ensure that the following are submitted before Tuesday, 26 December 2023, 12 pm.
 
 &gt; 1. [Intent to purchase and use of Edusave](https://go.gov.sg/pdlpadmin)&nbsp;(requires SingPass log in) – Parents without SingPass are to approach the general office for the hardcopy form.
 &gt; 
@@ -34,7 +34,7 @@ The school has made arrangements for you to purchase the PLD from&nbsp;ASIAPAC T
 *   3 Year AppleCare+
 *   3 Year Insurance
 
-The price of the Enhanced Device Bundle is tentatively priced at $857.52 and is inclusive of 8% GST.&nbsp;  
+The price of the Enhanced Device Bundle is tentatively priced at $865.40 and is inclusive of 9% GST.&nbsp;  
 
   
 
@@ -44,13 +44,13 @@ The Enhanced Device Bundle includes the device, associated accessories, insuranc
 
 4. **Use of Edusave.** &nbsp;
 
-MOE has provided Edusave top-ups of $200 in 2020, 2021 and 2022 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd tier miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD.  
+Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students. 
 
   
 
 5.&nbsp; **Financial Assistance.**&nbsp;
 
-Subsidies are available for students who require financial assistance to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after subsidies have been granted.
+Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for any remaining sums due for the PLD, after subsidies have been granted. Please see the table below for information on the eligibility for the subsidy:
 
 
 <center>Table 1 – Information on Subsidy</center>
@@ -78,12 +78,12 @@ Subsidies are available for students who require financial assistance to purchas
     <td class="tg-2rp9">No action required. Automatically subsidised for the PLD.</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Students under School-based FAS or Independent Schools Bursary (ISB)</td>
+    <td class="tg-2rp9">Students under School-based FAS</td>
     <td class="tg-5ws4">GHI is $4,400 or less, or<br>PCI is $1,100 or less</td>
     <td class="tg-2rp9">Approach the school’s General Office to apply for a subsidy.<br>(To submit Annex D)</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Students who are currently not under the MOE FAS / School-based FAS / ISB</td>
+    <td class="tg-2rp9">Students who are currently not under the MOE FAS / School-based FAS</td>
     <td class="tg-5ws4">GHI is $4,400 or less, or<br>PCI is $1,100 or less</td>
     <td class="tg-2rp9">Approach the school’s General Office to apply for a subsidy.<br>(To submit Annex D)</td>
   </tr>
@@ -94,7 +94,7 @@ Subsidies are available for students who require financial assistance to purchas
 
 **Software Applications**  
 
-6\. 	IT Applications. 
+6\. 	**IT Applications.** 
 Schools will progressively roll out IT applications that will be vital for students’ teaching and learning. These include:
 (a) Student iCON: Every secondary school student will be provided with access to the Google Suite set of tools, including email address.
 (b) Microsoft ProPlus: Every secondary school student will be able to use Microsoft Office tools that include Word, PowerPoint and Excel.
@@ -102,23 +102,24 @@ Schools will progressively roll out IT applications that will be vital for stude
 
 The school will need to use your child’s/ward’s full name, Student iCON ID and class to set up user accounts. The school may also choose to roll out applications other than those listed above.
 
-7\.	Device Management Application. 
-A Device Management Application (“DMA”) will come pre-installed on all PLDs purchased through the school, and will be installed on all student-owned devices subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:
-(a) Classroom Management Service. This enables teachers to manage the students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.
-(b) Mobile Device Management Service. This facilitates the updating and managing of the PLD, protects the PLD from malicious software, and protects students from objectionable internet content.
-(c) Usage Management Service. This enables the school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.
+7\.	**Device Management Application. ("DMA"). A DMA** will come pre-installed on all PLDs purchased through the school and will be installed on any student-owned devices parents/guardians opt for the student to use in lieu of the PLD, subject to parental/guardian consent. The DMA has 3 main components which will support the use of the PLD in the classroom and safeguard students’ cyber wellness:  
+   (a)	Classroom Management Service. To help teachers manage students’ use of the PLD during lesson time to improve classroom management and support effective teaching and learning.  
+   (b)	Mobile Device Management Service. To help update and manage the PLD, protect the PLD from malicious software, and protects students from objectionable internet content.  
+   (c)	Usage Management Service. To enable school and/or parents/guardians to better supervise and set helpful limits for students’ use of PLD after school.  
 
-The DMA has a variety of functions that will support the use of the PLD in the classroom, as well as safeguard students’ cyber-wellness. Please refer to our school website for more information on the DMA, as well as how parents may play an active role through the use of the DMA to monitor your child’s well-being.
 
-8\.	Cyber-wellness. 
-In rolling out the PLD, MOE is acutely aware of concerns regarding students’ cyber-wellness. The DMA allows the school to manage this, by
-(a) collecting data on usage by the student, such as the amount of time spent on each application,
-(b) monitoring, filtering and limiting the type of websites accessible to the student, and
-(c) placing restrictions on students’ screen time in order to prevent cyber addiction.
+8\.	**Cyber-wellness.**
+In rolling out the PLD, MOE is acutely aware of concerns regarding students’ cyber-wellness. The DMA allows the school to manage this, by  
+(a) collecting data on usage by the student, such as the amount of time spent on each application,  
+(b) monitoring, filtering and limiting the type of websites accessible to the student, and  
+(c) placing restrictions on students’ screen time in order to prevent cyber addiction.  
 
 More details on the functions and features of the DMA, and on the collection and protection of personal data will be shared nearer the onboarding date.  
+Please refer to Annexes A, B and C for more details on the functions and features of the DMA, and on the collection and protection of personal data.  
 
-9\.	Upcoming activities. Billing and payment for the PLD will commence in February and the delivery of the PLD is expected to be in Term 2. The projected timeline for the key activities is shown below:
+9. To proceed with the purchase of the PLD, please fill in the online form at this link: https://go.gov.sg/pdlpadmin by [26 Dec 2023]. If you are unable to submit the form online, please contact the school for a hardcopy version.
+
+10\.	Upcoming activities. Billing and payment for the PLD will commence in February and the delivery of the PLD is expected to be in Term 2. The projected timeline for the key activities is shown below:
 
 <center>Table 2 – Key Events</center>
 
@@ -170,9 +171,9 @@ More details on the functions and features of the DMA, and on the collection and
 
 #### Next Steps
 
-10\.&nbsp; To proceed with the purchase of the PLD, please submit the online forms (see table 2) by&nbsp;**31 December 2022**. The online forms will be available after Sec 1 registration. If you are unable to submit the form online, please contact the school for a hardcopy version.  
+11\.&nbsp; To proceed with the purchase of the PLD, please submit the online forms (see table 2) by&nbsp;**31 December 2022**. The online forms will be available after Sec 1 registration. If you are unable to submit the form online, please contact the school for a hardcopy version.  
   
-11\.&nbsp; For students with insufficient Edusave and remainder/full payment is required, the school will inform parents/guardians to make the balance payment. Payment modes are detailed below. For non-GIRO payment, payments should only be made after parents are informed by the school.  
+12\.&nbsp; For students with insufficient Edusave and remainder/full payment is required, the school will inform parents/guardians to make the balance payment. Payment modes are detailed below. For non-GIRO payment, payments should only be made after parents are informed by the school.  
 * (a)&nbsp;**Payment through GIRO (recommended)**&nbsp;: Please ensure sufficient funds in the GIRO account to be deducted.  
 * (b)&nbsp;**Payment by Cheque**&nbsp;: Please cross the cheque and indicate&nbsp;**Ministry of Education**&nbsp;as account payable.  
 * (c)&nbsp;**Payment through SAM**&nbsp;: Pay to&nbsp;**Ministry of Education**. Please key in your child/ward’s NRIC/FIN and amount payable when prompted.  
@@ -182,7 +183,7 @@ More details on the functions and features of the DMA, and on the collection and
 
 **Further Queries**  
 
-12\. Should there be any further queries or clarification, please contact Mr Javen Gwee, HOD/ICT &amp; Data Management at 6385-1990.
+13\. Should there be any further queries or clarification, please contact Mr Javen Gwee, HOD/ICT &amp; Data Management at 6385-1990.
 
 Thank you!
 
