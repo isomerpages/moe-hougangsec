@@ -16,7 +16,7 @@ The PLD will be used in tandem with the national e-learning platform – the Sin
 
   
 
-**For newly posted in students at Secondary 1**, parents will need to ensure that the following are submitted before 31 December 2022
+**For newly posted in students at Secondary 1**, parents will need to ensure that the following are submitted before Tuesday, 26 December 2023, 12 pm.
 
 &gt; 1. [Intent to purchase and use of Edusave](https://go.gov.sg/pdlpadmin)&nbsp;(requires SingPass log in) – Parents without SingPass are to approach the general office for the hardcopy form.
 &gt; 
@@ -44,13 +44,13 @@ The Enhanced Device Bundle includes the device, associated accessories, insuranc
 
 4. **Use of Edusave.** &nbsp;
 
-MOE has provided Edusave top-ups of $200 in 2020, 2021 and 2022 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary students and $230 for primary students. Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of 2nd tier miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD.  
+Students who are Singapore citizens can use their Edusave to pay fully or partly for the PLD, after setting aside provision for payment of miscellaneous fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has provided Edusave top-ups of $200 in 2020 to 2022, and $300 in 2023 to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution of $290 for secondary school students and $230 for primary school students. 
 
   
 
 5.&nbsp; **Financial Assistance.**&nbsp;
 
-Subsidies are available for students who require financial assistance to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for the PLD, after subsidies have been granted.
+Subsidies are available for students who require funding support to purchase a PLD. Please note that it is compulsory for all students on the MOE Financial Assistance Scheme (FAS) to use their Edusave to pay for any remaining sums due for the PLD, after subsidies have been granted. Please see the table below for information on the eligibility for the subsidy:
 
 
 <center>Table 1 – Information on Subsidy</center>
@@ -78,12 +78,12 @@ Subsidies are available for students who require financial assistance to purchas
     <td class="tg-2rp9">No action required. Automatically subsidised for the PLD.</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Students under School-based FAS or Independent Schools Bursary (ISB)</td>
+    <td class="tg-2rp9">Students under School-based FAS</td>
     <td class="tg-5ws4">GHI is $4,400 or less, or<br>PCI is $1,100 or less</td>
     <td class="tg-2rp9">Approach the school’s General Office to apply for a subsidy.<br>(To submit Annex D)</td>
   </tr>
   <tr>
-    <td class="tg-2rp9">Students who are currently not under the MOE FAS / School-based FAS / ISB</td>
+    <td class="tg-2rp9">Students who are currently not under the MOE FAS / School-based FAS</td>
     <td class="tg-5ws4">GHI is $4,400 or less, or<br>PCI is $1,100 or less</td>
     <td class="tg-2rp9">Approach the school’s General Office to apply for a subsidy.<br>(To submit Annex D)</td>
   </tr>
