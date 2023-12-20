@@ -34,7 +34,7 @@ The school has made arrangements for you to purchase the PLD from&nbsp;ASIAPAC T
 *   3 Year AppleCare+
 *   3 Year Insurance
 
-The price of the Enhanced Device Bundle is tentatively priced at $857.52 and is inclusive of 8% GST.&nbsp;  
+The price of the Enhanced Device Bundle is tentatively priced at $865.40 and is inclusive of 9% GST.&nbsp;  
 
   
 
