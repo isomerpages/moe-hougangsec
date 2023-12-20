@@ -38,11 +38,11 @@ The Pupil Management Department carries out reflection sessions (adapted from th
   </tr>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">Sec 3 Discipline Level Coordinator</span></td>
-    <td class="tg-kxyf"><span style="font-weight:400;color:#333">Mdm Amalina Abdul Samad, Mr Mohd Yazid B Md Yatim and Mr Elijah Chua</span></td>
+    <td class="tg-kxyf"><span style="font-weight:400;color:#333">Mdm Amalina Abdul Samad and Mr Elijah Chua</span></td>
   </tr>
   <tr>
     <td class="tg-kxyf"><span style="font-weight:400;color:#333">Sec 4/5 Discipline Level Coordinator</span></td>
-    <td class="tg-fxx4"><span style="color:#222">Mr Sean Oh Boon Chong and Mr Muhammad Nazirul Mubin Bin Yusoff</span></td>
+    <td class="tg-fxx4"><span style="color:#222">Mr Sean Oh Boon Chong </span></td>
   </tr>
 </tbody>
 </table>
