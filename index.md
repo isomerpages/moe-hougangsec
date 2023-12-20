@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/School Logo - Edited.png
 permalink: /
 notification: The 2024 Secondary 1 (S1) Registration is now opened. Please click
-  the announcement below for the registration page..
+  the announcement below for the registration page.
 sections:
   - hero:
       background: /images/homepagedemo.gif
