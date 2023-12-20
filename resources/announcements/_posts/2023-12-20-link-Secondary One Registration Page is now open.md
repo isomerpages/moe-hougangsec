@@ -1,5 +1,5 @@
 ---
-title: Secondary One Registration Information is now open
+title: Secondary One Registration Page is now open
 date: 2023-12-20
 layout: link
 description: ""
