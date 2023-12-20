@@ -448,7 +448,7 @@ Please include details of the&nbsp;<u>parents, unmarried siblings and grandparen
 
 *   Collection and Set-up of iPad – on Feb 2024
 *   Deciding the DMA Option – by Mar 2024
-*   Optional Briefing for Parents on DMA – on  Mar 2023
+*   Optional Briefing for Parents on DMA – on  Mar 2024
 
 #### DMA Parent Portal
 
