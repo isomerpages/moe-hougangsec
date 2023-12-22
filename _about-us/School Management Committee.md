@@ -11,11 +11,10 @@ variant: markdown
 
 **VICE-PRINCIPALS**   
 
-**Ms Jesmine Chung**  
-[hougang_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg)   
 **Mr Tay Yuan Zhuang**      
+[hougang_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg)  
+**Mr Lim Soon Wai**  
 [hougang_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg)
-
 
 
 <p>&nbsp;</p>
