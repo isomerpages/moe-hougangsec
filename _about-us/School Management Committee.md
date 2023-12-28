@@ -187,7 +187,7 @@ variant: markdown
 <p>Mr Choo Boon Kian Alfred<br> choo_boon_kian@moe.edu.sg</p>
 </td>
 <td>
-<p>SH / Innovation</p>
+<p>SH / Aesthetics, Technology &amp; Innovation</p>
 </td>
 </tr>
 <tr>
@@ -214,20 +214,13 @@ variant: markdown
 <p>SH / Science</p>
 </td>
 </tr>
-<tr>
-<td>
-<p>Ms Sisca Christine Haryanto<br> sisca_christine_haryanto@moe.edu.sg</p>
-</td>
-<td>
-<p>SH / Science (Covering)</p>
-</td>
-</tr>
+
 <tr>
 <td>
 <p>Ms Uma Magheswary D/o Pandyan<br> uma_magheswary@moe.edu.sg</p>
 </td>
 <td>
-<p>SH / Student Leadership (Covering)</p>
+<p>SH / Student Leadership</p>
 </td>
 </tr>
 <tr>

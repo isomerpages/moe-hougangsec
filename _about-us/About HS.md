@@ -2,9 +2,9 @@
 title: About HS
 permalink: /about-us/about-hs/
 description: ""
+variant: markdown
 ---
-<img src="/images/School%20Vision.jpeg" 
-     style="width:65%">
+<img src="/images/School%20Vision.jpeg" style="width:65%">
 
 
 **School Philosophy**     
@@ -13,7 +13,7 @@ We admit pupils who are keen to learn and develop them according to their abilit
   
 
 **School Vision**   
-Passionate Learners. Principled Leaders. Grateful Citizens.
+Nurturing Empowered, Future-Ready Hougeans of Character and Purpose
 
   
 
@@ -23,7 +23,7 @@ Care. Lead. Inspire. Partner.
   
 
 **School Values**   
-Gratitude. Respect. Ingenuity. Trustworthiness. Grit.
+Gratitude. Respect. Empathy, Adaptability, Trustworthiness.
 
   
 
@@ -32,8 +32,7 @@ Make The Difference
 
 ### School Crest
 
-<img src="/images/School%20Logo%20-%20Edited.png" 
-     style="width:15%">
+<img src="/images/School%20Logo%20-%20Edited.png" style="width:15%">
 
 
 
@@ -121,10 +120,8 @@ Lyrics by : Chia Choon Kiat
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-x5q1"><img src="/images/HS%2020%20Anniversary%20Logo2.png" 
-     style="width:100%"></td>
+    <td class="tg-x5q1"><img src="/images/HS%2020%20Anniversary%20Logo2.png" style="width:100%"></td>
     <td class="tg-x5q1"><span style="font-weight:400;font-style:normal">The tagline for 20th </span>Anniversary is <span style="font-weight:bold">‘Hougeans My Family, HS My Home’</span><br><br><span style="font-weight:bold;text-decoration:underline">Hougeans My Family</span><br><span style="font-weight:400;font-style:normal">The 3 golden figures represent GRIT stars seen embracing the number 20, signifying the school’s nurturing of the students’ learning and development, together as a family for the past twenty years.</span><br><br><span style="font-weight:bold;text-decoration:underline">HS My Home</span><br><span style="font-weight:400;font-style:normal">The red hearts in the GRIT stars represent the culture of care that the school shows to all within her premises. The red arch over the golden figures represents the welcoming sight of the school as a home to all who enter.</span></td>
   </tr>
 </tbody>
 </table>
-
