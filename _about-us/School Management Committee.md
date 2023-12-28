@@ -187,7 +187,7 @@ variant: markdown
 <p>Mr Choo Boon Kian Alfred<br> choo_boon_kian@moe.edu.sg</p>
 </td>
 <td>
-<p>SH / Innovation</p>
+<p>SH / Aesthetics, Technology &amp; Innovation</p>
 </td>
 </tr>
 <tr>
