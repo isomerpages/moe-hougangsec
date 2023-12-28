@@ -227,7 +227,7 @@ variant: markdown
 <p>Ms Uma Magheswary D/o Pandyan<br> uma_magheswary@moe.edu.sg</p>
 </td>
 <td>
-<p>SH / Student Leadership (Covering)</p>
+<p>SH / Student Leadership</p>
 </td>
 </tr>
 <tr>
