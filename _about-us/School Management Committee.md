@@ -214,14 +214,7 @@ variant: markdown
 <p>SH / Science</p>
 </td>
 </tr>
-<tr>
-<td>
-<p>Ms Sisca Christine Haryanto<br> sisca_christine_haryanto@moe.edu.sg</p>
-</td>
-<td>
-<p>SH / Science (Covering)</p>
-</td>
-</tr>
+
 <tr>
 <td>
 <p>Ms Uma Magheswary D/o Pandyan<br> uma_magheswary@moe.edu.sg</p>
