@@ -3,6 +3,7 @@ title: For Students
 permalink: /quick-links/For-Students/for-students/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -77,12 +78,12 @@ third_nav_title: For Students
 *   [On Poly Foundation Program (PFP)](https://pfp.polytechnic.edu.sg/PFP/pfp_application.html)
 *   [On ITE to Poly Program (DPP)](https://www.ite.edu.sg/wps/portal/definitely-des/)
 
-### GRIT Journal 2023
+### HS Student Handbook
 
 [GRIT Handbook 2023](/files/Students/GRIT%20Handbook%202023.pdf)
 
 
-### Timetable 2023
+### Timetable 2024
 
 [Timetable 2023 Semster 2](https://go.gov.sg/hstimetable)
 
