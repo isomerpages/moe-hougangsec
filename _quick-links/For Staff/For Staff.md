@@ -3,6 +3,7 @@ title: For Staff
 permalink: /quick-links/For-Staff/for-staff/
 description: ""
 third_nav_title: For Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -187,6 +188,11 @@ third_nav_title: For Staff
   </tbody>
 </table>
 
-### GRIT Journal 2023
+### HS Student Handbook
 
-[GRIT Journal 2023 final web.pdf](/files/GRIT%20Handbook%202023.pdf)
+[Download HS Student Handbook](https://go.gov.sg/hsshb)
+
+
+### Timetable 2024  
+
+[Download Class Timetable 2024 Semester 1](/files/Students/Class_Timetable_2024Sem1.pdf)
