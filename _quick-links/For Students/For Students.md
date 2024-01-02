@@ -80,7 +80,7 @@ variant: markdown
 
 ### HS Student Handbook
 
-[GRIT Handbook 2023](/files/Students/GRIT%20Handbook%202023.pdf)
+https://go.gov.sg/hsshb
 
 
 ### Timetable 2024
