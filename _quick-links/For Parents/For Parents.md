@@ -103,10 +103,11 @@ More details on the FAS is available on the MOE websites below.&nbsp;
 To apply for transfer, please download the "Application To Be On Waiting List" Form and email the completed form together with your child's year-end results slip to&nbsp;[hougang\_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg). Only shortlisted candidates will be notified.&nbsp;  
 &nbsp; [Application To Be On Waiting List](/files/Admin/Application_to_be_on_Waiting_List_w_e_f_Dec_2023.pdf)
 
-### GRIT Journal 2023
+### HS Student Handbook
 
-[GRIT Handbook 2023.pdf](/files/GRIT%20Handbook%202023.pdf)
+[Download HS Student Handbook](https://go.gov.sg/hsshb)
 
 
-### Class Timetable  
-To be announced.
+### Timetable 2024  
+
+[Download Class Timetable 2024 Semester 1](/files/Students/Class_Timetable_2024Sem1.pdf)
