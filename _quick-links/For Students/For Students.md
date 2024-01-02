@@ -83,10 +83,9 @@ variant: markdown
 https://go.gov.sg/hsshb
 
 
-### Timetable 2024
+### Timetable 2024  
 
-[Timetable 2023 Semster 2](https://go.gov.sg/hstimetable)
-
+[Class Timetable 2024 Semester 1](/files/Students/Class_Timetable_2024Sem1.pdf)
 
 ### HS ICT Helpdesk Form
 
