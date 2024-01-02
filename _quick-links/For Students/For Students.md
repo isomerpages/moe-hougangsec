@@ -80,12 +80,12 @@ variant: markdown
 
 ### HS Student Handbook
 
-https://go.gov.sg/hsshb
+[Download HS Student Handbook](https://go.gov.sg/hsshb)
 
 
 ### Timetable 2024  
 
-[Class Timetable 2024 Semester 1](/files/Students/Class_Timetable_2024Sem1.pdf)
+[Download Class Timetable 2024 Semester 1](/files/Students/Class_Timetable_2024Sem1.pdf)
 
 ### HS ICT Helpdesk Form
 
