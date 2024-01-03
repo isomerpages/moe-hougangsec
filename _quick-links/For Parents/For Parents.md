@@ -111,3 +111,7 @@ To apply for transfer, please download the "Application To Be On Waiting List" F
 ### Timetable 2024  
 
 [Download Class Timetable 2024 Semester 1](/files/Students/Class_Timetable_2024Sem1.pdf)
+
+
+### GREAT Start Week For Sec 1 to Sec 5
+[GREAT Start Week Timetable](/files/Parents/GREAT_START_WEEK_2024__2_4Jan_.pdf)
