@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Pupil Management.md
       - oldS1reg.md
       - Financial Assistance.md
       - Canteen.md
