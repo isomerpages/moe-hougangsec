@@ -190,7 +190,7 @@ variant: markdown
 
 ### HS Student Handbook
 
-[Download HS Student Handbook (04 Jan 2024)](https://go.gov.sg/hsshb)
+[Download HS Student Handbook (04 Jan 2024)](https://go.gov.sg/hsshb2024)
 
 
 ### Timetable 2024  
