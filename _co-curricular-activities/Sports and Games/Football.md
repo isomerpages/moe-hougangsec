@@ -3,6 +3,7 @@ title: Football
 permalink: /co-curricular-activities/Sports-and-Games/football/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Football Open House" src="https://www.youtube.com/embed/Feg_Ruz81YM" height="315" width="830"></iframe></center>
 
@@ -70,8 +71,7 @@ Serve with dedication
 
 *   Mr Anwarul (OIC)     
 *   Mr Muhd Hashim  
-*   Mr Ang Ruixiang
-*   Me Eugene Ling  
+*   Mr Ang Ruixiang 
 
 
 Coach: Mr Nor Azli, Geylang International FC  
