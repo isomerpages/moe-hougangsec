@@ -3,6 +3,7 @@ title: Angklung|Kulintang and Gamelan Ensemble
 permalink: /co-curricular-activities/Performing-Arts/angklung-kulintang-and-gamelan-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/XsBwV_icwtQ" title="2022 AKG Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
@@ -78,9 +79,9 @@ Sec 3 -  Muhammad Afiq Bin Reduan Shah S3-N
 
 ### Teachers In-Charge
 
-* Mr Mohd Yazid Bin Md Yatim (OIC)  
+* Mdm Fazillah Mohd Ismail ( (OIC)  
 * Miss Siti Nurbaya Binte Rameh  
-* Mdm Fazillah Mohd Ismail
+* Ms Liang Qi Di
 
 ### Training Venue and Days
 
