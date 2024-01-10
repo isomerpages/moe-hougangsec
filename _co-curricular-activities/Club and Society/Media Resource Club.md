@@ -3,6 +3,7 @@ title: Media Resource Club
 permalink: /co-curricular-activities/Club-and-Society/media-resource-club/
 description: ""
 third_nav_title: Club and Society
+variant: markdown
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 MRC Open House" src="https://www.youtube.com/embed/dxH7NXJ7WRg" height="315" width="830"></iframe></center>
 
@@ -24,9 +25,9 @@ Teamwork; Passion; Courage; Resilience.
 
 ### Teachers in-charge
 
-*   Ng Wee Chung (OIC)
-*   Gomathi Gunaseelan
-*   Joyce Lee
+*   Mr Ng Wee Chung (OIC)
+*   Ms Gomathi Gunaseelan
+*   Ms Joyce Lee
 
 ### Leadership Structure
 *   **President**: Miko (S3-G)
