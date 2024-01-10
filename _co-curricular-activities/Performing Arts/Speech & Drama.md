@@ -3,6 +3,7 @@ title: Speech & Drama
 permalink: /co-curricular-activities/Performing-Arts/speech-and-drama/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/zmOjsWBSdo0" title="2022 Speech&amp;Drama Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
@@ -73,9 +74,9 @@ VIA Leader: Tan Yi Shan Caitlin
 
 ### Teachers In-Charge
 
-*   Mdm Siti Sapiya Bte Mohd Sumri(OIC)
-*   Mr Aaron Yeo
-*   Ms Tan Yin Wei  
+*   Ms Tan Yin Wei (OIC)
+*   Mr Eugene Ling
+*   Mr Aaron Yeo (OIC)
 *   Mdm Martini Rahmat
 
 
