@@ -3,6 +3,7 @@ title: Basketball
 permalink: /co-curricular-activities/Sports-and-Games/basketball/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/KL1KZDuv80I" title="Basketball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
@@ -77,8 +78,9 @@ Discipline Head
 ### Teachers In-charge
 
 *   Mr Soh Yen Meng (OIC) 
-*   Ms Wang Qingzhen
 *   Mr Alfred Choo
+*   Mr Vince Ding
+
 
 ### Training Venue and Days
 
