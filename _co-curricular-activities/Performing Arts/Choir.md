@@ -25,7 +25,7 @@ Once a Solo, Now a Harmony.
 
 * Ms Nur Nadzirah Binte Abdul Halim Kadri (OIC)
 * Mrs Rachel Chan
-* Ms C Minnoli
+* Ms Minnoli C
 
 ### CCA Leadership Structure
 
