@@ -3,6 +3,7 @@ title: Girls Brigade
 permalink: /co-curricular-activities/Uniformed-Groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/Yu6wV4n_ggE" title="2021 Open House GB ver 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
@@ -134,8 +135,8 @@ Private – Lance Corporal – Corporal – Sergeant – Staff Sergeant – Mast
 
 ### Teachers In Charge
 
-* Rachel Yong Lai Kuan (OIC)
-* Tan Chan Jong
+* Ms Rachel Yong Lai Kuan (OIC)
+* Mdm Tan Chan Jong
 
 ### Training Venue and Days
 
