@@ -3,6 +3,7 @@ title: Wushu
 permalink: /co-curricular-activities/Sports-and-Games/wushu/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Wushu Open House" src="https://www.youtube.com/embed/etUcRVVDeGc" height="315" width="830"></iframe></center>
 
@@ -86,7 +87,7 @@ No Pain. No Gain
 ### Teachers in-charge
 *   Mr Ronnie Yeo (OIC)
 *   Mdm Vanessa Ng
-*   Ms Tracy Huang Yuyan
+*   Ms Chua Wen Min Audrey
 
 ### Training Venue and Days
 
