@@ -3,6 +3,7 @@ title: Choir
 permalink: /co-curricular-activities/Performing-Arts/choir/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8xxjiC7tFfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>  
 
@@ -22,9 +23,9 @@ Once a Solo, Now a Harmony.
 
 ### Teachers In-Charge
 
-* Mr Ho Wee Khong (OIC)
+* Ms Nur Nadzirah Binte Abdul Halim Kadri (OIC)
 * Mrs Rachel Chan
-* Ms C Minnoli
+* Ms Minnoli C
 
 ### CCA Leadership Structure
 

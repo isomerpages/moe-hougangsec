@@ -3,6 +3,7 @@ title: Guzheng Ensemble
 permalink: /co-curricular-activities/Performing-Arts/guzheng-ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnM_EN-1VFisvQNpnwIVRZ0raEgS1ijN4V9JKm0KKFWOGXjFglrycIMfWxm6ytKeHW5sz6AsxIidnD/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
@@ -77,8 +78,7 @@ Singapore Youth Festival Arts Presentation:
 
 ### Teachers In-Charge
 
-* Miss Wong Lai Lee (OIC)
-* Mrs Goh Lay Hoon
+* Mrs Goh Lay Hoon (OIC)
 * Ms Kitty Tan
 
 ### Training Venue and Days

@@ -44,9 +44,9 @@ To enable girls and young women to develop their fullest potential as responsibl
 
 
 ### Teachers In-Charge
-*   Liang Qi Di (OIC)
-*   Uma Magheswary D/O Pandyan
-*   Jane Koh Bao Ru
+*   Ms Siti Nurhizah (OIC)
+*   Ms Uma Magheswary D/O Pandyan
+*   Ms Jane Koh Bao Ru
 
 ### Programmes
 The Five-Point Programme forms the foundation for Guiding in Singapore. Girls develop valuable leadership and life skills in five areas: Personal &amp; Social Development, Outdoors, Home, Community and International.

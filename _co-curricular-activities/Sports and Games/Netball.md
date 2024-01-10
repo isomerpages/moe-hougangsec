@@ -3,6 +3,7 @@ title: Netball
 permalink: /co-curricular-activities/Sports-and-Games/netball/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/fAFZYFNQFQw" title="2022 Netball Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
@@ -28,9 +29,9 @@ Look up, Get up but Never Give up
 
 
 ### Teachers In-Charge
-*   Amalina Abdul Samad (OIC)
-*   Chen Sisi
-*   Qu Mei (UT)
+*   Mdm Amalina Abdul Samad (OIC)
+*   Mr Ezra Toh
+*   Mdm Siti Sapiya Bte Mohd Sumri
 
 ### Coach
 Chow Chon Tee

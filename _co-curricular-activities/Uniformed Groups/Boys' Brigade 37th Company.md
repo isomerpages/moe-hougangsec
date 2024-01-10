@@ -3,6 +3,7 @@ title: Boys' Brigade 37th Company
 permalink: /co-curricular-activities/Uniformed-Groups/boys-brigade-37th-company/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Boys' Brigade Open House" src="https://www.youtube.com/embed/rLZpVbO6qY8" height="315" width="830"></iframe></center>
 
@@ -45,8 +46,8 @@ To nurture Youth, based on sound values, to lead and serve
 *   LTA Jeremy Wong (Captain)
 *   2LT Victor Chan (Vice-Captain)
 *   LTA Jonathan Pek (Officer mentor)
-*   Mr Chin Khai Fung (Teacher OIC)
-*   Mr Andy Chong (Teacher Officer)
+*   Mr Andy Chong (Teacher OIC)
+*   Mr Ho Wee Khong (Teacher Officer)
 
 
 ### Leadership Structure

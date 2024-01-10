@@ -3,6 +3,7 @@ title: Education and Career Guidance (ECG) and Counselling Services
 permalink: /quick-links/HBL-SIL/education-and-career-guidance-and-counselling-services/
 description: ""
 third_nav_title: HBL SIL
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -49,7 +50,7 @@ Ms Juan Peiling
 
 Consultation&nbsp;@ Engagement Centre (Canteen)&nbsp;
 
-Day &amp; Time: Mondays &amp; Thursdays only (8.00 am – 5.00 pm)
+Day &amp; Time: Tuesdays &amp; Wednesdays only (8.00 am – 5.00 pm)
 
 Email -&nbsp;&nbsp;[juan_peiling@schools.gov.sg](mailto:juan_peiling@schools.gov.sg)  
 

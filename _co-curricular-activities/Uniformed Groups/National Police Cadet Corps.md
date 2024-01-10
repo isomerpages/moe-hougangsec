@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /co-curricular-activities/Uniformed-Groups/npcc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/CZtDCiXzBYQ" title="2022 NPCC Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
@@ -61,8 +62,6 @@ CDT – LCP – CPL – SGT – SSG – SI
 •	Ms Tan Wei Jing (OIC)  
 •	Mr Kervin Tang Cheok Yean  
 •	Ms Nur Adilah  
-•	Ms Ho Ying Yee  
-•	Mdm Annizell Cruz Chan (Sem 1 only)  
     
 
 ### Training Venue and Days
@@ -79,4 +78,3 @@ CDT – LCP – CPL – SGT – SSG – SI
 ![](/images/NPCC/photo%20(4).jpeg)
 
 ![](/images/NPCC/photo%20(3).jpeg)
-

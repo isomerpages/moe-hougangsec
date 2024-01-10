@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /co-curricular-activities/Performing-Arts/modern-dance/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Dance Open house" src="https://www.youtube.com/embed/WpBz-P_Kp3Q" height="315" width="830"></iframe></center>
 
@@ -53,6 +54,12 @@ Make the Difference
   </tr>
 </tbody>
 </table>
+
+### Teachers In-Charge
+
+* Ms Joanne Toh Chui Theng (OIC)
+* Ms Jessica Heng Yee Pei
+* Yu Hong Hong
 
 
 ### Training Details
