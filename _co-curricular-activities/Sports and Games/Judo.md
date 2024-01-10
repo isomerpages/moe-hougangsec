@@ -3,6 +3,7 @@ title: Judo
 permalink: /co-curricular-activities/Sports-and-Games/judo/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/BVwmUn2K5gk" title="2022 Judo Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
@@ -217,10 +218,10 @@ Respect all, fear none
 SJF -Student Judo Foundation
 
 ### Teachers In-Charge
-*   Rio Elijah Chua Ghee Hian (OIC)
-*   Wee Swee Kee
-*   Low Wee Kie Jasmine
-*   Toh Hui Khee Jazreel
+*   Mr Rio Elijah Chua Ghee Hian (OIC)
+*   Miss Wee Swee Kee
+*   Ms Low Wee Kie Jasmine
+*   Ms Toh Hui Khee Jazreel
 
 **Coach**: Lin Yu Sheng
 
