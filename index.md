@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HOMEPAGE/School_Mission_SAFE.jpg
+      background: /images/HOMEPAGE/hs_homepage.gif
       key_highlights:
         - title: Our Facebook
           description: ""
