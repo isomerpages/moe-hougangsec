@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HOMEPAGE/hs_homepage.gif
+      background: /images/HOMEPAGE/HS_Homepage__1920_x_720_px_.gif
       key_highlights:
         - title: Our Facebook
           description: ""
