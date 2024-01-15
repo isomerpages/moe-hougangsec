@@ -1,0 +1,39 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - Secondary One Registration.md
+      - HBL SIL/.keep
+      - HBL SIL/HBL–SIL.md
+      - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
+      - For Students/.keep
+      - For Students/For Students.md
+      - For Students/2024 Term 1 STRUCTURED CONSULTATION TIMETABLE (G1, G2,
+        G3).md
+      - For Students/2024 CLASS TEST SCHEDULE (SEC 1 to 5) FOR SEMESTER 1.md
+      - For Students/GCE O Level Results Release.md
+      - For Students/Result Release of GCE NA and NT Level Examination.md
+      - For Students/Subject Combinations Briefing.md
+      - For Students/Library OPAC.md
+      - For Parents/.keep
+      - For Parents/For Parents.md
+      - For Parents/2024 CLASS TEST SCHEDULE (SEC 1 to 5)  FOR SEMESTER 1.md
+      - For Parents/GCE O Level Result Release.md
+      - For Parents/Nominations for President’s Award for Teachers (PAT) and
+        Outstanding Youth in Education Award (OYEA).md
+      - For Parents/MOE Edusave Character Award (ECHA) 2023.md
+      - For Parents/School–Home Partnership.md
+      - For Staff/.keep
+      - For Staff/For Staff.md
+      - PLD Initiative/.keep
+      - PLD Initiative/Personal Learning Device (PLD) Initiative.md
+      - PLD Initiative/DMA Parent Portal.md
+      - PLD Initiative/Information For Students.md
+      - PLD Initiative/FAQ.md
+      - Admin/Direct School Admission.md
+      - Admin/.keep
+      - Admin/School Textbook Sale.md
+      - Admin/School Uniform Sale.md
+      - Admin/Traffic Advisory.md
+      - Appeal For Transfer Into HS.md
+      - HS ICT Helpdesk Form.md

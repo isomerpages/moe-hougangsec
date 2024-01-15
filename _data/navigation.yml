@@ -1,0 +1,27 @@
+logo: /images/logo.png
+links:
+  - title: Open House
+    url: https://www.hougangsec.moe.edu.sg/open-house/welcome/
+  - title: HBL-SIL
+    url: /quick-links/HBL-SIL/hbl-sil/
+  - title: Departments
+    collection: departments
+  - title: Key Programmes
+    url: /applied-learning-programme/alp/
+    sublinks:
+      - title: Applied Learning Programme
+        url: /applied-learning-programme/alp/
+      - title: HS Innovates!
+        url: /hs-innovates/hs-innovation-framework/
+      - title: Internationalisation Programme
+        url: /key-programmes/internationalization/international-programme/
+      - title: Learning for Life Programme
+        url: /learning-for-life-programme
+      - title: Student Leadership Development
+        url: /key-programmes/student-leadership/
+  - title: Co-Curricular Activities
+    collection: co-curricular-activities
+  - title: About Us
+    collection: about-us
+  - title: Quick Links
+    collection: quick-links
