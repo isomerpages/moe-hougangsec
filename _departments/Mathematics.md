@@ -2,12 +2,10 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
 **Head of Department**  
 Mr Chow Poh Boon  
-
-**Lead Teacher**  
-Mdm Seoh Bee Hua  
 
 **Subject Head**  
 Ms Tracy Huang  
