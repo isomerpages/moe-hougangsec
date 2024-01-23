@@ -6,19 +6,16 @@ third_nav_title: Aesthetics and Technology
 variant: markdown
 ---
 **Head of Department (A&amp;T)**   
-Mr Mohamed Fahizel
-
+Mr Alfred Choo (SH/Aesthetics, Technology &amp; Innovation)
   
 
 **Design and Technology Unit**   
-Mr Mohamed Fahizel (HOD)   
 Mr Benny Ng (Senior Teacher)   
 Mr Anwarul Nizam B Ismail   
 Mr Alfred Choo   
 
 **Visual Art Unit**   
 Mdm Farahana Binti Abdul Rahim (Subject Coordinator) 
-Mdm Nur Syahira Zulkifli     
 Mdm Dzafiirah Binte Mohammad Hakim&nbsp;   
 Ms Jane Koh
 
@@ -31,7 +28,6 @@ Ms Wee Boon Yen (FAJT)
 
 **Music Unit**  
 Ms Jasmine Low Wee Kie (Subject Coordinator)  
-Ms Chan Ying Ying  (FAJT)
 
   
 **Technical Support Officers**   
