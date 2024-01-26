@@ -158,7 +158,7 @@ ceremony and activities.</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1H-c0z3mQVrINYrYP38JUEet0GdSL2N8ilcopSbfi7_k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Character Coaching through Values-In-Action (VIA)</h3>
-<p><u>Sec 4 Class-Based VIA</u>
+<p><u>Sec 4 Class-Based VIA</u> 
 <br>Our Sec 4&amp;5s produced plank artwork in resplendent colours for display
 at the ‘Music in the Park’ community event held at Fernvale Park on 11
 March 2023.
