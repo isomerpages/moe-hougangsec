@@ -8,7 +8,7 @@ variant: markdown
 
 The LLP programme, Make the Difference, A Hougean’s Way Of Life, aims to:
 
-1. To develop students as GRIT Stars and Community Youth Leaders
+1. To develop students as GREAT Stars and Community Youth Leaders
 
 2. To provide a sustained and enhanced student-centric values education progressively over 4/5 years which impacts the community.  
 
@@ -107,6 +107,3 @@ In Semester 2, Our VIA Leaders had the opportunity to serve the community at Fer
 
 For more on Student Leadership Development, please visit 
 https://www.hougangsec.moe.edu.sg/key-programmes/student-leadership/
-
-
-
