@@ -6,7 +6,7 @@ third_nav_title: Aesthetics and Technology
 variant: markdown
 ---
 **Head of Department (A&amp;T)**   
-Mr Alfred Choo (SH/Aesthetics, Technology &amp; Innovation)
+Mr Alfred Choo (SH/Aesthetics, Technology &amp; Innovation)  (Covering)
   
 
 **Design and Technology Unit**   
@@ -15,8 +15,8 @@ Mr Anwarul Nizam B Ismail
 Mr Alfred Choo   
 
 **Visual Art Unit**   
-Mdm Farahana Binti Abdul Rahim (Subject Coordinator) 
-Mdm Dzafiirah Binte Mohammad Hakim&nbsp;   
+Mdm Farahana Binti Abdul Rahim (Subject Coordinator)  
+Mdm Dzafiirah Binte Mohammad Hakim  
 Ms Jane Koh
 
 **Nutrition and Food Science**   
