@@ -17,7 +17,7 @@ starting Term 1 Week 5.</p>
 <p><a href="/files/Parents/2024_CLASS_TEST_SCHEDULE__SEC_1_to_5__FOR_SEMESTER_1.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 CLASS TEST SCHEDULE (SEC 1 to 5) FOR SEMESTER 1</a>
 </p>
 <p></p>
-<h3>Weighted Assessments</h3>
+<h3>WEIGHTED ASSESSMENT FORMATS</h3>
 <table>
 <tbody>
 <tr>
