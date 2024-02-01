@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Co Curricular Activities (CCA).md
+      - CCA Teachers.md
       - Performing Arts/.keep
       - Performing Arts/Angklung|Kulintang and Gamelan Ensemble.md
       - Performing Arts/Choir.md
@@ -10,13 +11,13 @@ collections:
       - Performing Arts/Modern Dance.md
       - Performing Arts/Speech & Drama.md
       - Performing Arts/Symphonic Band.md
+      - Uniformed Groups/.keep
       - Uniformed Groups/Boys' Brigade 37th Company.md
       - Uniformed Groups/Girls Brigade.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Cadet Corps (Land).md
       - Uniformed Groups/National Police Cadet Corps.md
       - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/.keep
       - Sports and Games/.keep
       - Sports and Games/Basketball.md
       - Sports and Games/Floorball.md
@@ -24,6 +25,6 @@ collections:
       - Sports and Games/Judo.md
       - Sports and Games/Netball.md
       - Sports and Games/Wushu.md
-      - Club and Society/Media Resource Club.md
       - Club and Society/.keep
+      - Club and Society/Media Resource Club.md
       - LEAPS 2'0 Guide.md
