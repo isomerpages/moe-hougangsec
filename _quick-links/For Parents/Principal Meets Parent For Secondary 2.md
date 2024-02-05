@@ -5,4 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p></p>
+<p>Dear parents/guardians,</p>
+<p>Below, are the slides that were presented to you during the PMP for Sec
+2 on 27 Jan 2024.</p>
+<p><a href="/files/Parents/Sec_2_PMP_VP_Address_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 PMP 2024</a>
+</p>
