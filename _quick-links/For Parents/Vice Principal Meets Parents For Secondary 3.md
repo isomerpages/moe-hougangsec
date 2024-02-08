@@ -1,5 +1,5 @@
 ---
-title: Principal Meets Parents For Secondary 3
+title: Vice Principal Meets Parents For Secondary 3
 permalink: /quick-links/for-parents/sec3pmp/
 variant: tiptap
 description: ""
