@@ -35,7 +35,8 @@ on 27 Jan 2024.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>S3 Subject Combination</p>
+<p><strong>S3 Subject Combination</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Does the school offer triple science for the Express course?</p>
@@ -75,7 +76,8 @@ time, as most of us end our work at 5.30pm?</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>HBL</p>
+<p><strong>HBL</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Will there be any Home-based Learning (HBL) this year?</p>
@@ -109,7 +111,8 @@ learning.</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>SIL</p>
+<p><strong>SIL</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For SIL, how should we advise our children on what to focus on for their
@@ -146,7 +149,8 @@ reflection at the end of his SIL journey.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Assessment</p>
+<p><strong>Assessment</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For the Weighted Assessments, can we know what the topics tested for each
@@ -167,7 +171,8 @@ The WA schedule and format have also been sent to parents via Parents Gateway.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Promotion</p>
+<p><strong>Promotion</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>My son is in the Normal (Academic) course. What grades should he achieve
@@ -191,7 +196,8 @@ in consultation with the teachers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Homework</p>
+<p><strong>Homework</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>It seems like my child does not have much homework. How can I monitor
@@ -209,7 +215,8 @@ subject teacher to find out more about their child’s/ward’s progress.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PLD</p>
+<p><strong>PLD</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Is there any Mobile Device Management system that is installed on the
