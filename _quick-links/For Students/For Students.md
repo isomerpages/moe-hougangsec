@@ -5,4 +5,156 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<table><tbody><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/Google%20Workspace%20icon.png"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/HGSS-MOE.png"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/SLS.jpeg"></div></td></tr><tr><td rowspan="1" colspan="1"><p><strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>Google Workspace</u></a></strong> <br>(Student iCON)<br></p></td><td rowspan="1" colspan="1"><p>Ministry of Education</p></td><td rowspan="1" colspan="1"><p>Student Learning Space</p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/FB.png"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/SHP.jpeg"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/HGSS-MOE.png"></div></td></tr><tr><td rowspan="1" colspan="1"><p>HGSS Facebook</p></td><td rowspan="1" colspan="1"><p>Sec 1 CCA Option Exercise</p></td><td rowspan="1" colspan="1"><p><strong><a href="https://portal.mims.moe.gov.sg/idmdash/" rel="noopener noreferrer nofollow" target="_blank"><u>MIMS Portal</u></a></strong><br></p></td></tr><tr><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/MSFLOGO.png"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/ECGBOOKCASE.png"></div></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/MOECOURSEFINDER.jpeg"></div></td></tr><tr><td rowspan="1" colspan="1"><p>MySkillsFuture For Students</p></td><td rowspan="1" colspan="1"><p>Education and Career Guidance</p></td><td rowspan="1" colspan="1"><p>MOE Course Finder</p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><div class="isomer-image-wrapper"><img style="width:100%" height="auto" width="100%" src="/images/SIL%20logo.jpeg"></div></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p>Student-Initiated Learning</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h3>Pathway for Students</h3><ul data-tight="true" class="tight"><li><p><a href="/files/Students/a%20guide%20to%20post-secondary%20admissions%20exercises.pdf" rel="noopener noreferrer nofollow" target="_blank">A Guide To Post-Secondary Admission Exercises</a></p></li><li><p><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_application.html" rel="noopener noreferrer nofollow" target="_blank">On Poly Foundation Program (PFP)</a></p></li><li><p><a href="https://www.ite.edu.sg/wps/portal/definitely-des/" rel="noopener noreferrer nofollow" target="_blank">On ITE to Poly Program (DPP)</a></p></li></ul><h3>HS Student Handbook</h3><p><a href="https://go.gov.sg/hsshb2024" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook (04 Jan 2024)</a></p><h3>Timetable 2024</h3><p><a href="/files/Students/Class_Timetable_2024_Sem_1_caa_13Jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024 Sem 1 caa 13 Jan 2024.pdf</a></p><p></p><h3>HS ICT Helpdesk Form</h3><p>Please submit your request on this form&nbsp;<a href="https://go.gov.sg/hs-ict-helpdesk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hs-ict-helpdesk</a></p><h3>Student iCON</h3><p>Log in to the Student iCON here. Do not log in to the mobile app directly.&nbsp;<br><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a></p><p>Student iCON Username/ID is your Student iCON email address (If you have a common name, your Userid may have a suffix, eg, “john_tan_23 @students.edu.sg”). Please refer to the poster below for more information.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studen%20iCON%20Poster%20A3P2022%2001Mar20221.jpeg"></div><p></p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/Google%20Workspace%20icon.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/HGSS-MOE.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/SLS.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank"><u>Google Workspace</u></a></strong> 
+<br>(Student iCON)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ministry of Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Learning Space</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/FB.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/SHP.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/HGSS-MOE.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HGSS Facebook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 CCA Option Exercise</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://portal.mims.moe.gov.sg/idmdash/" rel="noopener noreferrer nofollow" target="_blank"><u>MIMS Portal</u></a></strong>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/MSFLOGO.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/ECGBOOKCASE.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/MOECOURSEFINDER.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MySkillsFuture For Students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education and Career Guidance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOE Course Finder</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/SIL%20logo.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student-Initiated Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Pathway for Students</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Students/a%20guide%20to%20post-secondary%20admissions%20exercises.pdf" rel="noopener noreferrer nofollow" target="_blank">A Guide To Post-Secondary Admission Exercises</a>
+</p>
+</li>
+<li>
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_application.html" rel="noopener noreferrer nofollow" target="_blank">On Poly Foundation Program (PFP)</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ite.edu.sg/wps/portal/definitely-des/" rel="noopener noreferrer nofollow" target="_blank">On ITE to Poly Program (DPP)</a>
+</p>
+</li>
+</ul>
+<h3>HS Student Handbook</h3>
+<p><a href="https://go.gov.sg/hsshb" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook (13 Feb 2024)</a>
+</p>
+<h3>Timetable 2024</h3>
+<p><a href="/files/Students/Class_Timetable_2024_Sem_1_caa_13Jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024 Sem 1 caa 13 Jan 2024.pdf</a>
+</p>
+<p></p>
+<h3>HS ICT Helpdesk Form</h3>
+<p>Please submit your request on this form&nbsp;<a href="https://go.gov.sg/hs-ict-helpdesk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hs-ict-helpdesk</a>
+</p>
+<h3>Student iCON</h3>
+<p>Log in to the Student iCON here. Do not log in to the mobile app directly.&nbsp;
+<br><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
+<p>Student iCON Username/ID is your Student iCON email address (If you have
+a common name, your Userid may have a suffix, eg, “john_tan_23 @students.edu.sg”).
+Please refer to the poster below for more information.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studen%20iCON%20Poster%20A3P2022%2001Mar20221.jpeg">
+</div>
+<p></p>
