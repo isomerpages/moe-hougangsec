@@ -42,19 +42,19 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alfred Choo Boon Kian</p>
+<p>Vince Ding Jen Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">choo_boon_kian@moe.edu.sg</a>
+<p><a href="mailto:ding_jen_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ding_jen_han@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vince Ding Jen Han&nbsp;</p>
+<p>Marcus Aw Yu Kian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ding_jen_han@moe.edu.sg</a>
+<p><a href="mailto:marcus_aw_yu_kian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marcus_aw_yu_kian_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -227,7 +227,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="16" colspan="1">
+<td rowspan="17" colspan="1">
 <p>Uniformed Groups</p>
 </td>
 <td rowspan="2" colspan="1">
@@ -302,7 +302,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>National Police Cadet Corps (NPCC) (Boys and Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -328,6 +328,15 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">nur_adilah_jasman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohamed Hairi Bin Nor Azmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohamed_hairi_nor_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_hairi_nor_azmi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -392,10 +401,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="20" colspan="1">
 <p>Visual and Peforming Arts</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p>Angklung/Kulintang and Gamelan Ensemble (Boys and Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -421,6 +430,15 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">liang_qidi@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Daniel Chong Jun Zheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:daniel_chong_jun_zheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_chong_jun_zheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -455,7 +473,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Guzheng Ensemble (Boys and Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -472,6 +490,15 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_min_jie_kitty@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Leo Sing Ann</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leo_sing_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leo_sing_ann@moe.edu.sg</a>
 </p>
 </td>
 </tr>
