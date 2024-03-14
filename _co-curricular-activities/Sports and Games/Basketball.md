@@ -78,8 +78,8 @@ Discipline Head
 ### Teachers In-charge
 
 *   Mr Soh Yen Meng (OIC) 
-*   Mr Alfred Choo
 *   Mr Vince Ding
+*   Mr Marcus Aw Yu Kian
 
 
 ### Training Venue and Days
