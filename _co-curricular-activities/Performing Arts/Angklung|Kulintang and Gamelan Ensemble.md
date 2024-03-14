@@ -19,38 +19,38 @@ to one’s soul, uplifting one’s spirit! For truly, the joy of music is real.<
 <h3>Motto</h3>
 <p>The ensemble is only as strong as its weakest player</p>
 <h3>CCA Leadership Structure</h3>
-<p><strong><u>Executive Committee</u></strong>
-<br><strong>Drama Club:</strong>
+<p><strong><u>Executive Committee</u></strong> 
+<br><strong>Drama Club:</strong> 
 <br>President: Soh Hui S3-E
 <br>Vice-President: Putri Elfira Qistina Bte Mohd Hafiz S3-E</p>
-<p><strong>Melody Angklung</strong>
+<p><strong>Melody Angklung</strong> 
 <br>IC – He Jiahui Phoebe S3-A
 <br>2IC – Elva Daania-Marsha S2-G</p>
 <p>TK Angklung IC – Nur Suriani Bte Samsudin S3-E 2IC – Ezann Beh S2-N</p>
-<p><strong>Bass Angklung</strong>
+<p><strong>Bass Angklung</strong> 
 <br>IC - Ng Ching Heng, Gladwin S3-H
 <br>2IC – Muhammad Ilham Bin Abdul Halim S2-G</p>
-<p><strong>Gamelan</strong>
+<p><strong>Gamelan</strong> 
 <br>IC – Muhammad Afiq Bin Reduan Shah S3-N
 <br>2IC – Sim Jia Yu S2-U</p>
-<p><strong>Kulintang</strong>
+<p><strong>Kulintang</strong> 
 <br>IC - Putri Elfira Qistina Bte Mohd Hafiz S3-E
 <br>2IC – Elisya Batrisyia Binte Mohd F S2-G</p>
-<p><strong>VIA</strong>
+<p><strong>VIA</strong> 
 <br>IC – He Jiahui Phoebe S3-A
 <br>2IC - Sim Jia Yu S2-U</p>
-<p><strong>Level Leaders</strong>
+<p><strong>Level Leaders</strong> 
 <br>Sec 1 – Nur Amylia Bte Iswady S1-E
 <br>Sec 2 – Nasha Farzanah Bte Sharil Falindi S2-G
 <br>Sec 3 - Muhammad Afiq Bin Reduan Shah S3-N</p>
 <h3>Achievements</h3>
 <p><strong>Singapore Youth Festival:</strong>
 </p>
-<p><strong>Angklung/ Kulintang Ensemble</strong>
+<p><strong>Angklung/ Kulintang Ensemble</strong> 
 <br>• Certificate of Distinction (2023)
 <br>• Certificate of Distinction (2021)
 <br>• Certificate of Distinction (2019)</p>
-<p><strong>Gamelan Ensemble</strong>
+<p><strong>Gamelan Ensemble</strong> 
 <br>• Certificate of Distinction (2023)
 <br>• Certificate of Distinction (2021)
 <br>• Certificate of Accomplishments (2019)</p>
