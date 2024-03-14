@@ -3,114 +3,158 @@ title: Guzheng Ensemble
 permalink: /co-curricular-activities/Performing-Arts/guzheng-ensemble/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnM_EN-1VFisvQNpnwIVRZ0raEgS1ijN4V9JKm0KKFWOGXjFglrycIMfWxm6ytKeHW5sz6AsxIidnD/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-### Motto
-
-Celebrate Every Victory!
-
-### Values
-
-*   Perseverance
-*   Respect
-*   Responsibility
-*   Teamwork
-
-### Achievements
-
-Singapore Youth Festival Arts Presentation:
-*   Certificate of Distinction (2021)
-*   Certificate of Distinction (2019)  
-*   Certificate of Distinction (2017)
-*   Certification of Accomplishment (2015)
-*   Certification of Distinction (2013)
-
-
-
-### CCA Leadership Structure
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRnM_EN-1VFisvQNpnwIVRZ0raEgS1ijN4V9JKm0KKFWOGXjFglrycIMfWxm6ytKeHW5sz6AsxIidnD/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3>Motto</h3>
+<p>Celebrate Every Victory!</p>
+<h3>Values</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Perseverance</p>
+</li>
+<li>
+<p>Respect</p>
+</li>
+<li>
+<p>Responsibility</p>
+</li>
+<li>
+<p>Teamwork</p>
+</li>
+</ul>
+<h3>Achievements</h3>
+<p>Singapore Youth Festival Arts Presentation:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Certificate of Distinction (2021)</p>
+</li>
+<li>
+<p>Certificate of Distinction (2019)</p>
+</li>
+<li>
+<p>Certificate of Distinction (2017)</p>
+</li>
+<li>
+<p>Certification of Accomplishment (2015)</p>
+</li>
+<li>
+<p>Certification of Distinction (2013)</p>
+</li>
+</ul>
+<h3>CCA Leadership Structure</h3>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-rdtm">President:                        </td>
-    <td class="tg-citn">NEOH EN YU          </td>
-    <td class="tg-citn">4O</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Vice President:               </td>
-    <td class="tg-citn">KANG MIAO SHAN, JIVANNA  </td>
-    <td class="tg-citn">4A</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Secretary/Treasurer:     </td>
-    <td class="tg-citn">MIKO YEO XINYI</td>
-    <td class="tg-citn">4U</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">VIA Committee IC:         </td>
-    <td class="tg-citn">ONG SUE HANN JOELLE      </td>
-    <td class="tg-citn">4O</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Events Committee IC:   </td>
-    <td class="tg-citn">SHERMAINE TAN KAI XIN</td>
-    <td class="tg-citn">4O</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Logistics Committee IC: </td>
-    <td class="tg-citn">YAP EN LING</td>
-    <td class="tg-citn">4U</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NEOH EN YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4O</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KANG MIAO SHAN, JIVANNA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary/Treasurer:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MIKO YEO XINYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4U</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIA Committee IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG SUE HANN JOELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4O</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Events Committee IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHERMAINE TAN KAI XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4O</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics Committee IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAP EN LING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4U</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-### Teachers In-Charge
-
-* Mrs Goh Lay Hoon (OIC)
-* Ms Kitty Tan
-
-### Training Venue and Days
-
-Training Days: Tuesday &amp; Friday   
-Training Times: 3.15 pm - 5.45 pm (Tue) / 1.15 pm – 4.45 pm (Fri)   
-Training Venue: AVA Room
-
-
-### SYF 2021 No 1 百花引
-
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="HS GUZHENG GZS 030 SYF2021 NO 1 百花引" src="https://www.youtube.com/embed/q0LQdiTM8QE" height="315" width="830"></iframe></center>
-
-
-### SYF 2021 No 2 生 花
-
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="HS GUZHENG GZS 030 SYF2021 NO 2 生 花" src="https://www.youtube.com/embed/JTGi5w3FJ60" height="315" width="830"></iframe></center>
-
-
-### SYF Photos
-
-![](/images/Guzheng/gz-syf1a.png)
-
-![](/images/Guzheng/syf%20photo%2028%20mar%202023.jpeg)
-
-
-### VIA
-
-![Guzheng VIA](/images/Guzheng/guzheng%20via.jpg)
-
-### Ci Yuan Performance
-
-![](/images/Guzheng/ci%20yuan%20performance_group%20photo.jpeg)
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kWkv5mypO7k" height="315" width="560"></iframe>
+<h3>Teachers In-Charge</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mrs Goh Lay Hoon (OIC)</p>
+</li>
+<li>
+<p>Ms Kitty Tan</p>
+</li>
+<li>
+<p>Mr Leo Sing Ann</p>
+</li>
+</ul>
+<h3>Training Venue and Days</h3>
+<p>Training Days: Tuesday &amp; Friday
+<br>Training Times: 3.15 pm - 5.45 pm (Tue) / 1.15 pm – 4.45 pm (Fri)
+<br>Training Venue: AVA Room</p>
+<h3>SYF 2021 No 1 百花引</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q0LQdiTM8QE"></iframe>
+</div>
+<h3>SYF 2021 No 2 生 花</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JTGi5w3FJ60"></iframe>
+</div>
+<h3>SYF Photos</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng/gz-syf1a.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng/syf%20photo%2028%20mar%202023.jpeg">
+</div>
+<h3>VIA</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Guzheng VIA" src="/images/Guzheng/guzheng%20via.jpg">
+</div>
+<h3>Ci Yuan Performance</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng/ci%20yuan%20performance_group%20photo.jpeg">
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kWkv5mypO7k"></iframe>
+</div>
+<p></p>
