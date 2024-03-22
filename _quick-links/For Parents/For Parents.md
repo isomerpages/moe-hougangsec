@@ -26,12 +26,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a> 
 <br>
 <br>
 </p>
@@ -75,7 +75,7 @@ variant: tiptap
 <p>Please click this URL for more details on the DMA Parent Portal.
 <br>https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/dma-parents-portal/</p>
 <p>Log in to Mobile Guardian here:
-<br><a href="https://sg-portal.mobileguardian.com/#/login" rel="noopener noreferrer nofollow" target="_blank">https://sg-portal.mobileguardian.com/#/login</a>
+<br><a href="https://sg-portal.mobileguardian.com/#/login" rel="noopener noreferrer nofollow" target="_blank">https://sg-portal.mobileguardian.com/#/login</a> 
 <br>Your parent's account will be created and emailed to you after your selection
 of the DMA option for your child/ward.</p>
 <h3>Financial Assistance</h3>
@@ -101,7 +101,7 @@ if your child is eligible.
 per capita household income of $750 or less.</p>
 </li>
 </ul>
-<p><strong>IMDA DigitalAccess@Home Scheme</strong>
+<p><strong>IMDA DigitalAccess@Home Scheme</strong> 
 <br>The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets
 to lower income family. Parents can apply online at www.digitalaccess.gov.sg
 or via hardcopy form.</p>
@@ -122,6 +122,8 @@ you wish to apply via eFAS here:&nbsp;<a href="https://go.gov.sg/moe-efas" rel="
 <hr>
 <h3>HS Parents Connect 2024</h3>
 <p><a href="/files/Parents/HS_Parents_Connect_2024___Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2024 Issue 1</a>
+</p>
+<p><a href="/files/Parents/HS_Parents_Connect_2024___Issue_2.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2024 Issue 2</a>
 </p>
 <hr>
 <h3>HS Application To Be On Waiting List Form</h3>
