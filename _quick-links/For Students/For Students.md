@@ -32,10 +32,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ministry of Education</p>
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Learning Space</p>
+<p><a href="https://www.learning.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,13 +59,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HGSS Facebook</p>
+<p><a href="https://www.facebook.com/hougangsecondaryschool" rel="noopener noreferrer nofollow" target="_blank">HS Facebook</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 CCA Option Exercise</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://portal.mims.moe.gov.sg/idmdash/" rel="noopener noreferrer nofollow" target="_blank"><u>MIMS Portal</u></a></strong>
+<p><strong><a href="https://portal.mims.moe.gov.sg/idmdash/" rel="noopener noreferrer nofollow" target="_blank"><u>MIMS Portal</u></a></strong> 
 <br>
 </p>
 </td>
@@ -87,13 +90,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MySkillsFuture For Students</p>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture For Secondary Students</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education and Career Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Course Finder</p>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">MOE Course Finder</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -114,7 +119,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student-Initiated Learning</p>
+<p><a href="https://go.gov.sg/hs-sil" rel="noopener noreferrer nofollow" target="_blank">Student-Initiated Learning</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
