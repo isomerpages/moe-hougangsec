@@ -97,7 +97,8 @@ variant: tiptap
 <p>Education and Career Guidance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MOE Course Finder</p>
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">MOE Course Finder</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +119,8 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student-Initiated Learning</p>
+<p><a href="https://go.gov.sg/hs-sil" rel="noopener noreferrer nofollow" target="_blank">Student-Initiated Learning</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
