@@ -3,111 +3,140 @@ title: For Parents
 permalink: /quick-links/For-Parents/for-parents/
 description: ""
 third_nav_title: For Parents
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-2rp9{background-color:#FFF;color:#333;text-align:center;vertical-align:middle}
-.tg .tg-0pyt{background-color:#FFF;color:#21088A;font-weight:bold;text-align:center;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 780px">
-<colgroup>
-<col style="width: 260px">
-<col style="width: 260px">
-<col style="width: 260px">
-</colgroup>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-2rp9"><a href="https://www.moe.gov.sg/" target="_self"> 
-          <img src="/images/HGSS-MOE.png" style="width:70%"></a></td>
-    <td class="tg-2rp9"><a href="https://pg.moe.edu.sg/" target="_self"> 
-          <img src="/images/PG.png" style="width:50%"></a></td>
-    <td class="tg-2rp9"><a href="https://www.schoolbag.sg/" target="_self"> 
-          <img src="/images/SCHOOLBAG.png" style="width:100%"></a></td>
-  </tr>
-  <tr>
-    <td class="tg-apyk"><span style="background-color:initial">Ministry of Education</span><br></td>
-    <td class="tg-apyk">Parents Gateway<br><br></td>
-    <td class="tg-apyk">School Bag</td>
-  </tr>
-  <tr>
-    <td class="tg-2rp9"><a href="https://sg-portal.mobileguardian.com/#/login" target="_self"> 
-          <img src="/images/MG.png" style="width:100%"></a></td>
-    <td class="tg-2rp9"><a href="https://sites.google.com/view/hssil/home" target="_self"> 
-          <img src="/images/SIL%20logo.jpeg" style="width:65%"></a></td>
-    <td class="tg-2rp9"></td>
-  </tr>
-  <tr>
-    <td class="tg-apyk"><a href="https://sg-portal.mobileguardian.com/#/login"><span style="font-weight:500;text-decoration:underline;color:#21088A">Mobile GuardianParents' Login Portal</span></a></td>
-    <td class="tg-apyk">Student-Initiated Learning</td>
-    <td class="tg-2rp9"> </td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/HGSS-MOE.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/PG.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/SCHOOLBAG.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://pg.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Parents Gateway</a>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SCHOOL BAG</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/MG.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/SIL%20logo.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://sg-portal.mobileguardian.com/#/login" rel="noopener noreferrer nofollow" target="_blank"><u>Mobile GuardianParents' Login Portal</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/hs-sil" rel="noopener noreferrer nofollow" target="_blank">Student-Initiated Learning</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### PLD DMA Parent's Portal 
-
-Please click this URL for more details on the DMA Parent Portal.  
-https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/dma-parents-portal/
-
-Log in to Mobile Guardian here:   
-[https://sg-portal.mobileguardian.com/#/login](https://sg-portal.mobileguardian.com/#/login)  
-Your parent's account will be created and emailed to you after your selection of the DMA option for your child/ward.
-
-### Financial Assistance   
-Singapore Citizens in financial need can get assistance from MOE on school fees and other expenses. This applies to government, government-aided, special education (SPED), specialised and some independent schools. Learn if your child is eligible.  
-![](/images/Admin/2024_MOE_FAS_pamphet__EL_.jpg)
-
-Students who are eligible must meet the following criteria:
-
-* Are Singapore Citizens.
-* Attend government or government-aided schools.
-* Have a monthly gross household income of $3,000 or less, or a monthly per capita household income of $750 or less.  
-
-**IMDA DigitalAccess@Home Scheme**  
-The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets to lower income family.  Parents can apply online at www.digitalaccess.gov.sg or via hardcopy form.  
-
-
-
-
-How to apply:
-* You can download the&nbsp; [MOE FAS Application Form](/files/Admin/2024_MOE_FAS_Application_Form.pdf).&nbsp;Please submit the completed form to General Office by the end of the semester.&nbsp;Alternatively, you wish to apply via eFAS here:&nbsp;[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
-
-More details on the FAS is available on the MOE websites below.&nbsp;
-
-[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)  
-
-[Frequently Asked Questions](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=32819&amp;utm_source=moe-corp-site&amp;utm_medium=referral)
-
-* * *
-
-### HS Parents Connect 2024
-
-[HS Parents Connect 2024 Issue 1](/files/Parents/HS_Parents_Connect_2024___Issue_1.pdf)
-
-
-* * *
-
-### HS Application To Be On Waiting List Form
-
-To apply for transfer, please download the "Application To Be On Waiting List" Form and email the completed form together with your child's year-end results slip to&nbsp;[hougang\_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg). Only shortlisted candidates will be notified.&nbsp;  
-&nbsp; [Application To Be On Waiting List](/files/Admin/Application_to_be_on_Waiting_List_w_e_f_Dec_2023.pdf)
-
-### HS Student Handbook
-
-[Download HS Student Handbook (04 Jan 2024)](https://go.gov.sg/hsshb2024)
-
-
-### Timetable 2024  
-
-[Download Class Timetable 2024 Sem 1 caa 13 Jan 2024.pdf](/files/Students/Class_Timetable_2024_Sem_1_caa_13Jan2024.pdf)
-
-
-### GREAT Start Week For Sec 1 to Sec 5
-[GREAT Start Week Timetable](/files/Parents/GREAT_START_WEEK_2024__2_4Jan_.pdf)
+<h3>PLD DMA Parent's Portal</h3>
+<p>Please click this URL for more details on the DMA Parent Portal.
+<br>https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/dma-parents-portal/</p>
+<p>Log in to Mobile Guardian here:
+<br><a href="https://sg-portal.mobileguardian.com/#/login" rel="noopener noreferrer nofollow" target="_blank">https://sg-portal.mobileguardian.com/#/login</a>
+<br>Your parent's account will be created and emailed to you after your selection
+of the DMA option for your child/ward.</p>
+<h3>Financial Assistance</h3>
+<p>Singapore Citizens in financial need can get assistance from MOE on school
+fees and other expenses. This applies to government, government-aided,
+special education (SPED), specialised and some independent schools. Learn
+if your child is eligible.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin/2024_MOE_FAS_pamphet__EL_.jpg">
+</div>
+<p>Students who are eligible must meet the following criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Are Singapore Citizens.</p>
+</li>
+<li>
+<p>Attend government or government-aided schools.</p>
+</li>
+<li>
+<p>Have a monthly gross household income of $3,000 or less, or a monthly
+per capita household income of $750 or less.</p>
+</li>
+</ul>
+<p><strong>IMDA DigitalAccess@Home Scheme</strong>
+<br>The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets
+to lower income family. Parents can apply online at www.digitalaccess.gov.sg
+or via hardcopy form.</p>
+<p>How to apply:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You can download the&nbsp; <a href="/files/Admin/2024_MOE_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form</a>.&nbsp;Please
+submit the completed form to General Office by the end of the semester.&nbsp;Alternatively,
+you wish to apply via eFAS here:&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+</p>
+</li>
+</ul>
+<p>More details on the FAS is available on the MOE websites below.&nbsp;</p>
+<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
+</p>
+<p><a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=32819&amp;utm_source=moe-corp-site&amp;utm_medium=referral" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
+</p>
+<hr>
+<h3>HS Parents Connect 2024</h3>
+<p><a href="/files/Parents/HS_Parents_Connect_2024___Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2024 Issue 1</a>
+</p>
+<hr>
+<h3>HS Application To Be On Waiting List Form</h3>
+<p>To apply for transfer, please download the "Application To Be On Waiting
+List" Form and email the completed form together with your child's year-end
+results slip to&nbsp;<a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>. Only shortlisted
+candidates will be notified.&nbsp;
+<br>&nbsp; <a href="/files/Admin/Application_to_be_on_Waiting_List_w_e_f_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Application To Be On Waiting List</a>
+</p>
+<h3>HS Student Handbook</h3>
+<p><a href="https://go.gov.sg/hsshb2024" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook (04 Jan 2024)</a>
+</p>
+<h3>Timetable 2024</h3>
+<p><a href="/files/Students/Class_Timetable_2024_Sem_1_caa_13Jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024 Sem 1 caa 13 Jan 2024.pdf</a>
+</p>
+<h3>GREAT Start Week For Sec 1 to Sec 5</h3>
+<p><a href="/files/Parents/GREAT_START_WEEK_2024__2_4Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">GREAT Start Week Timetable</a>
+</p>
