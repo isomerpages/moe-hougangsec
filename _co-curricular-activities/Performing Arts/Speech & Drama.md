@@ -85,7 +85,7 @@ Public Library (2015)</p>
 </li>
 </ul>
 <h3>Executive Committee</h3>
-<p><strong>Drama Club:</strong>
+<p><strong>Drama Club:</strong> 
 <br>President: Goh Rui En Megan
 <br>Vice-President: Candeline Ivy Buczenski
 <br>Upper Sec Head: Supan Lereana Doringo
@@ -93,7 +93,7 @@ Public Library (2015)</p>
 <br>Quarter Mistress: Kwan Jia Min
 <br>VIA Leader: Ernest Woo Yu Zhe
 <br>Speech&amp;Drama Connector: Chua Xin Yu Jonas</p>
-<p><strong>Speech Club:</strong>
+<p><strong>Speech Club:</strong> 
 <br>President: Adlin Adriana
 <br>Vice-President: Xavier Wong Choon Renh
 <br>Upper Sec Head: Bryan Ong Meng Fong
@@ -117,7 +117,7 @@ Public Library (2015)</p>
 <p><strong>Instructor:</strong> Ms Rossalina Nasir</p>
 <h3>Training Venue and Days</h3>
 <p><strong>Day</strong>: Tuesday &amp; Friday
-<br><strong>Time</strong>: 3.15 pm - 5.15&nbsp; pm (Tue) / 2.30 pm - 4.30
+<br><strong>Time</strong>: 3.15 pm - 5.15&nbsp; pm (Tue) / 2.00 pm - 4.30
 pm (Fri)
 <br><strong>Venue</strong>: SRC</p>
 <h3>Values In Action</h3>
