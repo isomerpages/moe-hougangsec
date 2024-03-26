@@ -6,7 +6,7 @@ description: ""
 third_nav_title: For Students
 ---
 <p>Dear Hougeans,</p>
-<p>Please download the Weighted Assessment Format for your level.&nbsp;</p>
+<p>Please download the Weighted Assessment Format of your level.&nbsp;</p>
 <table>
 <tbody>
 <tr>
