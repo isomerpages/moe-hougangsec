@@ -100,20 +100,7 @@ Public Library (2015)</p>
 <br>Lower Sec Head: Herlyna Marsyanda
 <br>VIA Leader: Tan Yi Shan Caitlin</p>
 <h3>Teachers In-Charge</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Tan Yin Wei (OIC)</p>
-</li>
-<li>
-<p>Mr Eugene Ling</p>
-</li>
-<li>
-<p>Mr Aaron Yeo (OIC)</p>
-</li>
-<li>
-<p>Mdm Martini Rahmat</p>
-</li>
-</ul>
+<p>Please refer to this URL <a href="https://www.hougangsec.moe.edu.sg/co-curricular-activities/cca-trs/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>Instructor:</strong> Ms Rossalina Nasir</p>
 <h3>Training Venue and Days</h3>
 <p><strong>Day</strong>: Tuesday &amp; Friday
@@ -122,7 +109,5 @@ pm (Fri)
 <br><strong>Venue</strong>: SRC</p>
 <h3>Values In Action</h3>
 <p><strong>VIA partner</strong>: Jenius Kindergarten</p>
-<h3>Photographs</h3>
-<p>SYF</p>
-<p>Weekly Training</p>
-<p>Debate</p>
+<h3></h3>
+<p></p>
