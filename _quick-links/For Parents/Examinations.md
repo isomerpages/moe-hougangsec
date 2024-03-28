@@ -6,8 +6,8 @@ description: ""
 third_nav_title: For Parents
 ---
 <p>Dear Parents / Guardians / Hougeans</p>
-<p>The English Department will be conducting the following examinations.
-Please refer to the attachment for more details. Thank you.</p>
+<p>The school will be conducting the following examinations. Please refer
+to the attachment for the details. Thank you.</p>
 <table>
 <tbody>
 <tr>
@@ -65,19 +65,24 @@ Please refer to the attachment for more details. Thank you.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
 <p></p>
+</li>
+</ol>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MTL/MTLB Preliminary Examination Timetable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Secondary 4 Express, Sec 4 &amp; 5 Normal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>24 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/HS_2024_059__MTL__MTLB_Preliminary_Exam_1.pdf" rel="noopener noreferrer nofollow" target="_blank">MTL/MTLB Preliminary Examination Timetable</a>
+</p>
 </td>
 </tr>
 </tbody>
