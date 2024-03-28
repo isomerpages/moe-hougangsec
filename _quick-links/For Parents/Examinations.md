@@ -81,7 +81,7 @@ to the attachment for the details. Thank you.</p>
 <p>24 April 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/HS_2024_059__MTL__MTLB_Preliminary_Exam_1.pdf" rel="noopener noreferrer nofollow" target="_blank">MTL/MTLB Preliminary Examination Timetable</a>
+<p><a href="/files/Parents/HS_2024_059__MTL___MTLB_Preliminary_Exam_2.pdf" rel="noopener noreferrer nofollow" target="_blank">HS-2024-059  MTL - MTLB Preliminary Exam</a>
 </p>
 </td>
 </tr>
