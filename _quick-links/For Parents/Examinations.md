@@ -75,7 +75,7 @@ to the attachment for the details. Thank you.</p>
 <p>MTL/MTLB Preliminary Examination Timetable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Secondary 4 Express, Sec 4 &amp; 5 Normal (Academic)</p>
+<p>Secondary 4 Express, Secondary 4 &amp; 5 Normal (Academic)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24 April 2024</p>
