@@ -401,7 +401,7 @@ slip.</p>
 towards authority which is classified as a major offence in the school.</p>
 </li>
 </ul>
-<p><strong>Responsibilities in using Personal Learning Devices (PLDs) in HS</strong>
+<p><strong>Responsibilities in using Personal Learning Devices (PLDs) in HS</strong> 
 <br><strong>General</strong>
 </p>
 <ul data-tight="true" class="tight">
