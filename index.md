@@ -23,6 +23,6 @@ sections:
   - infobar:
       subtitle: Latest News
       url: https://www.hougangsec.moe.edu.sg/camp-montage-2024/
-      button: Click here to view themontages
+      button: Click here to view
       title: Camp Video Montages 2024
 ---
