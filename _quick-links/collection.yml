@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Secondary One Registration.md
       - HBL SIL/.keep
       - HBL SIL/HBL–SIL.md
       - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
