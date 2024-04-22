@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p>Dear Hougeans,</p>
+<p>Dear Hougeans/Parents,</p>
 <p>Please download the Weighted Assessment Format of your level.&nbsp;</p>
 <table>
 <tbody>
