@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Vice Principal Meets Parent For Secondary 2.md
       - Vice Principal Meets Parents For Secondary 3.md
       - Principal Meets Parents For Secondary 4 and 5.md
       - Secondary One Registration.md
