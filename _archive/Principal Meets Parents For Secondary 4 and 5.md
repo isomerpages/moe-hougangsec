@@ -3,7 +3,6 @@ title: Principal Meets Parents For Secondary 4 and 5
 permalink: /quick-links/for-parents/pmp45/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
 ---
 <p>Dear parents/guardians,</p>
 <p>Below, are the slides that were presented to you during the PMP for Sec

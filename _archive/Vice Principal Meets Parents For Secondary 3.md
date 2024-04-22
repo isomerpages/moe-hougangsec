@@ -3,7 +3,6 @@ title: Vice Principal Meets Parents For Secondary 3
 permalink: /quick-links/for-parents/sec3pmp/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
 ---
 <p>Dear parents/guardians,</p>
 <p>Below, are the slide that were presented to you during the PMP for Sec
