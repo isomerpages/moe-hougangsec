@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Direct School Admission 2024.md
       - HBL SIL/.keep
       - HBL SIL/HBL–SIL.md
       - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
