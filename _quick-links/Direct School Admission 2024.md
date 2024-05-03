@@ -165,18 +165,19 @@ international/national competitions, or school/public performances</p>
 <li>
 <p>Possesses basic knowledge and competency in dance</p>
 </li>
-</ul>
+<li>
 <p>Participated in Singapore Youth Festival (SYF) Arts Presentations/other
 international/national competitions, or school/public performances</p>
+</li>
+</ul>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
+</div>
+<p>
+<br>
+<br>
+</p>
 <p></p>
-</div>
-</details>
-</div>
 <p></p>
 <h4>SPORTS AND GAMES</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
