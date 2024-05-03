@@ -173,7 +173,7 @@ international/national competitions, or school/public performances</p>
 </div>
 </details>
 </div>
-<h4><br>SPORTS AND GAMES</h4>
+<h4>SPORTS AND GAMES</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Football (Boys)</strong>
