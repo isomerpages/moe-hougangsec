@@ -287,9 +287,7 @@ amongst peers (e.g. Prefect, Class Monitor, CCA Leader, Peer Support Leader)</p>
 </div>
 </details>
 </div>
-<p>&nbsp;</p>
-<h3>APPLICATION PROCESS</h3>
-<p></p>
+<h3>&nbsp;APPLICATION PROCESS</h3>
 <p></p>
 <h3>IMPORTANT DATES</h3>
 <p></p>
