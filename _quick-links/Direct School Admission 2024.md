@@ -487,14 +487,25 @@ fitness, floorball specific skills and leadership qualities.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Leadership (Boys &amp; Girls)</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Students can look forward to a variety of leadership opportunities to
+exercise self-leadership and team leadership. All students will undergo
+the Community Youth Leadership modules which are a key component of the
+school’s Learning for Life Programme (LLP). Students will also be given
+opportunities to exercise team leadership in their class committees, CCAs,
+VIA, as well as opportunities to impact positive change at a broader level
+as a Student Councillor or Peer Support Leader. Students will also participate
+in customised leadership training programmes to hone their leadership skills
+and competencies based on the Leadership Challenge Model.</p>
 </div>
 </details>
 </div>
 <h3>CONTACT US</h3>
-<p></p>
+<p>For further clarification, you may contact the following staff:
+<br>Mdm Jolin <a rel="noopener noreferrer nofollow" target="_blank">Chang<br>jolin_chang@schools.gov.sg</a>
+<br>Tel. No: 6385-1990</p>
 <p></p>
 <p></p>
 <p></p>
