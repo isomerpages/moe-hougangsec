@@ -181,7 +181,7 @@ international/national competitions, or school/public performances</p>
 <h3>SPORTS AND GAMES</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Sports and Games – Football (Boys)</strong>
+<summary><strong>Football (Boys)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Criteria:</p>
@@ -197,7 +197,7 @@ competitions</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Sports and Games – Netball (Girls)</strong>
+<summary><strong>Netball (Girls)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
