@@ -247,11 +247,6 @@ competitions</p>
 </div>
 </details>
 </div>
-<p>
-<br>
-<br>
-<br>
-</p>
 <p></p>
 <h4>LANGUAGE AND HUMANITIES</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
@@ -275,9 +270,28 @@ competitions</p>
 </div>
 <p></p>
 <h4>LEADERSHIP AND UNIFORMED GROUPS</h4>
-<p>
-<br>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Leadership (Boys &amp; Girls)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates good role model behaviour anchored on sound values</p>
+</li>
+<li>
+<p>Possesses leadership qualities and the ability to positively influence
+their peers</p>
+</li>
+<li>
+<p>Preferably has experience as an appointed student leader impacting change
+amongst peers (e.g. Prefect, Class Monitor, CCA Leader, Peer Support Leader)</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <p>&nbsp;</p>
 <h3>APPLICATION PROCESS</h3>
 <p></p>
