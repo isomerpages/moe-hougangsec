@@ -171,7 +171,7 @@ international/national competitions, or school/public performances</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Language and Humanities – Debating (Boys &amp; Girls)</strong>&nbsp;</summary>
+<summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
@@ -200,7 +200,15 @@ competitions</p>
 <summary><strong>Netball (Girls)</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates interest in and possesses technical knowledge of Netball</p>
+</li>
+<li>
+<p>Preferably participated in National School Games (NSG)/other Netball competitions</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
