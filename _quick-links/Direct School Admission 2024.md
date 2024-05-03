@@ -426,6 +426,67 @@ mentor peers.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>Debating (Boys &amp; Girls)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students can look forward to training sessions on voice projection and
+building up stage presence, as well as taking part in identified national
+competitions. These national debate competitions give opportunities to
+students to hone their debating skills.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Football (Boys)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students can look forward to opportunities such as conditioning of skills,
+participation in National School Games and other competitions. To further
+hone the skills of these students, they will also be given position-specific
+coaching (e.g., goalkeeper, strikers) from specialist coaches. In addition,
+students can look forward to Futsal-specific training and competitions
+too. Opportunities are available for students to serve in various leadership
+capacities.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Netball (Girls)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students can look forward to cultivating a deeper understanding and appreciation
+of Netball and sports safety. Their ball skills will be honed, and they
+can participate in strategic play through training as well as game experience
+at both friendly and competitive levels. In addition to fostering strong
+friendships and developing good sportsmanship and teamwork, there will
+also be opportunities available for students to serve in various leadership
+roles.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Judo (Boys &amp; Girls)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students can look forward to undergoing more targeted training to fine-tune
+their techniques and strengthen their physical condition. In addition,
+they will undergo training in basic Sports Psychology and Nutrition to
+help bring their performance to the next level. They will be exposed to
+higher-level competitions and combined training with other established
+Judo schools. Opportunities will also be available for students to serve
+in various leadership capacities.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Floorball (Boys &amp; Girls)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students can look forward to an exciting array of experiences and opportunities
+for growth in our Floorball CCA. They can anticipate engaging in a dynamic
+team sport that fosters camaraderie and teamwork. Through regular training
+sessions, friendly matches, CCA-VIA, Sports Education Programme, external
+competitions, students are given ample opportunities to develop their physical
+fitness, floorball specific skills and leadership qualities.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
