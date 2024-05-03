@@ -287,7 +287,7 @@ amongst peers (e.g. Prefect, Class Monitor, CCA Leader, Peer Support Leader)</p>
 </div>
 </details>
 </div>
-<h3>&nbsp;APPLICATION PROCESS</h3>
+<h3>APPLICATION PROCESS</h3>
 <p>Application for DSA–Sec can be submitted through the online DSA-Sec Portal.
 The application is free-of-charge and will be open from <strong>7 May 2024, 11am to 3 Jun 2024, 3pm.</strong> For
 more details, please refer to MOE website -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
