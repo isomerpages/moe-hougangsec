@@ -178,7 +178,7 @@ international/national competitions, or school/public performances</p>
 </details>
 </div>
 <p></p>
-<h3>SPORTS AND GAMES</h3>
+<h4>SPORTS AND GAMES</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Football (Boys)</strong>
@@ -217,7 +217,7 @@ competitions</p>
 </details>
 </div>
 <p></p>
-<h3>LANGUAGE AND HUMANITIES</h3>
+<h4>LANGUAGE AND HUMANITIES</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Debating (Boys &amp; Girls)</strong>&nbsp;</summary>
@@ -238,7 +238,7 @@ competitions</p>
 </details>
 </div>
 <p></p>
-<h3>LEADERSHIP AND UNIFORMED GROUPS</h3>
+<h4>LEADERSHIP AND UNIFORMED GROUPS</h4>
 <p>
 <br>
 </p>
