@@ -315,11 +315,9 @@ related to the talent they are selected for from Secondary 1 to 4.</p>
 </p>
 <p>Application opens and all applicants will apply through the following
 centralised DSA-Sec Portal:&nbsp;<em><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/dsa-sec-application</a></em>.</p>
-<p>&nbsp;</p>
-<p><em>*If you are a student studying in an MOE mainstream primary school, you may login to the DSA</em>-<em>Sec portal to apply via a parent’s Singpass. Parents/guardians who are unable to apply online can approach your child’s/ward’s primary school for assistance.</em>
+<p>&nbsp;<em>*If you are a student studying in an MOE mainstream primary school, you may login to the DSA</em>-<em>Sec portal to apply via a parent’s Singpass. Parents/guardians who are unable to apply online can approach your child’s/ward’s primary school for assistance.</em>
 </p>
-<p>&nbsp;</p>
-<p><em>* For&nbsp;Non</em>-<em>mainstream school students:</em>
+<p>&nbsp;<em>* For&nbsp;Non</em>-<em>mainstream school students:</em>
 </p>
 <p><em>Parents should apply online for a Registration Number to access the DSA</em>-<em>Sec Portal. You may refer to MOE website at:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a></em>
 </p>
