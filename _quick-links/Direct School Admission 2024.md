@@ -211,19 +211,47 @@ competitions</p>
 </ul>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Judo (Boys &amp; Girls)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates interest in Martial Arts, technical knowledge of Judo is
+preferred</p>
+</li>
+<li>
+<p>Preferably participated in other Judo competitions</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Floorball (Boys &amp; Girls)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates drive and desire to perform at one’s best</p>
+</li>
+<li>
+<p>Possesses sound technical knowledge and skills in Floorball</p>
+</li>
+<li>
+<p>Preferably participated in National School Games (NSG)/other Floorball
+competitions</p>
+</li>
+</ul>
+</div>
+</details>
 </div>
 <p>
 <br>
 <br>
+<br>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p></p>
 <h4>LANGUAGE AND HUMANITIES</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
