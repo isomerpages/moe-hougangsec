@@ -139,7 +139,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Combined Sciences (Choose 1 )</u>
+<p><u>Combined Sciences (Choose 1 )</u> 
 <br>
 <br>Chemistry / Biology
 <br>Chemistry / Physics (<strong><a href="https://youtu.be/5s1rQN2d5OY" rel="noopener noreferrer" target="_blank">Click to view Phy/Bio presentation</a></strong>)</p>
@@ -150,7 +150,7 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Humanities (Choose 1 )</u>
+<p><u>Humanities (Choose 1 )</u> 
 <br>
 <br>Social Studies &amp; Geography (<strong><a href="https://youtu.be/J_RVKZRJ7ak" rel="noopener noreferrer" target="_blank">Click to view Geog presentation</a></strong>)
 <br>Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel="noopener noreferrer" target="_blank">Click to view Hist presentation</a></strong>)
@@ -162,7 +162,7 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Elective (Non-coursework/coursework*) (Choose 1 )</u>
+<p><u>Elective (Non-coursework/coursework*) (Choose 1 )</u> 
 <br>
 <br>Additional Mathematics (<strong><a href="https://youtu.be/cjwCx9aR3iI" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)
 <br>Principles of Accounts (<strong><a href="https://youtu.be/-ySxvP1Lq8o" rel="noopener noreferrer nofollow" target="_blank"><u>Click to view presentation</u></a></strong>)
@@ -231,7 +231,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Humanities (Choose 1 )</u>
+<p><u>Humanities (Choose 1 )</u> 
 <br>
 <br>Social Studies &amp; Geography (<strong><a href="https://youtu.be/J_RVKZRJ7ak" rel="noopener noreferrer" target="_blank">Click to view Geog presentation</a></strong>)
 Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel="noopener noreferrer" target="_blank">Click to view Hist presentation</a></strong>)</p>
@@ -242,7 +242,7 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Elective (Non-coursework/coursework*) (Choose 1)</u>
+<p><u>Elective (Non-coursework/coursework*) (Choose 1)</u> 
 <br>
 <br>Principles of Accounts (<strong><a href="https://youtu.be/-ySxvP1Lq8o" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)
 <br>English Literature
@@ -253,7 +253,7 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 </tr>
 </tbody>
 </table>
-<p><em>*coursework subjects</em>
+<p><em>*coursework subjects</em> 
 <br><em>** out of stream subjects at Express</em>
 </p>
 <p><strong>Secondary Three Normal Technical</strong>
@@ -309,7 +309,7 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Elective 1 (Choose 1)</u>
+<p><u>Elective 1 (Choose 1)</u> 
 <br>
 <br>Science (<strong><a href="https://youtu.be/URPlCea7Igs" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)
 <br>Elements of Business Skills (<strong><a href="https://youtu.be/kC0WhwN_L8Q" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)</p>
@@ -320,7 +320,7 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Elective (Non-coursework/coursework*) (Choose 1)</u>
+<p><u>Elective (Non-coursework/coursework*) (Choose 1)</u> 
 <br>
 <br>Art* (<strong><a href="https://youtu.be/Bq16EV2d-8M" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)
 <br>Design and Technology* (<strong><a href="https://youtu.be/AkSUSbh3J8I" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)
@@ -331,7 +331,7 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 </tr>
 </tbody>
 </table>
-<p><em>*coursework subjects</em>
+<p><em>*coursework subjects</em> 
 <br><em>** out of stream subjects at Normal Academic</em>
 </p>
 <p><em>Please view briefing slides for the criteria and more information on the subjects offered.</em>
