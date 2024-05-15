@@ -192,7 +192,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English**</p>
+<p>English</p>
 </td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mother Tongue** (Chinese/Malay/Tamil/Others)</p>
+<p>Mother Tongue (Chinese/Malay/Tamil/Others)</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mathematics**</p>
+<p>Mathematics</p>
 </td>
 </tr>
 <tr>
