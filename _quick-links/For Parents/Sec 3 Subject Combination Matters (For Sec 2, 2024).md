@@ -163,7 +163,7 @@ variant: tiptap
 <br>Art* (<strong><a href="https://youtu.be/P_tsJXXebqQ" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)
 <br>Design and Technology* (<strong><a href="https://youtu.be/scZkG75IGbA" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)
 <br>Nutrition and Food Science* (<strong><a href="https://youtu.be/hMFULmxcPzo" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)
-<br>Computing (New) <strong><a href="https://youtu.be/ot7stZ9MLd0" rel="noopener noreferrer" target="_blank">(Click to view presentation)</a></strong>
+<br>Computing <strong><a href="https://youtu.be/ot7stZ9MLd0" rel="noopener noreferrer" target="_blank">(Click to view presentation)</a></strong>
 </p>
 </td>
 </tr>
@@ -227,7 +227,7 @@ variant: tiptap
 <p><u>Humanities (Choose 1 )</u> 
 <br>
 <br>Social Studies &amp; Geography (<strong><a href="https://youtu.be/J_RVKZRJ7ak" rel="noopener noreferrer" target="_blank">Click to view Geog presentation</a></strong>)
-Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel="noopener noreferrer" target="_blank">Click to view Hist presentation</a></strong>)</p>
+<br>Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel="noopener noreferrer" target="_blank">Click to view Hist presentation</a></strong>)</p>
 </td>
 </tr>
 <tr>
