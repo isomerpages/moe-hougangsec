@@ -5,7 +5,7 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<p><strong>Parent engagement on subject combination for 3 Express and 3 Normal Academic / Normal Technical.</strong>
+<p><strong>Parent engagement on the subject combination for 3 Express and 3 Normal Academic / Normal Technical.</strong>
 </p>
 <p><strong>Secondary Three Express (Pure Science)</strong>
 </p>
