@@ -81,7 +81,8 @@ variant: tiptap
 <p>Humanities (Choose 1 )
 <br>Social Studies &amp; Geography (<strong><a href="https://youtu.be/J_RVKZRJ7ak" rel="noopener noreferrer nofollow" target="_blank"><u>Click to view Geog presentation</u></a></strong>)
 <br>Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel="noopener noreferrer nofollow" target="_blank"><u>Click to view Hist presentation</u></a></strong>)
-<br>Social Studies &amp; Malay Literature (<strong><a href="https://youtu.be/gIgQ105SnEQ" rel="noopener noreferrer nofollow" target="_blank"><u>Click to view ML Lit presentation</u></a></strong>)</p>
+<br>
+</p>
 </td>
 </tr>
 </tbody>
