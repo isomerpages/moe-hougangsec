@@ -247,7 +247,7 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 </tbody>
 </table>
 <p><em>*coursework subjects</em> 
-<br><em>** out of stream subjects at Express</em>
+<br>
 </p>
 <p><strong>Secondary Three Normal Technical</strong>
 </p>
@@ -270,7 +270,7 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>English**</p>
+<p>English</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +278,7 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basic Mother Tongue** (Chinese/Malay/Tamil/Others)</p>
+<p>Basic Mother Tongue (Chinese/Malay/Tamil/Others)</p>
 </td>
 </tr>
 <tr>
@@ -286,7 +286,7 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mathematics**</p>
+<p>Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -302,10 +302,7 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>Elective 1 (Choose 1)</u> 
-<br>
-<br>Science (<strong><a href="https://youtu.be/URPlCea7Igs" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)
-<br>Elements of Business Skills (<strong><a href="https://youtu.be/kC0WhwN_L8Q" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)</p>
+<p>Science (<strong><a href="https://youtu.be/URPlCea7Igs" rel="noopener noreferrer" target="_blank">Click to view presentation</a></strong>)</p>
 </td>
 </tr>
 <tr>
@@ -325,19 +322,12 @@ Social Studies &amp; History (<strong><a href="https://youtu.be/iDeDHlWEZ7E" rel
 </tbody>
 </table>
 <p><em>*coursework subjects</em> 
-<br><em>** out of stream subjects at Normal Academic</em>
+<br>
 </p>
 <p><em>Please view briefing slides for the criteria and more information on the subjects offered.</em>
 </p>
 <h3>Briefing Slides</h3>
-<p><a href="/files/Subject%20Combination/main%20brief.pdf" rel="noopener noreferrer nofollow" target="_blank">Main Briefing</a>
-</p>
-<p><a href="/files/Subject%20Combination/parents%20briefing%20(exp).pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Briefing (Express)</a>
-</p>
-<p><a href="/files/Subject%20Combination/parents%20briefing%20(na).pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Briefing (Normal Academic)</a>
-</p>
-<p><a href="/files/Subject%20Combination/parents%20briefing%20(nt).pdf" rel="noopener noreferrer nofollow" target="_blank">Parents Briefing (Normal Technical)</a>
-</p>
+<p></p>
 <h3>Frequently Asked Questions (FAQ)</h3>
 <p><strong>General Questions</strong>
 </p>
