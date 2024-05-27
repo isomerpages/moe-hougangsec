@@ -327,6 +327,14 @@ variant: tiptap
 <p><em>Please view briefing slides for the criteria and more information on the subjects offered.</em>
 </p>
 <h3>Briefing Slides</h3>
-<p>To be updated after the briefing</p>
+<p><a href="/files/Parents/For_Sec_2_Express_Stream_Students_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Express Stream Students 2024</a>
+</p>
+<p><a href="/files/Parents/For_Sec_2_Normal_Academic_Stream_Students_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic Stream Students 2024</a>
+</p>
+<p><a href="/files/Parents/For_Sec_2_Normal_Technical_Stream_Students_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Technical Stream Students 2024</a>
+</p>
+<p></p>
 <h3>Frequently Asked Questions (FAQ)</h3>
-<p>To be updated after the briefing</p>
+<p><a href="/files/Parents/FAQ_for_Secondary_Two_Subject_Combination_Briefing_for_Parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ on Subject Combination Briefing for Parents</a>
+</p>
+<p></p>
