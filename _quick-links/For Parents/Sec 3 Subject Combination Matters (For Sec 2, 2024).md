@@ -335,6 +335,6 @@ variant: tiptap
 </p>
 <p></p>
 <h3>Frequently Asked Questions (FAQ)</h3>
-<p><a href="/files/Parents/FAQ_for_Secondary_Two_Subject_Combination_Briefing_for_Parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Combination Briefing for Parents</a>
+<p><a href="/files/Parents/FAQ_for_Secondary_Two_Subject_Combination_Briefing_for_Parents_.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ on Subject Combination Briefing for Parents</a>
 </p>
 <p></p>
