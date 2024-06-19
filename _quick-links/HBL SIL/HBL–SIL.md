@@ -10,7 +10,7 @@ variant: markdown
 
 In 2024, the Home-Based Learning (HBL) schedule is as follows:
 
-**Term 1 **
+**Term 1**
 
 29 January, Monday (Secondary 4 and 5 only)
 
@@ -35,6 +35,8 @@ In 2024, the Home-Based Learning (HBL) schedule is as follows:
 10 July, Wednesday
 
 23, 24, 25 July, Tuesday, Wednesday, Thursday
+
+5 August, Monday
 
 
 HBL will be in the form of asynchronous learning. Your child/ward will learn based on their own schedule by accessing and completing lessons prepared by his/her subject teachers. Students who need a more conducive environment to learn are requested to inform their Character Coaches. Arrangements will be made for these students to return to school on HBL Days.  
