@@ -3,11 +3,41 @@ title: HBL–SIL
 permalink: /quick-links/HBL-SIL/hbl-sil/
 description: ""
 third_nav_title: HBL SIL
+variant: markdown
 ---
 #### Home-Based Learning and Student-Initiated Learning (HBL-SIL)
 
 
-Home-Based Learning (HBL) on every even Wednesday, will commence from Term 1 Week 2 (12 January) onwards for all levels. HBL will be in the form of asynchronous learning. Your child/ward will learn based on their own schedule by accessing and completing lessons prepared by his/her subject teachers. Students who need a more conducive environment to learn are requested to inform their Character Coaches. Arrangements will be made for these students to return to school on HBL Days.  
+In 2024, the Home-Based Learning (HBL) schedule is as follows:
+
+**Term 1 **
+
+29 January, Monday (Secondary 4 and 5 only)
+
+14 February, Wednesday 
+
+29 February, Thursday
+
+**Term 2**
+
+20 March, Wednesday
+
+4 April, Thursday
+
+15 April, Monday
+
+16 May, Thursday
+
+**Term 3 (Sec 1, 2 and 3 only)**
+
+24 June, Monday
+
+10 July, Wednesday
+
+23, 24, 25 July, Tuesday, Wednesday, Thursday
+
+
+HBL will be in the form of asynchronous learning. Your child/ward will learn based on their own schedule by accessing and completing lessons prepared by his/her subject teachers. Students who need a more conducive environment to learn are requested to inform their Character Coaches. Arrangements will be made for these students to return to school on HBL Days.  
 
 On HBL days, an hour is set aside for your child/ward for Student-Initiated Learning (SIL). Students are to use this time to explore an area of interest by&nbsp;initiating learning activities on their own. For example, students can try out hands-on activities on topics that they are passionate about, such as tinkering, baking or playing a musical instrument.
 
