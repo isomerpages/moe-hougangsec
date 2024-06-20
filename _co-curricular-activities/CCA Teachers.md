@@ -5,7 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h4>CCA Teachers</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -42,10 +48,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vince Ding Jen Han</p>
+<p>Ms Wang Qingzhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ding_jen_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ding_jen_han@moe.edu.sg</u></a>
+<p><a href="mailto:wang_qingzhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_qingzhen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
