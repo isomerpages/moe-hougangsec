@@ -77,14 +77,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liang Qidi</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">liang_qidi@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Leo Sing Ann</p>
 <p><a href="mailto:leo_sing_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leo_sing_ann@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -97,8 +95,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Lip Seng</p>
-<p><a href="mailto:teo_lip_seng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_lip_seng@moe.edu.sg</a>
+<p>Mr. Marcus Aw Yu Kian</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">marcus_aw_yu_kian_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
