@@ -250,8 +250,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Sapiya Bte Mohd Sumri</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_sapiya_mohamad_sumr@moe.edu.sg</a>
+<p>Ms Tan Kai Ting Caroline</p>
+<p><a href="mailto:tan_kai_ting_caroline_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kai_ting_caroline_b@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
