@@ -456,8 +456,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Jasmine Low Wee Kie</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_wee_kie_jasmine@moe.edu.sg</a>
+<p>Mdm Fazillah Binte Mohamed Ismail</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">fazillah_mohd_ismail@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -612,9 +612,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Marcus Aw Yu Kian</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">marcus_aw_yu_kian_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -730,17 +728,15 @@ variant: tiptap
 <p>5A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Fazillah Binte Mohamed Ismail</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">fazillah_mohd_ismail@moe.edu.sg</a>
+<p>Mr Mohamed Hairi Bin Nor Azmi</p>
+<p><a href="mailto:mohamed_hairi_nor_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_hairi_nor_azmi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Hairi Bin Nor Azmi</p>
-<p><a href="mailto:mohamed_hairi_nor_azmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_hairi_nor_azmi@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
