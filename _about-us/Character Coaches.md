@@ -59,14 +59,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vince Ding</p>
-<p><a href="mailto:ding_jen_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ding_jen_han@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Daniel Chong Jun Zheng</p>
 <p><a href="mailto:daniel_chong_jun_zheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">daniel_chong_jun_zheng@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
