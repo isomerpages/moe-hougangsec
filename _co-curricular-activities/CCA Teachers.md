@@ -32,7 +32,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="20" colspan="1">
+<td rowspan="18" colspan="1">
 <p>Physical Sports</p>
 </td>
 <td rowspan="3" colspan="1">
@@ -134,7 +134,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Judo (Boys and Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -156,15 +156,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Low Wee Kie Jasmine&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">low_wee_kie_jasmine@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Jazreel Toh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +164,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Netball (Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -190,15 +181,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ezra_toh_ren_yi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Siti Sapiya Bte Mohd Sumri&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_sapiya_mohamad_sumr@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -407,10 +389,10 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="20" colspan="1">
+<td rowspan="18" colspan="1">
 <p>Visual and Peforming Arts</p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Angklung/Kulintang and Gamelan Ensemble (Boys and Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -432,15 +414,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liang Qi Di&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">liang_qidi@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Daniel Chong Jun Zheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -449,7 +422,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>Choir (Boys and Girls)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -466,15 +439,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">teo_hui_en_rachel@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Minnoli C.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">c_minnoli@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -522,7 +486,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jessica Heng Yee Pei</p>
+<p>Jessica Heng Yee Pei (Covering OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">heng_yee_pei@moe.edu.sg</a>
