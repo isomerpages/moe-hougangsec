@@ -5,7 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h3>Secondary 1</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -190,7 +196,13 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Secondary 2</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -372,7 +384,13 @@ variant: tiptap
 </table>
 <h3>Secondary 3</h3>
 <p>&nbsp;</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -553,7 +571,13 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Secondary 4 and 5</h3>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
