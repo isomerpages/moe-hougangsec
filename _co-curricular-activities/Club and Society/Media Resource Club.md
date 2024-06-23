@@ -23,12 +23,6 @@ To contribute with pride, learn and master skills with open mind.
 
 Teamwork; Passion; Courage; Resilience.
 
-### Teachers in-charge
-
-*   Mr Ng Wee Chung (OIC)
-*   Ms Gomathi Gunaseelan
-*   Ms Joyce Lee
-
 ### Leadership Structure
 *   **President**: Miko (S3-G)
 *   **Vice-President**: Grandon (S3-H)
