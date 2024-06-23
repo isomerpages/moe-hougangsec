@@ -55,12 +55,6 @@ Make the Difference
 </tbody>
 </table>
 
-### Teachers In-Charge
-
-* Ms Joanne Toh Chui Theng (OIC)
-* Ms Jessica Heng Yee Pei
-* Yu Hong Hong
-
 
 ### Training Details
 
