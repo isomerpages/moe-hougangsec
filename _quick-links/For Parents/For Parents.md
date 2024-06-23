@@ -5,7 +5,12 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -137,7 +142,7 @@ candidates will be notified.&nbsp;
 <p><a href="/files/HS_Handbook_2024_caa17Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook (17 Apr 2024)</a>
 </p>
 <h3>Timetable 2024</h3>
-<p><a href="/files/Students/Class_Timetable_2024_Sem_1_caa_13Jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024 Sem 1 caa 13 Jan 2024.pdf</a>
+<p><a href="/files/2024_Sem_2_Class_Timetable__20_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024 Sem 2 caa 20 June</a>
 </p>
 <h3>GREAT Start Week For Sec 1 to Sec 5</h3>
 <p><a href="/files/Parents/GREAT_START_WEEK_2024__2_4Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">GREAT Start Week Timetable</a>
