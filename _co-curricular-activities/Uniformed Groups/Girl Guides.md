@@ -43,11 +43,6 @@ To enable girls and young women to develop their fullest potential as responsibl
 **Patrol Second**: Alexia Ho Si Ying (2U)
 
 
-### Teachers In-Charge
-*   Ms Siti Nurhizah (OIC)
-*   Ms Uma Magheswary D/O Pandyan
-*   Ms Jane Koh Bao Ru
-
 ### Programmes
 The Five-Point Programme forms the foundation for Guiding in Singapore. Girls develop valuable leadership and life skills in five areas: Personal &amp; Social Development, Outdoors, Home, Community and International.
 
