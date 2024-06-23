@@ -54,21 +54,6 @@ to one’s soul, uplifting one’s spirit! For truly, the joy of music is real.<
 <br>• Certificate of Distinction (2023)
 <br>• Certificate of Distinction (2021)
 <br>• Certificate of Accomplishments (2019)</p>
-<h3>Teachers In-Charge</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mdm Fazillah Mohd Ismail ( (OIC)</p>
-</li>
-<li>
-<p>Miss Siti Nurbaya Binte Rameh</p>
-</li>
-<li>
-<p>Ms Liang Qi Di</p>
-</li>
-<li>
-<p>Mr Daniel Chong Jun Zheng</p>
-</li>
-</ul>
 <h3>Training Venue and Days</h3>
 <p><strong>Day:</strong>&nbsp;Tuesday &amp; Friday
 <br><strong>Time:</strong>&nbsp;3.00 pm - 5.30 pm (Tue) / 2.15 pm - 5.15 pm

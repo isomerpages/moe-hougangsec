@@ -43,13 +43,6 @@ Friday: 2.30pm – 4.30pm (Boys)
 •	‘B’ Division National School Games (Floorball)  
 •	‘C’ Division National School Games (Floorball)
 
-### Teachers In-charge
-•	Mdm zafiirah B Mohd Hakim (OIC)  
-•	Mr Muhammad Irwan Bin Jamal  
-•	Mr Daniel Tan Chin Juay  
-•	Mr Vicknesh S/O Kunnasekaran  
-
-
 
 ### OUR LEADERS  
 

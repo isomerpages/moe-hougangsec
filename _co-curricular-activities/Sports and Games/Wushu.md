@@ -84,11 +84,6 @@ No Pain. No Gain
 *   **Captain**: Xanthe Tay (2E4)
 *   **Vice-Captain:**&nbsp;Jazreel Low (2A2)
 
-### Teachers in-charge
-*   Mr Ronnie Yeo (OIC)
-*   Mdm Vanessa Ng
-*   Ms Chua Wen Min Audrey
-
 ### Training Venue and Days
 
 **Day:**&nbsp;Tuesday &amp; Friday   

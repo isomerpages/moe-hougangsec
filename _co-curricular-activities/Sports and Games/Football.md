@@ -67,12 +67,6 @@ Serve with dedication
 
 **VIA Leaders**: Ng Yu Wen, Idraki Rafdi Bin Mohamad Arzad 
 
-### Teachers in-charge
-
-*   Mr Anwarul (OIC)     
-*   Mr Muhd Hashim  
-*   Mr Ang Ruixiang 
-
 
 Coach: Mr Nor Azli, Geylang International FC  
 Asst Coach: Mr Azlan Alipah, Geylang International FC  

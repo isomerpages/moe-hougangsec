@@ -41,13 +41,12 @@ To nurture Youth, based on sound values, to lead and serve
 
   
 
-### Officers and Teachers In-Charge
+### Officers-In-Charge
 
 *   LTA Jeremy Wong (Captain)
 *   2LT Victor Chan (Vice-Captain)
 *   LTA Jonathan Pek (Officer mentor)
-*   Mr Andy Chong (Teacher OIC)
-*   Mr Ho Wee Khong (Teacher Officer)
+
 
 
 ### Leadership Structure

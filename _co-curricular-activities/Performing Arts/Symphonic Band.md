@@ -3,6 +3,7 @@ title: Symphonic Band
 permalink: /co-curricular-activities/Performing-Arts/symphonic-band/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 <center><iframe width="830" height="315" src="https://www.youtube.com/embed/oOMyMgO2QE8" title="2022 Symphonic Band Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
 
@@ -59,13 +60,7 @@ Percussion - Jean Haw (S3-H)
 **Singapore Youth Festival:**
 * Certificate of Accomplishment (2021)  
 * Certificate of Accomplishment (2019)  
-&nbsp;
-
-
-### Teachers In-Charge
-* Mr Lee Heng Han (OIC)  
-* Ms Serina Tan  
-* Ms Phang Shi Hui  
+&nbsp;  
  
 
 ### Training Venue and Days
