@@ -57,12 +57,7 @@ To raise up young leaders who are dedicated to protecting human life and dignity
 *   e-Overseas InnoVIAtion 2022 - Collaboration with schools from other countries
 *   HQ-initiated VIA – Smoke-Free Ambassador Campaign
 
-### Teacher In-Charge
-*   Ms Phua Li Xian (OIC)
-*   Ms Ho Ying Yee
-*   Ms Raidah Binte Moktar
-
-  
+ 
 
 ### Training Venue and Days
 **Day**: Tuesday and Friday  
