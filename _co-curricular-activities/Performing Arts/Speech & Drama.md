@@ -99,9 +99,8 @@ Public Library (2015)</p>
 <br>Upper Sec Head: Bryan Ong Meng Fong
 <br>Lower Sec Head: Herlyna Marsyanda
 <br>VIA Leader: Tan Yi Shan Caitlin</p>
-<h3>Teachers In-Charge</h3>
-<p>Please refer to this URL <a href="https://www.hougangsec.moe.edu.sg/co-curricular-activities/cca-trs/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong>Instructor:</strong> Ms Rossalina Nasir</p>
+<h3>Instructor</h3>
+<p>Ms Rossalina Nasir</p>
 <h3>Training Venue and Days</h3>
 <p><strong>Day</strong>: Tuesday &amp; Friday
 <br><strong>Time</strong>: 3.15 pm - 5.15&nbsp; pm (Tue) / 2.00 pm - 4.30
