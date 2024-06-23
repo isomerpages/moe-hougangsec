@@ -217,11 +217,6 @@ Respect all, fear none
 
 SJF -Student Judo Foundation
 
-### Teachers In-Charge
-*   Mr Rio Elijah Chua Ghee Hian (OIC)
-*   Miss Wee Swee Kee
-*   Ms Low Wee Kie Jasmine
-*   Ms Toh Hui Khee Jazreel
 
 **Coach**: Lin Yu Sheng
 
