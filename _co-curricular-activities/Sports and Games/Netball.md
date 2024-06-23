@@ -28,11 +28,6 @@ Look up, Get up but Never Give up
 *   Sports Education Programme&nbsp;
 
 
-### Teachers In-Charge
-*   Mdm Amalina Abdul Samad (OIC)
-*   Mr Ezra Toh
-*   Mdm Siti Sapiya Bte Mohd Sumri
-
 ### Coach
 Chow Chon Tee
 
