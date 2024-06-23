@@ -152,8 +152,7 @@ variant: tiptap
 <p><a href="/files/HS_Handbook_2024_caa17Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook (17 Apr 2024)</a>
 </p>
 <h3>Timetable 2024</h3>
-<p><a href="/files/Students/Class_Timetable_2024_Sem_1_caa_13Jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024</a>
-<a href="/files/2024_Sem_2_Class_Timetable__20_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/Students/Class_Timetable_2024_Sem_1_caa_13Jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank"> Sem 2 caa 20 June</a>
+<p><a href="/files/Students/Class_Timetable_2024_Sem_1_caa_13Jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024 Sem 2 caa 20 June</a>
 </p>
 <p></p>
 <h3>HS ICT Helpdesk Form</h3>
