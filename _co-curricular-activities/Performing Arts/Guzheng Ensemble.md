@@ -45,7 +45,12 @@ variant: tiptap
 </li>
 </ul>
 <h3>CCA Leadership Structure</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -115,18 +120,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Teachers In-Charge</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mrs Goh Lay Hoon (OIC)</p>
-</li>
-<li>
-<p>Ms Kitty Tan</p>
-</li>
-<li>
-<p>Mr Leo Sing Ann</p>
-</li>
-</ul>
 <h3>Training Venue and Days</h3>
 <p>Training Days: Tuesday &amp; Friday
 <br>Training Times: 3.15 pm - 5.45 pm (Tue) / 1.15 pm – 4.45 pm (Fri)
