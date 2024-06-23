@@ -21,11 +21,6 @@ Share the joy with others through our voices, appreciate music and strive for ex
 
 Once a Solo, Now a Harmony.
 
-### Teachers In-Charge
-
-* Ms Nur Nadzirah Binte Abdul Halim Kadri (OIC)
-* Mrs Rachel Chan
-* Ms Minnoli C
 
 ### CCA Leadership Structure
 
