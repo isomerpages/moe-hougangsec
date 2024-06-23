@@ -133,10 +133,6 @@ Company Sergeant Major, Assistant Company Sergeant Major, Squad leader, Assistan
 
 Private – Lance Corporal – Corporal – Sergeant – Staff Sergeant – Master Sergeant
 
-### Teachers In Charge
-
-* Ms Rachel Yong Lai Kuan (OIC)
-* Mdm Tan Chan Jong
 
 ### Training Venue and Days
 
