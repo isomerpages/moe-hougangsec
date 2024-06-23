@@ -90,21 +90,6 @@ keep Singapore safe.</p>
 <p>First Aid Course</p>
 </li>
 </ul>
-<h3>Teachers In-Charge</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Ms Tan Wei Jing (OIC)</p>
-</li>
-<li>
-<p>Mr Kervin Tang Cheok Yean</p>
-</li>
-<li>
-<p>Ms Nur Adilah</p>
-</li>
-<li>
-<p>Mohamed Hairi Bin Nor Azmi</p>
-</li>
-</ul>
 <h3>Training Venue and Days</h3>
 <p><strong>Day</strong>: Tuesday &amp; Friday
 <br><strong>Time</strong>: 3.15 pm - 5.30 pm (Tue) / 2.00 pm - 5.30 pm (Fri)
