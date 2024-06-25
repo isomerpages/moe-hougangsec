@@ -5,4 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<p></p>
+<p>Dear Sec 4 &amp; 5 Hougeans,</p>
+<p>Please refer to the document below for more information and the timetable
+for the preliminary examinations. Thank you.</p>
