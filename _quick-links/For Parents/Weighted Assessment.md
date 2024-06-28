@@ -7,7 +7,12 @@ third_nav_title: For Parents
 ---
 <p>Dear Hougeans/Parents,</p>
 <p>Please download the Weighted Assessment Format of your level.&nbsp;</p>
-<table>
+<h4>2024 Semester 2</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -21,37 +26,28 @@ third_nav_title: For Parents
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 1 WA2 Formats</p>
+<p>Secondary 1 WA3 Formats</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Students/2024_Secondary_1_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<p><a href="/files/2024_HS_Secondary_1_Term_3_WA.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 2 WA2 Formats</p>
+<p>Secondary 2 WA3 Formats</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Students/2024_Secondary_2_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<p><a href="/files/2024_HS_Secondary_2_Term_3_WA.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Secondary 3 WA2 Formats</p>
+<p>Secondary 3 WA3 Formats</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Students/2024_Secondary_3_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 4 &amp; 5 WA2 Formats</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Students/2024_Secondary_4_5_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
+<p><a href="/files/2024_HS_Secondary_3_Term_3_WA.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a>
 </p>
 </td>
 </tr>
