@@ -104,13 +104,13 @@ during curriculum time.</p>
 <p>SEC 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;&nbsp;&nbsp; TERM 3 WEEK 6</p>
+<p>TERM 3 WEEK 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; WED</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp; 31 JUL 2024</p>
+<p>31 JUL 2024</p>
 </td>
 </tr>
 </tbody>
