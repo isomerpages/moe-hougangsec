@@ -1,9 +1,9 @@
 ---
 title: Structured Consultation Schedule
-permalink: /quick-links/for-parents/scs/
+permalink: /structured-consultation-schedule/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
+third_nav_title: For Students
 ---
 <p>Dear parents/guardians,</p>
 <p>Please refer to the Structured Consultation Schedule below for more details.</p>
