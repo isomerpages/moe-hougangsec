@@ -47,7 +47,7 @@ CCA Teachers.</p>
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p>The link for the nomination form is <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-echa2024</a>
+<p>The link for the nomination form is <a href="https://go.gov.sg/moe-echa2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-echa2024</a>
 </p>
 <p>&nbsp;</p>
 <p><u>Nomination Period</u>
