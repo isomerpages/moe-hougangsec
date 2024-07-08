@@ -26,15 +26,27 @@ of $500.</p>
 </p>
 <p>Nominees must be a&nbsp;<strong>Singaporean Citizen</strong>&nbsp;and
 satisfy the following eligibility criteria below</p>
-<p>·&nbsp; Students must, on a consistent basis, demonstrate good character
-and values, in particular, HS school values (Gratitude, Respect, Empathy,
-Adaptability, Trustworthiness).</p>
-<p>·&nbsp; Students are committed to serve the community regularly for at
-least 10 VIA Hours.</p>
-<p>·&nbsp; Students are nominated /endorsed by Character Coaches and/or subject
-teachers/ CCA Teachers.</p>
-<p>·&nbsp; Students’ nomination are supported by Parents/Guardians.</p>
-<p>·&nbsp; Students have attained overall conduct grade of Very Good or Excellent.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must, on a consistent basis, demonstrate good character and values,
+in particular, HS school values (Gratitude, Respect, Empathy, Adaptability,
+Trustworthiness).</p>
+</li>
+<li>
+<p>Students are committed to serve the community regularly for at least 10
+VIA Hours.</p>
+</li>
+<li>
+<p>Students are nominated /endorsed by Character Coaches and/or subject teachers/
+CCA Teachers.</p>
+</li>
+<li>
+<p>Students’ nomination are supported by Parents/Guardians.</p>
+</li>
+<li>
+<p>Students have attained overall conduct grade of Very Good or Excellent.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>The link for the nomination form is <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-echa2024</a>
 </p>
