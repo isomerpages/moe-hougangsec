@@ -54,5 +54,8 @@ third_nav_title: For Parents
 </tbody>
 </table>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Class Test Schedule (2024 Semester 2)" src="/images/Class_Test_Schedule__2024_Semester_2_.png">
+</div>
 <p></p>
 <p></p>
