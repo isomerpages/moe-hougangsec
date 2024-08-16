@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
-<p>The End-of-year Written Examination will be conducted from 25 September
-(Wednesday) to 4 October (Friday) for all Secondary 1 to 3 students.</p>
+<p><strong>The End-of-year Written Examination will be conducted from 25 September (Wednesday) to 4 October (Friday) for all Secondary 1 to 3 students</strong>.</p>
 <p>All students need not report to school on 07 October (Monday) and 08 October
 (Tuesday) as these are marking days for teachers. 09 October to 11 October
 will be script-checking days for students with 14 October to 16 October
