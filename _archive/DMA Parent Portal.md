@@ -2,7 +2,6 @@
 title: DMA Parent Portal
 permalink: /quick-links/PLD-Initiative/dma-parents-portal/
 description: ""
-third_nav_title: PLD Initiative
 ---
 From 18 Oct 2021, the DMA Parent Portal will be available to you to monitor your child’s/ward’s PLD activities. You will be receiving an activation e-mail via the e-mail address that you had previously provided to the school. If the activation e-mail is not found in your Inbox, please check the ‘Junk Folder’ or ‘Spam Folder’ for the e-mail notification. Should you still not be able to onboard the DMA parent portal by 22 Oct, please contact school’s ICT Helpdesk at 63726668 ext 260 or 261  
   
