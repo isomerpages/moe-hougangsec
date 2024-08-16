@@ -1,6 +1,6 @@
 ---
 title: 2024 End of Year Examination Schedule
-permalink: /end-of-year-examination-schedule/
+permalink: /quick-links/for-students/end-of-year-exam-schedule/
 variant: tiptap
 description: ""
 third_nav_title: For Students
