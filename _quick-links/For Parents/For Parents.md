@@ -48,9 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/MG.png">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -63,8 +61,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://sg-portal.mobileguardian.com/#/login" rel="noopener noreferrer nofollow" target="_blank"><u>Mobile GuardianParents' Login Portal</u></a></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/hs-sil" rel="noopener noreferrer nofollow" target="_blank">Student-Initiated Learning</a>
