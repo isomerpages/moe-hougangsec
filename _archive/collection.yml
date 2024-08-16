@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - DMA Parent Portal.md
       - Subject Combinations Briefing.md
       - Principal Meets Parents for Secondary 1.md
       - Vice Principal Meets Parent For Secondary 2.md
