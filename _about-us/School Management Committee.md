@@ -29,10 +29,10 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 364.891px;">
-<p>TBA</p>
+<p>Mr Choo Boon Kian Alfred</p>
 </td>
 <td style="width: 266.109px;">
-<p>HOD A&amp;T</p>
+<p>Acting HOD A&amp;T</p>
 </td>
 </tr>
 <tr>
