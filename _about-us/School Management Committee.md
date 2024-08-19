@@ -281,14 +281,7 @@ variant: markdown
 <p>Administration Manager</p>
 </td>
 </tr>
-<tr>
-<td>
-<p>Mr Sanker Ramaiah<br>sanker_ramaiah@moe.edu.sg</p>
-</td>
-<td>
-<p>Operations Manager</p>
-</td>
-</tr>
+
 <tr>
 <td>
 <p>Mr Marcus Loh<br>loh_kim_mee_marcus@moe.edu.sg</p>
