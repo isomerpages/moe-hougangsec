@@ -169,8 +169,5 @@ Please refer to the poster below for more information.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Studen%20iCON%20Poster%20A3P2022%2001Mar20221.jpeg">
 </div>
-<h3>Education &amp; Career Guidance</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Education &amp; Career Guidance" src="/images/2024_HS_ECG_Contact_Details.jpg">
-</div>
+<h3>Education &amp; Career Guidance</h3><a class="isomer-image-wrapper" href="https://go.gov.sg/hss-ecgc"><img style="width: 100%" height="auto" width="100%" alt="Education &amp; Career Guidance" src="/images/2024_HS_ECG_Contact_Details.jpg"></a>
 <p></p>
