@@ -62,7 +62,12 @@ as well as the timetables.</p>
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/2024_S3E__EOY__Final.pdf" rel="noopener nofollow" target="_blank">2024 S3E (EOY)</a>
+</p>
+<p><a href="/files/2024_S3NA__EOY__Final.pdf" rel="noopener nofollow" target="_blank">2024 S3NA (EOY)</a>
+</p>
+<p><a href="/files/2024_S3NT__EOY__Final.pdf" rel="noopener nofollow" target="_blank">2024 S3NT (EOY)</a>
+</p>
 </td>
 </tr>
 </tbody>
