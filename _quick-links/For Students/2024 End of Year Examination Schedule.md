@@ -15,3 +15,56 @@ their respective subjects.</p>
 as well as the timetables.</p>
 <p><a href="/files/HS_2024_123__2024_EOY_Exam_Cover_Letter___Timetable_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">HS-2024-123 2024 EOY Exam Cover Letter + Timetable</a>
 </p>
+<p></p>
+<h4>Examination Formats</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Exam Formats</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024_S1G1__EOY__Final.pdf" rel="noopener nofollow" target="_blank">2024 S1G1 (EOY)</a>
+</p>
+<p><a href="/files/2024_S1G2__EOY__Final.pdf" rel="noopener nofollow" target="_blank">2024 S1G2 (EOY)</a>
+</p>
+<p><a href="/files/2024_S1G3__EOY__Final.pdf" rel="noopener nofollow" target="_blank">2024 S1G3 (EOY)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2024_S2E__EOY__Final.pdf" rel="noopener nofollow" target="_blank">2024 S2E (EOY)</a>
+</p>
+<p><a href="/files/2024_S2NA__EOY__Final.pdf" rel="noopener nofollow" target="_blank">2024 S2NA (EOY)</a>
+</p>
+<p><a href="/files/2024_S2NT__EOY__Final.pdf" rel="noopener nofollow" target="_blank">2024 S2NT (EOY)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
