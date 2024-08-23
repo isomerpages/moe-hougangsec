@@ -8,7 +8,14 @@ third_nav_title: For Students
 <p>Dear Parents / Guardians / Hougeans</p>
 <p>The English Department will be conducting the following examinations.
 Please refer to the attachment for more details. Thank you.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
