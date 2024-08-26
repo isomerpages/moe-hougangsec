@@ -11,5 +11,5 @@ third_nav_title: For Parents
 the 5th and 6th.</p>
 <p><a href="/files/Cover_Page_Letter.pdf" rel="noopener nofollow" target="_blank">Cover Letter</a>
 </p>
-<p><a href="/files/2024_September_Holidays_ECT_Schedule.pdf" rel="noopener nofollow" target="_blank">2024 September Holidays ECT Schedule</a>
+<p><a href="/files/2024_September_Holidays_ECT_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 September Holidays ECT Schedule</a>
 </p>
