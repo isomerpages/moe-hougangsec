@@ -36,8 +36,10 @@ they are recognised with the ‘HS Young Innovator Award’.</p>
 <img style="width: 100%" height="auto" width="100%" alt="HS Young Innovator 3" src="/images/HS_Young_Innovator_3.jpg">
 </div>
 <p>HS Young Innovators presenting during the Innovation Cohort Programme</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/ehi4.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HS_Young_Innovator_4a.jpg">
 </div>
 <p>Young Innovators’ Fair</p>
 <h3>InnoVIAtion</h3>
