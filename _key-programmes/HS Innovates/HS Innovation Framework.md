@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hsif.jpeg">
 </div>
-<p><em>HS Innovation Framework Adapted FIDS Framework courtesy of Design for Change Singapore </em>(
+<p><em>HS Innovation Framework (Adapted FIDS Framework courtesy of Design for Change Singapore</em> 
 <a href="https://dfcsingapore.com/" rel="noopener nofollow" target="_blank">dfcsingapore.com</a>)</p>
 <p>Innovation is one of HS’s strategic thrust which aims to promote and develop
 a growth mindset amongst our students and staff. The tagline of ‘Growing
@@ -24,9 +24,7 @@ in line with our stakeholders, to drive our school’s innovation platforms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hsif2.png">
 </div>
-<p><em>Innovation Approach</em>
-</p>
-<p><em>Simplified framework and images courtesy of Design for Change Singapore (dfcsingapore.com)</em>
+<p><em>Innovation Approach (Simplified framework and images courtesy of Design for Change Singapore <a href="https://dfcsingapore.com/" rel="noopener noreferrer nofollow" target="_blank">dfcsingapore.com</a>)</em>
 </p>
 <p></p>
 <p>A simple 4-step design thinking process has been adopted as a whole-school
