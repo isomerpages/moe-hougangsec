@@ -24,9 +24,10 @@ in line with our stakeholders, to drive our school’s innovation platforms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/hsif2.png">
 </div>
-<p>Innovation Approach</p>
-<p>Simplified framework and images courtesy of Design for Change Singapore
-(dfcsingapore.com)</p>
+<p><em>Innovation Approach</em>
+</p>
+<p><em>Simplified framework and images courtesy of Design for Change Singapore (dfcsingapore.com)</em>
+</p>
 <p></p>
 <p>A simple 4-step design thinking process has been adopted as a whole-school
 approach to better engage students and staff in the area of innovation.
@@ -49,7 +50,4 @@ processes and platforms aims to reinforce the school’s overarching outcomes
 of ‘Problem Solver’, ‘Socially Apt Person’, ‘Tech Savvy Netizen’, ‘Lifelong
 Learner’ and ‘Rooted Citizen’ in our students, and ‘Reflective Practitioner’
 in our staff.</p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
