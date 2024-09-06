@@ -23,15 +23,17 @@ innovative ideas across the whole cohort to learn from each other. Thereafter,
 they are recognised with the ‘HS Young Innovator Award’.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:45%" height="auto" width="100%" src="/images/ehi1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="HS Young Innovator 1" src="/images/HS_Young_Innovator_1.jpg">
 </div>
 <p>HS Young Innovator presenting during the Young Innovators’ Fair</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/ehi2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="HS Young Innovator 2" src="/images/HS_Young_Innovator_2.jpg">
 </div>
 <p>HS Young Innovator presenting during the Innovation Cohort Programme</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/ehi3.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="HS Young Innovator 3" src="/images/HS_Young_Innovator_3.jpg">
 </div>
 <p>HS Young Innovators presenting during the Innovation Cohort Programme</p>
 <div class="isomer-image-wrapper">
