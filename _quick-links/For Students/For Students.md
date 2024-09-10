@@ -150,7 +150,7 @@ variant: tiptap
 </li>
 </ul>
 <h3>HS Student Handbook</h3>
-<p><a href="/files/HS_Handbook_2024_caa17Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook (17 Apr 2024)</a>
+<p><a href="/files/HS_Handbook_2024__10_Sep_2024_.pdf" rel="noopener nofollow" target="_blank">Download HS Student Handbook (10 Sep 2024)</a>
 </p>
 <h3>Timetable 2024</h3>
 <p><a href="/files/2024_Sem_2_Class_Timetable__20_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024 Sem 2 caa 20 June</a>
