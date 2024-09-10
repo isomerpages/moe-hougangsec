@@ -129,6 +129,8 @@ you wish to apply via eFAS here:&nbsp;<a href="https://go.gov.sg/moe-efas" rel="
 </p>
 <p><a href="/files/Parents/HS_Parents_Connect_2024___Issue_3.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2024 Issue 3</a>
 </p>
+<p><a href="/files/HS_Parents_Connect_2024___Issue_4.pdf" rel="noopener nofollow" target="_blank">HS Parents Connect 2024 Issue 4</a>
+</p>
 <hr>
 <h3>HS Application To Be On Waiting List Form</h3>
 <p>To apply for transfer, please download the "Application To Be On Waiting
