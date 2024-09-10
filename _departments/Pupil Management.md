@@ -16,7 +16,11 @@ and guide students to think responsibly, reflect on their actions and come
 up with solutions. Consequences for offences are accompanied by reflections
 so that students can understand the rationale for the punishment and learn
 to be responsible for their own actions.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,19 +87,8 @@ to be responsible for their own actions.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Students who are Singapore citizens must sing the National Anthem and
-recite the State Pledge.</p>
-</li>
-<li>
-<p>Students will recite the State Pledge with the right fists placed over
-their hearts.</p>
-</li>
-<li>
-<p>Students who are not citizens of Singapore must stand at attention and
-remain silent whenever the National Anthem is sung and the State Pledge
-is recited.</p>
-</li>
-<li>
-<p>Students will sing the School Song with pride.</p>
+take the Pledge. Students will take the Pledge with their right fist placed
+over the heart.</p>
 </li>
 </ul>
 <p><strong>Respect for our Personal and School Property</strong>
@@ -298,7 +291,11 @@ snacks.</p>
 <p>The no-usage of mobile phone rule applies during snack break period.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -362,13 +359,12 @@ at all times.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>All students are not allowed to have in their possession any weapon. They
-are also not allowed to bring any weapon-like item, including paper cutter
-and scissors with sharp edges, which is used or intended to be used to
-cause harm to self or others.</p>
+<p>Students are not allowed to have in their possession any weapon. They
+are also not allowed to bring any weapon-like item which is intended to
+be used to cause harm to others.</p>
 </li>
 </ul>
-<p><strong>Mobile Phones and Electronic Devices</strong>
+<p><strong>Mobile Phones</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -558,7 +554,9 @@ text.&nbsp;</p>
 of learning devices. Violation of any rules may result in confiscation
 of personal devices for five school days (inclusive of the day of confiscation)
 and other disciplinary actions, as decided by the Pupil Management Department.</p>
-<p><strong>Attire and Grooming Guidelines<br><br>For Male Students<br><br>(Modifications to the prescribed school uniform is strictly NOT allowed)</strong>
+<p><strong>Attire and Grooming Guidelines<br></strong>Students are to wear
+the prescribed school uniform and modification to the uniform is not allowed.</p>
+<p><strong>For Male Students<br></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/boysuni.png">
@@ -581,7 +579,8 @@ and other disciplinary actions, as decided by the Pupil Management Department.</
 shave) are not allowed.</p>
 </li>
 <li>
-<p>Boys must be clean shaven. They must not sport a moustache or beard.</p>
+<p>All male students must be clean-shaven at all times. Moustache and beards
+are not allowed.</p>
 </li>
 <li>
 <p>Dyeing of hair is not allowed.</p>
@@ -597,7 +596,7 @@ length.</p>
 <p>School tie to be worn at all times within the school premises.</p>
 </li>
 </ul>
-<p><strong>For Female Students<br><br>(Modifications to the prescribed school uniform is strictly NOT allowed)</strong>
+<p><strong>For Female Students<br></strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/girlsuni.png">
@@ -629,7 +628,10 @@ their hair at all times.&nbsp;</p>
 <p>School tie to be worn at all times within the school premises.</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -743,7 +745,12 @@ examinations, it may be deemed as an attempt to cheat.</p>
 <h3>Description of Offences</h3>
 <p><strong><u>MINOR OFFENCES</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -840,7 +847,12 @@ guidelines, not wearing masks)</p>
 </table>
 <p><strong><u>MAJOR OFFENCES</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1125,7 +1137,10 @@ the right values on which their actions should be based on. Corrective
 measures are a form of deterrence and a way to teach students to respect
 the school, the school staff and their peers. It is student-centric in
 its aim to help them change for the better.</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1133,7 +1148,12 @@ its aim to help them change for the better.</p>
 </p>
 <p><strong><u>&nbsp;</u></strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -1311,7 +1331,11 @@ the school may consider expulsion of any student guilty of such an offence.</p>
 <p></p>
 <p><strong><u>TABLE 2: CORRECTIVE MEASURES</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
