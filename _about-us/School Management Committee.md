@@ -29,7 +29,8 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 364.891px;">
-<p>Mr Choo Boon Kian Alfred</p>
+<p>Mr Choo Boon Kian Alfred<br>
+	choo_boon_kian@moe.edu.sg</p>
 </td>
 <td style="width: 266.109px;">
 <p>Covering HOD A&amp;T</p>
