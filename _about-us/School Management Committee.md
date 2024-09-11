@@ -32,7 +32,7 @@ variant: markdown
 <p>Mr Choo Boon Kian Alfred</p>
 </td>
 <td style="width: 266.109px;">
-<p>Acting HOD A&amp;T</p>
+<p>Covering HOD A&amp;T</p>
 </td>
 </tr>
 <tr>
