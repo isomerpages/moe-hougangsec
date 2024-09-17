@@ -204,7 +204,7 @@ variant: markdown
 <p>Mdm Amalina Samad<br> amalina_abdul_samad@moe.edu.sg</p>
 </td>
 <td>
-<p>SH / Pupil Management (Covering)</p>
+<p>(Covering) SH / Pupil Management </p>
 </td>
 </tr>
 <tr>
