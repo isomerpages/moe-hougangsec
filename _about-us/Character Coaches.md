@@ -270,7 +270,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Benjamin Ong Qi Xiang</p>
-<p><a href="mailto:benjamin_ong_qi_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin_ong_qi_xiang@moe.edu.sg</a> 
+<p><a href="mailto:benjamin_ong_qi_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin_ong_qi_xiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -682,8 +682,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Spencer Lim Xiao Nan</p>
-<p><a href="mailto:spencer_lim_xiao_nan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">spencer_lim_xiao_nan@moe.edu.sg</a> 
+<p>Mr Spencer Lim Xiao Nan</p>
+<p><a href="mailto:spencer_lim_xiao_nan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">spencer_lim_xiao_nan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -720,8 +720,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leo Jia Wen</p>
-<p><a href="mailto:leo_jia_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leo_jia_wen@moe.edu.sg</a> 
+<p>Ms Leo Jia Wen</p>
+<p><a href="mailto:leo_jia_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leo_jia_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
