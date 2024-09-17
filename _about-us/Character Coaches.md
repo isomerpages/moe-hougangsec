@@ -131,7 +131,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>Miss Abigal Chua</p>
+<p><a href="mailto:abigail_chua_xin_huei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_chua_xin_huei@moe.edu.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -312,7 +314,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Joanne Toh</p>
-<p><a href="mailto:joanne_toh_chui_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_toh_chui_theng@moe.edu.sg</a> 
+<p><a href="mailto:joanne_toh_chui_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_toh_chui_theng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
