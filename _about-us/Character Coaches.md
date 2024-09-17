@@ -131,8 +131,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Abigal Chua</p>
-<p><a href="mailto:abigail_chua_xin_huei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_chua_xin_huei@moe.edu.sg</a> 
+<p>Miss Abigal Chua Xin Hue</p>
+<p><a href="mailto:abigail_chua_xin_huei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_chua_xin_huei@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
