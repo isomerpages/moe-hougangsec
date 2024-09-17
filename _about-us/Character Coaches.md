@@ -131,7 +131,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p>Miss Abigal Chua Xin Hue</p>
+<p><a href="mailto:abigail_chua_xin_huei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abigail_chua_xin_huei@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -267,7 +269,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Benjamin Ong Qi Xiang</p>
+<p><a href="mailto:benjamin_ong_qi_xiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin_ong_qi_xiang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -311,12 +315,12 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Ruixiang</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_ruixiang@moe.edu.sg</a>
+<p>Ms Joanne Toh</p>
+<p><a href="mailto:joanne_toh_chui_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanne_toh_chui_theng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shanice Teow lay teng</p>
+<p>Ms Shanice Teow Lay Teng</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">shanice_teow_lay_teng@moe.edu.sg</a>
 </p>
 </td>
@@ -678,7 +682,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Spencer Lim Xiao Nan</p>
+<p><a href="mailto:spencer_lim_xiao_nan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">spencer_lim_xiao_nan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -714,7 +720,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Leo Jia Wen</p>
+<p><a href="mailto:leo_jia_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leo_jia_wen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

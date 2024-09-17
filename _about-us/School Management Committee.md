@@ -29,10 +29,11 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 364.891px;">
-<p>Mr Choo Boon Kian Alfred</p>
+<p>Mr Choo Boon Kian Alfred<br>
+	choo_boon_kian@moe.edu.sg</p>
 </td>
 <td style="width: 266.109px;">
-<p>Acting HOD A&amp;T</p>
+<p>Covering HOD A&amp;T</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +204,7 @@ variant: markdown
 <p>Mdm Amalina Samad<br> amalina_abdul_samad@moe.edu.sg</p>
 </td>
 <td>
-<p>SH / Pupil Management (Covering)</p>
+<p>(Covering) SH / Pupil Management </p>
 </td>
 </tr>
 <tr>
@@ -284,13 +285,8 @@ variant: markdown
 
 <tr>
 <td>
-<p>Mr Marcus Loh<br>loh_kim_mee_marcus@moe.edu.sg</p>
+<p> </p>
 </td>
-<td>
-<p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td>
-</td></tr></tbody>
+
+</tr></tbody>
 </table>
