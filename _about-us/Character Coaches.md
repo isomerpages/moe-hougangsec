@@ -311,9 +311,7 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ang Ruixiang</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_ruixiang@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Shanice Teow lay teng</p>
