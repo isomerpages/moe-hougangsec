@@ -285,13 +285,8 @@ variant: markdown
 
 <tr>
 <td>
-<p>Mr Marcus Loh<br>loh_kim_mee_marcus@moe.edu.sg</p>
+<p> </p>
 </td>
-<td>
-<p>ICT Manager</p>
-</td>
-</tr>
-<tr>
-<td>
-</td></tr></tbody>
+
+</tr></tbody>
 </table>
