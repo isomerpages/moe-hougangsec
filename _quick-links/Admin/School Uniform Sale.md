@@ -8,10 +8,10 @@ variant: markdown
 Dear Parents/Guardians  
 
 **I. ONLINE Purchase**  
-The [online](https://jeepsinguniform.com/collections/hougang-secondary-school) uniform purchase is available on Student Mart/Jeep Sing online store, via Home Delivery at a fee. 
+The [online](https://jeepsinguniform.com/collections/hougang-secondary-school) uniform purchase is available on Jeep Sing online store, via Home Delivery at a fee. 
 [https://jeepsinguniform.com/collections/hougang-secondary-school](https://jeepsinguniform.com/collections/hougang-secondary-school)
 
-**II. Purchase at Student Mart/Jeep Sing Retail Outlet**  
+**II. Purchase at Jeep Sing Retail Outlet**  
 This option is by <u>appointment only, no walk-in</u>. Please book your time slot via this weblink.
 https://jeepsinguniform.com/pages/appointment-booking
 
