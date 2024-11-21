@@ -2,6 +2,7 @@
 title: ICT and Data Management
 permalink: /departments/ict-and-data-manangement/
 description: ""
+variant: markdown
 ---
 **Head of Department**     
 Mr Gwee Chen Meng Javen  
@@ -10,11 +11,6 @@ Mr Gwee Chen Meng Javen
 
 **Subject Head ICT**    
 Mr Charles Wong  
-
-  
-
-**ICT Manager**   
-Mr Marcus Loh
 
   
 
@@ -227,7 +223,7 @@ Web 2.0 tools for Lesson planning and Assessment for Learning
 *   Approach the Librarian to register first.
 *   Wait for your turn if the devices are in use.
 *   Fill in your particulars and sign in before you use the device.
-*   Check that the device is in proper working condition before & after use.
+*   Check that the device is in proper working condition before &amp; after use.
 *   You may use the device for 30 minutes per session.
 *   Do not bring in personal software.
 *   Do not share computer passwords.

@@ -32,7 +32,7 @@ to be responsible for their own actions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH/Pupil Management (Covering)</p>
+<p>SH/Pupil Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Amalina Abdul Samad</p>
@@ -43,13 +43,22 @@ to be responsible for their own actions.</p>
 <p>Sec 1 Discipline Level Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr Vicknesh</p>
+<p>Mrs Jeannie Pan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2 Discipline Level Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mr Sean Oh Boon Chong</p>
 <p>Ms Siti Nurhizah Mohamed Hassan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 2 Discipline Level Coordinator</p>
+<p>Sec 3 Discipline Level Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Rio Elijah Chua</p>
@@ -58,21 +67,11 @@ to be responsible for their own actions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sec 3 Discipline Level Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Jeannie Pan</p>
-<p>Mr Ng Wee Chung</p>
-<p>Mdm Azlinah Bte Wahed</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sec 4/5 Discipline Level Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amalina Bte Samad</p>
-<p>Mr Vicknesh</p>
+<p>Mr Ng Wee Chung</p>
+<p>Mdm Azlinah Bte Wahed</p>
 </td>
 </tr>
 </tbody>
@@ -194,7 +193,7 @@ and/or the learning process. For example, game/ trading cards and sharp
 objects (including scissors with sharp points).</p>
 </li>
 <li>
-<p>Students are to demonstrate the GRIT values and Social Skills in class.&nbsp;</p>
+<p>Students are to demonstrate the GREAT values and Social Skills in class.&nbsp;</p>
 </li>
 <li>
 <p>Students are not allowed to purchase or consume food during curriculum
