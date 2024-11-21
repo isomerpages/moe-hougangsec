@@ -9,14 +9,14 @@ variant: markdown
 
 
 
-### Platforms for Dancers to LEAP with GRIT
+### Platforms for Dancers to LEAP with GREATness
 
 We aim to provide:
 
 *   Skills based trainings to develop 21st CC competencies and school values.
 *   Customised values in action programme with design thinking to develop community leaders in caring for the needy.
 *   Leadership programme for inspiring dancers to lead and inspire towards a shared vision.
-*   National Competitions such Singapore Youth Festival , eChingay etc to enable dancers to reach their own peak of excellence in skills.
+*   National Competitions such Singapore Youth Festival, etc. to enable dancers to reach their own peak of excellence in skills.
 *   School Events and Performances to create exposure and develop confidence in our dancers.
 
 ### Vision
@@ -46,11 +46,11 @@ Make the Difference
 <tbody>
   <tr>
     <td class="tg-a648">CCA Teachers-in-charge</td>
-    <td class="tg-a89l"><span style="font-weight:400;color:#333">Ms Joanne Toh Chui Theng (OIC)</span><br><span style="font-weight:400;color:#333">Ms Jessica Heng Yee Pei</span><br><span style="font-weight:400;color:#333">Ms Yu Hong Hong</span></td>
+    <td class="tg-a89l"><span style="font-weight:400;color:#333">Ms Joanne Toh Chui Theng (OIC)</span><br><span style="font-weight:400;color:#333">Ms Yu Hong Hong</span></td>
   </tr>
   <tr>
     <td class="tg-a648">Instructors</td>
-    <td class="tg-a89l"><span style="font-weight:400;color:#333">Mr Goh Shou Yi</span><br><span style="font-weight:400;color:#333">Ms Chai Ching Nicole</span></td>
+    <td class="tg-a89l"><span style="font-weight:400;color:#333">Ms Chai Ching Nicole</span></td>
   </tr>
 </tbody>
 </table>
@@ -61,6 +61,10 @@ Make the Difference
 **Day:**&nbsp;Tuesday &amp; Friday   
 **Time:**&nbsp;3.30 pm - 5.30 pm (Tue) and 1.30 pm - 4.30 pm (Fri)   
 **Venue:**&nbsp;VOICEBOX
+
+
+### Achievements
+Singapore Youth Festival: Certificate of Accomplishment (2019, 2021, 2023)
 
 ### Photographs
 
