@@ -10,10 +10,8 @@ variant: tiptap
 <br>The&nbsp;<u>online</u>&nbsp;textbook purchase is available from now to
 15 Dec 2024 at our supplier’s website <a href="cascoedusupply.com.sg" rel="noopener noreferrer nofollow" target="_blank">cascoedusupply.com.sg</a>. Please refer to
 your child’s booklist for the login instructions and other details.</p>
-<p>For online purchase, parents can opt for&nbsp;<u>either</u>&nbsp;home
-delivery at a fee&nbsp;<u>or</u>&nbsp;collect from the school bookshop.
-For collection at the school bookshop,&nbsp;<u>only one adult and one student</u>&nbsp;are
-allowed per family.</p>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>II. Purchase in School</strong>
 </p>
@@ -37,8 +35,8 @@ Please refer to your child’s booklist for other details.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Nov to 12 Dec 2024 (Sec 2-4)
-<br>26 to 31 Dec 2024 (All levels)</p>
+<p>6 Nov to 12 Dec 2024 (Sec 2-4)</p>
+<p>26 to 31 Dec 2024 (All levels)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon-Fri 9am to 3pm</p>
