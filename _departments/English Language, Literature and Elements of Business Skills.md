@@ -91,8 +91,7 @@ The English Department held the following competitions for the Secondary 4 stude
 | -------- | -------- | 
 | Intra-class Debate Challenge for Secondary 4 Express students     | Inter-class Debate Challenge for Secondary 4 Express students (Semi-Finals and Finals)     | 
 |      | 2024 International Essay Contest for Young People organised by the GOI Peace Foundation     | 
-|      | Wednesday On Air Live DJ (Selected students)     | 
+|      | Wednesday On Air Live DJ (Selected students)     |
 
 
-
-
+<iframe src="https://docs.google.com/presentation/d/1Ev6DnrqUyqGEOxpaozEMTvegg7-jt3CV//embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
