@@ -17,18 +17,14 @@ working in partnership with the Singapore Police Force to fight crime and
 keep Singapore safe.</p>
 <h3>Motto</h3>
 <p>Your attitude determines your altitude.</p>
-<h3>Leadership Structure</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NPCC/npcc-org.png">
-</div>
 <h3>Achievements</h3>
 <p>Unit Overall Proficiency Award</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Gold (2019)</p>
+<p>Distinction (2023)</p>
 </li>
 <li>
-<p>Gold (2018)</p>
+<p>Distinction (2022)</p>
 </li>
 </ul>
 <h3>Route of Advancement</h3>
