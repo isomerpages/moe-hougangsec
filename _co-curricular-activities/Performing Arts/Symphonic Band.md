@@ -87,20 +87,24 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="HS Symphony Band Parents night=)" src="/images/Band1.jpg">
 </div>
+<p>HS Symphony Band Parents night=)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Rocked the Asia Pacific Band Fest at SOTA!" src="/images/Band2.jpg">
 </div>
+<p>Rocked the Asia Pacific Band Fest at SOTA!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Immersed in Melodies at the Esplanade…" src="/images/Band3.jpg">
 </div>
+<p>Immersed in Melodies at the Esplanade…</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Beat Bouncing at the Brazilian Percussion Workshop!" src="/images/Band4.jpg">
 </div>
+<p>Beat Bouncing at the Brazilian Percussion Workshop!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Spreading Good Vibes &amp; Tunes for Charity in our Value-in-Action Programme!" src="/images/Band5.jpg">
 </div>
-<p></p>
+<p>Spreading Good Vibes &amp; Tunes for Charity in our Value-in-Action Programme!</p>
