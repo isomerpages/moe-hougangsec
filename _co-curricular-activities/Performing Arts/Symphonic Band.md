@@ -100,3 +100,7 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Beat Bouncing at the Brazilian Percussion Workshop!" src="/images/Band4.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Spreading Good Vibes &amp; Tunes for Charity in our Value-in-Action Programme!" src="/images/Band5.jpg">
+</div>
+<p></p>
