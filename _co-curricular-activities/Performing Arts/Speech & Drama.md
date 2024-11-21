@@ -55,11 +55,18 @@ communication works.&nbsp;</p>
 <li>
 <p>Certificate of Distinction (2021)</p>
 </li>
+<li>
+<p>Certificate of Accomplishment (2023)</p>
+</li>
 </ul>
+<p>2023 ACJC Speech Arts Competition Top 3 &amp; Finalist (Comic Speech Category)</p>
+<p>2024 37th YMCA Plain English Speaking Awards Semi Finalist</p>
+<p>(Top 14 in Lower Secondary Category)</p>
+<p></p>
 <h3>Performances</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>SYF Presentation 2017</p>
+<p>SYF Presentation 2017, 2019, 2021, 2023</p>
 </li>
 <li>
 <p>#TellStory4 at Woodlands Regional Library (2017)</p>
@@ -85,28 +92,85 @@ Public Library (2015)</p>
 </li>
 </ul>
 <h3>Executive Committee</h3>
-<p><strong>Drama Club:</strong> 
-<br>President: Goh Rui En Megan
-<br>Vice-President: Candeline Ivy Buczenski
-<br>Upper Sec Head: Supan Lereana Doringo
-<br>Lower Sec Head: Julian Ong Yu Yang
-<br>Quarter Mistress: Kwan Jia Min
-<br>VIA Leader: Ernest Woo Yu Zhe
-<br>Speech&amp;Drama Connector: Chua Xin Yu Jonas</p>
-<p><strong>Speech Club:</strong> 
-<br>President: Adlin Adriana
-<br>Vice-President: Xavier Wong Choon Renh
-<br>Upper Sec Head: Bryan Ong Meng Fong
-<br>Lower Sec Head: Herlyna Marsyanda
-<br>VIA Leader: Tan Yi Shan Caitlin</p>
-<h3>Instructor</h3>
-<p>Ms Rossalina Nasir</p>
+<p><strong>Drama Club:</strong>
+<br>President: Nikki Ang Ke Ting
+<br>Vice-President: Kelsey Cher Shi En
+<br>Upper Sec Head: Nurhaiza Ayuni Binte Muhammad Faizal
+<br>Logistics Head: Swa Yu Tong
+<br>VIA Leader: Dhia Nurashiqa Binti Mohamad Fauzie</p>
+<p><strong>Speech Club:</strong>
+<br>President: Peh Xin Rui (Bai Xinrui)
+<br>Vice President: Ryanvir Singh Riar
+<br>Upper Sec Head: Ariqa Humairah Binte Raihimi
+<br>Lower Sec Head: Lee Luo Jie
+<br>VIA Leader: Shariffa Qaisara Binte Syed Mohdar Al-Mutahar</p>
+<p><strong>Instructors:</strong>
+<br>Ms Rossalina Nasir (Drama) / Mr Ananthan s/o Shamugham</p>
 <h3>Training Venue and Days</h3>
 <p><strong>Day</strong>: Tuesday &amp; Friday
 <br><strong>Time</strong>: 3.15 pm - 5.15&nbsp; pm (Tue) / 2.00 pm - 4.30
 pm (Fri)
-<br><strong>Venue</strong>: SRC</p>
-<h3>Values In Action</h3>
-<p><strong>VIA partner</strong>: Jenius Kindergarten</p>
+<br><strong>Venue</strong>: SRC / Computer Lab 4</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drama CCA Open House 2024" src="/images/Drama_Open_House_2024.jpg">
+</div>
+<p>Drama CCA Open House 2024</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drama SYF 2023" src="/images/SYF_2023.jpg">
+</div>
+<p>Drama SYF 2023</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Speech &amp; Drama Collaboration: VIA Carnival 2024" src="/images/VIA_Carnival_1.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speech &amp; Drama Collaboration: VIA Carnival 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Speech &amp; Drama Collaboration: VIA Carnival 2024" src="/images/VIA_Carnival_2.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Speech &amp; Drama Collaboration: VIA Carnival 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Drama: Exchange with Unity Secondary’s Drama Club on 6 November 2024" src="/images/USS_Drama_Exchange_3.jpg">
+</div>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Drama: Exchange with Unity Secondary’s Drama Club on 6 November 2024</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<h3></h3>
 <h3></h3>
 <p></p>
