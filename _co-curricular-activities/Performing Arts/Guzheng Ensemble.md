@@ -161,13 +161,65 @@ variant: tiptap
 <br>Training Times: 3.15 pm - 5.45 pm (Tue) / 1.15 pm – 4.45 pm (Fri)
 <br>Training Venue: AVA Room</p>
 <h3>Exchange Programme with Bedok View Secondary School (Apr 2024)</h3>
+<div class="iframe-wrapper">
+<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_D79cSAx8Dc"></iframe>
+</div>
 <p></p>
-<p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/XCotcl_MntI"></iframe>
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="GuzhengExchange" src="/images/Exchange1.png">
 </div>
+<p></p>
+<h3>CCA Bonding 2024</h3>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GZBonding1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GZBonding2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<h3>CCA VIA</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GZVIA1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GZVIA2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <h3>SYF 2021 No 1 百花引</h3>
 <div class="iframe-wrapper">
 <iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q0LQdiTM8QE"></iframe>
@@ -180,18 +232,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng/gz-syf1a.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng/syf%20photo%2028%20mar%202023.jpeg">
-</div>
-<h3>VIA</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Guzheng VIA" src="/images/Guzheng/guzheng%20via.jpg">
 </div>
 <h3>Ci Yuan Performance</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng/ci%20yuan%20performance_group%20photo.jpeg">
 </div>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kWkv5mypO7k"></iframe>
+<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kWkv5mypO7k"></iframe>
 </div>
 <p></p>
