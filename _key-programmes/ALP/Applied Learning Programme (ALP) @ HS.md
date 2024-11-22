@@ -284,24 +284,154 @@ with the world through vlog making workshop.</p>
 <h3>ALP Malay</h3>
 <p><strong><u>Overview of 2023 ALP Workshops (Malay Language)</u></strong>
 </p>
-<p><strong>Secondary 1: Introduction to ML Poetry</strong>
-<br>Students were introduced to ML poetry reading, writing, and showcasing
-their talent in poetry recitation. Students were taught the correct method
-of reading with style. Dramatization was also introduced at a very basic
-level with the students putting up a performance at the end of the workshop.</p>
+<p><strong><u>Secondary One</u></strong>
+</p>
+<p><strong>Secondary 1: Introduction to ML Poetry (Pantun)</strong>
+</p>
+<p>This session serve as an introduction to poetry reading and in showcasing
+their talent in pantun recitation. Students were taught the correct method
+of reading the pantun with style. Students then put up a performance at
+the end of the workshop.</p>
+<p><strong><u>Secondary Two</u></strong>
+</p>
 <p><strong>Secondary 2: DJ/Podcast in ML</strong>
-<br>The DJ/Podcast ML Workshop introduced students to the concept of the audio
-drama and content presentation. Students learnt of methods, techniques,
-and strategies that will entice their audience to be hooked to listening
-to their short stories or podcasts over audio channels. The increased popularity
-of Podcasts highlights the importance of effective communication and storytelling,
-with vocals being the primary tool.</p>
-<p><strong>Secondary 3: ML Journalism</strong>
-<br>Students learnt of the concept of 'journalism' in the Malay world. They
-learnt to use the different language register required of them when reporting
-a story. Students learnt the basic techniques of writing and reporting
-a story/event. Ethics and values undergird the basis of what is considered
-a good journalistic piece of work.</p>
+<br>Pentas Radio Workshop introduces students to the concept of “Audio Drama”.
+This workshop aims to teach students methods, techniques, and strategies
+that will entice their audience to be hooked to listening to their short
+stories over audio channels. The increased popularity of Podcasts highlights
+the importance of effective communication and storytelling, with vocals
+being the primary tool.</p>
+<p><strong><u>Secondary Three</u></strong>
+</p>
+<p>Secondary 3: ML Journalism</p>
+<p>This session allows students to learn of the concept of 'journalism' in
+the Malay world. They will learn to use the different language register
+required of them when reporting a story. Students will learn basic techniques
+of writing and reporting a story/event.</p>
+<p></p>
+<p><strong><u>Secondary One &amp; Two High Progress Learners</u></strong>
+</p>
+<p>ML HP Learners: Content Creation in ML</p>
+<p>Students were introduced to the fundamentals of content creation on social
+media platforms such as TikTok and Instagram. They planned their content
+by scripting and storyboarding their work. In the studio, students then
+took photos and videos of the content they needed to present.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_ML1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_ML2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students enthusiastically sharing their <em>pantuns</em> with the rest of
+the class!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_ML3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP_ML4.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_ML5.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Learning to be a DJ and podcaster for a day was indeed a fun and enriching
+experience for our ML students!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_ML6.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP_ML7.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_ML8.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Our secondary three students learnt to research, interview and script
+their own stories in their efforts to a be legit journalist!</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ALP_ML9.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Our students learnt to create content via social media platforms such
+as Instagram and TikTok from renowned influencers in the Malay community!</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Montage</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1EVSIxLorqMvVa7L_zGDiZPCT1plzE8HQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
