@@ -136,7 +136,4 @@ Water Park</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p>For more on Student Leadership Development, please visit https://www.hougangsec.moe.edu.sg/key-programmes/student-leadershi</p>
+<p>For more on Student Leadership Development, please visit https://www.hougangsec.moe.edu.sg/key-programmes/student-leadership</p>
