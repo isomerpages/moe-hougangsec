@@ -8,7 +8,7 @@ variant: markdown
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Dance Open house" src="https://www.youtube.com/embed/WpBz-P_Kp3Q" height="315" width="830"></iframe></center>
 
 
-### Platforms for Dancers to LEAP with GREATness
+### Platforms for Dancers to LEAP with Grit
 
 We aim to provide:
 
