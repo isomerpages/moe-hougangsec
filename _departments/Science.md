@@ -154,18 +154,12 @@ concepts and reasoning</p>
 authentic learning.
 <br>• To inspire higher ability Secondary Two students in Chemistry, enabling
 them to pursue pure Chemistry at ‘O’ Level and beyond.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/147NP4veFhL1Lfni78idK5zgz1wA0O3x9bL2YxHXshx8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p><strong>Funtasia</strong>
 <br>Purpose
 <br>• To ignite students’ passion in Science through student-centered science-related
 activities
 <br>• To provide a platform for the students to learn a scientific concept
 through a series of fun and engaging challenges.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1UXUSnk9Xa3CDBMOk6AE8eADLxRnFA_xaZOpo_s1RlZs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p><strong>LSS Bio Stretch Programme</strong>
 <br>Purpose
 <br>• To arouse students’ interest in the learning of Science through authentic
@@ -175,18 +169,12 @@ Science to better aid them in choosing a suitable subject combination for
 themselves.
 <br>• To expose Science students of higher progress with content knowledge
 extended beyond lower secondary science syllabus.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1YzkCKmUZx5OXe4MH02v5cFpQ1x304ODVYR3qERt8APo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p><strong>Phy Stretch Programme</strong>
 <br>Purpose
 <br>• To arouse students’ interest in the learning of Science through authentic
 learning.
 <br>• To expose Science students of higher progress with content knowledge
 extended beyond lower secondary science syllabus.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1lGv2qptgsMh8OObHdMvYldyYVq-y4rL6woCD1Bs-SfE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p><strong>Green Lesson</strong>
 <br>Purpose
 <br>• To inspire students to play a part in the green movement in the Singapore
@@ -195,17 +183,11 @@ context.
 technology in their everyday lives.
 <br>• To inculcate in students the value of using Science and technology to
 improve the lives of mankind.</p>
-<div class="iframe-wrapper">
-<iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTJXvHM2xOCYeZ_LPqpXM4PZJAtTxQdWJc0z2BOmjzq-zLY1XDLPrR4y3a8fg4nu4Jo5ckncrNhkkFP/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p><strong>IgnITE</strong>
 <br>Purpose
 <br>A collaboration with ITE, where students are exposed to learning of Science
 concepts through hands-on authentic learning, thereby seeing Science in
 everyday lives and hence inspiring them to pursue Science courses in ITE.</p>
-<div class="iframe-wrapper">
-<iframe height="366" width="600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQFBTdrR1zGBEL3GbyqBDCSoO5gBQWXtgrHktzKCsAtW7Sw0eH7UVsaGqj6vve3ntZyCLSN5XAMtq9g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p><strong>3NA Stretch Programme</strong>
 </p>
 <div class="iframe-wrapper">
