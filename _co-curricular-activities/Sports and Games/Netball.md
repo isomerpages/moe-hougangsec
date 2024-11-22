@@ -86,7 +86,7 @@ to know their characteristics and understand more of how they feel in netball.
 I also get to know them better by team bonding games.</p>
 <h3>Photographs</h3>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTw4SC-O7VqbkXbW8Vk21o7qA37SJyqKuXX3VtqEQGPXkEfZvZdcdWiECvDCPsNGYFy9nc_72AkACbU/embed?start=false&amp;loop=false&amp;delayms=10000"></iframe>
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTw4SC-O7VqbkXbW8Vk21o7qA37SJyqKuXX3VtqEQGPXkEfZvZdcdWiECvDCPsNGYFy9nc_72AkACbU/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
 <p></p>
 <p></p>
