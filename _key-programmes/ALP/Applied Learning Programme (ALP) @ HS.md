@@ -161,14 +161,11 @@ seeing issues from multiple perspectives.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_CL1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_CL1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/ALP_CL3.png">
-</div>
 </th>
 </tr>
 <tr>
@@ -177,14 +174,25 @@ seeing issues from multiple perspectives.</p>
 of delivering headlines with confidence.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_CL3.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Students learnt how to&nbsp; write impactful speeches and speaking confidently
 in front of an audience.</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -193,14 +201,11 @@ in front of an audience.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_CL4.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_CL4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_CL2.png">
-</div>
 </td>
 </tr>
 <tr>
@@ -208,14 +213,25 @@ in front of an audience.</p>
 <p>Students do Vlog to promote HGSS to the P6 students and parents.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_CL2.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Students learnt how to create engaging content and share their stories
 with the world through vlog making workshop.</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
@@ -224,14 +240,11 @@ with the world through vlog making workshop.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_CL5.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ALP_CL5.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_CL6.png">
-</div>
 <p></p>
 <p></p>
 <p></p>
@@ -244,12 +257,23 @@ with the world through vlog making workshop.</p>
 <p>Student presented the speech in front of the instructor and fellow classmates.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students created and shared the radio drama during the lesson.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ALP_CL6.png">
+</div>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students created and shared the radio drama during the lesson.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -263,7 +287,7 @@ with the world through vlog making workshop.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="iframe-wrapper">
-<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BVgjnD9CXHg"></iframe>
+<iframe height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BVgjnD9CXHg"></iframe>
 </div>
 </td>
 </tr>
