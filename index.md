@@ -12,6 +12,9 @@ sections:
         - title: Our Facebook
           description: ""
           url: https://www.facebook.com/hougangsecondaryschool/
+        - title: "**Open House 2024**"
+          description: ""
+          url: ""
         - title: OUR INSTAGRAM
           description: ""
           url: https://www.instagram.com/hougang_secondary_official/
