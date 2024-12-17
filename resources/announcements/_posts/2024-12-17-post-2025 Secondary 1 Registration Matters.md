@@ -300,8 +300,6 @@ before <strong><u>Thursday, 19 December 2024, 12 pm</u></strong>
 </p>
 <p><strong>10. <u>Summary of Important Dates and Actions to be taken</u></strong>
 </p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -475,7 +473,5 @@ before <strong><u>Thursday, 19 December 2024, 12 pm</u></strong>
 </tr>
 </tbody>
 </table>
-<p><strong><em>&nbsp;</em></strong>
-</p>
-<h4>Thank you and on behalf of the school, here’s wishing all our 2025 Sec 1 Hougeans and families a wonderful year ahead.</h4>
+<h4><strong><em>&nbsp;</em></strong>Thank you and on behalf of the school, here’s wishing all our 2025 Sec 1 Hougeans and families a wonderful year ahead.</h4>
 <p></p>
