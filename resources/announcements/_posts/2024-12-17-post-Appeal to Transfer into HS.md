@@ -20,5 +20,5 @@ based on serious medical conditions or severe physical impairments.&nbsp;
 Kindly submit your request and supporting documents to the school that
 your child/ward is posted to before Thursday, 19 December 2024, 12 pm.&nbsp;</p>
 <p>Step 2:</p>
-<p>2) Please follow the instructions at this link: <strong><a href="https://www.hougangsec.moe.edu.sg/quick-links/appeal/" rel="noopener noreferrer nofollow" target="_blank">Appeal To Transfer To HS</a></strong>
+<p>Please follow the instructions at this link: <strong><a href="https://www.hougangsec.moe.edu.sg/quick-links/appeal/" rel="noopener noreferrer nofollow" target="_blank">Appeal To Transfer To HS</a></strong>
 </p>
