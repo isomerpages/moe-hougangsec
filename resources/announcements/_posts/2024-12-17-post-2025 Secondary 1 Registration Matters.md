@@ -260,7 +260,7 @@ to <strong><a href="https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative
 </p>
 <p>On <strong><u>Thursday, 2 January 2025</u></strong>, your child/ward is
 required to report to the school hall (Level 2) in HS PE Attire <strong>by 7.20 am.</strong> You
-can view the Orientation Programme <strong><a href="https://tinyurl.com/S1Oprog23" rel="noopener noreferrer nofollow" target="_blank">here</a>. </strong>The
+can view the Orientation Programme <a href="/files/2025_Sec_1_Orientation_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.<strong> </strong>The
 schedule for the GREAT Formation Week will be sent to all parents and guardians
 via PG before<strong> <u>Thursday, 2 January 2025</u></strong>. There are
 no lessons in the first week, but students are expected to bring their
