@@ -3,6 +3,7 @@ title: FAQ
 permalink: /quick-links/PLD-Initiative/faq/
 description: ""
 third_nav_title: PLD Initiative
+variant: markdown
 ---
 #### Data Protection
 
@@ -15,11 +16,6 @@ third_nav_title: PLD Initiative
 • Student iCON:  [https://workspace.google.com/terms/education\_terms\_japan.html](https://workspace.google.com/terms/education_terms_japan.html) 
 
 • Microsoft Pro Plus: [https://portal.office.com/commerce/mosa.aspx](https://portal.office.com/commerce/mosa.aspx)  
-
-• Zoom: [https://zoom.us/docs/en-us/schools-privacy-statement.html](https://zoom.us/docs/en-us/schools-privacy-statement.html) 
-
-  
-
   
 
 2\. **Where will the data collected by DMA and IT Applications for NDLP be stored?** 
