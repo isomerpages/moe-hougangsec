@@ -37,8 +37,6 @@ be offered HCL by the school. Parents will be notified via PG on<strong> <u>Wedn
 of the HMTL offer via PG must be done before <strong><u>Tuesday, 24 December 2024, 12 pm</u>.</strong>
 </p>
 <p>For other MT-related matters, please refer to this <strong><a href="/files/2025__Sec_1_Registration_MTL_related_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">document</a></strong>.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>4. <u>Purchase of Books, Uniform and PE Attire for Secondary 1</u></strong>
 </p>
 <p><strong>Method 1</strong>: Online Purchase (Preferred) – 18 December 2024</p>
