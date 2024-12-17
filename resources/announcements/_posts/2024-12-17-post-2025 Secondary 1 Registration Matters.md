@@ -183,7 +183,6 @@ and uniforms.</p>
 <td rowspan="1" colspan="1">
 <p>Thursday, 26 December to</p>
 <p>Friday, 27 December &amp; Monday, 30 December 2024</p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9 am to 3 pm</p>
@@ -324,12 +323,10 @@ before <strong><u>Thursday, 19 December 2024, 12 pm</u></strong>
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Offering of Higher Mother Tongue Language (HMTL)</p>
-<p>through PG notification</p>
+<p>Offering of Higher Mother Tongue Language (HMTL)through PG notification</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>On Wednesday, 18 December 2024, after 5 pm</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -410,7 +407,6 @@ before <strong><u>Thursday, 19 December 2024, 12 pm</u></strong>
 <td rowspan="1" colspan="1">
 <p>On Friday, 20 December 2024</p>
 <p>8.30 am – 10.30 am</p>
-<p>&nbsp;</p>
 <p>Last Day of collection: Friday, 27 December 2024</p>
 </td>
 </tr>
@@ -463,7 +459,8 @@ before <strong><u>Thursday, 19 December 2024, 12 pm</u></strong>
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submission of Edusave standing order for purchase of PLD</p>
+<p>Submission of Edusave standing order for purchase of PLD, Survey on Household
+Computing Device</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Before Tuesday, 31 December 2024</p>
