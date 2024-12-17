@@ -899,14 +899,5 @@ by the school for the purpose of verifying the income.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdlpform.png">
 </div>
-<h4>PLD Accessories Sales Portal</h4>
-<p>Below is the sales portal for the purchase of new or replacement accessories
-related to the Apple iPad from our vendor, AsiaPac Technology Pte. Ltd.&nbsp;</p>
-<p><a href="https://www.asiapac.com.sg/pld-apple/account/login" rel="noopener noreferrer nofollow" target="_blank">https://www.asiapac.com.sg/pld-apple/account/login</a>
-</p>
-<p>If you are new to this sales portal, you will need to register for an
-account as a new user before you can purchase online. Please ensure that
-you have the&nbsp;BIRTH CERT NO.</p>
-<p>(LAST 5 CHARACTERS) ready and choose Hougang Secondary School.&nbsp;</p>
 <h4></h4>
 <p></p>
