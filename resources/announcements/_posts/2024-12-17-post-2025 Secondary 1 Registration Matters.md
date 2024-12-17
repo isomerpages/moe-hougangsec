@@ -87,10 +87,16 @@ of the HMTL offer via PG must be done before <strong><u>Tuesday, 24 December 202
 <td rowspan="1" colspan="1">
 <p><a href="https://jeepsinguniform.com/collections/hougang-secondary-school" rel="noopener noreferrer nofollow" target="_blank">Jeepsing Uniform</a>
 </p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Order online and have the items delivered to your doorstep at a nominal
+fee of $6 per sales transaction.</p>
+<p><a href="https://jeepsinguniform.com/collections/hougang-secondary-school" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/collections/hougang-secondary-school</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="QRJeepSing" src="/images/QR_Jeep_Sing.png">
+</div>
 <p>Please indicate Sec 1 as class if class is not available when making online
 purchase</p>
 </td>
@@ -260,7 +266,7 @@ to <strong><a href="https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative
 </p>
 <p>On <strong><u>Thursday, 2 January 2025</u></strong>, your child/ward is
 required to report to the school hall (Level 2) in HS PE Attire <strong>by 7.20 am.</strong> You
-can view the Orientation Programme <a href="/files/2025_Sec_1_Orientation_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.<strong> </strong>The
+can view the Orientation Programme <strong><a href="/files/2025_Sec_1_Orientation_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.<strong> </strong>The
 schedule for the GREAT Formation Week will be sent to all parents and guardians
 via PG before<strong> <u>Thursday, 2 January 2025</u></strong>. There are
 no lessons in the first week, but students are expected to bring their
@@ -283,10 +289,10 @@ please contact our general office at <a rel="noopener noreferrer nofollow" targe
 <p><strong>9. <u>Appeal Matters (Transfer out of HS)</u></strong>
 </p>
 <p><strong>(A) For non-medical reasons: </strong>Please submit your intent
-to the other school. Kindly inform us by completing the <strong><a href="https://go.gov.sg/appealoutofhs22" rel="noopener noreferrer nofollow" target="_blank">form</a></strong> before <strong><u>Monday, 23 December 2024, 12 pm</u></strong>.
+to the other school before <strong><u>Monday, 23 December 2024, 12 pm</u></strong>.
 Once you have received the confirmed placement in the other school, you
-need to bring the MOE school transfer form, signed by the other school,
-and submit it to our General Office staff for processing.</p>
+need to bring the MOE school transfer form, signed by the other school's
+principal, and submit it to our General Office staff for processing.</p>
 <p><strong>(B) For medical reason(s): </strong>Documentary evidence is required
 based on serious medical conditions or severe physical impairments. <strong>&nbsp;</strong>Kindly
 submit your request and supporting documents to our General Office staff
