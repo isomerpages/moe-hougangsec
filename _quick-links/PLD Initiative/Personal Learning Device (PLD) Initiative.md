@@ -26,7 +26,7 @@ will need to ensure that the following are submitted before Tuesday, 31
 December 2024, 12 pm.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p> <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">Intent to purchase and use of Edusave</a>&nbsp;(requires
+<p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">Intent to purchase and use of Edusave</a>&nbsp;(requires
 SingPass log in) – Parents without SingPass are to approach the general
 office for the hardcopy form. &gt; &gt;</p>
 </li>
@@ -358,85 +358,97 @@ Mr Javen Gwee, HOD/ICT &amp; Data Management at 6385-1990.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Functions</p>
+<p><strong>Functions</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Details</p>
+<p><strong>Details</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>1. Mobile Device Management Service</strong>
-<br>This facilitates the <strong>updating and management of the PLDs, protects PLDs from malicious software,</strong> and <strong>protects your child/ward from objectionable internet content, or content that may not be conducive to teaching and learning during school hours.</strong>
 </p>
+<p>&nbsp;</p>
+<p>This facilitates the<strong> updating and management of the PLDs</strong>, <strong>protects PLDs from malicious software</strong>,
+and <strong>protects your child/ward from objectionable internet content, or content that may not be conducive to teaching and learning during school hours</strong>.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>– Facilitates automatic installation of apps required for teaching and
-learning
-<br>
-<br>– Filters objectionable content or content that may not be conducive to
-teaching and learning (e.g. social media, pornography, gambling, or websites
-containing extremist content)
-<br>
-<br>– Protects your child’s/ward’s PLD from security vulnerabilities through
-the automatic updating and patching of apps and device Operating System
-(OS)
-<br>
-</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facilitates automatic
+installation of applications required for teaching and learning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Filters objectionable
+content or content that may not be conducive to teaching and learning (e.g.,
+pornography, gambling, or websites containing extremist content)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enables automatic updating
+of PLD OS and its applications in accordance with cybersecurity best practices.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2. Classroom Management Service</strong>
-<br>Enables teachers to <strong>manage the student’s use of the PLD </strong>during
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Enables teachers to <strong>manage the student’s use of the PLD</strong> during
 lesson time to improve classroom management and support effective teaching
-and learning.Teachers will only monitor students’ activities during lessons.</p>
+and learning.</p>
+<p>&nbsp;</p>
+<p>Teachers will only be able to view students’ screens during lessons.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>During lessons, teachers will be able to:
-<br>
-<br>– Manage and control devices (e.g. using the “Eyes Up” function)
-<br>
-<br>– Launch specific applications and/or websites for teaching and learning
-on your child’s/ward’s device
-<br>
-<br>– Facilitate the sharing of content
-<br>
-<br>– Monitor your child’s/ward’s usage and activities during lessons (e.g.
-screen sharing, monitoring your child’s/ward’s browsing history)
-<br>
-</p>
+<p>During lessons, teachers will be able to:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide and monitor students’
+use of devices (e.g., lock or unlock screen to redirect students’ attention
+or screen sharing)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Launch specific applications
+and/or websites for teaching and learning on your child’s/ward’s device</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facilitate the sharing
+of content</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>3. Usage Management Service</strong>
-<br>Enables the school and/or parents/guardians to <strong>better supervise and set helpful limits for your child’s/ward’s use of PLD after school.</strong>
+<p><strong>3. Usage Management Service*</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Enables the school and/or parents/guardians* to <strong>better supervise and set helpful limits for your child’s/ward’s use of PLD after school</strong>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>* Only available for parents/guardians on Option A (See Annex B below)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>– Screen time control ensures that your child/ward does not use the PLD
-excessively
-<br>
-<br>– School and/or parents/guardians can control installation of applications
-to ensure that the device is used optimally for teaching and learning
-<br>
-<br>– Safe search and web content filtering protect your child/ward from harmful
-content
-<br>
-<br>– Parents/Guardians can monitor usage and activities by child/ward</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Screen time control
+to allow school and/or parents/guardians to set usage limits so that your
+child/ward does not use the PLD excessively</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School and/or parents/guardians
+can control installation of applications to ensure that the device is used
+optimally for teaching and learning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Filters objectionable
+content to protect your child/ward from harmful content</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians can
+manage device usage of child/ward</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4>Annex B: DMA Settings After School Hours</h4>
-<p>1. During school hours, the Default Setting will apply. Parents/Guardians
-are given a choice to opt for an Alternative Setting, which will apply
-only to after school hours. The following table outlines the different
-levels of restrictions, controls and monitoring for the different DMA options
-after school hours.</p>
-<table style="minWidth: 100px">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Device Management Application
+(DMA) solution for iPad PLDs is Jamf. &nbsp;</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>During</strong> school hours,
+the Default Setting will apply.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>After</strong> school hours,
+parents/guardians have a choice to continue with the Default Setting or
+opt for an Alternative Setting. The following table outlines the different
+levels of restrictions, controls, and monitoring for the different DMA
+options <strong>after</strong> school hours.</p>
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -448,32 +460,36 @@ after school hours.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Default Setting
-<br>(This will apply if no Alternative Setting is chosen)</p>
+<p><strong>Default Setting</strong>
+</p>
+<p>(Note: This will apply if no Alternative Setting is chosen)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Alternative Setting:</p>
+<p><strong>Option A</strong>
+</p>
+<p>(DMA settings can be modified)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Alternative Setting:
-<br>Option A
-<br>(Modify DMA settings)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alternative Setting:
-<br>Option B
-<br>(Disable DMA)</p>
+<p>Alternative Setting:</p>
+<p><strong>Option B</strong>
+</p>
+<p>(DMA will be inactive <strong><u>only </u></strong>after school hours)
+<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>For parents/guardians who want their child’s/ward’s use of the device
 to be restricted only to teaching and learning, and who prefer to follow
-the Default Setting as set by the school during school hours.
-<br>
-</p>
+the Default Setting as set by the school for both during and after school
+hours.</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>For parents/guardians who want more leeway over their child’s/ward’s use
-of the device, and prefer to take charge of the level of restrictions for
-their child’s/ward’s use of the device after school hours.</p>
+<td rowspan="1" colspan="2">
+<p>For parents/guardians who prefer to take charge of the level of restrictions
+for their child’s/ward’s use of the device after school hours regulated
+by the DMA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For parents/guardians who do not want their child’s/ward’s use of the
@@ -482,28 +498,27 @@ device after school hours to be regulated by the DMA at all.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Protects students from objectionable content</p>
+<p>Protect child/ward from objectionable content</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Web content filtering:
-<br>
-<br>– Violent/extremist content
-<br>– Sexual/pornographic content
-<br>– Gambling-related content
-<br>– Social media sites
-<br>
-</p>
+<p>Web content filtering will include, but not limited to, the following
+categories:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Violent/extremist content</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual/pornographic
+content</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling-related content</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Parents/Guardians will be able to include additional web content filtering
+programmes by submitting a request to the school.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/Guardians can apply additional content filtering.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No content filtering at all.
-<br>
-<br>
-<br>
-<br>
-</p>
+<p>No content filtering at all after school hours.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -511,18 +526,26 @@ device after school hours to be regulated by the DMA at all.</p>
 <p>Reduce distractions from learning through control of applications</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parents/Guardians and students will be <strong><u>unable</u></strong> to
-install additional applications.
-<br>
-<br>
-</p>
+<p>Parents/Guardians and students will <strong><u>not</u></strong> be able
+to install additional applications.</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>– Parents/Guardians and/or students will be able to install additional
-applications after school hours.
-<br>
-<br>– Applications installed by parents/guardians and/or students after school
-hours will be disabled during school hours.</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians and/or students
+will be able to install additional applications after school hours.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications installed by parents/guardians
+and/or students after school hours will not be accessible during school
+hours.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians can limit access
+to applications installed on the device.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians and/or students
+will be able to install additional applications after school hours.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications installed by parents/guardians
+and/or students after school hours will not be accessible during school
+hours.</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -530,13 +553,16 @@ hours will be disabled during school hours.</p>
 <p>Limit screen time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>The school will set the hours during which the child/ward will be able
-to use the device online in a day.</p>
+<p>The school will define the specific hours during which the student can
+use the device.</p>
+<p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians can modify the amount of screen time for their child/ward.
-<br>
+<td rowspan="1" colspan="2">
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians can adjust their
+child's/ward’s screen time by setting rules on the device.<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
 </p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians can determine
+the duration of use of specified applications.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No control over screen time.</p>
@@ -544,38 +570,49 @@ to use the device online in a day.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monitor students’ cyber activities
-<br>
-</p>
+<p>Monitor child’s/ward’s cyber activities</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>
-<br>– A parent/guardian account will be provided to allow parents/guardians
-to monitor their child’s/ward’s PLD activities after school hours.
-<br>– Parents/Guardians will only be able to track their child’s/ward’s browser
-history after school hours.
-<br>– School DMA Admin will have access to the child’s/ward’s browser history
-logs.
-<br>– Teachers will only have access to the child’s/ward’s browser history
-logs for the class that they teach. Teachers will not have access to the
-child’s/ward’s browser history logs outside of that specific class.
-<br>
+<p>Parents/Guardians will <u>not </u>be able to track their child’s/ward’s
+browser history.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/Guardians will <u>not </u>be able to track their child’s/ward’s
+browser history via the parent account.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/Guardians will <u>not</u> be able to monitor or control their child’s/ward’s
+use of the device through the DMA.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Provision of Parent Account</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>X</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>– Parents/Guardians will not be provided a parent/guardian account.
-<br>– Parents/Guardians will <strong><u>not</u></strong> be able to monitor
-or control their child’s/ward’s use of the device through the DMA. No data
-will be collected during the use of the PLD after school hours.
-<br>
-<br>
+<p><strong>√</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>X</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>2. Parents/Guardians may wish to consider the following questions before
+<hr>
+<p>[1] Please note that software features are subject to change and may be
+improved or updated over time.</p>
+<p>[2] No data will be collected after school hours when the DMA is inactive.</p>
+<p>[3] During school hours, the screen time limits set by the school will
+override parents/guardians’ settings.</p>
+<p></p>
+<p>4. Parents/Guardians may wish to consider the following questions before
 deciding on which After-School DMA Option is best for their child/ward.&nbsp;</p>
 <p><strong>a. Child’s/Ward’s current device usage habits</strong>
 </p>
@@ -610,7 +647,7 @@ child/ward might face?</p>
 <h4>Annex C:&nbsp; Privacy and Data Security</h4>
 <p><strong>Part 1: Data Collected and Managed by the DMA</strong>
 </p>
-<p>1. The DMA does NOT collect any of the following data:</p>
+<p>1. The DMA does <strong>NOT</strong> collect any of the following data:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Login IDs and passwords entered into websites or into any applications</p>
@@ -642,89 +679,36 @@ personnel:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong>Data Collected by DMA</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Appointed Admin from MOE HQ and school</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>DMA Vendors</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parent/ Guardian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><u>Data for DMA Administrative Purposes such as:</u>
-<br>Students’ and parents’/guardians’ information (name, school name, email
-addresses, and class)
-<br>
-<br>Apps installed in your child’s/ward’s PLD
-<br>
-<br>Device and hardware information (e.g. device model, storage space)
-<br>
+<p><strong>Appointed Admin from MOE HQ and school</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Y</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Y</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Y</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Y</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><u>Data for web content filtering such as:</u>
-<br>URLs accessed on the PLDs (Actions performed on websites are NOT captured)
-<br>
-<br>Date and time that a website is accessed
-<br>
-<br>Student profile (Name, School name)
-<br>
+<p><strong>DMA Vendors</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Y</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Y</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>Y[1]
-<br>
+<p><strong>Teacher</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Y
-<br>
+<p><strong>Parent/ Guardian<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Data for ensuring that installed apps are updated and functioning properly such as:</u>
-<br>
-<br>Installed apps and programs
-<br>
-<br>Date and time that the apps and programs were last updated
-<br>
-<br>Application error data
-<br>
+<p><u>Data for DMA administrative purposes such as:</u>
 </p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students’ and parents’/guardians’
+information (Name, school name, email addresses, and class)</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications installed in your child’s/ward’s
+PLD</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Device and hardware information
+(e.g., device model, storage space)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Y</p>
@@ -733,19 +717,64 @@ addresses, and class)
 <p>Y</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Y[2]</p>
+<p>Y</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Y</p>
+<p>Y<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><u>Data for Sharing Students’ Screen:</u>
-<br>
-<br>Only the streaming of ‘live’ screen view, which will be accessible only
-during class. (The screen view will NOT be stored)
-<br>
+<p><u>Data for web content filtering</u><a href="#_ftn3" rel="noopener noreferrer nofollow" target="_blank"><u>[3]</u></a><u> such as:</u>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; URLs accessed on the PLDs (<em>Actions performed on websites are </em><strong><em>NOT</em></strong><em> captured)</em>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date and time that a website is
+accessed</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Student profile (Name, School name)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Y</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Y</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Data for ensuring that installed applications are updated and functioning properly such as:</u>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Installed applications and programs</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date and time that the applications
+and programs were last updated</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Application error data</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Y</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Y</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Y<a href="#_ftn4" rel="noopener noreferrer nofollow" target="_blank">[4]</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>Data for Sharing Students’ Screen</u>
+</p>
+<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>The screen view will </em><strong><em>NOT</em></strong><em> be stored by the DMA</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -755,10 +784,7 @@ during class. (The screen view will NOT be stored)
 <p>N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Y[3]
-<br>
-</p>
+<p>Y</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>N</p>
@@ -766,60 +792,57 @@ during class. (The screen view will NOT be stored)
 </tr>
 </tbody>
 </table>
-<p>[1] The teacher will only be able to access the logs pertaining to the
-student’s browser history for the class that the teacher teaches, and will
-be able to access the logs outside of lessons. The teacher will not have
-access to the student’s browser history outside of those specific lessons.</p>
-<p>[2] Teachers will not have access to the application error data.</p>
-<p>[3] This function is not available on the iPad unless the teacher uses
-Apple Classroom.</p>
-<p><em>Note: No data is collected after school hours for Alternative Setting: Option B.</em>
-</p>
-<p>3. To prevent unauthorised access, DMA Administrators and DMA Vendors
+<hr>
+<p>[4] Parents may request corrections to their personal data (e.g. email
+addresses, names) by contacting the school, in accordance with the PDPA.</p>
+<p>[5] Only parents/guardians who chose Option A for the After-School DMA
+Parent Option will have access of their child’s/ ward’s information i.e.
+student’s name and email address, and the applications installed on the
+PLD.</p>
+<p>[6] Only aggregated web browsing history can be retrieved which does not
+reference to specific user.</p>
+<p>[7]Teachers will not have access to the application error data.</p>
+<p></p>
+<p>3. To prevent unauthorised access, DMA Administrators and the DMA Vendor
 will be required to access their accounts using 2-factor authentication
 or the equivalent to ensure proper accountability for information access
 and other activities performed. There will be regular account reviews and
-audits for DMA Administrators’ and DMA Vendors’ accounts.</p>
-<p>4. All user data collected through the DMA will be stored in secure servers
-managed by appointed DMA Vendors with stringent access controls and audit
-trials implemented. The&nbsp;DMA solutions used are cloud-based Software-as-a-Service
-(SaaS) solutions and are trusted solutions that have been operating for
-many years. They have also been subjected to regular security review and
-assessment by independent reviewers.&nbsp;</p>
-<p>5. MOE has assessed and concluded that the DMA solutions have sufficient
+audits for DMA Administrators’ and the DMA Vendor’s accounts.</p>
+<p>4. All user data collected through the DMA (see paragraph 2 of Annex B)
+will be stored in secure servers managed by an appointed DMA Vendor with
+stringent access controls and audit trail implemented. The DMA is a trusted
+cloud-based Software-as-a-Service (SaaS) solution that has been operating
+for many years. The DMA has also been subjected to regular security review
+and assessment by independent reviewers.&nbsp;</p>
+<p>5. MOE has assessed and concluded that the DMA solution has sufficient
 security robustness to ensure data collected are properly stored and protected.
-MOE will also subject the DMA Vendors to regular audit on the security
-of the system based on tender requirements.</p>
+MOE will also subject the DMA Vendor to regular audit on the security of
+the system based on tender requirements.</p>
 <p><strong>Part 2: Data collected and managed by the IT Applications</strong>
 </p>
-<p>6. <strong>IT Applications</strong>. For the IT Applications (Student iCON,
-Microsoft ProPlus and Zoom), the school will use your child’s/ward’s personal
+<p>6. <strong>IT Applications</strong>. For the IT Applications (Student iCON
+and Microsoft 365 Pro Plus), the school will use your child’s/ward’s personal
 data such as his/her full name, birth certificate number and class to set
 up user accounts. This data will also be used for the purposes of authenticating
 and verifying user identity, troubleshooting and facilitating system improvements.
-In addition, the commercial providers of these platforms (e.g. Google,
+In addition, the commercial providers of these platforms (e.g., Google,
 Microsoft) will collect and deal with user data generated by your child’s/ward’s
 use of these applications. The collection, use and disclosure of such data
 are governed by the commercial provider’s terms of use, which can be found
 here:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Student iCON: <a href="https://workspace.google.com/terms/education_terms_japan.html" rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/terms/education_terms_japan.html</a>&nbsp;
-&nbsp;</p>
+<p>Student iCON: <a rel="noopener noreferrer nofollow" target="_blank">https://workspace.google.com/terms/education_terms.html</a> &nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Microsoft ProPlus:&nbsp; <a href="https://portal.office.com/commerce/mosa.aspx" rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>&nbsp;
-&nbsp;</p>
-</li>
-<li>
-<p>Zoom: <a href="https://zoom.us/docs/en-us/schools-privacy-statement.html" rel="noopener noreferrer nofollow" target="_blank">https://zoom.us/docs/en-us/schools-privacy-statement.html</a>&nbsp;&nbsp;</p>
+<p>Microsoft 365 Pro Plus: <a rel="noopener noreferrer nofollow" target="_blank">https://portal.office.com/commerce/mosa.aspx</a>&nbsp;</p>
 </li>
 </ul>
 <p>7. All user data which is collected by MOE will be stored in secure servers
 managed by the respective vendors of our systems. The Government has put
 in place strong personal data protection laws and policies to safeguard
 sensitive data collected by public agencies such as MOE. Please refer to
-this website for more information on these laws and policies:&nbsp;<a href="https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation/personal-data-protection" rel="noopener noreferrer nofollow" target="_blank">https://www.smartnation.gov.sg/about-smart-nation/secure-smart-nation/personal-data-protection</a>
+this website for more information on these laws and policies: <a rel="noopener noreferrer nofollow" target="_blank">https://www.mddi.gov.sg/gov-personal-data-protection-laws-and-policies/</a>
 </p>
 <h4>Annex D:&nbsp; APPLICATION FOR SUBSIDY FOR PURCHASE OF PERSONAL LEARNING DEVICE (PLD)</h4>
 <p><em>This application is open to all students whose Gross Household Income (GHI) ≤ $4,400 or Per Capita Income (PCI)&nbsp; ≤ $1,100.&nbsp; PCI is GHI divided by the number of household members.&nbsp; Students on MOE Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school.</em>&nbsp;&nbsp;</p>
@@ -876,20 +899,6 @@ by the school for the purpose of verifying the income.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdlpform.png">
 </div>
-<h4>Upcoming Activities for PDLP</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Collection and Set-up of iPad – on Feb 2024</p>
-</li>
-<li>
-<p>Deciding the DMA Option – by Mar 2024</p>
-</li>
-<li>
-<p>Optional Briefing for Parents on DMA – on Mar 2024</p>
-</li>
-</ul>
-<h4>DMA Parent Portal</h4>
-<p>To be advised.</p>
 <h4>PLD Accessories Sales Portal</h4>
 <p>Below is the sales portal for the purchase of new or replacement accessories
 related to the Apple iPad from our vendor, AsiaPac Technology Pte. Ltd.&nbsp;</p>
@@ -899,28 +908,5 @@ related to the Apple iPad from our vendor, AsiaPac Technology Pte. Ltd.&nbsp;</p
 account as a new user before you can purchase online. Please ensure that
 you have the&nbsp;BIRTH CERT NO.</p>
 <p>(LAST 5 CHARACTERS) ready and choose Hougang Secondary School.&nbsp;</p>
-<h4>2024 PDLP Briefing to S1 Students (For Students)</h4>
-<p><strong>Quick Summary of Things to do</strong>:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Verify you can access your student&nbsp;iCon&nbsp;before Feb 2024 by clicking
-the link below. Here is an example of a Student iCON email:&nbsp; your_name@students.edu.s_g</p>
-</li>
-</ul>
-<p><a href="https://go.gov.sg/hsstudentemail" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hsstudentemail</a>&nbsp;
-<br>&nbsp;</p>
-<p>If you need help with your user ID or password, please approach the IT
-team at SRC.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Bring your&nbsp;Student Pass&nbsp;.</p>
-</li>
-<li>
-<p>Report to level one classroom;</p>
-</li>
-<li>
-<p>Familiarise yourself with the&nbsp;Onboarding slides here:&nbsp;</p>
-</li>
-</ul>
-<p><a href="/files/DMA/2022%20PDLP%20Briefing%20to%20S1%20Students%20For%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">2022 PDLP Briefing to S1 Students</a>
-</p>
+<h4></h4>
+<p></p>
