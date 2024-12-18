@@ -150,8 +150,7 @@ and uniforms.</p>
 <p>(<em>Lunch break 12.00 pm - 1.00pm</em>)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Only for FAS collection</p>
-<p>For Secondary 1</p>
+<p>Secondary 1</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +227,7 @@ and 2 shorts).</p>
 <p><strong>(A)&nbsp; Sec 1 FAS approved by their Primary Schools:</strong> Parents/Guardians
 of Secondary 1 students whose MOEFAS application was approved by their
 Primary Schools will need to go to the HS General Office to collect your
-FAS approval letter on<strong> <u>Friday, 20 December 2024 between 8.30 and 10.30 am</u>.</strong> You
+FAS approval letter on<strong> <u>Thursday, 19 December 2024 between 9.00 to 2.00 pm</u>.</strong> You
 need to bring your MOEFAS approval letter from Primary School for verification.
 After receiving the FAS approval letter from HS, you can proceed to collect
 the textbooks and uniforms. Please refer to the schedule above for the
