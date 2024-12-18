@@ -68,7 +68,7 @@ of the HMTL offer via PG must be done before <strong><u>Tuesday, 24 December 202
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Casco Educational Supply</a>
+<p><a href="http://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Casco Educational Supply</a>
 </p>
 <p>&nbsp;</p>
 </td>
