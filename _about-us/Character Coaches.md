@@ -644,9 +644,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amalina Samad</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">amalina_abdul_samad@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
