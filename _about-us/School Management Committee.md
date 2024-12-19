@@ -2,291 +2,344 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**PRINCIPAL**
-
-**Mr Brandon Lee Thuan Sim**   
-[hougang_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg)
-
-**VICE-PRINCIPALS**   
-
-**Mr Tay Yuan Zhuang**      
-[hougang_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg)  
-**Mr Lim Soon Wai**  
-[hougang_ss@moe.edu.sg](mailto:hougang_ss@moe.edu.sg)
-
-
+<p><strong>PRINCIPAL</strong>
+</p>
+<p><strong>Mr Brandon Lee Thuan Sim</strong>
+<br><a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>
+</p>
+<p><strong>VICE-PRINCIPALS</strong>
+</p>
+<p><strong>Mr Tay Yuan Zhuang</strong>
+<br><a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>
+<br><strong>Mr Lim Soon Wai</strong>
+<br><a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>
+</p>
 <p>&nbsp;</p>
+<p>
 <br>
-<table width="648">
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>
-<span style="color:#EEE;background-color:#2A2A2A">HEAD OF DEPARTMENT</span></td>
-<td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span>
+<td rowspan="1" colspan="1">
+<p>HEAD OF DEPARTMENT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DESIGNATION</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mr Choo Boon Kian Alfred<br>
-	choo_boon_kian@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Choo Boon Kian Alfred
+<br>choo_boon_kian@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>Covering HOD A&amp;T</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mrs Lee Yuzhen<br> kwek_yu_zhen@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Yuzhen
+<br>kwek_yu_zhen@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>HOD Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mdm S Chitradevi<br> s_chitradevi@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mdm S Chitradevi
+<br>s_chitradevi@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>HOD English, Literature &amp; EBS</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mr Andy Koh Min Chit<br> andy_koh_min_chit@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Koh Min Chit
+<br>andy_koh_min_chit@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>HOD Humanities</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mr Gwee Chen Meng Javen<br> javen_gwee_chen_meng@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Gwee Chen Meng Javen
+<br>javen_gwee_chen_meng@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>HOD ICT &amp; Data Management</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mr Chow Poh Boon<br> chow_poh_boon@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Chow Poh Boon
+<br>chow_poh_boon@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>HOD&nbsp;Mathematics</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Ms Cheng Sze Mei Carmen<br> cheng_sze_mei@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Ms Cheng Sze Mei Carmen
+<br>cheng_sze_mei@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>HOD Mother Tongue Language</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mr Lee Lis King<br> lee_lis_king@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Lis King
+<br>lee_lis_king@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>HOD PE/CCA</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mr Low Yi En<br> low_yi_en@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Low Yi En
+<br>low_yi_en@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>HOD Pupil Management</p>
 </td>
-</tr>	
+</tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mr Quek Yong Cai<br> quek_yong_cai@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Quek Yong Cai
+<br>quek_yong_cai@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>HOD Science</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mr Khairul Adli Bin Rahmat<br> khairul_adli_rahmat@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Khairul Adli Bin Rahmat
+<br>khairul_adli_rahmat@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>SSD</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mdm Lim Choon Ling<br> lim_choon_ling@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Choon Ling
+<br>lim_choon_ling@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>Year Head</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mr Elangovan s/o V Muthoo<br> elangovan_v_muthoo@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Elangovan s/o V Muthoo
+<br>elangovan_v_muthoo@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>Year Head</p>
 </td>
 </tr>
 <tr>
-<td>
-</td></tr></tbody>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
 </table>
 <p>&nbsp;</p>
+<p>
 <br>
 <br>
-	
-	
-	
-	
-<table width="648">
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td>
-<span style="color:#EEE;background-color:#2A2A2A">SUBJECT HEAD / LEVEL HEAD</span></td>
-<td class="tg-2705"><span style="color:#EEE;background-color:#2A2A2A">DESIGNATION</span>
+<td rowspan="1" colspan="1">
+<p>SUBJECT HEAD / LEVEL HEAD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DESIGNATION</p>
 </td>
 </tr>
 <tr>
-<td style="width: 364.891px;">
-<p>Mrs Rachel Chan<br> teo_hui_en_rachel@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mrs Rachel Chan
+<br>teo_hui_en_rachel@moe.edu.sg</p>
 </td>
-<td style="width: 266.109px;">
+<td rowspan="1" colspan="1">
 <p>SH / CCE</p>
 </td>
 </tr>
-	<tr>
-<td>
-<p>Miss Audrey Chua Wen Min<br> chua_wen_min_audrey@moe.edu.sg</p>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Audrey Chua Wen Min
+<br>chua_wen_min_audrey@moe.edu.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Level Head / EL &amp; Lit</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mdm Li Huilin<br> li_huilin@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mdm Li Huilin
+<br>li_huilin@moe.edu.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>SH / Humanities</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Charles Wong<br> wong_wai_kit_charles@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Charles Wong
+<br>wong_wai_kit_charles@moe.edu.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>SH / ICT &amp; Data Management</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Choo Boon Kian Alfred<br> choo_boon_kian@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Choo Boon Kian Alfred
+<br>choo_boon_kian@moe.edu.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>SH / Aesthetics, Technology &amp; Innovation</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Ms Tracy Huang Yuyan<br> huang_yuyan@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Ms Tracy Huang Yuyan
+<br>huang_yuyan@moe.edu.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>SH / Math</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mdm Amalina Samad<br> amalina_abdul_samad@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mdm Amalina Samad
+<br>amalina_abdul_samad@moe.edu.sg</p>
 </td>
-<td>
-<p>(Covering) SH / Pupil Management </p>
+<td rowspan="1" colspan="1">
+<p>(Covering) SH / Pupil Management</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Miss Jazreel Toh Hui Khee<br> toh_hui_khee_jazreel@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Miss Jazreel Toh Hui Khee
+<br>toh_hui_khee_jazreel@moe.edu.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>SH / Science</p>
 </td>
 </tr>
-
 <tr>
-<td>
-<p>Ms Uma Magheswary D/o Pandyan<br> uma_magheswary@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Ms Uma Magheswary D/o Pandyan
+<br>uma_magheswary@moe.edu.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>SH / Student Leadership</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Daniel Tan<br> tan_chin_juay_daniel@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Daniel Tan
+<br>tan_chin_juay_daniel@moe.edu.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Miss Serina Tan Bei Ling<br> tan_bei_ling@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Miss Serina Tan Bei Ling
+<br>tan_bei_ling@moe.edu.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mdm Martini Rahmat<br> martini_rahmat@moe.edu.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mdm Martini Rahmat
+<br>martini_rahmat@moe.edu.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
 </td>
 </tr>
 <tr>
-<td>
-</td></tr></tbody>
-</table>	
-
-
-
-
-
-
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
-<table width="648">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
-<td style="width: 364.891px;"><span style="color: #eee; background-color: #2a2a2a;">EXECUTIVE AND ADMIN STAFF (EAS)</span></td>
-<td style="width: 266.109px;"><span style="color: #eee; background-color: #2a2a2a;">DESIGNATION</span>
+<td rowspan="1" colspan="1">
+<p>EXECUTIVE AND ADMIN STAFF (EAS)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DESIGNATION</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Ms Jolin Chang Wan Yun<br>jolin_chang@schools.gov.sg</p>
+<td rowspan="1" colspan="1">
+<p>Ms Jolin Chang Wan Yun
+<br>jolin_chang@schools.gov.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 </tr>
 <tr>
-<td>
-<p>Mr Oh Kwok Wan Ben<br>oh_kwok_wan@schools.gov.sg</p>
+<td rowspan="1" colspan="1">
+<p>Mr Oh Kwok Wan Ben
+<br>oh_kwok_wan@schools.gov.sg</p>
 </td>
-<td>
+<td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 </tr>
-
 <tr>
-<td>
-<p> </p>
+<td rowspan="1" colspan="1">
+<p>Mr Hansen Chew</p>
+<p>hansen_chew@schools.gov.sg</p>
 </td>
-
-</tr></tbody>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
