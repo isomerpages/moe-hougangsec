@@ -20,12 +20,12 @@ This is to allow us to get to know your child/ward better.</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp; <u>Subject Based Banding (SBB)</u></strong>
 </p>
 <p>If your child/ward is eligible to study subject(s) at a more demanding
-level, please attend the online briefing <strong><u>Friday, 20 December 2024 from 8 am to 8.30 am</u></strong>.
+level, please attend the online briefing* <strong><u>Friday, 20 December 2024 from 8 am to 8.30 am</u></strong>.
 Details will be sent via Parents Gateway (PG) on <strong><u>Wednesday, 18</u> <u>December 2024, after 5 pm</u>. </strong>Acceptance/rejection
 of the subject(s) offered will need to be submitted via the offer sent
 through PG before <strong><u>Tuesday, 24 December 2024, 12 pm</u>.</strong>
 </p>
-<p><em>Please note that this briefing is for students eligible for SBB (i.e. in <u>posting group 1 or 2 only</u>). Students in posting group 3 need not attend.  </em>
+<p><em>*Please note that this briefing is for students eligible for SBB (i.e. in <u>posting group 1 or 2 only</u>). Students in posting group 3 need not attend.</em>
 </p>
 <p><strong>3.&nbsp;&nbsp;&nbsp; <u>Higher Mother Tongue Languages (HMTL)</u></strong>
 </p>
