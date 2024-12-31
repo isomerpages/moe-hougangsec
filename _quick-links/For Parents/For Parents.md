@@ -126,12 +126,7 @@ you wish to apply via eFAS here:&nbsp;<a href="https://go.gov.sg/moe-efas" rel="
 </p>
 <hr>
 <h3>HS Application To Be On Waiting List Form</h3>
-<p>To apply for transfer, please download the "Application To Be On Waiting
-List" Form and email the completed form together with your child's year-end
-results slip to&nbsp;<a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>. Only shortlisted
-candidates will be notified.&nbsp;
-<br>&nbsp; <a href="/files/Admin/Application_to_be_on_Waiting_List_w_e_f_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Application To Be On Waiting List</a>
-</p>
+<p>To apply for transfer, please click <a href="https://www.hougangsec.moe.edu.sg/quick-links/appeal/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3>GREAT Start Week For Sec 1 to Sec 5</h3>
-<p><a href="/files/Parents/GREAT_START_WEEK_2024__2_4Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">GREAT Start Week Timetable</a>
+<p><a href="/files/GREAT_START_WEEK_2025_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">GREAT Start Week 2025 Programme</a>
 </p>
