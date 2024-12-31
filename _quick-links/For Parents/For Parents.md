@@ -73,13 +73,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>PLD DMA Parent's Portal</h3>
-<p>Please click this URL for more details on the DMA Parent Portal.
-<br>https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/dma-parents-portal/</p>
-<p>Log in to Mobile Guardian here:
-<br><a href="https://sg-portal.mobileguardian.com/#/login" rel="noopener noreferrer nofollow" target="_blank">https://sg-portal.mobileguardian.com/#/login</a> 
-<br>Your parent's account will be created and emailed to you after your selection
-of the DMA option for your child/ward.</p>
 <h3>Financial Assistance</h3>
 <p>Singapore Citizens in financial need can get assistance from MOE on school
 fees and other expenses. This applies to government, government-aided,
