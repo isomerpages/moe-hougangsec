@@ -152,7 +152,7 @@ variant: tiptap
 <h3>HS Student Handbook</h3>
 <p><a href="/files/Hougang_Secondary_Student_Handbook_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook 2025 (31 Dec 2024)</a>
 </p>
-<h3>Timetable 2024</h3>
+<h3>Class Timetable 2025</h3>
 <p><a href="/files/2025_Sem_1_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2025 Sem 1</a> (caa
 31 Dec 2024)</p>
 <h3>HS ICT Helpdesk Form</h3>
