@@ -17,9 +17,6 @@ variant: tiptap
 <br><a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,16 +37,16 @@ variant: tiptap
 <br>choo_boon_kian@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Covering HOD A&amp;T</p>
+<p>HOD A&amp;T</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Yuzhen
-<br>kwek_yu_zhen@moe.edu.sg</p>
+<p>Miss Serina Tan Bei Ling</p>
+<p>tan_bei_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Character and Citizenship Education</p>
+<p>HOD Character and Citizenship Education (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -117,8 +114,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Quek Yong Cai
-<br>quek_yong_cai@moe.edu.sg</p>
+<p>Mrs Lee Yuzhen
+<br>kwek_yu_zhen@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
@@ -151,21 +148,10 @@ variant: tiptap
 <p>Year Head</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -186,7 +172,15 @@ variant: tiptap
 <br>teo_hui_en_rachel@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / CCE</p>
+<p>SH / Character and Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lynn Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -195,7 +189,15 @@ variant: tiptap
 <br>chua_wen_min_audrey@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head / EL &amp; Lit</p>
+<p>Level Head / English &amp; Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Joseph Chung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / PE &amp; CCA</p>
 </td>
 </tr>
 <tr>
@@ -218,20 +220,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Choo Boon Kian Alfred
-<br>choo_boon_kian@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Aesthetics, Technology &amp; Innovation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Tracy Huang Yuyan
 <br>huang_yuyan@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Math</p>
+<p>SH / Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yvonne Liew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Mother Tongue Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Wei Jing</p>
+<p>tan_wei_jing@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Partnership (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -240,7 +250,7 @@ variant: tiptap
 <br>amalina_abdul_samad@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Covering) SH / Pupil Management</p>
+<p>SH / Pupil Management</p>
 </td>
 </tr>
 <tr>
@@ -272,28 +282,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Serina Tan Bei Ling
-<br>tan_bei_ling@moe.edu.sg</p>
+<p>Mdm Martini Rahmat</p>
+<p>martini_rahmat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Martini Rahmat
-<br>martini_rahmat@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
