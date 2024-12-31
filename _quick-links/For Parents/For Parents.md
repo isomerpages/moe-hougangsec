@@ -139,12 +139,6 @@ results slip to&nbsp;<a href="mailto:hougang_ss@moe.edu.sg" rel="noopener norefe
 candidates will be notified.&nbsp;
 <br>&nbsp; <a href="/files/Admin/Application_to_be_on_Waiting_List_w_e_f_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Application To Be On Waiting List</a>
 </p>
-<h3>HS Student Handbook</h3>
-<p><a href="/files/HS_Handbook_2024_caa17Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook (17 Apr 2024)</a>
-</p>
-<h3>Timetable 2024</h3>
-<p><a href="/files/2024_Sem_2_Class_Timetable__20_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024 Sem 2 caa 20 June</a>
-</p>
 <h3>GREAT Start Week For Sec 1 to Sec 5</h3>
 <p><a href="/files/Parents/GREAT_START_WEEK_2024__2_4Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">GREAT Start Week Timetable</a>
 </p>
