@@ -73,13 +73,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>PLD DMA Parent's Portal</h3>
-<p>Please click this URL for more details on the DMA Parent Portal.
-<br>https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/dma-parents-portal/</p>
-<p>Log in to Mobile Guardian here:
-<br><a href="https://sg-portal.mobileguardian.com/#/login" rel="noopener noreferrer nofollow" target="_blank">https://sg-portal.mobileguardian.com/#/login</a> 
-<br>Your parent's account will be created and emailed to you after your selection
-of the DMA option for your child/ward.</p>
 <h3>Financial Assistance</h3>
 <p>Singapore Citizens in financial need can get assistance from MOE on school
 fees and other expenses. This applies to government, government-aided,
@@ -133,18 +126,7 @@ you wish to apply via eFAS here:&nbsp;<a href="https://go.gov.sg/moe-efas" rel="
 </p>
 <hr>
 <h3>HS Application To Be On Waiting List Form</h3>
-<p>To apply for transfer, please download the "Application To Be On Waiting
-List" Form and email the completed form together with your child's year-end
-results slip to&nbsp;<a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>. Only shortlisted
-candidates will be notified.&nbsp;
-<br>&nbsp; <a href="/files/Admin/Application_to_be_on_Waiting_List_w_e_f_Dec_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Application To Be On Waiting List</a>
-</p>
-<h3>HS Student Handbook</h3>
-<p><a href="/files/HS_Handbook_2024_caa17Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook (17 Apr 2024)</a>
-</p>
-<h3>Timetable 2024</h3>
-<p><a href="/files/2024_Sem_2_Class_Timetable__20_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024 Sem 2 caa 20 June</a>
-</p>
+<p>To apply for transfer, please click <a href="https://www.hougangsec.moe.edu.sg/quick-links/appeal/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3>GREAT Start Week For Sec 1 to Sec 5</h3>
-<p><a href="/files/Parents/GREAT_START_WEEK_2024__2_4Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">GREAT Start Week Timetable</a>
+<p><a href="/files/GREAT_START_WEEK_2025_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">GREAT Start Week 2025 Programme</a>
 </p>
