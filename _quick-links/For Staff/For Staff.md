@@ -301,9 +301,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>HS Student Handbook</h3>
-<p><a href="/files/HS_Handbook_2024_caa17Apr2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook (17 Apr 2024)</a>
-</p>
-<h3>Timetable 2024</h3>
-<p><a href="/files/Students/Class_Timetable_2024_Sem_1_caa_13Jan2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Timetable 2024 Sem 1 caa 13 Jan 2024.pdf</a>
-</p>
+<p></p>
