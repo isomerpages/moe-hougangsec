@@ -2,7 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <p><strong>PRINCIPAL</strong>
 </p>
@@ -42,8 +42,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Serina Tan Bei Ling</p>
-<p>tan_bei_ling@moe.edu.sg</p>
+<p>Miss Serina Tan Bei Ling
+<br>tan_bei_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Character and Citizenship Education (Covering)</p>
@@ -237,8 +237,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Wei Jing</p>
-<p>tan_wei_jing@moe.edu.sg</p>
+<p>Ms Tan Wei Jing
+<br>tan_wei_jing@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Partnership (Covering)</p>
@@ -282,8 +282,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Martini Rahmat</p>
-<p>martini_rahmat@moe.edu.sg</p>
+<p>Mdm Martini Rahmat
+<br>martini_rahmat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
@@ -326,8 +326,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hansen Chew</p>
-<p>hansen_chew@schools.gov.sg</p>
+<p>Mr Hansen Chew
+<br>hansen_chew@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
