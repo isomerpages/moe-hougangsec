@@ -37,6 +37,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chung Wei Peng, Joseph</p>
+<p><a href="mailto:chung_wei_peng_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chung_wei_peng_joseph@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Yu Hong Hong</p>
@@ -58,6 +60,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Bryan Mar</p>
+<p><a href="mailto:bryan_mar_song_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bryan_mar_song_cheng@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -157,6 +161,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Yeo Lynn</p>
+<p><a href="mailto:yeo_lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_lynn@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamed Hairi Bin Nor Azmi</p>
@@ -291,6 +297,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Leow Hui Chye</p>
+<p><a href="mailto:leow_hui_chye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_hui_chye@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -419,6 +427,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Liew Zhen Rong, Yvonne</p>
+<p><a href="mailto:liew_zhen_rong_yvonne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_zhen_rong_yvonne@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -696,6 +706,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Puah Mui Kiang</p>
+<p><a href="mailto:puah_mui_kiang_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puah_mui_kiang_a@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
