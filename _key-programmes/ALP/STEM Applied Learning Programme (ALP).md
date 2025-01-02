@@ -31,8 +31,9 @@ to life.</p>
 of Design Thinking. Guided by real-world challenges, they prototype and
 test innovative solutions, honing their ability to empathize, ideate, and
 implement.</p>
-<p></p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe height="480" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oISQ0mGI-9c"></iframe>
+</div>
 <p><strong>AI for Fun Programme (Secondary 2)</strong>
 </p>
 <p>Our Secondary 2 students take their coding expertise further by exploring
