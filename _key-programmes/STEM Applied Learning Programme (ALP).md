@@ -3,7 +3,6 @@ title: STEM Applied Learning Programme (ALP)
 permalink: /stem-applied-learning-programme-alp/
 variant: tiptap
 description: ""
-third_nav_title: ALP
 ---
 <p><strong>STEM Applied Learning Programme (ALP) -&nbsp; HS Innovates, For Life!</strong>
 </p>
@@ -32,7 +31,7 @@ of Design Thinking. Guided by real-world challenges, they prototype and
 test innovative solutions, honing their ability to empathize, ideate, and
 implement.</p>
 <div class="iframe-wrapper">
-<iframe height="480" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oISQ0mGI-9c"></iframe>
+<iframe height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oISQ0mGI-9c"></iframe>
 </div>
 <p><strong>AI for Fun Programme (Secondary 2)</strong>
 </p>
@@ -42,7 +41,7 @@ equips them with the skills to design smart solutions, bridging the gap
 between software and hardware. Imagine your child creating a home automation
 system or designing AI-powered solutions for sustainable living!</p>
 <div class="iframe-wrapper">
-<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/860HCndfsrc"></iframe>
+<iframe height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/860HCndfsrc"></iframe>
 </div>
 <p><strong>Computing as a G3 Subject (Upper Secondary)</strong>
 </p>

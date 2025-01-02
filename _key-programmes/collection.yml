@@ -2,14 +2,14 @@ collections:
   key-programmes:
     output: true
     order:
-      - ALP/STEM Applied Learning Programme (ALP).md
-      - ALP/.keep
-      - ALP/Applied Learning Programme (ALP) @ HS.md
       - HS Innovates/.keep
       - HS Innovates/HS Innovation Framework.md
       - HS Innovates/Every Hougean Innovates.md
       - HS Innovates/Every Staff Innovates.md
       - HS Innovates/Enabling an Innovative Environment.md
+      - STEM Applied Learning Programme (ALP).md
+      - Learning For Life Programme (LLP).md
+      - Student Leadership Development.md
       - Internationalisation/.keep
       - Internationalisation/Internationalisation Programme.md
       - Internationalisation/2020 Learning Journeys.md
@@ -27,5 +27,5 @@ collections:
       - Internationalisation/Learning Journey to Hong Kong, 28 to 31 May 2019.md
       - Internationalisation/Learning Journey to Chiang Mai, Thailand, 27 to 31
         May 2019.md
-      - Learning For Life Programme (LLP).md
-      - Student Leadership Development.md
+      - ALP/.keep
+      - ALP/Applied Learning Programme (ALP) @ HS.md
