@@ -41,6 +41,7 @@ Artificial Intelligence and Internet of Things (IoT) devices. This programme
 equips them with the skills to design smart solutions, bridging the gap
 between software and hardware. Imagine your child creating a home automation
 system or designing AI-powered solutions for sustainable living!</p>
+<p></p>
 <p><strong>Computing as a G3 Subject (Upper Secondary)</strong>
 </p>
 <p>For those with a passion for technology, we offer Computing as a subject
