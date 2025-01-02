@@ -1,5 +1,5 @@
 ---
-title: Applied Learning Programme (ALP) @ HS
+title: Applied Learning Programme (before 2025)
 permalink: /applied-learning-programme/alp/
 description: ""
 third_nav_title: ALP

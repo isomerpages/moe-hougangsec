@@ -9,16 +9,16 @@ links:
   - title: Key Programmes
     url: /applied-learning-programme/alp/
     sublinks:
-      - title: Applied Learning Programme
-        url: /applied-learning-programme/alp/
       - title: HS Innovates!
         url: /hs-innovates/hs-innovation-framework/
-      - title: Internationalisation Programme
-        url: /key-programmes/internationalization/international-programme/
+      - title: Applied Learning Programme
+        url: /stem-applied-learning-programme-alp/
       - title: Learning for Life Programme
         url: /learning-for-life-programme
       - title: Student Leadership Development
         url: /key-programmes/student-leadership/
+      - title: Internationalisation Programme
+        url: /key-programmes/internationalization/international-programme/
   - title: Co-Curricular Activities
     collection: co-curricular-activities
   - title: About Us
