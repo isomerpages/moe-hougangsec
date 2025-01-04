@@ -440,6 +440,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Chun Min</p>
+<p><a href="mailto:teo_chun_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chun_min@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Li Huilin</p>
