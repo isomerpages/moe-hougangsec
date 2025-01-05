@@ -327,7 +327,7 @@ variant: tiptap
 <p>2N</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kitty Tan Min Ji</p>
+<p>Ms Kitty Tan Min Jie</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_min_jie_kitty@moe.edu.sg</a>
 </p>
 </td>
