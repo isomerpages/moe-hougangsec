@@ -153,8 +153,7 @@ variant: tiptap
 <p><a href="/files/Hougang_Secondary_Student_Handbook_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook 2025 (31 Dec 2024)</a>
 </p>
 <h3>Class Timetable 2025</h3>
-<p><a href="/files/2025_Sem_1_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">Download Class Ti</a>
-<a href="/files/2025_Sem_1_Class_Timetable_20250103.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2025_Sem_1_Class_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">metable 2025 Sem 1</a> (caa
+<p><a href="/files/2025_Sem_1_Class_Timetable_20250103.pdf" rel="noopener nofollow" target="_blank">Download Class Timetable 2025 Sem 1</a> (caa
 3 Jan 2025)</p>
 <h3>HS ICT Helpdesk Form</h3>
 <p>Please submit your request on this form&nbsp;<a href="https://go.gov.sg/hs-ict-helpdesk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hs-ict-helpdesk</a>

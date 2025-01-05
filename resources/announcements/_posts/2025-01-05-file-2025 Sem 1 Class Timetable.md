@@ -1,6 +1,6 @@
 ---
 title: 2025 Sem 1 Class Timetable
-date: 2024-12-31
+date: 2025-01-05
 layout: file
 description: ""
 image: ""
