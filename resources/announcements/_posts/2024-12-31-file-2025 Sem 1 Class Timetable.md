@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/2025_Sem_1_Class_Timetable.pdf
+file_url: /files/2025_Sem_1_Class_Timetable_20250103.pdf
 ---
