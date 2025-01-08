@@ -5,25 +5,28 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Head of Department</strong>
-<br>Mr Quek Yong Cai</p>
+<br>Ms Kwek Yu Zhen</p>
 <p><strong>Subject Head</strong>
 <br>Miss Jazreel Toh Hui Khee</p>
 <p><strong>Senior Teacher</strong>
 <br>Mdm Radzawaty Bte Jamaludin</p>
 <p><strong>Teachers</strong>
-<br>Ms Kwek Yu Zhen (HOD CCE)
 <br>Mr Javen Gwee (HOD/ICT)
 <br>Ms Kitty Tan Min Jie
 <br>Ms Rachel Yong Lai Kuan
 <br>Mr Soh Yen Meng
 <br>Mr Ho Wee Khong
-<br>Ms Phua Li Xian
-<br>Mr Marcus Aw Yu Kian
-<br>Ms Ashley Li (FAJT)
-<br>Ms Melissa Lim (FAJT)</p>
+<br>Ms Phua Li Xian</p>
+<p><strong>Mr Marcus Aw Yu Kian</strong>
+</p>
+<p><strong>Mr Teo Chun Min</strong>
+</p>
+<p><strong>Ms Puah Mui Kiang</strong>
+<br>Ms Ashley Li (FAJT)</p>
+<p>Ms Melissa Lim (FAJT)</p>
 <p><strong>STEM Instructors (Laboratory)</strong>
-<br>Ms Kartini Bte Mohd Sidek (TSO)
-<br>Mdm Nur Suhaila (TSO)</p>
+<br>Ms Kartini Bte Mohd Sidek
+<br>Mdm Nur Suhaila Said</p>
 <h3>Vision</h3>
 <p>Inquisitive Thinkers, Community of Learners</p>
 <h3>Mission</h3>
@@ -130,16 +133,6 @@ concepts and reasoning</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>LSS Stretch Programmes in Biology, Chemistry and Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science Buskers
-<br>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
