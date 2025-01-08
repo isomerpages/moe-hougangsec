@@ -819,12 +819,12 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be communicated to parents at
-the start of the year and is also downloadable <a href="/files/Parents/Parent_Opt_out_form_Annex_A_on_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+the start of the year and is also downloadable <a href="/files/CCE/Parent_Opt_out_form_Annex_A_on_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 The completed form is to be submitted by <strong>28/01/2025</strong>.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/E_teens_Opt_out_form___annex_B_for_sch_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;The
+of the year and is also downloadable <a href="/files/CCE/eTeens_Opt_out_form_Annex_B_on_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;The
 completed form is to be submitted by <strong>28/01/2025</strong>.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 63851990 for Ms Serina Tan or Ms Lynn Yeo for discussion or to seek
