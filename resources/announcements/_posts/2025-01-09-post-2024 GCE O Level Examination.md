@@ -23,7 +23,8 @@ be done between 4 pm and 5 pm. He / She will need to bring the School Letter
 of Authorisation. This letter can be downloaded <u>here</u>. Your family
 member will need to bring along their Photo ID for verification by the
 GO.</p>
-<p>Letter of Authorisation</p>
+<p><a href="/files/GCE/Letter_of_Authorisation.pdf" rel="noopener noreferrer nofollow" target="_blank">Letter of Authorisation</a>
+</p>
 <p></p>
 <p>If you have any questions, do raise them with your Character Coaches.</p>
 <p>All the best to all of you!</p>
