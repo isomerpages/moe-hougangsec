@@ -27,7 +27,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="21" colspan="1">
+<td rowspan="19" colspan="1">
 <p><strong>Physical Sports</strong>
 </p>
 </td>
@@ -55,7 +55,12 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Anwarul Nizam Bin Mohd Ismail (OIC)</p>
+<p>Vicknesh S/O Kunnasekaran (OIC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Anwarul Nizam Bin Mohd Ismail</p>
 </td>
 </tr>
 <tr>
@@ -65,20 +70,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ang Ruixiang</p>
+<p>Aaron Yeo</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Noh Danial Bin Abdul Hamid (UT)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Floorball (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dzafiirah B Mohd Hakim (OIC)</p>
+<p>Muhammad Irwan Bin Jamal (OIC)</p>
 </td>
 </tr>
 <tr>
@@ -88,17 +88,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Irwan Bin Jamal (TLP in Term 3)</p>
+<p>Chen Si Si</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vicknesh S/O Kunnasekaran</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Benjamin Ong Qi Xiang (UT)</p>
+<p>Joseph Chung</p>
 </td>
 </tr>
 <tr>
@@ -117,26 +112,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jazreel Toh</p>
+<p>Puah Mui Kiang</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Netball (Girls)&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Amalina Abdul Samad (OIC)</p>
+<p>Ezra Toh (OIC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ezra Toh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Abigail Chua Xin Huei (UT)</p>
+<p>Amalina Abdul Samad</p>
 </td>
 </tr>
 <tr>
@@ -154,11 +144,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Wen Min Audrey</p>
+<p>Teo Chun Min</p>
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="17" colspan="1">
 <p><strong>Uniformed Groups</strong>
 </p>
 </td>
@@ -189,7 +179,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Girl Guides (Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,11 +194,6 @@ description: ""
 <tr>
 <td rowspan="1" colspan="1">
 <p>Jane Koh Bao Ru</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Shanice Teow (UT)</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +258,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="20" colspan="1">
+<td rowspan="18" colspan="1">
 <p><strong>Visual and Peforming Arts</strong>
 </p>
 </td>
@@ -291,7 +276,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Daniel Chong</p>
+<p>Leow Hui Chye</p>
 </td>
 </tr>
 <tr>
@@ -304,12 +289,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Rachel Teo</p>
+<p>Daniel Chong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Spencer Lim (UT)</p>
+<p>Rachel Teo</p>
 </td>
 </tr>
 <tr>
@@ -328,11 +313,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leo Sing Ann</p>
+<p>Bryan Mar</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Modern Dance ( Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -341,17 +326,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jessica Heng Yee Pei (Covering OIC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Yu Hong Hong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Leo Jia Wen (UT)</p>
 </td>
 </tr>
 <tr>
@@ -365,12 +340,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Serina Tan</p>
+<p>Jessica Heng Yee Pei</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Phang Shi Hui</p>
+<p>Lynn Yeo</p>
 </td>
 </tr>
 <tr>
@@ -389,7 +364,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Aaron Yeo (OIC)</p>
+<p>Gomathi Gunaseelan</p>
 </td>
 </tr>
 <tr>
@@ -412,12 +387,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Gomathi Gunaseelan</p>
+<p>Leo Sing Ann</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joyce Lee</p>
+<p>Audrey Chua</p>
 </td>
 </tr>
 </tbody>
