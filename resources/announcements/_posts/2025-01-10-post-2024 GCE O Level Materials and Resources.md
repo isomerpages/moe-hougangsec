@@ -44,7 +44,7 @@ hall.</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/GCE/2024_O_Level_Briefing_Slides_for_Students_.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 O-Level Briefing Slides</a><a href="/files/2024_O_Level_Briefing_Slides_for_Students_.pdf" rel="noopener nofollow" target="_blank">2024 O-Level Briefing Slides</a></strong>
+<p><strong><a href="/files/2024_O_Level_Briefing_Slides_for_Students_.pdf" rel="noopener nofollow" target="_blank">2024 O-Level Briefing Slides</a></strong>
 </p>
 </td>
 </tr>
