@@ -45,10 +45,10 @@ PLD bundle which includes warranty and insurance for purchase by your child/ward
 will be the&nbsp;Enhanced Device Bundle&nbsp;comprising the following :&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Apple iPad [10.2” 9th Gen model, A13 Bionic chip, 64 GB Storage]&nbsp;&nbsp;</p>
+<p>Apple iPad [10.9” 10th Gen model, A14 Bionic chip, 64 GB Storage]&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>Apple Pencil&nbsp;</p>
+<p>Apple Pencil&nbsp;USB-C</p>
 </li>
 <li>
 <p>Ruggedized Keyboard Combo 3 Case&nbsp;</p>
@@ -60,7 +60,7 @@ will be the&nbsp;Enhanced Device Bundle&nbsp;comprising the following :&nbsp;</p
 <p>3 Year Insurance</p>
 </li>
 </ul>
-<p>The price of the Enhanced Device Bundle is tentatively priced at $865.40
+<p>The price of the Enhanced Device Bundle is tentatively priced at $853.40
 and is inclusive of 9% GST.&nbsp;</p>
 <p>The Enhanced Device Bundle includes the device, associated accessories,
 insurance, warranty, and fortnightly courier service by Contractor to collect
