@@ -39,9 +39,7 @@ attendance-taking, students are encouraged to start the day early and complete
 their assigned tasks before 5 pm. Please refer to the links below for the
 schedule and subject-specific instructions.&nbsp;The instructions (I),
 Estimated Time on Computer (ECT) and Homework (HW) (where applicable) will
-be indicated clearly in the schedule. The HBL briefing slides can also
-be found&nbsp;<a href="/files/HBL%20Briefing%20to%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;
-&nbsp;</p>
+be indicated clearly in the schedule.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://docs.google.com/spreadsheets/d/1owOqfTHko2ptYT4qRBqV274VLTxae0Wi6bfkyHpGod0" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Schedule</a>
@@ -61,13 +59,13 @@ be found&nbsp;<a href="/files/HBL%20Briefing%20to%20Students.pdf" rel="noopener 
 </li>
 </ul>
 <p>2.&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<strong>Support for HBL</strong>.
-Students may use Student ICON, SLS, Zoom and other web applications for
-HBL. A computing device and internet connection may be required.</p>
+Students may use Student ICON, SLS, MS Teams and other web applications
+for HBL. A computing device and internet connection may be required.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Loan of Device – Sec 2 to 4 students will be using their PLD. Please contact
-the ICT Helpdesk at 63726668 extensions 260 or 261 should you have technical
-or login issues.</p>
+the ICT Helpdesk at 63726668 extensions 260 or 261 should you experience
+technical or login issues.</p>
 </li>
 <li>
 <p><strong>Students are reminded to be responsible for the use of the device and/or the internet provided through the school.</strong>
