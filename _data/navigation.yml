@@ -1,9 +1,7 @@
 logo: /images/logo.png
 links:
-  - title: DSA
-    url: /direct-school-admission-2024/
-  - title: HBL-SIL
-    url: /quick-links/HBL-SIL/hbl-sil/
+  - title: About Us
+    collection: about-us
   - title: Departments
     collection: departments
   - title: Key Programmes
@@ -19,7 +17,7 @@ links:
         url: /key-programmes/internationalization/international-programme/
   - title: Co-Curricular Activities
     collection: co-curricular-activities
-  - title: About Us
-    collection: about-us
+  - title: HBL-SIL
+    url: /quick-links/HBL-SIL/hbl-sil/
   - title: Quick Links
     collection: quick-links

@@ -6,7 +6,7 @@ third_nav_title: HBL SIL
 variant: tiptap
 ---
 <h4>Home-Based Learning and Student-Initiated Learning (HBL-SIL)</h4>
-<p>In 2024, the Home-Based Learning (HBL) schedule is as follows:</p>
+<p>In 2025, the Home-Based Learning (HBL) schedule is as follows:</p>
 <p><strong>Term 1</strong>
 </p>
 <p>03 February, Monday (Secondary 4 and 5 only)</p>
