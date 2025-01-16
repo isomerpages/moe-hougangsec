@@ -2,25 +2,17 @@ collections:
   quick-links:
     output: true
     order:
+      - Admin/.keep
+      - Admin/School Textbook Sale.md
+      - Admin/School Uniform Sale.md
+      - Admin/Traffic Advisory.md
+      - Appeal For Transfer Into HS.md
+      - Assessment.md
       - Direct School Admission 2024.md
       - HBL SIL/.keep
       - HBL SIL/HBL–SIL.md
       - HBL SIL/Education and Career Guidance (ECG) and Counselling Services.md
-      - For Students/.keep
-      - For Students/For Students.md
-      - For Students/Subject Combination Briefing.md
-      - For Students/2024 Sem 2 Inspire@HS.md
-      - For Students/Science Practical Prelim Briefing Slides 2024.md
-      - For Students/2024 Sec 1 to 3 End of Year Examination Schedule And
-        Formats.md
-      - For Students/Structured Consultation Schedule.md
-      - For Students/English Language Listening Comprehension Examination
-        Schedule for Secondary 1 to 5 Students.md
-      - For Students/2024 SECONDARY 4 AND 5 PRELIMINARY EXAMINATION.md
-      - For Students/Inspire Series 2.md
-      - For Students/Camp Montage 2024.md
-      - For Students/Weighted Assessments.md
-      - For Students/Library OPAC.md
+      - HS ICT Helpdesk Form.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/2024 Sem2 Inspire@HS.md
@@ -32,21 +24,26 @@ collections:
       - For Parents/MOE Edusave Character Award(ECHA) 2024.md
       - For Parents/English Language Listening Comprehension Examination
         Schedule for Secondary 1 to 5 Students.md
-      - For Parents/2024 SECONDARY 4 AND 5 PRELIMINARY EXAMINATION.md
       - For Parents/Inspire Series 2.md
       - For Parents/Sec 2 Subject Combination Matters (For Sec 2, 2024).md
-      - For Parents/Weighted Assessment.md
       - For Parents/Structured Consultation Schedule.md
       - For Parents/School–Home Partnership.md
+      - For Students/.keep
+      - For Students/For Students.md
+      - For Students/Subject Combination Briefing.md
+      - For Students/2024 Sem 2 Inspire@HS.md
+      - For Students/Science Practical Prelim Briefing Slides 2024.md
+      - For Students/2024 Sec 1 to 3 End of Year Examination Schedule And
+        Formats.md
+      - For Students/Structured Consultation Schedule.md
+      - For Students/English Language Listening Comprehension Examination
+        Schedule for Secondary 1 to 5 Students.md
+      - For Students/Inspire Series 2.md
+      - For Students/Camp Montage 2024.md
+      - For Students/Library OPAC.md
       - For Staff/.keep
       - For Staff/For Staff.md
       - PLD Initiative/.keep
       - PLD Initiative/Personal Learning Device (PLD) Initiative.md
       - PLD Initiative/Information For Students.md
       - PLD Initiative/FAQ.md
-      - Admin/.keep
-      - Admin/School Textbook Sale.md
-      - Admin/School Uniform Sale.md
-      - Admin/Traffic Advisory.md
-      - Appeal For Transfer Into HS.md
-      - HS ICT Helpdesk Form.md
