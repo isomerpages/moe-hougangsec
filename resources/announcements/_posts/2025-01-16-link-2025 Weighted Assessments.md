@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.hougangsec.moe.edu.sg/assessment/
+external: https://www.hougangsec.moe.edu.sg/assessment/
 ---
