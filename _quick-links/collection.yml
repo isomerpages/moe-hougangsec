@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Assessment.md
       - Direct School Admission 2024.md
       - HBL SIL/.keep
       - HBL SIL/HBL–SIL.md
