@@ -367,33 +367,44 @@ be used to cause harm to others.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>During curriculum time, mobile phones are to be turned off and kept safely
-in the students’ bag or personal lockers.</p>
+<p>Mobile phones may be used only before 7.30am and after the last period
+of curriculum time (2.40pm on Mondays, Tuesdays and Thursdays, 2.30pm on
+Wednesdays and 12.30pm on Fridays).</p>
 </li>
 <li>
-<p>Mobile phones should be <strong>kept out of sight</strong> and <strong>turned off</strong> during
-the change-over of lessons and while students are walking along the corridor.</p>
+<p>Students will not be allowed to use their mobile phones during recess.</p>
 </li>
 <li>
-<p>During recess, the use of mobile phones will be restricted to the two
-zones: the canteen and the foyer area.</p>
+<p>Students are to store their phones in their personal lockers before 7.30am
+and to retrieve it after the last period of curriculum time (2.40pm on
+Mondays, Tuesdays and Thursdays, 2.30pm on Wednesdays and 12.30pm on Fridays).</p>
+</li>
+<li>
+<p>During curriculum time, mobile phones are to always be out of sight. This
+includes during the change-over of lessons and while students are walking
+along the corridor.</p>
+</li>
+<li>
+<p>Phone use is also prohibited during CCA and Structured Consultation Time.</p>
 </li>
 <li>
 <p>Students can only use the mobile phones for learning purposes when permission
 is given by a school staff.</p>
 </li>
 <li>
-<p><strong>If the mobile phone policy is violated, the mobile phone will be confiscated immediately and kept under lock and key in the General Office. For the first and second offence (for the year), the phone will be confiscated up till 5pm on that day. For the third offence and above (for the year), confiscated mobile phones will be returned only after 5 school days. For example, if a mobile phone is confiscated on Monday in Term 1 Week 1, the phone will be returned after 5 full school days of confiscation, which is on Friday in Term 1 Week 1.</strong>
-</p>
+<p>If the mobile phone policy is violated, the mobile phone will be confiscated
+immediately and kept under lock and key in the General Office. For the
+first and second offence (for the year), the phone will be confiscated
+up till 5pm on that day. For the third offence and above (for the year),
+confiscated mobile phones will be returned only after 5 school days. For
+example, if a mobile phone is confiscated on Monday in Term 1 Week 1, the
+phone will be returned after 5 full school days of confiscation, which
+is on Friday in Term 1 Week 1.</p>
 </li>
 <li>
 <p>An information form will be issued to student. Confiscated mobile phone
 will be returned only after 5 school days with a signed parent’s reply
 slip.</p>
-</li>
-<li>
-<p>Failure to comply with the confiscation order will be treated as defiance
-towards authority which is classified as a major offence in the school.</p>
 </li>
 </ul>
 <p><strong>Responsibilities in using Personal Learning Devices (PLDs) in HS</strong> 
@@ -634,26 +645,29 @@ their hair at all times.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Uniform/ Grooming</p>
+<p><strong>School Uniform/ Grooming</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>● Students are to wear their prescribed school uniform without any alteration
 when reporting for, attending and leaving school and school events.
-<br>● Students are to wear their full uniform which consists of the school
-tie, blouse and skorts/pants every Monday.
-<br>● Students are allowed to wear their half uniform which consists of the
-Polo t-shirt
-<br>and skorts/pants on Tuesdays, Wednesdays, Thursdays and Fridays.
-<br>● Students are expected to be in full/half uniform or the accepted attire
-of his/her CCA when they return to school outside normal school hours and
-during school holidays.</p>
+<br>● Students are to wear the full school uniform, blouse/shirt with skorts/pants
+and school tie on Mondays when they report to school.</p>
+<p>● Students are allowed to wear school shirt/blouse, Polo t-shirt, PE t-shirt
+(on Tuesdays to Fridays) or CCA t-shirt (on Tuesdays) with pants/skorts.</p>
+<p>● On days where there are PE lessons, students are required to report
+to school in their school shirt/blouse, Polo t-shirt, PE t-shirt with pants/skorts
+(not allowed to report to school in PE shorts). If they wish to, students
+can choose to wear their PE shorts under their pants/skorts instead. They
+are allowed to wear PE attire only during PE lessons.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE Attire</p>
+<p><strong>PE Attire</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -682,7 +696,8 @@ coming to school in slippers/sandals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cosmetics and Fingernails</p>
+<p><strong>Cosmetics and Fingernails</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -697,7 +712,8 @@ indefinitely until the tattoo is removed.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Accessories</p>
+<p><strong>Accessories</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -725,7 +741,8 @@ red, yellow, orange and neon-coloured frames.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wearable Technologies</p>
+<p><strong>Wearable Technologies</strong>
+</p>
 </td>
 </tr>
 <tr>
