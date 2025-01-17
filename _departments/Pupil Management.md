@@ -654,10 +654,10 @@ their hair at all times.&nbsp;</p>
 <p>● Students are to wear their prescribed school uniform without any alteration
 when reporting for, attending and leaving school and school events.
 <br>● Students are to wear the full school uniform, blouse/shirt with skorts/pants
-and school tie on Mondays when they report to school.</p>
-<p>● Students are allowed to wear school shirt/blouse, Polo t-shirt, PE t-shirt
-(on Tuesdays to Fridays) or CCA t-shirt (on Tuesdays) with pants/skorts.</p>
-<p>● On days where there are PE lessons, students are required to report
+and school tie on Mondays when they report to school.
+<br>● Students are allowed to wear school shirt/blouse, Polo t-shirt, PE t-shirt
+(on Tuesdays to Fridays) or CCA t-shirt (on Tuesdays) with pants/skorts.
+<br>● On days where there are PE lessons, students are required to report
 to school in their school shirt/blouse, Polo t-shirt, PE t-shirt with pants/skorts
 (not allowed to report to school in PE shorts). If they wish to, students
 can choose to wear their PE shorts under their pants/skorts instead. They
@@ -719,12 +719,12 @@ indefinitely until the tattoo is removed.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>● Jewellery, rings, friendship or coloured bands, bracelets, anklets or
-any cosmetic ornaments are not to be worn.</p>
-<p>● Body piercing is not allowed.</p>
-<p>● Only girls are allowed to wear one pair of pin-sized silver ear studs
+any cosmetic ornaments are not to be worn.
+<br>● Body piercing is not allowed.
+<br>● Only girls are allowed to wear one pair of pin-sized silver ear studs
 of the same design, with one ear stud on each ear at the bottom of the
-lobe. Earrings or expensive ear studs should not be worn.</p>
-<p>● Religious ornaments, if worn, should not be visible to others.</p>
+lobe. Earrings or expensive ear studs should not be worn.
+<br>● Religious ornaments, if worn, should not be visible to others.</p>
 </td>
 </tr>
 <tr>
@@ -749,8 +749,8 @@ red, yellow, orange and neon-coloured frames.</p>
 <td rowspan="1" colspan="1">
 <p>● Wearable technologies such as Smart Watches with features such as camera
 and video recording functions and other internet-enabled features are not
-allowed during all weighted assessments and examinations.</p>
-<p>● The responsibility is on the student to remove wearable technologies
+allowed during all weighted assessments and examinations.
+<br>● The responsibility is on the student to remove wearable technologies
 before the start of all weighted assessments and examinations. If found
 in possession of wearable technologies during weighted assessments and
 examinations, it may be deemed as an attempt to cheat.</p>
