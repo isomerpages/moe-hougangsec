@@ -177,7 +177,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Yeo</p>
+<p>Ms Lynn Yeo
+<br>yeo_lynn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Character and Citizenship Education</p>
@@ -194,7 +195,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Joseph Chung</p>
+<p>Mr Joseph Chung
+<br>chung_wei_peng_joseph@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / PE &amp; CCA</p>
@@ -229,7 +231,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yvonne Liew</p>
+<p>Ms Yvonne Liew
+<br>liew_zhen_rong_yvonne@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Mother Tongue Language</p>
