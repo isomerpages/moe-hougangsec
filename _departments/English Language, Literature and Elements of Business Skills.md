@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>Head of Department/English:</strong>
 <br>Mdm S Chitradevi</p>
-<p><strong>Level Head EL/Literature, Secondary 2 &amp; 3:</strong>
+<p><strong>Level Head EL/Literature:</strong>
 <br>Ms Audrey Chua</p>
 <p><strong>Teachers</strong>:
 <br>Mr Kervin Tang [Senior Teacher, English Language]
@@ -14,7 +14,6 @@ variant: tiptap
 <br>Mr Charles Wong
 <br>Mr Eugene Ling
 <br>Mrs Gomathi Guna
-<br>Ms Joyce Lee
 <br>Mdm Martini Rahmat
 <br>Ms Nur Adilah Bte Jasman
 <br>Mr Rio Elijah Chua
