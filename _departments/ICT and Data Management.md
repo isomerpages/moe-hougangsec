@@ -45,7 +45,7 @@ for acquisition and application of knowledge and skills.</p>
 <details class="isomer-details">
 <summary>Applied Learning Programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>ApLM@NYP - Creating Smart Infocomm Applications</p>
+<p>ApLM@Poly - Creating Smart Infocomm Applications</p>
 </div>
 </details>
 </div>
@@ -65,7 +65,7 @@ for acquisition and application of knowledge and skills.</p>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<h3>Use of Computer Lab</h3>
+<h3>Use of Computing and Digital Resources</h3>
 <p><strong>Rules</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -136,7 +136,7 @@ on the school network or any other computer system attached to the internet.</p>
 <p>Contaminating, deleting or reconfiguring data.</p>
 </li>
 <li>
-<p>Blogging messages that are offensive or abusive.</p>
+<p>Disseminating messages that are considered to be offensive or abusive.</p>
 </li>
 </ul>
 <p><strong>Advice on the use of computers</strong>
