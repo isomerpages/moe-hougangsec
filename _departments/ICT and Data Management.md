@@ -23,51 +23,48 @@ Programme (FLP@HS) so as to nurture empowered and future ready leaders</p>
 <p>3. Harness expertise of IHLs and industries to provide real-world platforms
 for acquisition and application of knowledge and skills.</p>
 <h3>Key Programmes and Activities</h3>
-<p>1. Home-Based Learning and Blended Learning</p>
-<p>2. ICT resource-sharing using Google Apps (Email, Drive, Sites)</p>
-<p>3. Ace-Learning for Sec 1</p>
-<p>4. Cyber-wellness Training for ICT Reps and Peer Support Leaders</p>
-<p>5. ICT Training for ICT Reps</p>
-<p>6. ICT training for students</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>MS Office - Word, Excel, Powerpoint</p>
-</li>
-<li>
-<p>Creating Websites using Google Apps</p>
-</li>
-<li>
-<p>Camera Techniques</p>
-</li>
-<li>
-<p>Video editing</p>
-</li>
-<li>
-<p>Photo Editing</p>
-</li>
-<li>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Tier 1: Cohort Programme@Sec 1</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Code for Fun</p>
-</li>
-</ul>
-<p>7. IT training for staff/teachers</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>HS-Portal</p>
-</li>
-<li>
-<p>iSHARE portal</p>
-</li>
-<li>
-<p>eBeam</p>
-</li>
-<li>
-<p>Web 2.0</p>
-</li>
-<li>
-<p>Student Learning Space (SLS)</p>
-</li>
-</ul>
-<h3>ICT in Action</h3>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Tier 1: Cohort Programme@Sec 2</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>AI for Fun</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Tier 2: Subject Electives</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>CPA (G1 Computing), G2 Computing (from 2026), G3 Computing</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Applied Learning Programme</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>ApLM@NYP - Creating Smart Infocomm Applications</p>
+</div>
+</details>
+</div>
+<h3>Personalised Learning at HS</h3>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <h3>Use of Computer Lab</h3>
 <p><strong>Rules</strong>
 </p>
