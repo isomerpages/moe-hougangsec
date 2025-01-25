@@ -27,25 +27,33 @@ for acquisition and application of knowledge and skills.</p>
 <details class="isomer-details">
 <summary>Tier 1: Cohort Programme@Sec 1</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Code for Fun</p>
+<p>Code for Fun - Students learn and apply computational thinking through
+coding, inventive thinking through digital making and emerging technologies
+such as Artificial Intelligence (AI)</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Tier 1: Cohort Programme@Sec 2</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>AI for Fun</p>
+<p>AI for Fun - Students learn about societal implications of AI, write effect
+prompts for Gen AI, custom chatbots and apply Generative AI to solve thematic
+problems.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Tier 2: Subject Electives</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>CPA (G1 Computing), G2 Computing (from 2026), G3 Computing</p>
+<p>CPA (G1 Computing)</p>
+<p>G2 Computing (Sec 3, from 2026)</p>
+<p>G3 Computing</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Applied Learning Programme</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>ApLM@ITE - Programme to be confirmed</p>
 <p>ApLM@Poly - Creating Smart Infocomm Applications</p>
+<p>ApLM@Schools - Programme to be confirmed</p>
 </div>
 </details>
 </div>
