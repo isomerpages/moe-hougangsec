@@ -8,25 +8,23 @@ variant: tiptap
 <br>Ms Kwek Yu Zhen</p>
 <p><strong>Subject Head</strong>
 <br>Miss Jazreel Toh Hui Khee</p>
-<p><strong>Senior Teacher</strong>
-<br>Mdm Radzawaty Bte Jamaludin</p>
 <p><strong>Teachers</strong>
-<br>Mr Javen Gwee (HOD/ICT)
+<br>Mr Javen Gwee (HOD/ICT &amp; Data Management)
 <br>Ms Kitty Tan Min Jie
 <br>Ms Rachel Yong Lai Kuan
 <br>Mr Soh Yen Meng
 <br>Mr Ho Wee Khong
-<br>Ms Phua Li Xian</p>
-<p><strong>Mr Marcus Aw Yu Kian</strong>
-</p>
-<p><strong>Mr Teo Chun Min</strong>
-</p>
-<p><strong>Ms Puah Mui Kiang</strong>
-<br>Ms Ashley Li (FAJT)</p>
-<p>Ms Melissa Lim (FAJT)</p>
+<br>Ms Phua Li Xian
+<br>Mdm Radzawaty Bte Jamaludin
+<br>Mr Marcus Aw Yu Kian
+<br>Mr Teo Chun Min
+<br>Ms Puah Mui Kiang
+<br>Ms Ashley Li
+<br>Ms Melissa Lim</p>
 <p><strong>STEM Instructors (Laboratory)</strong>
 <br>Ms Kartini Bte Mohd Sidek
-<br>Mdm Nur Suhaila Said</p>
+<br>Mdm Nur Suhaila Saidz
+<br>Mr Chiam Yak Quee</p>
 <h3>Vision</h3>
 <p>Inquisitive Thinkers, Community of Learners</p>
 <h3>Mission</h3>
