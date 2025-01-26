@@ -53,7 +53,7 @@ to be responsible for their own actions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Sean Oh Boon Chong</p>
-<p>Ms Siti Nurhizah Mohamed Hassan</p>
+<p>Ms. Siti Nurhizah Mohamed Hassan</p>
 </td>
 </tr>
 <tr>
