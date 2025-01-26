@@ -25,7 +25,8 @@ variant: tiptap
 <br>Mdm Vanessa Ng
 <br>Mdm Zalina
 <br>Mr Bryan Mar Song Cheng
-<br>Mr John Koh (FAJT)</p>
+<br>Mr John Koh
+<br>Mr Foong Foo Kong</p>
 <p><strong>HS Enrichment Programme</strong>&nbsp;:&nbsp;
 <br>To provide students with opportunity to apply mathematics concepts to
 solve problems in Real World Context and to develop critical thinking skills
