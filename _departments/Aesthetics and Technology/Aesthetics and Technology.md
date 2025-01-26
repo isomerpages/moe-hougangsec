@@ -8,9 +8,10 @@ variant: tiptap
 <p><strong>Head of Department (A&amp;T)</strong>
 <br>Mr Alfred Choo (HOD/Aesthetics and Technology)</p>
 <p><strong>Design and Technology Unit</strong>
+<br>Mr Alfred Choo
 <br>Mr Benny Ng (Senior Teacher)
 <br>Mr Anwarul Nizam B Ismail
-<br>Mr Alfred Choo</p>
+<br>Mr Leow Hui Chye</p>
 <p><strong>Visual Art Unit</strong>
 <br>Mdm Farahana Binti Abdul Rahim (Subject Coordinator)
 <br>Ms. Jane Koh
