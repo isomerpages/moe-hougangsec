@@ -15,7 +15,8 @@ variant: tiptap
 <p><strong>Visual Art Unit</strong>
 <br>Mdm Farahana Binti Abdul Rahim (Subject Coordinator)
 <br>Ms. Jane Koh
-<br>Ms. Siti Nurhizah Mohamed Hassan</p>
+<br>Ms. Siti Nurhizah Mohamed Hassan
+<br>Mdm Saadiah Binte Taib</p>
 <p><strong>Nutrition and Food Science</strong>
 <br>Mdm Azlinah Wahed (Subject Coordinator)
 <br>Mdm Tan Chan Jong
