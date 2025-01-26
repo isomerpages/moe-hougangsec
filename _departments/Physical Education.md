@@ -2,21 +2,19 @@
 title: Physical Education
 permalink: /departments/physical-education/
 description: ""
+variant: markdown
 ---
 **Head of Department**   
 Mr Lee Lis King  
 
-  
+  **Subject Head**   
+Mr Joseph Chung
 
 **Upper Sec Year Head**   
 Mdm Lim Choon Ling
 
-  
-
 **Senior Teacher**   
 Mr Muhamad Hashim
-
-  
 
 **Teachers**    
 Mr Elijah Chua   
@@ -80,44 +78,35 @@ A pupil with an appreciation for a healthy lifestyle
 
 **2\. Physical Health and Fitness Modules**
 
-<img src="/images/pe1.jpeg" 
-     >
+<img src="/images/pe1.jpeg">
 		 
-<img src="/images/pe2.jpeg" 
-     >
+<img src="/images/pe2.jpeg">
 		 
-<img src="/images/pe3.jpeg" 
-     >
+<img src="/images/pe3.jpeg">
 
 **3\. Outdoor Education Modules**
 
-<img src="/images/pe4.jpeg" 
-     >
+<img src="/images/pe4.jpeg">
 		 
-<img src="/images/pe5.jpeg" 
-     >
+<img src="/images/pe5.jpeg">
 
 **4\. Sports Carnival**
 
-<img src="/images/pe6.jpeg" 
-     >
+<img src="/images/pe6.jpeg">
 		 
-<img src="/images/pe7.jpeg" 
-     >
+<img src="/images/pe7.jpeg">
 
 **5\. Active and Healthy Living Programmes**
 
-<img src="/images/pe8.jpeg" 
-     >
+<img src="/images/pe8.jpeg">
 		 
-<img src="/images/pe9.jpeg" 
-     >
+<img src="/images/pe9.jpeg">
 
 **6\. Secondary ONE and THREE Adventure camps**
 
 Our camps aim to:
 
-a.	Stretch & develop Hougeans’ potential – students can apply their learning through a variety of outdoor adventure experiences that bring about our **school values** (e.g., gratitude, respect, ingenuity, trustworthiness and grit.), **CCE learning outcomes** (e.g., social emotional competencies) and **PE curriculum** (e.g., Outdoor Education learning outcomes); 
+a.	Stretch &amp; develop Hougeans’ potential – students can apply their learning through a variety of outdoor adventure experiences that bring about our **school values** (e.g., gratitude, respect, ingenuity, trustworthiness and grit.), **CCE learning outcomes** (e.g., social emotional competencies) and **PE curriculum** (e.g., Outdoor Education learning outcomes); 
 
 b.	Strengthen class spirit and camaraderie with classmates and Character Coaches (CCs)
 
@@ -125,22 +114,16 @@ b.	Strengthen class spirit and camaraderie with classmates and Character Coaches
 
 **7\. Annual Napfa**
 
-<img src="/images/pe10.jpeg" 
-     >
+<img src="/images/pe10.jpeg">
 		 
-<img src="/images/pe11.jpeg" 
-     >
+<img src="/images/pe11.jpeg">
 
 **8\. Covid-19 period in 2020**
 
-<img src="/images/pe12.jpeg" 
-     >
+<img src="/images/pe12.jpeg">
 		 
-<img src="/images/pe13.jpeg" 
-    >
+<img src="/images/pe13.jpeg">
 		 
-<img src="/images/pe14.jpeg" 
-     >
+<img src="/images/pe14.jpeg">
 		 
-<img src="/images/pe15.jpeg" 
-     >
+<img src="/images/pe15.jpeg">

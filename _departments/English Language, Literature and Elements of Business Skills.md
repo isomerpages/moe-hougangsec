@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>Head of Department/English:</strong>
 <br>Mdm S Chitradevi</p>
 <p><strong>Level Head EL/Literature:</strong>
-<br>Ms Audrey Chua</p>
+<br>Ms. Audrey Chua</p>
 <p><strong>Teachers</strong>:
 <br>Mr Kervin Tang [Senior Teacher, English Language]
 <br>Mdm Amalina Abdul Samad
@@ -15,13 +15,13 @@ variant: tiptap
 <br>Mr Eugene Ling
 <br>Mrs Gomathi Guna
 <br>Mdm Martini Rahmat
-<br>Ms Nur Adilah Bte Jasman
+<br>Ms. Nur Adilah Bte Jasman
 <br>Mr Rio Elijah Chua
 <br>Mr Ronnie Yeo
 <br>Mr Sean Oh
-<br>Ms Tan Yin Wei
-<br>Ms Uma Magheswary
-<br>Ms C Minnoli (FAJT)
+<br>Ms. Tan Yin Wei
+<br>Ms. Uma Magheswary
+<br>Ms. C Minnoli (FAJT)
 <br>Mdm Soonam Sivadasan (FAJT)
 <br>Mr Han Zheming Chuck-E (FAJT)</p>
 <h3>Vision</h3>
