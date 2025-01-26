@@ -2,6 +2,7 @@
 title: Humanities
 permalink: /departments/humanities/
 description: ""
+variant: markdown
 ---
 **Head of Department**    
 Mr Andy Koh Min Chit  
@@ -15,12 +16,12 @@ Mr Andy Chong (History)
 **Teachers**  
 Mr Low Yi En  
 Mr Ng Wee Chung  
-Mr Chin Khai Fung  
+Mr Vicknesh Kunnansekaran
 Mr Alvin Lye  
 Mrs Jeannie Pan  
 Miss Joanne Toh  
 Miss Nurbaya  
-Mrs Gloria Tan   
+Ms. Law Ngiap Hui  
 &nbsp;  
 
 Aristotle once said, “*For the things we have to learn before we can do them, we learn by doing them*.”  
@@ -129,5 +130,3 @@ Students also visited different cultural and religious sites such as the statue 
 
 Our school's journey to Bali offers a unique Humanities learning opportunity with an added focus on understanding tourism in this enchanting island. Students immerse in the Balinese way of life, including an immersion program with Sekolah Negari Satu Denpasar to gain insights into education in Bali. From mastering traditional dance and gamelan rhythms to exploring the UNESCO-recognized Subak rice production system, they learn about the island's rich culture and environmental practices. Additionally, students get to explore the dynamics of tourism in Bali, witnessing how this industry interacts with the region's geography. Bali's lush landscapes and vibrant traditions offer an enriching educational adventure, turning the entire island into a living Humanities classroom.   
 <iframe src="https://docs.google.com/presentation/d/1an9JULaYxoSJFGr0_STSJrlitgU7stcu_P9xRwn09BE/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
-
-
