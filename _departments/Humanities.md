@@ -20,8 +20,7 @@ Mr Vicknesh Kunnansekaran
 Mr Alvin Lye  
 Mrs Jeannie Pan  
 Miss Joanne Toh  
-Miss Nurbaya  
-Ms. Law Ngiap Hui  
+Miss Nurbaya    
 &nbsp;  
 
 Aristotle once said, “*For the things we have to learn before we can do them, we learn by doing them*.”  
