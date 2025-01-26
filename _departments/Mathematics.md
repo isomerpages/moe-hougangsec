@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>Head of Department</strong>
 <br>Mr Chow Poh Boon</p>
 <p><strong>Subject Head</strong>
-<br>Ms Tracy Huang</p>
+<br>Ms. Tracy Huang</p>
 <p><strong>Teachers</strong>
 <br>Mr Elangovan (Year Head)
 <br>Mr Khairul Adli (School Staff Developer)
