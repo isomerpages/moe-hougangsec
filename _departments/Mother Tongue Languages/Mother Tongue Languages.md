@@ -6,18 +6,18 @@ third_nav_title: Mother Tongue Languages
 variant: markdown
 ---
 **Head of Department:**   
-Ms Cheng Sze Mei Carmen
+Ms. Cheng Sze Mei Carmen
 
 **Subject Head:**   
-Ms Yvonne Liew
+Ms. Yvonne Liew
 
 **Teachers:**   
-Ms Chen Si Si   
+Ms. Chen Si Si   
 Mdm Fazillah Binte Mohamed Ismail  
 Mr Lee Heng Han   
 Mr Muhammad Irwan Bin Jamal (ML ST)  
-Ms Nur Nadzirah Bte Mohamed Hassan  
-Ms Yu Honghong   
+Ms. Nur Nadzirah Bte Mohamed Hassan  
+Ms. Yu Honghong   
 Mdm Wang Qingzhen  
 Mr Paul Liew Soot Poh
 Mdm Rohayah Binte Ya'acub  
