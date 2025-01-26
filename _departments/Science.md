@@ -5,24 +5,24 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Head of Department</strong>
-<br>Ms Kwek Yu Zhen</p>
+<br>Ms. Kwek Yu Zhen</p>
 <p><strong>Subject Head</strong>
 <br>Miss Jazreel Toh Hui Khee</p>
 <p><strong>Teachers</strong>
 <br>Mr Javen Gwee (HOD/ICT &amp; Data Management)
-<br>Ms Kitty Tan Min Jie
-<br>Ms Rachel Yong Lai Kuan
+<br>Ms. Kitty Tan Min Jie
+<br>Ms. Rachel Yong Lai Kuan
 <br>Mr Soh Yen Meng
 <br>Mr Ho Wee Khong
-<br>Ms Phua Li Xian
+<br>Ms. Phua Li Xian
 <br>Mdm Radzawaty Bte Jamaludin
 <br>Mr Marcus Aw Yu Kian
 <br>Mr Teo Chun Min
-<br>Ms Puah Mui Kiang
-<br>Ms Ashley Li
-<br>Ms Melissa Lim</p>
+<br>Ms. Puah Mui Kiang
+<br>Ms. Ashley Li
+<br>Ms. Melissa Lim</p>
 <p><strong>STEM Instructors (Laboratory)</strong>
-<br>Ms Kartini Bte Mohd Sidek
+<br>Ms. Kartini Bte Mohd Sidek
 <br>Mdm Nur Suhaila Saidz
 <br>Mr Chiam Yak Quee</p>
 <h3>Vision</h3>
