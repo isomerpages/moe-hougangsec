@@ -31,10 +31,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>WA1 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 1:</p>
 </td>
 </tr>
 </tbody>
