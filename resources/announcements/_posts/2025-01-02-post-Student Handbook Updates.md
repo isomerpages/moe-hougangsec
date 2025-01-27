@@ -1,7 +1,7 @@
 ---
 title: Student Handbook Updates
 permalink: /student-handbook-updates/
-date: 2024-09-11
+date: 2025-01-02
 layout: post
 description: ""
 image: ""

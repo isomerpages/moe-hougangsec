@@ -1,6 +1,6 @@
 ---
-title: 2025 Weighted Assessments
-date: 2025-01-16
+title: 2025 Weighted Assessments and Format
+date: 2025-01-27
 layout: link
 description: ""
 image: ""
