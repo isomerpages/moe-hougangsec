@@ -383,7 +383,7 @@ School-based ECG resources curated by our ECG Counsellor</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP4.jpg">
 </div>
 </td>
 </tr>
