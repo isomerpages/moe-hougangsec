@@ -197,29 +197,29 @@ on availability.</p>
 <p>&nbsp;</p>
 <p><strong>Overview of ECG efforts in Hougang Secondary</strong>
 </p>
-<p>Students’ Engagement</p>
+<p><strong>Students’ Engagement</strong>
+</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ECG Counselling (individual
-and group sessions)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Workshops on Early Admissions
+and group sessions)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Workshops on Early Admissions
 Applications - POLY EAE, ITE EAE, DSA-JC (interview skills, Personal Statement
-writing and Portfolio development)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Workshops on Strengths
-Profiling, Goal Setting and Careers Exploration</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class-based Engagements</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Post Secondary Talks</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Careers Day Talks</p>
-<p>&nbsp;</p>
-<p>Parent’s Engagements</p>
+writing and Portfolio development)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Workshops on Strengths
+Profiling, Goal Setting and Careers Exploration
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class-based Engagements
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Post Secondary Talks
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Careers Day Talks</p>
+<p><strong>Parent’s Engagements</strong>
+</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lower Secondary - Subject
-Combination Selection Talk</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upper Secondary - Education
+Combination Selection Talk
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upper Secondary - Education
 Pathways &amp; Post Sec Admission Talks with Parents</p>
-<p>&nbsp;</p>
-<p>Industry Engagement</p>
+<p><strong>Industry Engagement</strong>
+</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work Experience Programme
-(WEP)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; World Skills</p>
-<p></p>
+(WEP)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; World Skills</p>
 <p><strong>Guiding Principles for ECG Student Development Experiences (SDEs):</strong>
 </p>
 <ol data-tight="true" class="tight">
