@@ -359,7 +359,7 @@ School-based ECG resources curated by our ECG Counsellor</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP2.jpg">
 </div>
 </td>
 </tr>
@@ -367,7 +367,7 @@ School-based ECG resources curated by our ECG Counsellor</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -391,7 +391,7 @@ School-based ECG resources curated by our ECG Counsellor</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/SHE1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE Dept/SHE1.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -407,7 +407,7 @@ School-based ECG resources curated by our ECG Counsellor</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/SHE2.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE Dept/SHE2.jpg">
 </div>
 </td>
 </tr>
@@ -431,7 +431,7 @@ School-based ECG resources curated by our ECG Counsellor</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/Sumitomo.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE Dept/Sumitomo.jpg">
 </div>
 </td>
 </tr>
