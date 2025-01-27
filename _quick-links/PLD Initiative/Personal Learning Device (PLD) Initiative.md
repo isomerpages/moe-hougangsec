@@ -668,6 +668,7 @@ cart, etc.) when visiting websites and using apps</p>
 </ul>
 <p>2. The information collected by DMA will be accessible by the following
 personnel:</p>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -808,7 +809,7 @@ will be required to access their accounts using 2-factor authentication
 or the equivalent to ensure proper accountability for information access
 and other activities performed. There will be regular account reviews and
 audits for DMA Administrators’ and the DMA Vendor’s accounts.</p>
-<p>4. All user data collected through the DMA (see paragraph 2 of Annex B)
+<p>4. All user data collected through the DMA (see paragraph 2 of Annex C)
 will be stored in secure servers managed by an appointed DMA Vendor with
 stringent access controls and audit trail implemented. The DMA is a trusted
 cloud-based Software-as-a-Service (SaaS) solution that has been operating
