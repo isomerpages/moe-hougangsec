@@ -334,5 +334,107 @@ School-based ECG resources curated by our ECG Counsellor</p>
 </details>
 </div>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>WEP at NYP (Leadership and Character Development)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>WEP at Novotel Stevens Hotel (Hospitality)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>WEP at Harmoni Preschool (Early Childhood)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>WEP at Yishun Health (Nursing)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/SHE1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SG Her Empowerment (SHE) Talk at Expedia (Tourism and E-Commerce)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SHE Talk at DBS (Banking)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/SHE2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SHE Talk at Franklin Templeton (Asset Management)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sumitomo Electric Dinner &amp; Dance (Events Management)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/Sumitomo.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
