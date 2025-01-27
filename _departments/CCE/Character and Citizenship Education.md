@@ -258,7 +258,7 @@ with parents, alumni, post-secondary institutions, and industry partners.</p>
 </table>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>1.&nbsp;&nbsp;&nbsp; Admission Exercises for Post Secondary Education</summary>
+<summary>1.&nbsp;Admission Exercises for Post Secondary Education</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>a.&nbsp;&nbsp;&nbsp; Joint Admission Exercise – O levels</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>
