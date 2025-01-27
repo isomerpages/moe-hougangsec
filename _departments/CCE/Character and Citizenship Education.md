@@ -261,10 +261,10 @@ with parents, alumni, post-secondary institutions, and industry partners.</p>
 <summary>1.&nbsp;Admission Exercises for Post Secondary Education</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>a.&nbsp;&nbsp;&nbsp; Joint Admission Exercise – O levels</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>
 </p>
 <p>b.&nbsp;&nbsp;&nbsp; Joint Admission Exercise – N levels</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jie</a>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/jie" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jie</a>
 </p>
 <p>c.&nbsp;&nbsp;&nbsp;&nbsp; Polytechnic Foundation Programme (PFP) Admissions</p>
 <p><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html" rel="noopener noreferrer nofollow" target="_blank">PFP Admissions</a>
@@ -286,7 +286,7 @@ with parents, alumni, post-secondary institutions, and industry partners.</p>
 <details class="isomer-details">
 <summary>2. MOE Course Finder</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a> -
+<p><a href="https://www.moe.gov.sg/coursefinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a> -
 Consolidated portal for all Polytechnics and ITE courses- Entry requirements,
 course modules and education &amp; career prospects)</p>
 </div>
@@ -294,14 +294,14 @@ course modules and education &amp; career prospects)</p>
 <details class="isomer-details">
 <summary>3. MOE School Finder</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder</a>
+<p><a href="https://www.moe.gov.sg/schoolfinder" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>4. My SkillsFuture Portal (Secondary)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a> –
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a> –
 Assessment tests, Singapore Industry Landscape, Job role &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 videos etc)</p>
 </div>
@@ -309,26 +309,26 @@ videos etc)</p>
 <details class="isomer-details">
 <summary>5. Scholarship links</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>(i) <a rel="noopener noreferrer nofollow" target="_blank">https://scholarshipguide.com.sg/</a>
+<p>(i) <a href="https://scholarshipguide.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://scholarshipguide.com.sg/</a>
 </p>
-<p>(ii) <a rel="noopener noreferrer nofollow" target="_blank">https://brightsparks.com.sg/</a>
+<p>(ii) <a href="https://brightsparks.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://brightsparks.com.sg/</a>
 </p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>6. A Guide to Post-Secondary Admission Exercises</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/postsecadminguide</a> -
+<p><a href="https://go.gov.sg/postsecadminguide" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/postsecadminguide</a> -
 Parents can refer to the MOE ECG Resources for Parents to support their
 children’s ECG journey</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf</a> -
+<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf</a> -
 Journeying with Our Children, Supporting Their Aspirations</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>7. ECG Padlet (HS)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://padlet.com/peilingjuan/education-and-career-guidance-e09vjdae8ayzgmev</a> -
+<p><a href="https://padlet.com/peilingjuan/education-and-career-guidance-e09vjdae8ayzgmev" rel="noopener noreferrer nofollow" target="_blank">https://padlet.com/peilingjuan/education-and-career-guidance-e09vjdae8ayzgmev</a> -
 School-based ECG resources curated by our ECG Counsellor</p>
 </div>
 </details>
