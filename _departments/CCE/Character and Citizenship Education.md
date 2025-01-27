@@ -179,4 +179,262 @@ and carried out activities for the carnival in Semester 1 which invited
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1j6Jmgk3Y8IxzG-EizRzrd1ODKLTyYmmTb5n-124fSZs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<h3>Education and Career Guidance (ECG)</h3>
+<p><strong>What is ECG?</strong>
+</p>
+<p>Education and Career Guidance (ECG) empowers students to develop purpose,
+self-awareness, and resilience. By fostering a growth mindset and adaptability,
+ECG equips students for lifelong learning and enables them to embrace future
+opportunities and appreciate the value of diverse occupations.</p>
+<p>Education and Career Guidance (ECG) and Counselling Services are available
+by appointment in school on Tues and Wed (8.00 am to 5:00 pm) except HBL,
+School and Public Holidays.&nbsp; Requests for Online consultation is based
+on availability.</p>
+<p>Book appointment with ECG Counsellor:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hss-ecgc</a>
+</p>
+<p>You can also email your enquiries to Ms. Juan at&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">juan_peiling@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+<p><strong>Overview of ECG efforts in Hougang Secondary</strong>
+</p>
+<p><strong>Students’ Engagement</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ECG Counselling (individual
+and group sessions)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Workshops on Early Admissions
+Applications - POLY EAE, ITE EAE, DSA-JC (interview skills, Personal Statement
+writing and Portfolio development)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Workshops on Strengths
+Profiling, Goal Setting and Careers Exploration
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class-based Engagements
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Post Secondary Talks
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Careers Day Talks</p>
+<p><strong>Parent’s Engagements</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lower Secondary - Subject
+Combination Selection Talk
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upper Secondary - Education
+Pathways &amp; Post Sec Admission Talks with Parents</p>
+<p><strong>Industry Engagement</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work Experience Programme
+(WEP)
+<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; World Skills</p>
+<p><strong>Guiding Principles for ECG Student Development Experiences (SDEs):</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Student-Led Framework</strong> – SDEs are designed around the needs,
+interests, and aspirations of students. Our focus is on encouraging student
+engagement and expression, empowering them to take ownership of their Career
+and Education Guidance (ECG) learning.</p>
+</li>
+<li>
+<p><strong>Purpose Driven</strong> – SDEs are planned with specific learning
+outcomes in mind.</p>
+</li>
+<li>
+<p><strong>Adaptibility</strong> – SDEs enable students to connect, transfer,
+and apply learning across CCE ECG lessons as well as different key student
+development experiences.</p>
+</li>
+<li>
+<p><strong>Partnerships</strong> – We aim to build meaningful partnerships
+with parents, alumni, post-secondary institutions, and industry partners.</p>
+</li>
+</ol>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>ECG Resources</strong></h4>
+</td>
+</tr>
+</tbody>
+</table>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>1.&nbsp;Admission Exercises for Post Secondary Education</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>a.&nbsp;&nbsp;&nbsp; Joint Admission Exercise – O levels</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jae</a>
+</p>
+<p>b.&nbsp;&nbsp;&nbsp; Joint Admission Exercise – N levels</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/post-secondary/admissions/jie</a>
+</p>
+<p>c.&nbsp;&nbsp;&nbsp;&nbsp; Polytechnic Foundation Programme (PFP) Admissions</p>
+<p><a href="https://pfp.polytechnic.edu.sg/PFP/pfp_introduction.html" rel="noopener noreferrer nofollow" target="_blank">PFP Admissions</a>
+</p>
+<p>d.&nbsp;&nbsp;&nbsp; Early Admissions Exercise</p>
+<p>Polytechnic - <a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp" rel="noopener noreferrer nofollow" target="_blank">POLY EAE Portal</a>
+</p>
+<p>ITE - <a href="https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp" rel="noopener noreferrer nofollow" target="_blank">ITE EAE application</a>
+</p>
+<p>e.&nbsp;&nbsp;&nbsp; Art Institutions</p>
+<p>(i)&nbsp;&nbsp;&nbsp; Nanyang Academy of Fine Arts</p>
+<p><a href="https://www.nafa.edu.sg/apply-now?utm_source=Dentsu&amp;utm_medium=Search&amp;utm_campaign=NAFAQ42024&amp;utm_term=AdmissionInformation&amp;utm_content=Sitelink&amp;gad_source=1&amp;gclid=Cj0KCQiAlsy5BhDeARIsABRc6ZsQNb9UWmkra7WJ0uyXF9yH_UaR-pDDIhg2h597qlNIYBfHye9-uG8aAuaHEALw_wcB&amp;gclsrc=aw.ds" rel="noopener noreferrer nofollow" target="_blank">NAFA</a>
+</p>
+<p>(ii) Lasalle College of the Arts</p>
+<p><a href="https://www.lasalle.edu.sg/admissions" rel="noopener noreferrer nofollow" target="_blank">LASALLE</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2. MOE Course Finder</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/coursefinder</a> -
+Consolidated portal for all Polytechnics and ITE courses- Entry requirements,
+course modules and education &amp; career prospects)</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>3. MOE School Finder</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/schoolfinder</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>4. My SkillsFuture Portal (Secondary)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/secondary.html</a> –
+Assessment tests, Singapore Industry Landscape, Job role &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+videos etc)</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>5. Scholarship links</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>(i) <a rel="noopener noreferrer nofollow" target="_blank">https://scholarshipguide.com.sg/</a>
+</p>
+<p>(ii) <a rel="noopener noreferrer nofollow" target="_blank">https://brightsparks.com.sg/</a>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>6. A Guide to Post-Secondary Admission Exercises</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/postsecadminguide</a> -
+Parents can refer to the MOE ECG Resources for Parents to support their
+children’s ECG journey</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf</a> -
+Journeying with Our Children, Supporting Their Aspirations</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>7. ECG Padlet (HS)</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://padlet.com/peilingjuan/education-and-career-guidance-e09vjdae8ayzgmev</a> -
+School-based ECG resources curated by our ECG Counsellor</p>
+</div>
+</details>
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>WEP at NYP (Leadership and Character Development)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>WEP at Novotel Stevens Hotel (Hospitality)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>WEP at Harmoni Preschool (Early Childhood)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>WEP at Yishun Health (Nursing)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCE Dept/SHE1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SG Her Empowerment (SHE) Talk at Expedia (Tourism and E-Commerce)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SHE Talk at DBS (Banking)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/CCE Dept/SHE2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE Dept/WEP7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SHE Talk at Franklin Templeton (Asset Management)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sumitomo Electric Dinner &amp; Dance (Events Management)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE Dept/Sumitomo.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
