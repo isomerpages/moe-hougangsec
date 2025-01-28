@@ -63,5 +63,24 @@ Faith Loh (Lu Jing’en), 3O Soh Yi En Eudora (Su Yi’en), 3G Ting Xian Ya,
 (Fri)
 <br><strong>Venue:</strong>&nbsp;Library</p>
 <h3>Photographs</h3>
+<p>The HS Choir gave their best at Voices of Singapore 2024, singing with
+passion and dedication. A proud moment as they shared their love for music
+on this special stage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D4_VOSF24_00202.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D4_VOSF24_00181.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D4_VOSF24_00185.jpg">
+</div>
+<p>The HS Choir brought joy and warmth to Sengkang General Hospital with
+a heartfelt performance. Their melodies brightened the day for patients,
+staff, and visitors, reminding everyone of the healing power of music.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_11_18_at_16_07_41.jpg">
+</div>
 <p></p>
 <p></p>
