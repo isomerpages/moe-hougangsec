@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/as4QGU0bwRE"></iframe>
+<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yf1XHskf6z0?si=2rfdrOuqNT1B6c7E"></iframe>
 </div>
 <h3>Introduction</h3>
 <p>The National Cadet Corps (NCC) works towards developing our youth into
@@ -59,25 +59,29 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 </li>
 </ul>
 <h3>Leadership Structure</h3>
-<p><strong>Unit Sergeant Major</strong>: MSG Daryl Chua Meng Xun
-<br><strong>Assistant Unit Sergeant Major</strong>: MSG Lim Bo Le Eric</p>
-<p><strong>Junior Cadets Platoon Sergeant</strong>: SSG Bryan Tan Zi Yi <strong>Junior Cadets Asst Platoon Sergeant</strong>:
-SSG Chen Hua Ao, 3SG Wang Geng Hui, 3SG Mikkel Teo Zhi Qi</p>
-<p><strong>Senior Cadets Platoon Sergeant</strong>: SSG Goh Wei Chen
-<br><strong>Senior Cadets Asst Platoon Sergeant</strong>: SSG Colin Chiang,
-3SG Hiah Rui Feng Jayden, 3SG Mah Ming Xi</p>
-<p><strong>Cadet Leaders Platoon Sergeant</strong>: SSG Tristan Lee
-<br><strong>Cadet Leaders Asst Platoon Sergeant</strong>: SSG Su Jun Hong
-Lucas, 3SG Low Zhi Yik, 3SG Firas Rifqi Bin Halil</p>
-<p><strong>Senior Cadet Leaders Platoon Sergeant</strong>: MSG Lim Bo Le
-Eric
-<br><strong>SeniorCadet Leaders Asst Platoon Sergeant</strong>: 3SG Foo Yao
-Wen</p>
-<p><strong>Activities IC, PTI</strong>: SSG Su Jun Hong Lucas, SSG Goh Wei
-Chen, SSG Chen Hua Ao</p>
-<p><strong>Logistics &amp; Games IC / Urban Ops</strong>: 3SG Mohammed Izzan
-Bin Mohammed Salehin, 3SG Loo Shao Liang, 3SG Mah Ming Xi</p>
-<p><strong>PDS IC:</strong>: Daryl Chua Meng Xun</p>
+<p><strong>Leadership Structure:</strong>
+</p>
+<p><strong>Unit Sergeant Major: </strong>MSG Li Lingfeng<strong><br>Assistant Unit Sergeant Major: </strong>MSG
+Muhammad Ismail Bin Jumadi</p>
+<p><strong>Junior Cadets Platoon Sergeant: </strong>SSG Li YongYi<strong><br>Junior Cadets Asst Platoon Sergeant: </strong>SSG<strong> </strong>Syaqir
+Aiman Bin Rohaizad</p>
+<p><strong>Senior Cadets Platoon Sergeant: </strong>SSG<strong> </strong>Chan
+Jun Rong<strong><br>Senior Cadets Asst Platoon Sergeant: </strong>3SG Nick
+Lee Jian Wei</p>
+<p><strong>Cadet Leaders Platoon Sergeant: </strong>SSG Ong Jun Yang Scott<strong><br>Cadet Leaders Asst Platoon Sergeant: </strong>SSG
+Chai Jia Heng</p>
+<p><strong>Senior Cadet Leaders Platoon Sergeant: </strong>MSG Muhammad Ismail<strong> </strong>Bin
+Jumadi<strong><br>SeniorCadet Leaders Asst Platoon Sergeant: </strong>3SG<strong> </strong>Lucas
+Foong</p>
+<p><strong>Physical Training Instructor: </strong>MSG Muhammad Ismail Bin
+Jumadi, SSG Chan Jun Rong</p>
+<p><strong>PDS IC: </strong>SSG Ong Jun Yang Scott<strong><br>PDS 2IC: </strong>MSG
+Li Lingfeng</p>
+<p><strong>Urban Ops IC: </strong>3SG Huang TengYi Bronston, 3SG Ewan Huey
+Khoo, 3SG Lucas Foong, &nbsp;3SG Lim Yong Xuan</p>
+<p><strong>VIA IC: </strong>3SG Ewan Huey Khoo</p>
+<p><strong>Logistics &amp; Games IC: </strong>3SG Semeniano Keith Evangelista,
+3SG Jayden Lim Wei Jun</p>
 <h3>Key Programs for Junior Cadets (Sec 1)</h3>
 <ul data-tight="true" class="tight">
 <li>

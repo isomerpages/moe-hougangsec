@@ -8,17 +8,16 @@ variant: tiptap
 <p><strong>Head of Department (A&amp;T)</strong>
 <br>Mr Alfred Choo (HOD/Aesthetics and Technology)</p>
 <p><strong>Design and Technology Unit</strong>
-<br>Mr Alfred Choo
 <br>Mr Benny Ng (Senior Teacher)
 <br>Mr Anwarul Nizam B Ismail
-<br>Mr Leow Hui Chye</p>
+<br>Mr Alfred Choo</p>
 <p><strong>Visual Art Unit</strong>
 <br>Mdm Farahana Binti Abdul Rahim (Subject Coordinator)
 <br>Ms. Jane Koh
-<br>Ms. Siti Nurhizah Mohamed Hassan
-<br>Mdm Saadiah Binte Taib</p>
+<br>Ms. Siti Nurhizah Mohamed Hassan</p>
 <p><strong>Nutrition and Food Science</strong>
 <br>Mdm Azlinah Wahed (Subject Coordinator)
+<br>Ms Raidah Binte Moktar
 <br>Mdm Tan Chan Jong
 <br>Ms. Tan Wei Jing</p>
 <p><strong>Music Unit</strong>
@@ -40,8 +39,13 @@ experiential learning to all students.</p>
 learning through participation in enrichment and competitions to enhance
 their holistic education.</p>
 <h3>Highlights</h3>
-<p><strong>Secondary 1 &amp; 2 FCE Innovation Projects<br>Secondary 3 NFS Enrichment Programmes such as “Cookyn with Carbs” &amp; “Food Presentation Workshop”<br>Secondary 1 &amp; 2 Lower Secondary Music Programme<br>Secondary Art Enrichment Programme<br>Secondary 3 Design &amp; Technology ICT Lessons<br>Secondary 3 A&amp;T Staff Day Project</strong>
-</p>
+<p>Secondary 1 &amp; 2 Food and Consumer Education Innovation Projects
+<br>Secondary 3 Nutrition and Food Science Enrichment Programmes such as “Pasta
+Making Workshop” &amp; “Food Presentation Workshop”
+<br>Secondary 1 &amp; 2 Lower Secondary Music Programme
+<br>Secondary Art Enrichment Programme
+<br>Secondary 3 Design &amp; Technology ICT Lessons
+<br>Secondary 3 Aesthetics and Technology Staff Day Project</p>
 <h3>Collaborative Project</h3>
 <p><strong>Secondary 3 A&amp;T Staff Day Project</strong>
 <br>This is a collaborative project that involves three units - Art, Design
