@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/as4QGU0bwRE"></iframe>
+<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yf1XHskf6z0?si=2rfdrOuqNT1B6c7E"></iframe>
 </div>
 <h3>Introduction</h3>
 <p>The National Cadet Corps (NCC) works towards developing our youth into
