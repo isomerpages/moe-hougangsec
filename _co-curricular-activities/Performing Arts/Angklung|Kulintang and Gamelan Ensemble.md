@@ -80,43 +80,56 @@ to one’s soul, uplifting one’s spirit! For truly, the joy of music is real.<
 </ul>
 <h3>Photographs</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF AP 2023" src="/images/AKG/akg1003.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
 </div>
-<p>SYF AP 2023</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SYF AP 2023@Tuning Room" src="/images/AKG/akg1002.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
-<p>SYF AP 2023@Tuning Room</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Combined Training with Meridien Secondary School and Naval Base Secondary School" src="/images/AKG/akg1001.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
-<p>Combined Training with Meridien Secondary School and Naval Base Secondary
-School</p>
+<p><strong>Celebrating a Year of Music and Milestones:</strong>
+</p>
+<p><strong>HS Angklung Kulintang &amp; Gamelan Ensemble's Memorable 2024</strong>
+</p>
+<p>The year 2024 has been a truly remarkable one for the Angklung Kulintang
+&amp; Gamelan Ensemble, as we were involved in several prestigious events
+that showcased the rich cultural heritage of our music and brought us closer
+to the community. From school celebrations to national performances, our
+ensemble has had the honor of representing our school in ways that will
+leave lasting memories.</p>
+<p>Our musical journey began with performances at significant school events
+such as Chinese New Year, Speech Day, and National Day. These occasions
+allowed us to share the beauty of our traditional instruments, delighting
+both students and staff with our lively and vibrant rendition.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Combined Training @ Meridien Secondary School" src="/images/AKG/akg1004.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
-<p>Combined Training @ Meridien Secondary School</p>
+<p>One of the most memorable highlights of the year was when we were invited
+to perform at the Istana for the inaugural Hari Raya Aidilfitri cum Labour
+Day celebration. It was an extraordinary experience to perform in front
+of distinguished guests, including Singapore’s President, Mr. Tharman Shanmugaratnam,
+and his wife. The ensemble members not only enjoyed showcasing their musical
+talents, but also had the unique opportunity to interact with the President
+and other guests of honor, making it an unforgettable moment in our musical
+journey.</p>
+<p>As the year progressed, our ensemble continued to represent the school
+with pride. In another significant achievement, we were invited to perform
+at a cluster board meeting hosted by Hougang Secondary School. This event,
+which brought together school leaders from various institutions, was a
+fitting conclusion to an eventful year. Our performance was well-received
+and highlighted the importance of fostering cultural appreciation within
+our community.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/akge1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
 </div>
-<p>SYF 2021 – Angklung Ensemble</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/akge2.jpeg">
-</div>
-<p>SYF 2021 – Angklung Ensemble</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/akge3.jpeg">
-</div>
-<p>&nbsp;SYF 2021 – Gamelan Ensemble</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/akge4.jpeg">
-</div>
-<p>SYF 2021 – Gamelan Ensemble</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/akge5.jpeg">
-</div>
-<p>Training in school</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/akge6.jpeg">
-</div>
-<p>Training in school</p>
+<p>Reflecting on the year, 2024 has undoubtedly been one of growth, pride,
+and accomplishment for every member of the Angklung Kulintang &amp; Gamelan
+Ensemble. As we close out this exciting chapter, we are eagerly looking
+ahead to the challenges and opportunities that await us in 2025, especially
+with the upcoming Singapore Youth Festival (SYF) competition.</p>
+<p></p>
