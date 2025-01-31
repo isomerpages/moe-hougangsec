@@ -40,7 +40,7 @@ description: ""
 </p>
 <p>Sec 3: <a href="/files/Assessment/2025_Secondary_3_WA1_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 WA1 Format</a>
 </p>
-<p>Sec 4 &amp; 5: <a href="/files/Assessment/2025_Secondary_4_5_WA1_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 4 &amp; 5 WA1 Format</a>
+<p>Sec 4 &amp; 5: <a href="/files/Assessment/2025_Secondary_4_5_WA1_Format_Final.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 4 &amp; 5 WA1 Format</a>
 </p>
 </td>
 </tr>
