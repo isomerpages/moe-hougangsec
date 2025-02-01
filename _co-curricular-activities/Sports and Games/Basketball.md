@@ -124,15 +124,19 @@ and finished 3rd in the group</p>
 </div>
 <p>C Division</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/basketball%20c%20div.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
 <p>B Division</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/basketball%20b%20div.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_pic2_2024.jpg">
 </div>
-<p>Graduating cohort</p>
+<p>Showing Gratitude to Teachers</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball/basketball%20grad.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_pic3_2024.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_pic4_2024.jpg">
 </div>
 <h3>National School Games</h3>
 <div class="iframe-wrapper">
@@ -141,6 +145,15 @@ and finished 3rd in the group</p>
 <h3>Sports Education Programme (SEP)</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/11jd3kad38XMkAGBB5U8ArVjXCJoeIaU6hsiMsOV4Dco/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_pic5_2024.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_pic6_2024.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_pic7_2024.jpg">
 </div>
 <h3>Open House 2022</h3>
 <div class="iframe-wrapper">
