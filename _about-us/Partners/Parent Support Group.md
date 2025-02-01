@@ -28,56 +28,54 @@ in HS benefits your child, you as a parent and the school.</p>
 <p>To act as a bridge between school and parents</p>
 </li>
 </ul>
-<p><strong>How can HS PSG support Hougang Secondary and Benefits of a HS PSG Member:</strong>
+<p><strong>How HS PSG supports Hougang Secondary and Benefits of a HS PSG Member:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The PSG serves as a supportive community where parents can learn from
-one another and collectively contribute to their children's education.
-Members benefit from networking with diverse, like-minded parents who share
-a common goal of serving students and the school.</p>
+<p>PSG members have the opportunity to volunteer in school programmes and
+initiatives in a structured and meaningful way, contributing to a vibrant
+school community.</p>
 </li>
 <li>
-<p>PSG acts as a channel for parents to provide constructive feedback on
-school policies and matters in a structured manner.</p>
+<p>The PSG provides a platform for parents to connect, share experiences,
+and learn from one another. Members come from diverse backgrounds and bring
+valuable skills, fostering a supportive community that benefits both students
+and the school.</p>
 </li>
 <li>
-<p>PSG offers parents the chance to develop new skills, share their expertise,
-and gain valuable experiences through active involvement in school life.</p>
-</li>
-<li>
-<p>Being part of the PSG strengthens the connection between parents and the
-school, fostering a collaborative approach to education.</p>
+<p>The PSG serves as a bridge between parents and the school, offering a
+constructive platform to share feedback on school policies and initiatives,
+promoting collaboration for the benefit of all.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>PSG members are welcomed to volunteer and contribute in various ways, depending on the parents’ availability, preference and interests, such as:</strong>
+<p><strong>PSG members are welcome to volunteer based on their availability, interests, and strengths. Opportunities to contribute include:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Attending PSG meetings and contribute your time and talents (e.g. through
-arts &amp; craft);</p>
+<p>Act as a bridge between parents and the school by providing constructive
+feedback to support policy improvements and school initiatives.</p>
 </li>
 <li>
-<p>Providing feedback and suggestions on parental involvement;</p>
+<p>Attend and assist in school functions, fostering a srong school-home partnership.</p>
 </li>
 <li>
-<p>Attending and supporting school functions and events as members of the
-PSG;</p>
+<p>Actively support and promote the school’s vision, values, and direction.</p>
 </li>
 <li>
-<p>Recruiting other parent volunteers to join the PSG;</p>
+<p>Engage in discussions and contribute ideas, skills, and talents (e.g.,
+arts &amp; craft) to enrich PSG initiatives.</p>
 </li>
 <li>
-<p>Representing parents’ voices and provide constructive feedback to help
-school implement new policies / improvement;</p>
+<p>Provide suggestions on how to enhance parental engagement in school activities.</p>
 </li>
 <li>
-<p>Offering professional and personal expertise to the PSG to help improve
-its processes; and</p>
+<p>Help grow the PSG community by encouraging other parents to join.</p>
 </li>
 <li>
-<p>Supporting and advocating the school’s mission, vision and directions.</p>
+<p>Share professional or personal knowledge to improve PSG initiatives and
+processes.</p>
+<p></p>
 </li>
 </ul>
 <p></p>
