@@ -94,12 +94,36 @@ bravery, and the power of human connection. By the end of the performance,
 it was clear that <em>Come On! Ryder</em> successfully communicated its core
 message: no matter how difficult the challenges may seem, with the love
 and support of those around us, we can find the strength to persevere.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1fhBpDyydcbfNR5a_uXWNZrIa16qYAtFl/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_1.jpg">
 </div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pKujUEl3yi8?si=km64a_20B-xpM1Is"></iframe>
+<p>One unique aspect of the performance was the creative use of large-scale
+LEGO props that were built to bring the world of Come On! Ryder to life.
+These oversized LEGO structures, including towering buildings, landscapes,
+and fantastical creatures, created a visually striking and imaginative
+environment on stage.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_2.jpg">
 </div>
+<p>Hougang Secondary School students sat together, smiling and laughing as
+they watched a live performance. Their faces lit up with enjoyment, some
+leaning forward with excitement, showing they were fully immersed in the
+show.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_3.jpg">
+</div>
+<p>Hougang Secondary School students sat attentively in their seats, eyes
+focused on the stage. They looked engaged, with expressions of curiosity
+and concentration, as they took in every detail of the performance unfolding
+in front of them.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_4.jpg">
+</div>
+<p>A performer on stage gestured towards the audience, and several Hougang
+Secondary School students eagerly raised their hands, some even standing
+up slightly, excited to be chosen to respond. Their faces showed enthusiasm,
+and they looked thrilled to participate in the interaction.</p>
 <h3><strong>Mother Tongue Language (MTL) Fortnight 2023 Overview</strong></h3>
 <p>The MTL Fortnight is an annual program designed to create an immersive
 environment for students to learn and appreciate Mother Tongue Languages
