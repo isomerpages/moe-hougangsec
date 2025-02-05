@@ -10,15 +10,18 @@ variant: tiptap
 <p><strong>Subject Head:</strong>
 <br>Ms. Yvonne Liew</p>
 <p><strong>Teachers:</strong>
+<br>Mr Muhammad Irwan Bin Jamal (ML ST)
 <br>Ms. Chen Si Si
 <br>Mdm Fazillah Binte Mohamed Ismail
 <br>Mr Lee Heng Han
-<br>Mr Muhammad Irwan Bin Jamal (ML ST)
+<br>Mr Mohamed Hairi Bin Nor Azmi
+<br>Mr Leo Sing Ann
 <br>Ms. Nur Nadzirah Bte Mohamed Hassan
 <br>Ms. Yu Honghong
 <br>Mdm Wang Qingzhen
-<br>Mr Paul Liew Soot Poh Mdm Rohayah Binte Ya'acub
-<br>Mdm Sun Junmo Mr Watt Chan Meng</p>
+<br>Mdm Rohayah Binte Ya'acub
+<br>Mdm Sun Junmo
+<br>Mr Watt Chan Meng</p>
 <h3>Vision</h3>
 <p>To nurture in our students a strong foundation in their Mother Tongue
 Languages and an enduring interest in their culture.</p>
