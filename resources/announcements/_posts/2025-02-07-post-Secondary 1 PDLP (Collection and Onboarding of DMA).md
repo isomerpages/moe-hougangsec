@@ -10,7 +10,8 @@ variant: tiptap
 <p>The school has arranged for your child to collect the Personal Learning
 Device (PLD) in school <strong>on 20<sup>th</sup> Feb</strong>, <strong>8.45 am</strong>.
 <br>Since it is a HBL day, the school work received by your child will be
-adjusted accordingly.
+adjusted accordingly. Students who did not purchase through the school
+should also attend and bring their own PLD for the installation of DMA.
 <br>
 <br>Your child will be collecting the following:</p>
 <p>- Model: Apple iPad 10.9 10th Gen, 64GB Storage (GB),
