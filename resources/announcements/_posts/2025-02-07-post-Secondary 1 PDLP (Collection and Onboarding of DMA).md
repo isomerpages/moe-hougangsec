@@ -61,21 +61,24 @@ accessed on the PLD,
 to the student, and
 <br>(c) placing restrictions on students’ screen time to prevent cyber addiction.</p>
 </li>
-</ul>
+<li>
 <p>Please refer to <a rel="noopener noreferrer nofollow" target="_blank">https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/pld-initiative/</a> for
 more details on the functions and features of the DMA, and on the collection
 and protection of personal data.
 <br>
 <br>You will be receiving the soft copy bill in mid-February. &nbsp;No further
 action is required if you have opted for payment through Edusave. For parents
-who have opted for:</p>
-<p>(a) Payment through GIRO (recommended) : Please ensure sufficient funds
+who have opted for:
+<br>
+<br>(a) Payment through GIRO (recommended) : Please ensure sufficient funds
 in the GIRO account to be deducted.
 <br>(b) Payment by Cheque : Please cross the cheque and indicate Ministry
 of Education as account payable.
 <br>(c) Payment through SAM : Pay to Ministry of Education. Please key in
 your child/ward’s NRIC/FIN and amount payable when prompted.
 <br>(d) Payment by Cash : Pay at the General Office after school dismissal.</p>
+</li>
+</ul>
 <p>Should there be any further queries or clarifications, please contact
 the general office at 6385-1990, or our HOD/ICT &amp; Data Management at
 <a rel="noopener noreferrer nofollow" target="_blank">javen_gwee_chen_meng@moe.edu.sg</a>.</p>
