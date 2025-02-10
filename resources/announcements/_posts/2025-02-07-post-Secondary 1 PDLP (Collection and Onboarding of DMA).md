@@ -8,10 +8,16 @@ image: ""
 variant: tiptap
 ---
 <p>The school has arranged for your child to collect the Personal Learning
-Device (PLD) in school <strong>on 20<sup>th</sup> Feb</strong>, <strong>8.45 am</strong>.
-<br>Since it is a HBL day, the school work received by your child will be
-adjusted accordingly. Students who did not purchase through the school
-should also attend and bring their own PLD for the installation of DMA.
+Device (PLD) <strong><u>in school</u></strong>  <strong>on 20<sup>th</sup> Feb</strong>, <strong>8.45 am</strong>.
+The schedule session for our school is 9.00 to 10.30 am. We will be releasing
+your child/ward thereafter from school. Please make the necessary transport
+arrangements for your child. Students who did not purchase through the
+school should also attend and bring their own PLD for the installation
+of the DMA.
+<br>
+<br>As it is also a HBL day, the HBL work received by your child will be adjusted
+accordingly. Please note that your child/ward is still expected to complete
+the assigned work for the day.
 <br>
 <br>Your child will be collecting the following:</p>
 <p>- Model: Apple iPad 10.9 10th Gen, 64GB Storage (GB),
@@ -21,8 +27,8 @@ should also attend and bring their own PLD for the installation of DMA.
 <br>The purchase includes a 3-Year carry-in warranty and 3-Year insurance.
 <br>
 <br>During the session, the school will need to use your child’s/ward’s full
-name, Student iCON ID and class to set up user accounts. Your child will
-also be <strong>provided with a School Managed Apple ID</strong> (e.g.
+name, <strong>Student iCON</strong>  <strong>ID</strong> (e.g. <a rel="noopener noreferrer nofollow" target="_blank">peter_jones_lim@students.edu.sg)</a> and
+class to set up user accounts. Your child will also be <strong>provided with a School Managed Apple ID</strong> (e.g.
 <a rel="noopener noreferrer nofollow" target="_blank">peter_jones_lim@appleid.hougangsec.moe.edu.sg</a>). This provides your
 child 200 GB of iCloud storage so that they can easily sync and backup
 their learning materials throughout their secondary school years.
