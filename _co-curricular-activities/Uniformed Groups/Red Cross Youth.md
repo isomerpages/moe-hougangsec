@@ -32,33 +32,8 @@ dignity, relieving human suffering and responding to emergencies.</p>
 </li>
 </ul>
 <h3>Achievements</h3>
-<p>First Aid Championship</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2019: Senior Category Gold and Junior Category Gold</p>
-</li>
-<li>
-<p>2022: Senior Category Silver</p>
-</li>
-<li>
-<p>2024: Senior Category and Junior Category Bronze</p>
-</li>
-</ul>
-<p>Excellent Unit Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>2021: Gold</p>
-</li>
-<li>
-<p>2022: Gold</p>
-</li>
-<li>
-<p>2023: Gold</p>
-</li>
-<li>
-<p>2024: Gold</p>
-</li>
-</ul>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h3>CCA Leadership Structure</h3>
 <ul data-tight="true" class="tight">
 <li>
