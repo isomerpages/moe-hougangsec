@@ -27,20 +27,8 @@ and military-related activities.</p>
 <p>To serve with pride and dedication</p>
 <h3>Achievements</h3>
 <h5><strong>Unit Recognition</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Accomplishment (2022)</p>
-</li>
-<li>
-<p>Distinction (2021)</p>
-</li>
-<li>
-<p>Distinction (2019)</p>
-</li>
-<li>
-<p>Distinction (2018)</p>
-</li>
-</ul>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h3>Route of Advancement</h3>
 <ul data-tight="true" class="tight">
 <li>
@@ -182,8 +170,4 @@ Khoo, 3SG Lucas Foong, &nbsp;3SG Lim Yong Xuan</p>
 <p><strong>Day</strong>: Tuesday &amp; Friday
 <br><strong>Time</strong>: 3.15 pm - 5.30 pm (Tue) / 2.30 pm - 5.30 pm (Fri)
 <br><strong>Venue</strong>: School Compound</p>
-<h3>Photographs</h3>
-<div class="iframe-wrapper">
-<iframe height="422" width="700" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR4g2iEm8jd8NAZhC6_W70LRjC_kTUKbdHcFrNXfxHUtiVGyqBVkxQbOqzX_6V7hufs69qVWJ56xv7J/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
 <p></p>
