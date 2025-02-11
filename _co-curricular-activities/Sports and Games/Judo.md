@@ -3,251 +3,262 @@ title: Judo
 permalink: /co-curricular-activities/Sports-and-Games/judo/
 description: ""
 third_nav_title: Sports and Games
-variant: markdown
+variant: tiptap
 ---
-<center><iframe width="830" height="315" src="https://www.youtube.com/embed/BVwmUn2K5gk" title="2022 Judo Open House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></center>
-
-
-### Vision
-
-Position HS as centre of excellence for judo in the secondary school level
-
-### Mission
-
-Develop positive and resilient judokas with exemplary sportsmanship
-
-### Motto
-
-Respect all, fear none
-
-### Achievements
-
-<center><h5>Achievements in 2019</h5></center>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pex6{background-color:#ECECEC;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-j9k7{background-color:#ECECEC;color:#333;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+<div class="iframe-wrapper">
+<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BVwmUn2K5gk"></iframe>
+</div>
+<h3>Vision</h3>
+<p>Position HS as centre of excellence for judo in the secondary school level</p>
+<h3>Mission</h3>
+<p>Develop positive and resilient judokas with exemplary sportsmanship</p>
+<h3>Motto</h3>
+<p>Respect all, fear none</p>
+<h3>Achievements</h3>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<h3>CCA Leadership Structure</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-pex6">Championship</td>
-    <td class="tg-pex6">Achievement</td>
-  </tr>
-  <tr>
-    <td class="tg-j9k7"><span style="font-weight:400;color:#333">SJF Junior Judo</span></td>
-    <td class="tg-j9k7"><span style="font-weight:400;color:#333">1 Gold, 2 Silver, 1 Bronze</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Captain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Captain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ethan Chen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jovan Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Qamarul Ariff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bertrand Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yu Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joycelyn Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Boys</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jay Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Damian Chew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xaviera Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fazira Ain</p>
+</td>
+</tr>
 </tbody>
 </table>
-
+<p>
 <br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-emg8{background-color:#ECECEC;color:#222;text-align:left;vertical-align:top}
-.tg .tg-2vo4{background-color:#999;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-2vo4">Event</td>
-    <td class="tg-2vo4">Achievement</td>
-  </tr>
-  <tr>
-    <td class="tg-emg8"><span style="font-weight:normal">National Inter-School Judo Championships (Team)</span></td>
-    <td class="tg-emg8"><span style="font-weight:400">C Girls - 2nd</span></td>
-  </tr>
-  <tr>
-    <td class="tg-emg8"><span style="font-weight:normal">National Inter-School Judo Championships (Individual)</span></td>
-    <td class="tg-emg8"><span style="font-weight:400">C Girls Feather Weight - 1st</span><br><span style="font-weight:400">C Girls Middle Weight - 1st</span><br><span style="font-weight:400">B Boys Extra Light Weight - 3rd (2 winners)</span><br><span style="font-weight:400">B Girls Middle Weight - 3rd</span><br><span style="font-weight:400">B Boys Extra Light Weight - 3rd</span><br><span style="font-weight:400">C Girls Light Weight - 3rd</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhd Israf</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dawn Tay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sports Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joshua Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ruth Ong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reflection
+<br>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Zarifah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ryan Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hong Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liu Mei Han</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-### CCA Leadership Structure
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<h3>Programmes</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-rdtm"></td>
-    <td class="tg-rdtm">Captain</td>
-    <td class="tg-rdtm">Vice-Captain</td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Overall</td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Ethan Chen</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Jovan Chan</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">B Boys</td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Qamarul Ariff</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Bertrand Lim</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">B Girls</td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Yu Xuan</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Joycelyn Ng</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">C Boys</td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Jay Lee</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Damian Chew</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">C Girls</td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Xaviera Tay</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Fazira Ain</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15pm – 5.45pm
+<br>School Hall / Judo Room (Level 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm – 5.00 pm
+<br>School Hall
+<br>(Level 2)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-citn{background-color:#FFF;color:#333;text-align:left;vertical-align:top}
-.tg .tg-rdtm{background-color:#FFF;color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-rdtm">VIA</td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Muhd Israf</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Dawn Tay</span></td>
-  </tr>
-  <tr>
-    <td class="tg-apyk">Sports Secretary</td>
-    <td class="tg-tlx9"><span style="font-weight:400;color:#333">Joshua Lim</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Ruth Ong</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">R<span style="background-color:initial">eflection</span><br>Secretary</td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Nur Zarifah</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Ryan Lee</span></td>
-  </tr>
-  <tr>
-    <td class="tg-rdtm">Treasurer</td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Hong Ming</span></td>
-    <td class="tg-citn"><span style="font-weight:400;color:#333">Liu Mei Han</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Competitions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S A Age Group Championship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games (NSG)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>*SJF Cadet &amp; Junior Championship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SJF Kyu Grade Championship</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Programmes
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pex6{background-color:#ECECEC;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-j9k7{background-color:#ECECEC;color:#333;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+<p>SJF -Student Judo Foundation</p>
+<p><strong>Coach</strong>: Lin Yu Sheng</p>
+<h3>Training Venue and Days</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-pex6">CCA</td>
-    <td class="tg-pex6">Tuesdays</td>
-    <td class="tg-pex6">Friday</td>
-  </tr>
-  <tr>
-    <td class="tg-pex6">Training</td>
-    <td class="tg-j9k7"><span style="font-weight:400;color:#333">3.15pm – 5.45pm</span><br><span style="font-weight:400;color:#333">School Hall / Judo Room (Level 4)</span></td>
-    <td class="tg-j9k7"><span style="font-weight:400;color:#333">2.00pm – 5.00 pm</span><br><span style="font-weight:400;color:#333">School Hall</span><br><span style="font-weight:400;color:#333">(Level 2)</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesdays</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 pm – 5.45 pm
+<br>HS Dojo / Judo Room (Level 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 pm – 5.00 pm
+<br>School Hall
+<br>(Level 2)</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pex6{background-color:#ECECEC;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-j9k7{background-color:#ECECEC;color:#333;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-pex6">Competitions</td>
-  </tr>
-  <tr>
-    <td class="tg-j9k7"><span style="font-weight:400;color:#333">S A Age Group Championship</span></td>
-  </tr>
-  <tr>
-    <td class="tg-j9k7"><span style="font-weight:400;color:#333">National School Games (NSG)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-j9k7"><span style="font-weight:400;color:#333">*SJF Cadet &amp; Junior Championship</span></td>
-  </tr>
-  <tr>
-    <td class="tg-j9k7"><span style="font-weight:400;color:#333">SJF Kyu Grade Championship</span></td>
-  </tr>
-</tbody>
-</table>
-
-SJF -Student Judo Foundation
-
-
-**Coach**: Lin Yu Sheng
-
-### Training Venue and Days
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pex6{background-color:#ECECEC;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-j9k7{background-color:#ECECEC;color:#333;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-pex6">CCA</td>
-    <td class="tg-pex6">Tuesdays</td>
-    <td class="tg-pex6">Friday</td>
-  </tr>
-  <tr>
-    <td class="tg-pex6">Training</td>
-    <td class="tg-j9k7"><span style="font-weight:400;color:#333">3.15 pm – 5.45 pm</span><br><span style="font-weight:400;color:#333">HS Dojo / Judo Room (Level 4)</span></td>
-    <td class="tg-j9k7"><span style="font-weight:400;color:#333">2.00 pm – 5.00 pm</span><br><span style="font-weight:400;color:#333">School Hall</span><br><span style="font-weight:400;color:#333">(Level 2)</span></td>
-  </tr>
-</tbody>
-</table>
-
-### Photographs
-
-![](/images/jd3.jpeg)
-
-![](/images/jd4.jpeg)
+<h3>Photographs</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jd3.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jd4.jpeg">
+</div>
+<p></p>
