@@ -47,18 +47,8 @@ variant: tiptap
 <h3>Achievements</h3>
 <p><strong>Singapore Youth Festival:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Accomplishment (2023)</p>
-</li>
-<li>
-<p>Certificate of Accomplishment (2021)</p>
-</li>
-<li>
-<p>Certificate of Accomplishment (2019)
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 <br>&nbsp;</p>
-</li>
-</ul>
 <h3>Training Venue and Days</h3>
 <p><strong>Day:</strong>&nbsp;Tuesday &amp; Friday
 <br><strong>Time:</strong>&nbsp;3.15pm - 5.30 pm (Tue) / 2.15 pm - 5.15 pm
