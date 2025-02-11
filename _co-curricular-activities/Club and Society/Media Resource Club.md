@@ -52,6 +52,7 @@ having fun!</p>
 <br>Tuesdays 3.15pm – 5.30pm</p>
 <p><strong>Media Training</strong>
 <br>Fridays 2.00pm – 4.30pm</p>
+<h3>Achievements</h3>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p></p>
