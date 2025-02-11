@@ -36,16 +36,8 @@ to one’s soul, uplifting one’s spirit! For truly, the joy of music is real.<
 <p>Sec 2 – Najihah Binte Noor Affandy</p>
 <p>Sec 3 – Ezann Beh</p>
 <h3>Achievements</h3>
-<p><strong>Singapore Youth Festival:</strong>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<p><strong>Angklung/ Kulintang Ensemble</strong> 
-<br>• Certificate of Distinction (2023)
-<br>• Certificate of Distinction (2021)
-<br>• Certificate of Distinction (2019)</p>
-<p><strong>Gamelan Ensemble</strong> 
-<br>• Certificate of Distinction (2023)
-<br>• Certificate of Distinction (2021)
-<br>• Certificate of Accomplishments (2019)</p>
 <h3>Training Venue and Days</h3>
 <p><strong>Day:</strong>&nbsp;Tuesday &amp; Friday
 <br><strong>Time:</strong>&nbsp;3.00 pm - 5.30 pm (Tue) / 2.15 pm - 5.15 pm

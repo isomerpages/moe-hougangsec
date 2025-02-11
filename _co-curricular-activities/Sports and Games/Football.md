@@ -40,6 +40,35 @@ highest level and do what is best for the team.</p>
 <br>Play with your heart
 <br>Serve with dedication</p>
 <h3>Achievements</h3>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<h3>CCA Leadership Structure</h3>
+<p><strong>'C' Division</strong>
+<br><strong>Captain</strong>: Qashryn Ryan Bin Shaifudin</p>
+<p><strong>'B' Division</strong>
+<br><strong>Captain</strong>: Muhammad Rayyan Mirza Bin Juandi
+<br><strong>Vice-Captain</strong>: Aadil Ilhan Bin Nazry Isa
+<br><strong>Vice-Captain</strong>: Samyoug Rai</p>
+<p><strong>VIA Leaders</strong>: Ng Yu Wen, Idraki Rafdi Bin Mohamad Arzad</p>
+<p>Coach: Mr Nor Azli, Geylang International FC
+<br>Asst Coach: Mr Azlan Alipah, Geylang International FC
+<br>Alumni Coaches: Vivek Misir</p>
+<h3>Training Venue and Days</h3>
+<p><strong>Day:</strong>&nbsp;Tuesday &amp; Friday
+<br><strong>Time:</strong>&nbsp;3.00 pm - 5.00 pm
+<br><strong>Venue:</strong>&nbsp;School Field</p>
+<p><strong>VIA</strong>:
+<br>CCA-VIA Carnival
+<br>Learn-a-skill (Collaboration with other CCAs)
+<br>Primary 6 Futsal tournament</p>
+<p>For more information on HS Football CCA, click on this link;
+<br><a href="https://sites.google.com/moe.edu.sg/hsfootballcca/home" rel="noopener noreferrer nofollow" target="_blank">HS Football CCA Updates</a>
+</p>
+<h3>Photographs</h3>
+<div class="iframe-wrapper">
+<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSgtdGXWs-BvWRWsa5DUOwcRFuqKUf6Gwwvku98wQ9DSgvbcdHm0BR2WrdZLJCVNEQ3-oh02hoeoWz-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -96,30 +125,4 @@ Division Boys - Fair Play Award</p>
 </tr>
 </tbody>
 </table>
-<h3>CCA Leadership Structure</h3>
-<p><strong>'C' Division</strong>
-<br><strong>Captain</strong>: Qashryn Ryan Bin Shaifudin</p>
-<p><strong>'B' Division</strong>
-<br><strong>Captain</strong>: Muhammad Rayyan Mirza Bin Juandi
-<br><strong>Vice-Captain</strong>: Aadil Ilhan Bin Nazry Isa
-<br><strong>Vice-Captain</strong>: Samyoug Rai</p>
-<p><strong>VIA Leaders</strong>: Ng Yu Wen, Idraki Rafdi Bin Mohamad Arzad</p>
-<p>Coach: Mr Nor Azli, Geylang International FC
-<br>Asst Coach: Mr Azlan Alipah, Geylang International FC
-<br>Alumni Coaches: Vivek Misir</p>
-<h3>Training Venue and Days</h3>
-<p><strong>Day:</strong>&nbsp;Tuesday &amp; Friday
-<br><strong>Time:</strong>&nbsp;3.00 pm - 5.00 pm
-<br><strong>Venue:</strong>&nbsp;School Field</p>
-<p><strong>VIA</strong>:
-<br>CCA-VIA Carnival
-<br>Learn-a-skill (Collaboration with other CCAs)
-<br>Primary 6 Futsal tournament</p>
-<p>For more information on HS Football CCA, click on this link;
-<br><a href="https://sites.google.com/moe.edu.sg/hsfootballcca/home" rel="noopener noreferrer nofollow" target="_blank">HS Football CCA Updates</a>
-</p>
-<h3>Photographs</h3>
-<div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSgtdGXWs-BvWRWsa5DUOwcRFuqKUf6Gwwvku98wQ9DSgvbcdHm0BR2WrdZLJCVNEQ3-oh02hoeoWz-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>

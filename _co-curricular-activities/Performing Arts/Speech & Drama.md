@@ -48,20 +48,8 @@ communication works.&nbsp;</p>
 <h3>Achievements</h3>
 <p><strong>Singapore Youth Festival:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Accomplishment (2017 and 2019)</p>
-</li>
-<li>
-<p>Certificate of Distinction (2021)</p>
-</li>
-<li>
-<p>Certificate of Accomplishment (2023)</p>
-</li>
-</ul>
-<p>2023 ACJC Speech Arts Competition Top 3 &amp; Finalist (Comic Speech Category)</p>
-<p>2024 37th YMCA Plain English Speaking Awards Semi Finalist</p>
-<p>(Top 14 in Lower Secondary Category)</p>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <p></p>
 <h3>Performances</h3>
 <ul data-tight="true" class="tight">

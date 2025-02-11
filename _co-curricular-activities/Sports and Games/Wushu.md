@@ -35,6 +35,10 @@ skills and weapons.</p>
 <p><strong>Motto:</strong>
 </p>
 <p>Strive Hard. Stand Strong. Show Respect.</p>
+<h3>Achievements</h3>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
+<h3>Photos</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOzL7sd-OG17SlHcTMXsEGWULZvpQ8GNPjX1wpkcl8woo4QHyb2EhnU0JpBAn1eQ/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>

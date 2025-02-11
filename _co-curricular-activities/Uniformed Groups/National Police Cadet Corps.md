@@ -18,15 +18,8 @@ keep Singapore safe.</p>
 <h3>Motto</h3>
 <p>Your attitude determines your altitude.</p>
 <h3>Achievements</h3>
-<p>Unit Overall Proficiency Award</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Distinction (2023)</p>
-</li>
-<li>
-<p>Distinction (2022)</p>
-</li>
-</ul>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h3>Route of Advancement</h3>
 <p>CDT – LCP – CPL – SGT – SSG – SI</p>
 <h3>Key Programmes for Secondary 1 Cadets</h3>
