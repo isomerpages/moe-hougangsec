@@ -48,21 +48,8 @@ while maximising each player’s potential</p>
 </li>
 </ul>
 <h3>Achievements</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>North Zone B Division Championships 2018: Advanced to the Second Round
-and finished 3rd in the group</p>
-</li>
-<li>
-<p>North Zone C Division Championship 2022: Advanced to the Second Round</p>
-</li>
-<li>
-<p>North Zone B Division Championship 2023: Advanced to the Second Round</p>
-</li>
-<li>
-<p>North Zone B Division Championship 2024: Advanced to the Second Round</p>
-</li>
-</ul>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h3>CCA Leadership Structure</h3>
 <p><strong>B Division (2024)</strong>
 <br><strong>Captain:</strong>&nbsp;Jun Xiang (3N)
