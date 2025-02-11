@@ -48,26 +48,8 @@ and future leaders in the game, school and community.</p>
 </li>
 </ul>
 <h3>Achievements</h3>
-<p>‘B’ Division National School Games (Floorball)</p>
-<p>‘C’ Division National School Games (Floorball)</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Boys (Pool C)</p>
-</li>
-<li>
-<p>Girls (Pool B)</p>
-</li>
-</ul>
-<p>H.S.P Floorball Cup 2024</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Boys (Champion)</p>
-</li>
-<li>
-<p>Girls (1st Runner Up)</p>
-</li>
-</ul>
-<p></p>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h3>OUR LEADERS</h3>
 <h5>B’ DIVISION (2024/2025)</h5>
 <p><strong><u>Boys Team</u></strong>
