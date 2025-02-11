@@ -24,29 +24,9 @@ resilience, discipline and respect.&nbsp;</p>
 <h3>Mission</h3>
 <p>To nurture Youth, based on sound values, to lead and serve</p>
 <h3>Achievements</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>BB Best Boy Award 2023 – S P Chua Medal: Leow Peng Siang (4N, 2023)</p>
-</li>
-<li>
-<p>Character Quest 2023 – Silver Honour Roll</p>
-</li>
-<li>
-<p>JM Fraser Award for Unit Excellence: Distinction</p>
-</li>
-<li>
-<p>Play Inclusive! 2024 with MINDS Fernvale Gardens School – Gold for unified
-football team</p>
-</li>
-<li>
-<p>Participated in Uniformed Groups National Camp 2024: Ee Jia Le Nicholas</p>
-</li>
-<li>
-<p>Participation in Boys’ Brigade NDP 2024 combined marching contingent:
-Muhammad Zulkifl Bin Mohd Nazrie</p>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <p></p>
-</li>
-</ul>
 <h3>Officers-In-Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
