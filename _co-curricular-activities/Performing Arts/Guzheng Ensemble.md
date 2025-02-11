@@ -27,26 +27,8 @@ variant: tiptap
 </ul>
 <h3>Achievements</h3>
 <p>Singapore Youth Festival Arts Presentation:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Certificate of Accomplishment (2023)</p>
-</li>
-<li>
-<p>Certificate of Distinction (2021)</p>
-</li>
-<li>
-<p>Certificate of Distinction (2019)</p>
-</li>
-<li>
-<p>Certificate of Distinction (2017)</p>
-</li>
-<li>
-<p>Certification of Accomplishment (2015)</p>
-</li>
-<li>
-<p>Certification of Distinction (2013)</p>
-</li>
-</ul>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h3>CCA Leadership Structure</h3>
 <table style="minWidth: 75px">
 <colgroup>
