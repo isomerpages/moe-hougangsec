@@ -49,14 +49,8 @@ Faith Loh (Lu Jing’en), 3O Soh Yi En Eudora (Su Yi’en), 3G Ting Xian Ya,
 </li>
 </ul>
 <h3>Achievements</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Participated in Singapore Youth Festival Arts Presentation 2021</p>
-</li>
-<li>
-<p>Performed for Voices of Singapore Concert 2024</p>
-</li>
-</ul>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here<u>.</u></a>
+</p>
 <h3>Training Venue and Days</h3>
 <p><strong>Day:</strong>&nbsp;Tuesday &amp; Friday
 <br><strong>Time:</strong>&nbsp;3.30 pm - 5.30 pm (Tue) / 1.15 pm - 4.00 pm
