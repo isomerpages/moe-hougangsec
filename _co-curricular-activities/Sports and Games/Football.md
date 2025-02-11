@@ -40,6 +40,8 @@ highest level and do what is best for the team.</p>
 <br>Play with your heart
 <br>Serve with dedication</p>
 <h3>Achievements</h3>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
