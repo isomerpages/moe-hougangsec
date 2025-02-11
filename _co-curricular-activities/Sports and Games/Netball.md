@@ -57,6 +57,9 @@ MOHAMMED HISHAM (4O)</p>
 <p><strong>Sec 4 VIA Leader</strong>: LEOW ZI XUAN, RAINE</p>
 </li>
 </ol>
+<h3>Achievement</h3>
+<p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <h3>Training Venue and Days</h3>
 <p><strong>Day</strong>: Tuesday &amp; Friday
 <br><strong>Time</strong>: 3.15 pm - 5.45 pm (Tue) / 1.30 pm - 4.00 pm (Fri)
