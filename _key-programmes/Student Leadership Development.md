@@ -192,8 +192,8 @@ and to inspire them to continue to serve their school community. The second
 event is the year-end Summit, where student leaders come together to reflect
 on their experiences over the year, celebrate their successes, and set
 new goals for the future.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Leadership/student%20leadership%205.jpg">
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmBhSnDmo8y0PoMkSYZ-PyFkgz53stuL1urV50jT6SQdhkcQanKyYO1IFi0QvpGeGy1eYwIi2M3fhb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>References:</p>
 <p>Ministry of Education Singapore. (2021). Character and Citizenship Education
