@@ -2,7 +2,7 @@
 title: Humanities
 permalink: /departments/humanities/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>Head of Department</strong>
 <br>Mr Andy Koh Min Chit
@@ -21,8 +21,8 @@ variant: markdown
 <br>Miss Joanne Toh
 <br>Miss Nurbaya Binte Rameh
 <br>Ms Yvonne Chin
-<br>Mr Alvin Lye
-</p><p>Aristotle once said, “<em>For the things we have to learn before we can do them, we learn by doing them</em>.”</p>
+<br>Mr Alvin Lye</p>
+<p>Aristotle once said, “<em>For the things we have to learn before we can do them, we learn by doing them</em>.”</p>
 <p>Simply put, knowledge is gained by making meaning from direct experiences,
 a theory popularized by renowned American educational theorist, David A.
 Kolb.</p>
@@ -133,21 +133,6 @@ our Presidents and Singapore’s diplomatic relations with other nations.</p>
 </div>
 <h3>Upper Secondary</h3>
 <h4>Geographical Investigation</h4>
-<p><u>Sec 4/5</u>
-<br>The Humanities Department has organized a Geographical Investigation (GI)
-for our Sec 4 and 5 Geography Elective students held at Jewel Changi Airport.
-Through this activity, students will be able to conduct data gathering
-and extend their classroom learning through direct observation and experience.</p>
-<p>Their investigation revolved around the number of visitors that flock
-to Jewel and if there was a correlation to the either the variety of attractions
-and amenities found at Jewel, or the variety of food and beverage establishments
-present in the area.</p>
-<p>Students were tasked to conduct the following:
-<br>● Detailed land use survey
-<br>● Pedestrian count
-<br>● Observation through annotated photographs</p>
-<p>After which, they took their primary data back to the classroom to make
-sense of the data after visually representing it and discussing as a group.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/gi_jewel_4.jpg">
 </div>
