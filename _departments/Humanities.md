@@ -82,23 +82,56 @@ then come out with a conclusion and a reflection on the whole process of
 their investigation.</p>
 <h4>Historical Investigation (HI)</h4>
 <p><u>Sec 1</u>
-<br>This year, the Secondary One students visited two museums - the Sun Yat
-Sen Nanyang Memorial Hall and the National Museum of Singapore. They looked
-through the artefacts and exhibits on display to help them in their investigation
-of life in Colonial Singapore. Gathering evidence by photographing relevant
-exhibits and applying their newly learnt historical thinking concepts,
-the students were able to make inferences about Singapore’s past. HI learning
-journeys indeed sparked joy in the students’ learning as they brought history
-to life, outside the classroom.</p>
+<br>This year, the Secondary One students visited two museums - the SGH Museum
+and the National Museum of Singapore. They looked through the artefacts
+and exhibits on display to help them in their investigation of life in
+Colonial Singapore. Gathering evidence by photographing relevant exhibits
+and applying their newly learnt historical thinking concepts, the students
+were able to make inferences about Singapore’s past. HI learning journeys
+indeed sparked joy in the students’ learning as they brought history to
+life, outside the classroom.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/hi_sec%201_2r.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240320_092318.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240320_092624.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240320_092845.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240320_094841.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240320_123802.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240320_124235.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240404_091215.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240404_093800.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240404_094410.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240404_094416.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240404_095252.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240404_095253.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20240404_095326.jpg">
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/hi_sec%201_1r.jpg">
-</div>
 <p><u>Sec 2</u>
 <br>This year, the Secondary Two students went through a series of museum
 virtual tours designed by our very own Secondary Two history teachers.
