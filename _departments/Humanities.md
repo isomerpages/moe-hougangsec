@@ -16,13 +16,13 @@ variant: markdown
 <br><strong>Teachers</strong>
 <br>Mr Low Yi En
 <br>Mr Ng Wee Chung
-<br>Mr Vicknesh Kunnansekaran</p>
-<p>Mrs Jeannie Pan
+<br>Mr Vicknesh Kunnansekaran
+<br>Mrs Jeannie Pan
 <br>Miss Joanne Toh
-<br>Miss Nurbaya Binte Rameh &nbsp;</p>
-<p>Ms Yvonne Chin</p>
-<p>Mr Alvin Lye</p>
-<p>Aristotle once said, “<em>For the things we have to learn before we can do them, we learn by doing them</em>.”</p>
+<br>Miss Nurbaya Binte Rameh
+<br>Ms Yvonne Chin
+<br>Mr Alvin Lye
+<br>Aristotle once said, “<em>For the things we have to learn before we can do them, we learn by doing them</em>.”</p>
 <p>Simply put, knowledge is gained by making meaning from direct experiences,
 a theory popularized by renowned American educational theorist, David A.
 Kolb.</p>
