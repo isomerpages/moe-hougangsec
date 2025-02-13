@@ -22,7 +22,7 @@ variant: markdown
 <br>Miss Nurbaya Binte Rameh
 <br>Ms Yvonne Chin
 <br>Mr Alvin Lye
-<br>Aristotle once said, “<em>For the things we have to learn before we can do them, we learn by doing them</em>.”</p>
+</p><p>Aristotle once said, “<em>For the things we have to learn before we can do them, we learn by doing them</em>.”</p>
 <p>Simply put, knowledge is gained by making meaning from direct experiences,
 a theory popularized by renowned American educational theorist, David A.
 Kolb.</p>
