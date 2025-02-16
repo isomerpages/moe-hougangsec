@@ -92,7 +92,7 @@ indeed sparked joy in the students’ learning as they brought history to
 life, outside the classroom.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqbgPhITfOFnw8Z_ORCc8uIYGMCNPdxMMQuWm1bUKlxwS2d3trE3cu7S-vHD556a81WeTIYIX6dMNa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqbgPhITfOFnw8Z_ORCc8uIYGMCNPdxMMQuWm1bUKlxwS2d3trE3cu7S-vHD556a81WeTIYIX6dMNa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>
 <br>
