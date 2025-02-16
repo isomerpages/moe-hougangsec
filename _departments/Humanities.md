@@ -153,6 +153,9 @@ our Presidents and Singapore’s diplomatic relations with other nations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/gi_jewel_2.jpg">
 </div>
 <h4>Stretch Programmes</h4>
+<div class="iframe-wrapper">
+<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0aYI5OFzr08EJsvoNA5lvtsPSa5owud2hk0LAL5EXxL-hklCshYG2z7gUNjzFUFBxoOgcJ5vc3eCe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p><u>History Challenge</u>
 <br>2 Sec Three students participated in the MOE History Challenge through
 SLS. They were able to understand more about the study of history through
@@ -186,16 +189,14 @@ climate change.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/world%20vision%20geo%20stretch%20programme%202of2.jpeg">
 </div>
-<p><u>Gardens By The Bay</u>
-<br>As part of the Social Studies Unit’s stretch programme for the higher
-ability students, selected students attended a learning journey at Gardens
-By The Bay to learn about Singapore’s land reclamation efforts. Through
-the story of Marina Bay, students appreciate how the nation overcomes land
-scarcity, what land reclamation is and how land is used sustainably and
-efficiently in our city.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1KeEOAGnmIJho-l1wuT7GKtyFCAwdwRiy97ICMc4U8Jo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
+<p><u>Social Studies Stretch Programme to Changi Experience Studio</u>
+</p>
+<p>As part of the Social Studies Unit’s stretch programme for the higher
+ability students, selected students attended a learning journey at the
+Changi Experience Studio at Jewel to learn about Changi Airport’s history
+and functions. Through the story of Changi Airport, students appreciate
+how the airport plays a critical role in Singapore’s economy and connection
+to the rest of the world.</p>
 <h4>Internalisation Trip to Vietnam, May 2023</h4>
 <p>The Humanities Department organised the first learning journey after the
 pandemic to Vietnam. During the 5 Day 4 Night trip to Ho Chi Min City and
