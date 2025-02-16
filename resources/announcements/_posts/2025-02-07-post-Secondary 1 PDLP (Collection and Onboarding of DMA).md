@@ -17,7 +17,9 @@ of the DMA.
 <br>
 <br>As it is also a HBL day, the HBL work received by your child will be adjusted
 accordingly. Please note that your child/ward is still expected to complete
-the assigned work for the day.
+the assigned work for the day.</p>
+<p>Click here to access the slides and the content that has beens hared with
+your child.
 <br>
 <br>Your child will be collecting the following:</p>
 <p>- Model: Apple iPad 10.9 10th Gen, 64GB Storage (GB),
