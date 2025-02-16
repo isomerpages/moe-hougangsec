@@ -1,7 +1,7 @@
 ---
-title: Secondary 1 PDLP (Collection and Onboarding of DMA)
+title: Secondary 1 PDLP (Collection of iPad and Onboarding of DMA)
 permalink: /secondary-1-pdlp-collection-and-onboarding-of-dma/
-date: 2025-02-07
+date: 2025-02-16
 layout: post
 description: ""
 image: ""
@@ -17,7 +17,9 @@ of the DMA.
 <br>
 <br>As it is also a HBL day, the HBL work received by your child will be adjusted
 accordingly. Please note that your child/ward is still expected to complete
-the assigned work for the day.
+the assigned work for the day.</p>
+<p>Click <a href="/files/PDLP/iPad_Gen_10_Onboarding_Guide_2025__JamF____For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>to
+access the slides and the content that has beens hared with your child.
 <br>
 <br>Your child will be collecting the following:</p>
 <p>- Model: Apple iPad 10.9 10th Gen, 64GB Storage (GB),
