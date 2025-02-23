@@ -371,7 +371,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="20" colspan="1">
 <p><strong>Visual and Peforming Arts</strong>
 </p>
 </td>
@@ -402,7 +402,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Choir (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -426,6 +426,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>teo_hui_en_rachel@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Xue Xue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>xue_xue@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -504,7 +512,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Speech &amp; Drama (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
@@ -533,10 +541,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Martini Rahmat&nbsp;</p>
+<p>Martini Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>martini_rahmat@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Jolie Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jolie_ng_peck_hwee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
