@@ -51,7 +51,7 @@ will be the&nbsp;Enhanced Device Bundle&nbsp;comprising the following :&nbsp;</p
 <p>Apple Pencil&nbsp;USB-C</p>
 </li>
 <li>
-<p>Ruggedized Keyboard Combo 3 Case&nbsp;</p>
+<p>Ruggedized Keyboard Combo 4 Case</p>
 </li>
 <li>
 <p>3 Year AppleCare+</p>
