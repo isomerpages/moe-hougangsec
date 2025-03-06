@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Extended Curriculum Time.md
       - Admin/.keep
       - Admin/School Textbook Sale.md
       - Admin/School Uniform Sale.md
