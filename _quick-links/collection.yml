@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Inspire@HS.md
       - Education and Career Guidance (ECG) and Counselling Services.md
       - Admin/.keep
       - Admin/School Textbook Sale.md
