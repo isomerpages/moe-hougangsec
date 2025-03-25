@@ -1,0 +1,63 @@
+---
+title: Inspire@HS
+permalink: /inspire-series/
+variant: tiptap
+description: ""
+third_nav_title: For Parents
+---
+<p>The Inspire@HS series is a series of structured programme planned and
+designed to engage the heads, hearts and hands of Hougeans, towards nurturing
+them to be Empowered, Future-Ready Hougeans of Character and Purpose.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Inspire@HS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Schedule</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 1 - Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be uploaded</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 1 - Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Inspire@HS/Sec_2_Inspire_HS_Series_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Inspire@Sec 2 Series 1 Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 1 - Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Inspire@HS/Sec_3_Inspire_HS_Series_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Inspire@Sec 3 Series 1 Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 1 - Secondary 4 &amp; 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Parents/Inspire@HS/Sec_4_Inspire_HS_Series_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Inspire@Sec 4/5 Series 1 Schedule</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
