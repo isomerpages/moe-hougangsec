@@ -5,18 +5,56 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p>Dear parents/students,</p>
-<p>The programme for the Inspire @ HS Series 2 are listed below.</p>
-<p><a href="/files/Parents/Inspire_Series_2_Secondary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Inspire @ HS Series 2 Secondary 1</a>
-</p>
-<p><a href="/files/Parents/Inspire_Series_2_Secondary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Inspire </a>
-<a href="/files/Parents/Inspire_Series_2_Secondary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">@ HS</a><a href="/files/Parents/Inspire_Series_2_Secondary_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Series 2 Secondary 2</a>
-</p>
-<p><a href="/files/Parents/Inspire_Series_2_Secondary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Inspire </a>
-<a href="/files/Parents/Inspire_Series_2_Secondary_1.pdf" rel="noopener noreferrer nofollow" target="_blank">@ HS</a><a href="/files/Parents/Inspire_Series_2_Secondary_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Series 2 Secondary 3</a>
-</p>
-<p><a href="/files/Parents/Secondary_4_and_5_Curriculum.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Curriculum</a>
-</p>
-<p><a href="/files/Parents/Secondary_4_and_5_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 and 5 Schedule</a>
-</p>
+<p>The Inspire@HS series is a series of structured programme planned and
+ddesigned to engage the heads, hearts and hands of Hougeans, towards nurturing
+them to be Empowered, Future-Ready Hougeans of Character and Purpose.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Inspire@HS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Schedule</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 1 - Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 1 - Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 1 - Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 1 - Secondary 4 &amp; 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
