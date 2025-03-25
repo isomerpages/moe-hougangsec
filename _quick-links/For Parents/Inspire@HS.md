@@ -28,7 +28,7 @@ them to be Empowered, Future-Ready Hougeans of Character and Purpose.</p>
 <p>Inspire@HS Series 1 - Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be uploaded</p>
+<p>Outdoor Adventure Learning Camp (2 Apr 7.30 am to 4 Apr 12.30 pm)</p>
 </td>
 </tr>
 <tr>
