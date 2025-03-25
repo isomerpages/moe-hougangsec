@@ -150,7 +150,8 @@ variant: tiptap
 </li>
 </ul>
 <h3>HS Student Handbook</h3>
-<p><a href="/files/Hougang_Secondary_Student_Handbook_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook 2025 (31 Dec 2024)</a>
+<p><a href="/files/Hougang_Secondary_Student_Handbook_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download HS Student Handbook 2025 </a>
+<a href="/files/Hougang_Secondary_Student_Handbook_2025__updated_20250325_.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/Hougang_Secondary_Student_Handbook_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">(25 Mar 2025)</a>
 </p>
 <h3>Class Timetable 2025</h3>
 <p><a href="/files/2025_Sem_1_Class_Timetable_20250103.pdf" rel="noopener nofollow" target="_blank">Download Class Timetable 2025 Sem 1</a> (caa
