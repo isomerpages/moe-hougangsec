@@ -109,3 +109,8 @@ to 9 pm), or Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">h
 <br>&nbsp;
 <br><a href="https://sites.google.com/view/hssil/home" rel="noopener noreferrer nofollow" target="_blank">SIL Home</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SIL/SIL.jpg">
+</div>
+<p></p>
