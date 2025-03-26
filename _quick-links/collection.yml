@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - HBL and SIL.md
       - Education and Career Guidance (ECG) and Counselling Services.md
       - Admin/.keep
       - Admin/School Textbook Sale.md
