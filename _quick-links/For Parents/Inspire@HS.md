@@ -38,6 +38,8 @@ them to be Empowered, Future-Ready Hougeans of Character and Purpose.</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Parents/Inspire@HS/Sec_2_Inspire_HS_Series_1_Schedule.pdf" rel="noopener nofollow" target="_blank">Inspire@Sec 2 Series 1 Schedule</a>
 </p>
+<p><a href="/files/Parents/Inspire@HS/AI_For_Fun_2025___Brief_to_S2_Students__School_Web_.pdf" rel="noopener noreferrer nofollow" target="_blank">AI for Fun Briefing Slides</a>
+</p>
 </td>
 </tr>
 <tr>
