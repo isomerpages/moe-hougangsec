@@ -22,6 +22,44 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>WA2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/2025_WA1_Information_for_website_final.pdf" rel="noopener nofollow" target="_blank">WA2 Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WA2 Format:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1:</p>
+<p>Sec 2:</p>
+<p>Sec 3:</p>
+<p>Sec 4 &amp; 5:</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Weighted Assessment</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>WA1</p>
 </td>
 <td rowspan="1" colspan="1">
