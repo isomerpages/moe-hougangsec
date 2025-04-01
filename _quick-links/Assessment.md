@@ -34,10 +34,14 @@ description: ""
 <p>WA2 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1:</p>
-<p>Sec 2:</p>
-<p>Sec 3:</p>
-<p>Sec 4 &amp; 5:</p>
+<p>Sec 1: <a href="/files/Assessment/2025 Assessment/2025_Secondary_1_WA2_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 1 WA2 Format</a>
+</p>
+<p>Sec 2: <a href="/files/Assessment/2025 Assessment/2025_Secondary_2_WA2_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 WA2 Format</a>
+</p>
+<p>Sec 3: <a href="/files/Assessment/2025 Assessment/2025_Secondary_3_WA2_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 WA2 Format</a>
+</p>
+<p>Sec 4 &amp; 5: <a href="/files/Assessment/2025 Assessment/2025_Secondary_4_5_WA2_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 4 WA2 Format</a>
+</p>
 </td>
 </tr>
 </tbody>
