@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>Please refer to the information below regarding school-based assessments.</p>
-<h4>Preliminary Examinations</h4>
+<h4>Preliminary Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
