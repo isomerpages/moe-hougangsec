@@ -32,7 +32,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="19" colspan="1">
+<td rowspan="20" colspan="1">
 <p><strong>Physical Sports</strong>
 </p>
 </td>
@@ -163,7 +163,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Netball (Girls)&nbsp;</strong>
 </p>
 </td>
@@ -180,6 +180,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>amalina_abdul_samad@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Valeria Goh Jinh Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_jing_yi_valeria@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -210,7 +218,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="17" colspan="1">
+<td rowspan="18" colspan="1">
 <p><strong>Uniformed Groups</strong>
 </p>
 </td>
@@ -253,7 +261,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Girl Guides (Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,6 +285,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>koh_bao_ru_jane@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh Jia Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_jia_yi_h@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -371,7 +387,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="20" colspan="1">
+<td rowspan="21" colspan="1">
 <p><strong>Visual and Peforming Arts</strong>
 </p>
 </td>
@@ -465,7 +481,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Modern Dance ( Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -481,6 +497,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>yu_hong_hong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Valerie Chia Kai Ning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>valerie_chia_kai_ning@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
