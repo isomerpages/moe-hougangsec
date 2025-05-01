@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p>These are the Direct School Admission talent areas that Hougang Secondary
-school is offering for 2024. &nbsp;</p>
+school is offering for 2025. &nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -88,10 +88,26 @@ school is offering for 2024. &nbsp;</p>
 </ul>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science, Technology, Engineering and Mathematics (STEM)<em> (NEW)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>STEM (Boys and Girls) <em>(NEW)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 <p>We welcome students who are keen to develop their potential in any of
-the above areas to join us as Secondary 1 students in 2025.&nbsp;</p>
+the above areas to join us as Secondary 1 students in 2026.&nbsp;More details
+on the 2025 DSA selection process/criteria and timeline will be made available
+in due time.</p>
 <hr>
 <h3><strong>SELECTION CRITERIA</strong></h3>
 <p>Do note that meeting all the criteria below does not guarantee the student
@@ -174,6 +190,27 @@ international/national competitions, or school/public performances</p>
 </details>
 </div>
 <h4>SPORTS AND GAMES</h4>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Debating (Boys &amp; Girls)</strong>&nbsp;</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates passion for the arts</p>
+</li>
+<li>
+<p>Possesses a good command of the English Language</p>
+</li>
+<li>
+<p>Participated in public speaking/debates/oratorical competitions</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
+<h4>LANGUAGE AND HUMANITIES</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Football (Boys)</strong>
@@ -243,27 +280,6 @@ competitions</p>
 </details>
 </div>
 <p></p>
-<h4>LANGUAGE AND HUMANITIES</h4>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary><strong>Debating (Boys &amp; Girls)</strong>&nbsp;</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>Criteria:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Demonstrates passion for the arts</p>
-</li>
-<li>
-<p>Possesses a good command of the English Language</p>
-</li>
-<li>
-<p>Participated in public speaking/debates/oratorical competitions</p>
-</li>
-</ul>
-</div>
-</details>
-</div>
-<p></p>
 <h4>LEADERSHIP AND UNIFORMED GROUPS</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -287,9 +303,35 @@ amongst peers (e.g. Prefect, Class Monitor, CCA Leader, Peer Support Leader)</p>
 </div>
 </details>
 </div>
+<h3>Science, Technology, Engineering and Mathematics (STEM)</h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>STEM (Boys &amp; Girls)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Criteria:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Demonstrates strong interest in STEM subjects with sound understanding
+of design thinking principles and/or Computing fundamentals, whilst displaying
+curiosity and enthusiasm in exploring emerging technologies</p>
+</li>
+<li>
+<p>Preferably exhibits innovative thinking, adaptive thinking, and leadership
+potential through past experience in STEM projects, competitions, or activities</p>
+</li>
+<li>
+<p>Shows commitment to community improvement through innovative products
+with technological solutions, with the ability to inspire and mentor peers
+in STEM-related initiatives</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <h3>APPLICATION PROCESS</h3>
 <p>Application for DSA–Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>7 May 2024, 11am to 3 Jun 2024, 3pm.</strong> For
+The application is free-of-charge and will be open from <strong>7 May 2025, 11am to 3 Jun 2025, 3pm.</strong> For
 more details, please refer to MOE website -&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 students’ aptitudes and strengths, bearing in mind the schools’ academic
@@ -307,7 +349,7 @@ related to the talent they are selected for from Secondary 1 to 4.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>7 May (11 am) to 3 Jun (3 pm) 2024</strong>
+<p><strong>7 May (11 am) to 3 Jun (3 pm) 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -325,7 +367,7 @@ centralised DSA-Sec Portal:&nbsp;<em><a rel="noopener noreferrer nofollow" targe
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>24 June 2024 onwards</strong>
+<p><strong>30 June 2025 onwards</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -337,19 +379,19 @@ trials/audition or interview.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>By 9 September 2024</strong>
+<p><strong>Between 25 August to 4 September 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><u>Release of Internal Trial Outcomes by School to Applicants</u></strong>
 </p>
 <p>Shortlisted applicants will find out whether they have been selected by
-Monday, 9 September 2024.</p>
+between this period.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>21 October (9am) to 25 October (3pm) 2024</strong>
+<p><strong>27 October (9am) to 31 October (3pm) 2025</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -499,13 +541,28 @@ in customised leadership training programmes to hone their leadership skills
 and competencies based on the Leadership Challenge Model.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>Science, Technology, Engineering and Mathematics (STEM) (NEW)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Selected students will serve as STEM Leaders, taking on key roles in promoting
+STEM excellence across the school community. As STEM Leaders, they will
+champion innovative STEM initiatives in their classes and school-wide,
+fostering a culture of scientific exploration and discovery among their
+peers. These students will gain priority access to the InnoLab's equipment
+to prototype and bring their innovative ideas to life, as well as participate
+in nationwide STEM competitions, helping them develop strong critical thinking
+and problem-solving skills. Through engagement in external partnerships
+and programmes, they will enhance their STEM capabilities and broaden their
+exposure to real-world applications. Through these experiences, STEM Leaders
+will develop into confident innovators capable of driving positive change
+in their school community and beyond.</p>
+<p></p>
+</div>
+</details>
 </div>
 <h3>CONTACT US</h3>
 <p>For further clarification, you may contact the following staff:
 <br>Mdm Jolin <a rel="noopener noreferrer nofollow" target="_blank">Chang<br>jolin_chang@schools.gov.sg</a> 
 <br>Tel. No: 6385-1990</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
