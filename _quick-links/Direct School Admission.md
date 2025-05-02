@@ -189,7 +189,7 @@ international/national competitions, or school/public performances</p>
 </div>
 </details>
 </div>
-<h4>SPORTS AND GAMES</h4>
+<h4>LANGUAGE AND HUMANITIES</h4>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Debating (Boys &amp; Girls)</strong>&nbsp;</summary>
@@ -210,7 +210,7 @@ international/national competitions, or school/public performances</p>
 </details>
 </div>
 <p></p>
-<h4>LANGUAGE AND HUMANITIES</h4>
+<h4>SPORTS AND GAMES</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Football (Boys)</strong>
