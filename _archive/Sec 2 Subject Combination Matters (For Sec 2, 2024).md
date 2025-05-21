@@ -2,7 +2,6 @@
 title: Sec 2 Subject Combination Matters (For Sec 2, 2024)
 permalink: /quick-links/for-parents/sec-3-subject-combination-matters/
 description: ""
-third_nav_title: For Parents
 variant: tiptap
 ---
 <p><strong>Parent engagement on the subject combination for 3 Express and 3 Normal Academic / Normal Technical.</strong>
