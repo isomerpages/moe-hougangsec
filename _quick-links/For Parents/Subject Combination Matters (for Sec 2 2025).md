@@ -9,11 +9,16 @@ third_nav_title: For Parents
 please view the video presentations below (arranged according to alphabetical
 order, followed by subject level (if applicable)):</p>
 <p></p>
-<p>Literature-in-English G2/3</p>
-<p>Additional Mathematics G3</p>
-<p>Geography (Pure) G3</p>
-<p>Science G2/3</p>
-<p>Computing G1/2</p>
+<p>Literature-in-English G2/3 <a href="https://youtu.be/rbnYupedetE" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/rbnYupedetE</a>
+</p>
+<p>Additional Mathematics G3 <a href="https://youtu.be/bTa4cUxCoIw" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/bTa4cUxCoIw</a>
+</p>
+<p>Geography (Pure) G3 <a href="https://youtu.be/3RPldfthWNg" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/3RPldfthWNg</a>
+</p>
+<p>Science G2/3 <a href="https://youtu.be/wDnHy70_lNM" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/wDnHy70_lNM</a>
+</p>
+<p>Computing G1/2 <a href="https://youtu.be/tGDv5Kvn_5E" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/tGDv5Kvn_5E</a>
+</p>
 <p><a href="https://youtu.be/Bq16EV2d-8M" rel="noopener nofollow" target="_blank">Art* G1</a>
 </p>
 <p><a href="https://youtu.be/P_tsJXXebqQ" rel="noopener nofollow" target="_blank">Art* G2/G3</a>
