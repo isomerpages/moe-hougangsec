@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p>For more information about the Secondary 3 subject offerings in 2025,
+<p>For more information about the Secondary 3 subject offerings in 2026,
 please view the video presentations below (arranged according to alphabetical
 order of the subjects):</p>
 <p></p>
