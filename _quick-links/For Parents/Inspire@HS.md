@@ -17,7 +17,60 @@ them to be Empowered, Future-Ready Hougeans of Character and Purpose.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Inspire@HS</p>
+<p>Inspire@HS Series 2 (May 2025)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Schedule</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 2 - Secondary 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HS_2025_078_Term_2_Inspire___HS_Sec1.pdf" rel="noopener noreferrer nofollow" target="_blank">INSPIRE@Sec 1 Series 2 Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 2 - Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HS_2025_079_Term_2_Inspire___HS_Sec2.pdf" rel="noopener noreferrer nofollow" target="_blank">INSPIRE@Sec 2 Series 2 Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 2 - Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HS_2025_080_Term_2_Inspire___HS_Sec3.pdf" rel="noopener noreferrer nofollow" target="_blank">INSPIRE@Sec 3 Series 2 Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspire@HS Series 2 - Secondary 4 &amp; 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/HS_2025_081_Term_2_Week_10_Curriculum_for_Sec_4_and_5.pdf" rel="noopener noreferrer nofollow" target="_blank">INSPIRE@Sec 4/5 Series 2 Schedule</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Inspire@HS Series 1</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Schedule</p>
