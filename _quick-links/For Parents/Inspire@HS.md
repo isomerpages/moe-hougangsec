@@ -17,7 +17,7 @@ them to be Empowered, Future-Ready Hougeans of Character and Purpose.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Inspire@HS Series 2 (May 2025)</p>
+<p>Inspire@HS Series 2 (26-29 May 2025)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Schedule</p>
