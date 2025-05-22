@@ -3,7 +3,6 @@ title: 2024 Sem2 Inspire@HS
 permalink: /2024-sem2-inspire-hs/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
 ---
 <p>Please click on the links below for the Inspire@HS schedule. The information
 has also been shared to parents through Parents Gateway.</p>
