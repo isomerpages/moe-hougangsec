@@ -31,6 +31,8 @@ order of the subjects):</p>
 </p>
 <p><a href="https://youtu.be/rbnYupedetE" rel="noopener nofollow" target="_blank">G2/G3 Literature-in-English</a>
 </p>
+<p><a href="https://youtu.be/YNgNlrdp5nU" rel="noopener nofollow" target="_blank">G2/G3 Principles of Accounts</a>
+</p>
 <p><a href="https://youtu.be/pnQU2hj3YjQ" rel="noopener nofollow" target="_blank">G1 Nutrition &amp; Food Science*</a>
 </p>
 <p><a href="https://youtu.be/hMFULmxcPzo" rel="noopener nofollow" target="_blank">G2/G3 Nutrition &amp; Food Science*</a>
