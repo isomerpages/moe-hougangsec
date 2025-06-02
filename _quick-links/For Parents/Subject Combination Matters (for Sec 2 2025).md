@@ -5,10 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
+<p>Subject Combination Briefing (26 May 2025) - Slides and Q&amp;A</p>
+<p><a href="/files/Subject_Combination_Briefing___Parents_slides.pdf" rel="noopener nofollow" target="_blank">Subject Combination Briefing (slides)</a>
+</p>
+<p><a href="/files/Sec_2_ECG_Talk_for_G3_26_May_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 ECG Talk (G3)</a>
+</p>
+<p><a href="/files/Sec_2_ECG_Talk_for_G2_26_May_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 ECG Talk (G2)</a>
+</p>
+<p><a href="/files/Sec_2_ECG_Talk_for_G1_26_May_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2 ECG Talk (G1)</a>
+</p>
+<p><a href="/files/QA_from_Subject_Combination_Parents_Briefing_26_May_2025.pdf" rel="noopener nofollow" target="_blank">Q&amp;A</a>
+</p>
+<p></p>
 <p>For more information about the Secondary 3 subject offerings in 2026,
 please view the video presentations below (arranged according to alphabetical
 order of the subjects):</p>
-<p></p>
 <p><a href="https://youtu.be/bTa4cUxCoIw" rel="noopener nofollow" target="_blank">G3 Additional Mathematics</a>
 </p>
 <p><a href="https://youtu.be/Bq16EV2d-8M" rel="noopener nofollow" target="_blank">G1 Art*</a>
