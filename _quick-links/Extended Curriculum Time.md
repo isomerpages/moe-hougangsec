@@ -35,10 +35,11 @@ gaps. Refer to the schedule below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2 - 6 June</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/HS_2025_084_Letter_to_Parents_June_ECT_updated1.pdf" rel="noopener nofollow" target="_blank">2025 June ECT Schedule</a>
+</p>
 </td>
 </tr>
 </tbody>
