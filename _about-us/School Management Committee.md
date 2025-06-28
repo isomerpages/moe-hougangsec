@@ -2,7 +2,7 @@
 title: School Management Committee
 permalink: /about-us/school-management-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p><strong>PRINCIPAL</strong>
 </p>
@@ -46,7 +46,7 @@ variant: markdown
 <br>tan_bei_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Character and Citizenship Education (Covering)</p>
+<p>HOD Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
@@ -78,11 +78,11 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chow Poh Boon
+<p>Ms Tracy Huang Yuyan
 <br>chow_poh_boon@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD&nbsp;Mathematics</p>
+<p>HOD&nbsp;Mathematics (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -168,15 +168,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Rachel Chan
-<br>teo_hui_en_rachel@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Character and Citizenship Education</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lynn Yeo
 <br>yeo_lynn@moe.edu.sg</p>
 </td>
@@ -222,15 +213,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tracy Huang Yuyan
-<br>huang_yuyan@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Yvonne Liew
 <br>liew_zhen_rong_yvonne@moe.edu.sg</p>
 </td>
@@ -244,7 +226,7 @@ variant: markdown
 <br>tan_wei_jing@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Partnership (Covering)</p>
+<p>SH / Partnership</p>
 </td>
 </tr>
 <tr>

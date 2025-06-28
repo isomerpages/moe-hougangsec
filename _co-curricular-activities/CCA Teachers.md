@@ -77,14 +77,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Anwarul Nizam Bin Mohd Ismail</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>anwarul_nizam@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Muhamad Hashim Bin Abdul Majid</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,6 +89,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_sze_yong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mark Yong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mark_yong_jia_jie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +128,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joseph Chung</p>
+<p>Law Ngiap Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chung_wei_peng_joseph@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -156,10 +156,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Puah Mui Kiang</p>
+<p>Lian Bee San</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>puah_mui_kiang_a@moe.edu.sg</p>
+<p>lian_bee_san@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -218,11 +218,11 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="21" colspan="1">
 <p><strong>Uniformed Groups</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Boys' Brigade (Boys)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,6 +238,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>ho_wee_khong_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Puah Mui Kiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>puah_mui_kiang_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -296,7 +304,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>National Police Cadet Corps (NPCC) (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
@@ -325,14 +333,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mohamed Hairi Bin Nor Azmi&nbsp;</p>
+<p>Mohamed Hairi Bin Nor Azmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohamed_hairi_nor_azmi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Clara Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chan_shuyi_clara@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p><strong>National Cadet Corps (NCC) (Land) (Boys)&nbsp;</strong>
 </p>
 </td>
@@ -357,6 +373,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_wai_kit_charles@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kandirikara Abdul Aziz Haji Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kandirikara_abdul_aziz_haji_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -391,7 +415,7 @@ description: ""
 <p><strong>Visual and Peforming Arts</strong>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Angklung/Kulintang and Gamelan Ensemble (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -411,6 +435,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Melissa Khoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Leow Hui Chye</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -418,7 +450,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Choir (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -434,14 +466,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>daniel_chong_jun_zheng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Rachel Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>teo_hui_en_rachel@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -584,7 +608,7 @@ description: ""
 <p><strong>Club &amp; Society</strong>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Media Resource Club (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
@@ -609,6 +633,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>chua_wen_min_audrey@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alisa Choong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
