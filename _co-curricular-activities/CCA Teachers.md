@@ -131,7 +131,7 @@ description: ""
 <p>Law Ngiap Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>law_ngiap_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
