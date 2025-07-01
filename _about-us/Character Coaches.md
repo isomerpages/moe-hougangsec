@@ -442,6 +442,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Alisa Choong</p>
+<p><a href="mailto:Alisa_Choong_Hwee_Xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alisa_Choong_Hwee_Xuan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
