@@ -643,7 +643,7 @@ description: ""
 <p>Alisa Choong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>alisa_choong_hwee_xuan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
