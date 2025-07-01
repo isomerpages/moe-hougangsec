@@ -20,6 +20,7 @@ description: ""
 <p>21 May, Wednesday</p>
 <p><strong>Term 3 (Sec 1, 2 and 3 only)</strong>
 </p>
+<p>3 July, Thursday</p>
 <p>15 ( Tuesday), 16 (Wednesday), 17 July (Thursday)</p>
 <p>28 July, Monday</p>
 <p>HBL will be in the form of asynchronous learning. Your child/ward will
