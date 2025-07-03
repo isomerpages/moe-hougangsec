@@ -231,7 +231,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Law Ngiap Hui</p>
-<p><a href="mailto:law_ngiap_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_ngiap_hui@moe.edu.sg</a> 
+<p><a href="mailto:law_ngiap_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_ngiap_hui@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -422,6 +422,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Melissa Khoo</p>
+<p><a href="mailto:melissa_khoo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">melissa_khoo@moe.edu.sg</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
