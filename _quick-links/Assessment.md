@@ -31,10 +31,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Preliminary Exam Schedule:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 4 &amp; 5: <a href="/files/Assessment/2025 Assessment/2025_Preliminary_Exam_Schedule_for_School_website.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 4 and 5 Prelim Exam Schedule</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -48,7 +49,47 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Weighted Assessment</p>
+<p>Weighted Assessment 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WA3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/2025 Assessment/WA_3_Schedule_for_website.pdf" rel="noopener nofollow" target="_blank">WA3 Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WA3 Format:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1: <a href="/files/Assessment/2025 Assessment/2025_Secondary_1_WA3_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 1 WA3 Format</a>
+</p>
+<p>Sec 2: <a href="/files/Assessment/2025 Assessment/2025_Secondary_2_WA3_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 WA3 Format</a>
+</p>
+<p>Sec 3: <a href="/files/Assessment/2025 Assessment/2025_Secondary_3_WA3_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 WA3 Format</a>
+</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Weighted Assessment 2</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Information</p>
@@ -89,7 +130,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Weighted Assessment</p>
+<p>Weighted Assessment 1</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Information</p>
