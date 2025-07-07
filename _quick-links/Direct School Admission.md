@@ -385,8 +385,8 @@ trials/audition or interview.</p>
 <td rowspan="1" colspan="1">
 <p><strong><u>Release of Internal Trial Outcomes by School to Applicants</u></strong>
 </p>
-<p>Shortlisted applicants will find out whether they have been selected by
-between this period.</p>
+<p>Shortlisted applicants will find out whether they have been selected between
+this period.</p>
 </td>
 </tr>
 <tr>
