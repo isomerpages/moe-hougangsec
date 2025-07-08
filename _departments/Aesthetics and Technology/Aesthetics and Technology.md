@@ -9,12 +9,14 @@ variant: tiptap
 <br>Mr Alfred Choo (HOD/Aesthetics and Technology)</p>
 <p><strong>Design and Technology Unit</strong>
 <br>Mr Benny Ng (Senior Teacher)
-<br>Mr Anwarul Nizam B Ismail
-<br>Mr Alfred Choo</p>
+<br>Mr Alfred Choo
+<br>Mr Kandirikara Abdul Aziz Haji Mohamed
+<br>Ms Wendy Hia Lan Ching</p>
 <p><strong>Visual Art Unit</strong>
 <br>Mdm Farahana Binti Abdul Rahim (Subject Coordinator)
 <br>Ms. Jane Koh
-<br>Ms. Siti Nurhizah Mohamed Hassan</p>
+<br>Ms. Siti Nurhizah Mohamed Hassan
+<br>Ms Zakiah Binte Ahmad</p>
 <p><strong>Nutrition and Food Science</strong>
 <br>Mdm Azlinah Wahed (Subject Coordinator)
 <br>Ms Raidah Binte Moktar
@@ -24,7 +26,8 @@ variant: tiptap
 <br>Mr Daniel Chong</p>
 <p><strong>Technical Support Officers</strong>
 <br>Mr Tangarajoo Marimuthu
-<br>Mr Mohammad Fauzi Bin Selamat</p>
+<br>Mr Mohammad Fauzi Bin Selamat
+<br>Mr Koh Wee Chong</p>
 <h3>Department Vision</h3>
 <p><strong>To nurture creative and confident thinkers</strong>
 </p>
