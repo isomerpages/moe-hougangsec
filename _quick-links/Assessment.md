@@ -50,7 +50,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4>End-of-Year Examination</h4>
+<h4>End-of-Year Examination (Sec 1 to Sec 3)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
