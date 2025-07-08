@@ -21,9 +21,10 @@ variant: tiptap
 <br>Mr Sean Oh
 <br>Ms. Tan Yin Wei
 <br>Ms. Uma Magheswary
-<br>Ms. C Minnoli (FAJT)
-<br>Mdm Soonam Sivadasan (FAJT)
-<br>Mr Han Zheming Chuck-E (FAJT)</p>
+<br>Ms. Alisa Choong Hwee Xuan
+<br>Ms Chan Shuyi Clara
+<br>Mdm Soonam Sivadasan
+<br>Mr Han Zheming Chuck-E</p>
 <h3>Vision</h3>
 <p>Passionate Readers, Competent Writers , Eloquent Communicators</p>
 <h3>Curricular Goals and Objectives</h3>
