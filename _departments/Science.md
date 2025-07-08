@@ -20,7 +20,8 @@ variant: tiptap
 <br>Mr Teo Chun Min
 <br>Ms. Puah Mui Kiang
 <br>Ms. Ashley Li
-<br>Ms. Melissa Lim</p>
+<br>Ms. Melissa Lim
+<br>Mr Garian Sng Shao Kiat</p>
 <p><strong>STEM Instructors (Laboratory)</strong>
 <br>Ms. Kartini Bte Mohd Sidek
 <br>Mdm Nur Suhaila Saidz
