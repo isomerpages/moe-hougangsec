@@ -22,6 +22,15 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language Listening Comprehension Examination</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/2025 Assessment/HS_2025_095_Letter_for_EOY_EL_LC_Exam.pdf" rel="noopener nofollow" target="_blank">EL Listening Comprehension Examination Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mother Tongue Language (MTL) Prelim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,6 +49,43 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>End-of-Year Examination</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Examination</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language Listening Comprehension</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to Sec 3: <a href="/files/Assessment/2025 Assessment/HS_2025_095_Letter_for_EOY_EL_LC_Exam.pdf" rel="noopener nofollow" target="_blank">EL Listening Comprehension Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4>Weighted Assessments</h4>
 <table style="minWidth: 50px">
 <colgroup>
