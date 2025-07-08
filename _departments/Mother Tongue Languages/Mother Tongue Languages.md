@@ -19,8 +19,9 @@ variant: tiptap
 <br>Ms. Nur Nadzirah Bte Mohamed Hassan
 <br>Ms. Yu Honghong
 <br>Mdm Wang Qingzhen
+<br>Ms. Lian Bee San
+<br>Mr Toh Jing Zhang
 <br>Mdm Rohayah Binte Ya'acub
-<br>Mdm Sun Junmo
 <br>Mr Watt Chan Meng</p>
 <h3>Vision</h3>
 <p>To nurture in our students a strong foundation in their Mother Tongue
