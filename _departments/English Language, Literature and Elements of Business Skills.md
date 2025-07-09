@@ -22,7 +22,7 @@ variant: tiptap
 <br>Ms. Tan Yin Wei
 <br>Ms. Uma Magheswary
 <br>Ms. Alisa Choong Hwee Xuan
-<br>Ms Chan Shuyi Clara
+<br>Ms. Chan Shuyi Clara
 <br>Mdm Soonam Sivadasan
 <br>Mr Han Zheming Chuck-E</p>
 <h3>Vision</h3>
