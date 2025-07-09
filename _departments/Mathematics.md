@@ -7,24 +7,24 @@ variant: tiptap
 <p><strong>Head of Department</strong>
 <br>Ms. Tracy Huang</p>
 <p><strong>Teachers</strong>
+<br>Miss Judy Ng (Master Teacher CCE)
 <br>Mr Elangovan (Year Head)
 <br>Mr Khairul Adli (School Staff Developer)
-<br>Miss Judy Ng (Master Teacher CCE)
+<br>Miss Serina Tan (HOD/CCE)
 <br>Mr Daniel Tan (Assistant Year Head)
-<br>Miss Serina Tan (Assistant Year Head)
-<br>Mrs Rachel Chan (Subject Head CCE)
 <br>Ms. Lynn Yeo (Subject Head CCE)
-<br>Miss Uma Magheswary (SH Student Leadership)
+<br>Ms. Uma Magheswary (SH Student Leadership)
 <br>Mr Aaron Yeo
 <br>Mdm Goh Lay Hoon
 <br>Mdm Jessica Heng
 <br>Mdm Rebecca Ho
 <br>Miss Wee Swee Kee
 <br>Mdm Vanessa Ng
+<br>Ms. Khoo Ru Yu Melissa
+<br>Ms. Alisa Choong Hwee Xuan
 <br>Mdm Zalina
 <br>Mr Bryan Mar Song Cheng
-<br>Mr John Koh
-<br>Mr Foong Foo Kong</p>
+<br>Mr John Koh</p>
 <p><strong>HS Enrichment Programme</strong>&nbsp;:&nbsp;
 <br>To provide students with opportunity to apply mathematics concepts to
 solve problems in Real World Context and to develop critical thinking skills
