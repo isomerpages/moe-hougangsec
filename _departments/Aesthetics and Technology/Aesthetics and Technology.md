@@ -6,7 +6,7 @@ third_nav_title: Aesthetics and Technology
 variant: tiptap
 ---
 <p><strong>Head of Department (A&amp;T)</strong>
-<br>Mr Alfred Choo (HOD/Aesthetics and Technology)</p>
+<br>Mr Alfred Choo (HOD/Aesthetics &amp; Technology)</p>
 <p><strong>Design and Technology Unit</strong>
 <br>Mr Benny Ng (Senior Teacher)
 <br>Mr Alfred Choo
@@ -195,7 +195,5 @@ exploring effective strategies for art coursework.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Art Unit Sharing 2" src="/images/Department/AnT/Art_Unit_Sharing_2.jpeg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Art Unit Sharing 3" src="/images/Department/AnT/Art_Unit_Sharing_3.jpeg">
-</div>
+<p>and</p>
 <p></p>
