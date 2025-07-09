@@ -20,8 +20,9 @@ variant: tiptap
 <br>Mrs Jeannie Pan
 <br>Miss Joanne Toh
 <br>Miss Nurbaya Binte Rameh
-<br>Ms Yvonne Chin
+<br>Ms. Yvonne Chin
 <br>Mr Law Ngiap Hui
+<br>Ms. Siti Syuhaidah
 <br>Mr Alvin Lye</p>
 <p>Aristotle once said, “<em>For the things we have to learn before we can do them, we learn by doing them</em>.”</p>
 <p>Simply put, knowledge is gained by making meaning from direct experiences,
