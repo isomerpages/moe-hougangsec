@@ -6,7 +6,7 @@ third_nav_title: Aesthetics and Technology
 variant: tiptap
 ---
 <p><strong>Head of Department (A&amp;T)</strong>
-<br>Mr Alfred Choo (HOD/Aesthetics and Technology)</p>
+<br>Mr Alfred Choo (HOD/Aesthetics &amp; Technology)</p>
 <p><strong>Design and Technology Unit</strong>
 <br>Mr Benny Ng (Senior Teacher)
 <br>Mr Alfred Choo
