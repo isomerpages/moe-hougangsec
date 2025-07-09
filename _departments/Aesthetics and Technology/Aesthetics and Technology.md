@@ -11,15 +11,16 @@ variant: tiptap
 <br>Mr Benny Ng (Senior Teacher)
 <br>Mr Alfred Choo
 <br>Mr Kandirikara Abdul Aziz Haji Mohamed
-<br>Ms Wendy Hia Lan Ching</p>
+<br>Ms. Wendy Hia Lan Ching
+<br>Mr Syarifuddin Azhar Bin Rosli</p>
 <p><strong>Visual Art Unit</strong>
 <br>Mdm Farahana Binti Abdul Rahim (Subject Coordinator)
 <br>Ms. Jane Koh
 <br>Ms. Siti Nurhizah Mohamed Hassan
-<br>Ms Zakiah Binte Ahmad</p>
+<br>Ms. Zakiah Binte Ahmad</p>
 <p><strong>Nutrition and Food Science</strong>
 <br>Mdm Azlinah Wahed (Subject Coordinator)
-<br>Ms Raidah Binte Moktar
+<br>Ms. Raidah Binte Moktar
 <br>Mdm Tan Chan Jong
 <br>Ms. Tan Wei Jing</p>
 <p><strong>Music Unit</strong>
