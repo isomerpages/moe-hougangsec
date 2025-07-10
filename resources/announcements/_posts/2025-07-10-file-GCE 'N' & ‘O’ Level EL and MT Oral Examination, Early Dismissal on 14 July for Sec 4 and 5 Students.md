@@ -1,6 +1,6 @@
 ---
-title: GCE 'N' & ‘O’ Level EL and MT Oral Examination, Early Dismisal on 14 July
-  for Sec 4 and 5 Students
+title: GCE 'N' & ‘O’ Level EL and MT Oral Examination, Early Dismissal on 14
+  July for Sec 4 and 5 Students
 date: 2025-07-10
 layout: file
 description: ""
