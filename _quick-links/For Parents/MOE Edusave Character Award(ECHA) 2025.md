@@ -5,53 +5,104 @@ variant: tiptap
 description: ""
 third_nav_title: For Parents
 ---
-<p><u>What is&nbsp;ECHA?</u>
+<p><strong><u>What is&nbsp;ECHA?</u></strong>
 </p>
-<p>MOE introduced the Edusave Character Award (ECHA) in 2012 to recognise
-students who demonstrate exemplary character and outstanding personal qualities
-through their behaviour and actions. It aims to foster an inclusive and
-stronger Singapore as we broaden the qualities and achievements to be encouraged
-and applauded. The award also supports schools’ continuing efforts in nurturing
-students of good values and character, who are active contributors and
-concerned citizens.</p>
-<p>&nbsp;</p>
-<p><u>Award</u>
+<p>The Edusave Character Award (ECHA), introduced by the Ministry of Education
+(MOE) in 2012, recognises students who demonstrate exemplary character
+and outstanding personal qualities through their behaviour and actions.
+<br>
+<br>The award is part of MOE’s broader efforts to foster a caring, inclusive,
+and cohesive society. It complements schools’ work in nurturing students
+who are not only academically strong but also guided by sound values—active
+contributors and concerned citizens.</p>
+<p><strong><u>Objectives of ECHA</u></strong>
 </p>
-<p>Each&nbsp;ECHA&nbsp;awardee will receive a certificate and an award voucher
-of $500.</p>
-<p>&nbsp;</p>
-<p><u>Eligibility Criteria</u>
+<p>• To emphasise the importance of character and values, on par with academic
+achievements.</p>
+<p>• To recognise students who are role models in conduct and attitude, inspiring
+their peers.</p>
+<p><strong><u>Award Quota</u></strong>
 </p>
-<p>Nominees must be a&nbsp;<strong>Singaporean Citizen</strong>&nbsp;and
-satisfy the following eligibility criteria below</p>
+<p>Each school may award ECHA to up to 2% of the total number of Singaporean
+students enrolled. The award is open to students across all levels.</p>
+<p><strong><u>Eligibility Criteria</u></strong>
+</p>
+<p>To qualify for ECHA, a student must:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students must, on a consistent basis, demonstrate good character and values,
-in particular, HS school values (Gratitude, Respect, Empathy, Adaptability,
-Trustworthiness).</p>
+<p>Be a Singapore Citizen.</p>
 </li>
 <li>
-<p>Students are committed to serve the community regularly for at least 10
-VIA Hours.</p>
+<p>Have a Very Good or Excellent conduct grade.</p>
 </li>
 <li>
-<p>Students are nominated /endorsed by Character Coaches and/or subject teachers/
-CCA Teachers.</p>
+<p>Be a role model in attitude and behaviour, with regular school attendance,
+timely and quality submission of work, and active CCA participation.</p>
 </li>
 <li>
-<p>Students’ nomination are supported by Parents/Guardians.</p>
+<p>Be involved in Values-In-Action (VIA) activities, with at least 10 VIA
+hours completed.</p>
 </li>
 <li>
-<p>Students have attained overall conduct grade of Very Good or Excellent.</p>
+<p>Demonstrate the school values: Gratitude, Respect, Empathy, Adaptability,
+and Trustworthiness.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>The link for the nomination form is <a href="https://go.gov.sg/moe-echa2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-echa2024</a>
+<p><strong><u>Selection Process</u></strong>
 </p>
-<p>&nbsp;</p>
-<p><u>Nomination Period</u>
+<ol data-tight="true" class="tight">
+<li>
+<p>Nomination</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nominations are open to <strong>students, teachers, parents/guardians</strong>,
+and other key stakeholders who know the student well.
+<br>To support a <strong>fair and transparent selection process</strong>: We
+seek your understanding that feedback from relevant staff, including student’s
+Character Coach, subject teachers, and CCA teachers will be sought upon
+receiving the nomination from parents, this is to ensure alignment with
+the established award criteria.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Shortlisting</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A school-based panel comprising the Year Head Team and members from the
+Student Development Team will review nominations.</p>
+</li>
+<li>
+<p>Feedback will be gathered from teachers and other stakeholders to ensure
+fairness.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Endorsement</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Final selection is endorsed by a separate panel led by the Principal or
+Vice-Principal, independent of the shortlisting committee.</p>
+</li>
+</ul>
+</li>
+</ol>
+<p><strong><u>Form of Award</u></strong>
 </p>
-<p>Nomination is open from 8 July to 26 July 2024.</p>
-<p>&nbsp;</p>
-<p>The results of&nbsp;ECHA&nbsp;will be announced in Dec 2024.</p>
-<p>&nbsp;</p>
+<p>Each ECHA recipient will receive a certificate and a monetary award of
+$500 .</p>
+<p><strong><u>Presentation of Award</u></strong>
+</p>
+<p>ECHA will be presented at the community level, alongside other Edusave
+awards like the Edusave Scholarships, Merit Bursaries, Good Progress Awards,
+and EAGLES.</p>
+<p><strong><u>Submit a Nomination:</u></strong>
+</p>
+<p>📝 Nomination Deadline: <strong>Thursday, 31 July 2025</strong>
+</p>
+<p>Please submit your nomination(s) using the link <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hsecha2025</a> (ECHA
+for all levels )</p>
+<p>Let us work together to recognise and celebrate students who shine through
+their values, actions, and service.</p>
+<p>Thank you</p>
