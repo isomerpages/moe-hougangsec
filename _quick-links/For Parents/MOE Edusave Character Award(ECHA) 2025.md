@@ -101,8 +101,8 @@ and EAGLES.</p>
 </p>
 <p>📝 Nomination Deadline: <strong>Thursday, 31 July 2025</strong>
 </p>
-<p>Please submit your nomination(s) using the link <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hsecha2025</a> (ECHA
-for all levels )</p>
+<p>Please submit your nomination(s) using the link <a href="https://go.gov.sg/hsecha2025" rel="noopener nofollow" target="_blank">https://go.gov.sg/hsecha2025</a> (ECHA
+for all levels ).</p>
 <p>Let us work together to recognise and celebrate students who shine through
 their values, actions, and service.</p>
 <p>Thank you</p>
