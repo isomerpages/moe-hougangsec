@@ -79,7 +79,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tracy Huang Yuyan
-<br>chow_poh_boon@moe.edu.sg</p>
+<br>huang_yuyan@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD&nbsp;Mathematics (Covering)</p>
