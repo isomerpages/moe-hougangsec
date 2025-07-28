@@ -42,8 +42,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>JM Fraser Award with Distinction</p>
 </td>
-<td rowspan="5" colspan="1">
-<p>Results to be announced by Q1, 2025</p>
+<td rowspan="1" colspan="1">
+<p>JM Fraser Award Excellence</p>
 </td>
 </tr>
 <tr>
@@ -56,6 +56,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Company Gold Award</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Company Silver Award</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -66,6 +69,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Puan Noor Aishah Award (PNAA) Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award (PNAA) Gold Award</p>
 </td>
 </tr>
 <tr>
@@ -78,10 +84,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Unit Recognition Award (Participation)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition Award (Distinction)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award (Distinction)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unit Overall Proficiency Award (Distinction)</p>
@@ -101,7 +113,7 @@ variant: tiptap
 <p>Gold Excellent Unit Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Gold Excellent Unit Award</p>
 </td>
 </tr>
 </tbody>
@@ -138,8 +150,11 @@ variant: tiptap
 <br>Certificate of Distinction
 <br>(Gamelan Ensemble)</p>
 </td>
-<td rowspan="5" colspan="1">
-<p>Results to be updated when available</p>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction
+<br>(Angklung/Kulintang Ensemble)
+<br>Certificate of Distinction
+<br>(Gamelan Ensemble)</p>
 </td>
 </tr>
 <tr>
@@ -150,6 +165,9 @@ variant: tiptap
 <p>Certificate of Commendation</p>
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -158,6 +176,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 <tr>
@@ -168,6 +189,9 @@ variant: tiptap
 <p>Certificate of Accomplishment</p>
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -175,6 +199,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment (Drama)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +212,7 @@ variant: tiptap
 <p>Certificate of Accomplishment&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -227,8 +254,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>B Div’ – 2nd Round Stage</p>
 </td>
-<td rowspan="6" colspan="1">
-<p>Results to be updated when available</p>
+<td rowspan="1" colspan="1">
+<p>B Div’ – 2nd Round Stage</p>
 </td>
 </tr>
 <tr>
@@ -241,6 +268,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Nil</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>B Div’ (Boys) – 2nd Round Stage</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -252,6 +282,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>C Div’ – 4<sup>th</sup> position in League 4</p>
 <p>B Div’ – 3<sup>rd</sup> position in League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -297,6 +330,20 @@ Shen Ethan</p>
 Ang</p>
 <p>&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>C Div’ (Girls) – Nil</p>
+<p>B Div’ (Girls) – Nil</p>
+<p></p>
+<p>1. C Div' (Boys), Feather, 3rd position, Eu Savion</p>
+<p>2. C Div' (Boys), Light, 3rd position, Lucius Chiang</p>
+<p>3. C Div' (Boys), Half Heavy, 3rd position, Lucas Teng Kai Shen</p>
+<p>4. C Div' (Girls), Feather, 3rd position, Yu En Ow</p>
+<p>5. B Div’ (Girls), Feather, 3rd position, Nur Syafira Binte Shaharudin</p>
+<p>6. B Div’ (Girls), Feather, 3rd position, Ngiam Ning Xuan Angeline Zoe</p>
+<p>7. B Div’ (Girls), Middle, 3rd position, Nur Humaira Binte Mohammad Azman</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;B Div’ (Girls), Half Heavy, 3rd position, Aiunie
+Putri Binte Mohd Hirwan</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -308,6 +355,9 @@ Ang</p>
 <td rowspan="1" colspan="1">
 <p>B Div’ – League 2 Quarter Finals’ Qualification</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>B Div’ (Girls) – 2nd Round Stage</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -315,6 +365,9 @@ Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6th position (Individual) in 1st International Sword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nil</p>
@@ -336,7 +389,8 @@ Raziel Ng Min Ying</p>
 Azriel Ng Min Xin (Huang Minxin)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>B Div’ (Girls), Poom Belt -64kg, 2nd&nbsp;position, Azriel Ng Min Xin
+(Huang Minxin)</p>
 </td>
 </tr>
 </tbody>
