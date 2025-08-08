@@ -334,15 +334,15 @@ Ang</p>
 <p>C Div’ (Girls) – Nil</p>
 <p>B Div’ (Girls) – Nil</p>
 <p></p>
-<p>1. C Div' (Boys), Feather, 3rd position, Eu Savion</p>
-<p>2. C Div' (Boys), Light, 3rd position, Lucius Chiang</p>
-<p>3. C Div' (Boys), Half Heavy, 3rd position, Lucas Teng Kai Shen</p>
-<p>4. C Div' (Girls), Feather, 3rd position, Yu En Ow</p>
+<p>1.&nbsp;C Div’ (Girls), Feather, 3rd position, Yu En Ow</p>
+<p>2. C Div' (Boys), Feather, 3rd position, Eu Savion</p>
+<p>3. C Div' (Boys), Light, 3rd position, Lucius Chiang</p>
+<p>4. C Div' (Boys), Half Heavy, 3rd position, Lucas Teng Kai Shen</p>
 <p>5. B Div’ (Girls), Feather, 3rd position, Nur Syafira Binte Shaharudin</p>
 <p>6. B Div’ (Girls), Feather, 3rd position, Ngiam Ning Xuan Angeline Zoe</p>
 <p>7. B Div’ (Girls), Middle, 3rd position, Nur Humaira Binte Mohammad Azman</p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;B Div’ (Girls), Half Heavy, 3rd position, Aiunie
-Putri Binte Mohd Hirwan</p>
+<p>8.&nbsp;B Div’ (Girls), Half Heavy, 3rd position, Aiunie Putri Binte Mohd
+Hirwan</p>
 </td>
 </tr>
 <tr>
