@@ -98,3 +98,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Spreading Good Vibes &amp; Tunes for Charity in our Value-in-Action Programme!" src="/images/Band5.jpg">
 </div>
 <p>Spreading Good Vibes &amp; Tunes for Charity in our Value-in-Action Programme!</p>
+<p></p>
+<p>SYF 2025</p>
+<div class="iframe-wrapper">
+<iframe height="695" width="1236" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Mms_kMelkrA"></iframe>
+</div>
+<p></p>
