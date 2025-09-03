@@ -76,11 +76,29 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 1 End-of-Year Examinations</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p><a href="/files/Assessment/2025 Assessment/HS_2025_196__2025__EOY_Exam_Cover_Letter___Timetable_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2 End-of-Year Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/2025 Assessment/HS_2025_196__2025__EOY_Exam_Cover_Letter___Timetable__Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3 End-of-Year Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/2025 Assessment/HS_2025_196__2025__EOY_Exam_Cover_Letter___Timetable_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Schedule</a>
+</p>
 </td>
 </tr>
 </tbody>
