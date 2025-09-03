@@ -5,6 +5,33 @@ variant: tiptap
 description: ""
 ---
 <p>Please refer to the information below regarding school-based assessments.</p>
+<p></p>
+<h4>GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>GCE 'N' Level Examinations</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL and MT Languages Listening Comprehension Examinations</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/2025 Assessment/HS_2025_110_Early_Dismissal_for_N_Level_LC_Exam.pdf" rel="noopener nofollow" target="_blank">Early Dismissal on 16 and 17 Sep for LC Exams</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>Preliminary Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
 <colgroup>
