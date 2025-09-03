@@ -26,10 +26,10 @@ gaps. Refer to the schedule below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>17 - 18 March</p>
+<p>11 - 12 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/ECT/HS_2025_034_2025_March_Holidays_Extended_Curriculum_Timetable.pdf" rel="noopener nofollow" target="_blank">2025 March ECT Schedule</a>
+<p><a href="/files/ECT/HS_2025_199_Sep_ECT_Schedule_edited_and_signed.pdf" rel="noopener nofollow" target="_blank">2025 Sep ECT Schedule</a>
 </p>
 </td>
 </tr>
@@ -39,6 +39,15 @@ gaps. Refer to the schedule below.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/HS_2025_084_Letter_to_Parents_June_ECT_updated1.pdf" rel="noopener nofollow" target="_blank">2025 June ECT Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 - 18 March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ECT/HS_2025_034_2025_March_Holidays_Extended_Curriculum_Timetable.pdf" rel="noopener nofollow" target="_blank">2025 March ECT Schedule</a>
 </p>
 </td>
 </tr>
