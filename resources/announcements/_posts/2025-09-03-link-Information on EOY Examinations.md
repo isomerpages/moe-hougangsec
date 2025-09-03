@@ -1,6 +1,6 @@
 ---
-title: Information on WA3 and Prelim Examinations
-date: 2025-07-04
+title: Information on EOY Examinations
+date: 2025-09-03
 layout: link
 description: ""
 image: ""
