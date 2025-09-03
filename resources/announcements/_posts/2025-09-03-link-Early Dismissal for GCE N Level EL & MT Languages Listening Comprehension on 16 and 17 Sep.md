@@ -1,7 +1,7 @@
 ---
-title: English Language Listening Comprehension Examination Schedule for
-  Secondary 1 to 5 Students
-date: 2025-07-08
+title: Early Dismissal for GCE N Level EL & MT Languages Listening Comprehension
+  on 16 and 17 Sep
+date: 2025-09-03
 layout: link
 description: ""
 image: ""
