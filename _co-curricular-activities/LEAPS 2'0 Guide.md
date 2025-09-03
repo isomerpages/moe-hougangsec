@@ -139,5 +139,5 @@ one of the following:</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>For more information, please refer to the attached</p>
+<p>For more information, please refer to the attached <a href="/files/CCA/LEAPS_2_0.pdf" rel="noopener nofollow" target="_blank">LEAPS 2.0 document</a> .</p>
 <p></p>
