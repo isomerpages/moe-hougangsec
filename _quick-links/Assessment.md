@@ -108,6 +108,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="/files/Assessment/2025 Assessment/HS_2025_196__2025__EOY_Exam_Cover_Letter___Timetable_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1 EOY Schedule</a>
 </p>
+<p>A. <a href="/files/Assessment/2025 Assessment/2025__S1G1__EOY_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Exam Format for G1 Subjects</a>
+<br>B. <a href="/files/Assessment/2025 Assessment/2025__S1G2__EOY_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Exam Format for G2 Subjects</a>
+<br>C. <a href="/files/Assessment/2025 Assessment/2025__S1G3__EOY_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 1 Exam Format for G3 Subjects</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -117,6 +121,10 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="/files/Assessment/2025 Assessment/HS_2025_196__2025__EOY_Exam_Cover_Letter___Timetable__Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 EOY Schedule</a>
 </p>
+<p>A. <a href="/files/Assessment/2025 Assessment/2025__S2G1__EOY_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Exam Format for G1 Subjects</a>
+<br>B. <a href="/files/Assessment/2025 Assessment/2025__S2G2__EOY_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Exam Format for G2 Subjects</a>
+<br>C. <a href="/files/Assessment/2025 Assessment/2025__S2G3__EOY_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 2 Exam Format for G3 Subjects</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -125,6 +133,10 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Assessment/2025 Assessment/HS_2025_196__2025__EOY_Exam_Cover_Letter___Timetable_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3 EOY Schedule</a>
+</p>
+<p>A. <a href="/files/Assessment/2025 Assessment/2025_S3NT__EOY_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Exam Format for N(T) Subjects</a>
+<br>B. <a href="/files/Assessment/2025 Assessment/2025__S3NA__EOY_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Exam Format for N(A) Subjects</a>
+<br>C. <a href="/files/Assessment/2025 Assessment/2025__S3E__EOY_.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Exam Format for EXP Subjects</a>
 </p>
 </td>
 </tr>
