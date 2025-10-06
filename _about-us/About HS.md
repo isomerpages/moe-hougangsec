@@ -15,7 +15,7 @@ abilities through a quality education that emphasizes character development.</p>
 <p><strong>School Mission</strong>
 <br>Care. Lead. Inspire. Partner.</p>
 <p><strong>School Values</strong>
-<br>Gratitude. Respect. Empathy, Adaptability, Trustworthiness.</p>
+<br>Gratitude. Respect. Empathy. Adaptability. Trustworthiness.</p>
 <p><strong>School Motto</strong>
 <br>Make The Difference</p>
 <h3>School Crest</h3>
@@ -100,3 +100,26 @@ and other stellar qualities</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/HS25th_Anniversary_Logo_Writeup.jpg">
 </div>
 <p></p>
+<p>In celebration of our school's 25th anniversary, student Jovan Low from
+class 3S (2025) composed "GREATest Stars". Performed and recorded in collaboration
+with teachers Mr Daniel Chong, Ms Caroline Tan and Mdm Hizah, this uplifting
+song speaks of our shared hopes and dreams, and is a musical token of our
+unwavering school spirit.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h_5G77X_RdU?si=k1g5A_7mTJDhXbvb"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Silver_Jubilee_Homecoming_header.png">
+</div>
+<p>Our Silver Jubilee Homecoming was a heartwarming celebration that brought
+former principals, dedicated staff, and beloved alumni back to where their
+journeys began.</p>
+<p>Everyone reignited their school spirit through thrilling floorball matches
+and basketball games, tested their knowledge in a school history Kahoot
+quiz, and unleashed their creativity at Makers' Garage with personalised
+tote bags and cups.</p>
+<p>This video montage captures the joy, laughter, and connections that made
+our Silver Jubilee Homecoming an unforgettable experience. Together, we
+honour our past, celebrate our present, and look forward to an even brighter
+future!</p>
