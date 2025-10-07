@@ -106,7 +106,7 @@ with teachers Mr Daniel Chong, Ms Caroline Tan and Mdm Hizah, this uplifting
 song speaks of our shared hopes and dreams, and is a musical token of our
 unwavering school spirit.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h_5G77X_RdU?si=mYGdOuY75dvEeqYE"></iframe>
+<iframe height="385" width="640" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h_5G77X_RdU?si=mYGdOuY75dvEeqYE"></iframe>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
