@@ -14,7 +14,7 @@ sections:
           url: https://www.facebook.com/hougangsecondaryschool/
         - title: Open House 2025
           description: ""
-          url: ""
+          url: https://www.hougangsec.moe.edu.sg/open-house-2025/
         - title: OUR INSTAGRAM
           description: ""
           url: https://www.instagram.com/hougang_secondary_official/
