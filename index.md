@@ -16,6 +16,15 @@ sections:
           description: ""
           url: https://www.instagram.com/hougang_secondary_official/
       variant: center
+  - infopic:
+      title: Open House
+      subtitle: "2025"
+      id: infopic
+      description: See you on 29 November!
+      button: Click here for the mini-site
+      url: https://www.hougangsec.moe.edu.sg/open-house-2025/
+      image: /images/Hougang_Sec_MOTD_800_x_580_px_12oct.jpg
+      alt: Image alt text
   - resources:
       title: Announcements
       subtitle: Our latest updates
