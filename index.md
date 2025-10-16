@@ -20,8 +20,10 @@ sections:
       title: Open House
       subtitle: "2025"
       id: infopic
-      description: See you on 29 November!
-      button: Click here for the mini-site
+      description: Prepare to experience excellence in a vibrant campus where
+        character is built and individuals are moulded to be future-ready for
+        our society.
+      button: Start your journey here!
       url: https://www.hougangsec.moe.edu.sg/open-house-2025/
       image: /images/Hougang_Sec_MOTD_800_x_580_px_12oct.jpg
       alt: Image alt text
