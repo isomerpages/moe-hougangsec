@@ -73,31 +73,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3>Financial Assistance</h3>
-<p>Singapore Citizens in financial need can get assistance from MOE on school
-fees and other expenses. This applies to government, government-aided,
-special education (SPED), specialised and some independent schools. Learn
-if your child is eligible.
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Admin/2024_MOE_FAS_pamphet__EL_.jpg">
-</div>
-<p>Students who are eligible must meet the following criteria:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Are Singapore Citizens.</p>
-</li>
-<li>
-<p>Attend government or government-aided schools.</p>
-</li>
-<li>
-<p>Have a monthly gross household income of $3,000 or less, or a monthly
-per capita household income of $750 or less.</p>
-</li>
-</ul>
-<p><strong>IMDA DigitalAccess@Home Scheme</strong> 
-<br>The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets
+<h3></h3>
+<h4>IMDA DigitalAccess@Home Scheme</h4>
+<p>The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets
 to lower income family. Parents can apply online at www.digitalaccess.gov.sg
 or via hardcopy form.</p>
 <p>How to apply:</p>
