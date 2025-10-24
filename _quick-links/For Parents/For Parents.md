@@ -85,6 +85,14 @@ variant: tiptap
 <p><a href="/files/Parents Connect/HS_Parents_Connect_2025___Issue_4__Version_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2025 Issue 4</a>
 </p>
 <hr>
+<h3>Financial Assistance Scheme</h3>
+<p>For FAS, you may wish to apply via eFAS here:&nbsp;<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
+</p>
+<p></p>
+<h3>IMDA DigitalAccess@Home Scheme</h3>
+<p>The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets
+to lower income family. Parents can apply online at <a href="https://eservice.imda.gov.sg/das/homepage" rel="noopener noreferrer nofollow" target="_blank">https://eservice.imda.gov.sg/das/homepage</a>.</p>
+<p></p>
 <h3>HS Application To Be On Waiting List Form</h3>
 <p>To apply for transfer, please click <a href="https://www.hougangsec.moe.edu.sg/quick-links/appeal/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3>GREAT Start Week For Sec 1 to Sec 5</h3>
