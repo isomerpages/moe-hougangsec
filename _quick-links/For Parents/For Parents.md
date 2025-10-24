@@ -73,25 +73,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3></h3>
-<h4>IMDA DigitalAccess@Home Scheme</h4>
-<p>The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets
-to lower income family. Parents can apply online at www.digitalaccess.gov.sg
-or via hardcopy form.</p>
-<p>How to apply:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>You can download the&nbsp; <a href="/files/Admin/2024_MOE_FAS_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form</a>.&nbsp;Please
-submit the completed form to General Office by the end of the semester.&nbsp;Alternatively,
-you wish to apply via eFAS here:&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
-</p>
-</li>
-</ul>
-<p>More details on the FAS is available on the MOE websites below.&nbsp;</p>
-<p><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
-</p>
-<p><a href="https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=32819&amp;utm_source=moe-corp-site&amp;utm_medium=referral" rel="noopener noreferrer nofollow" target="_blank">Frequently Asked Questions</a>
-</p>
+<h4></h4>
 <hr>
 <h3>HS Parents Connect 2025</h3>
 <p><a href="/files/HS_Parents_Connect_2025___Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2025 Issue 1</a>
