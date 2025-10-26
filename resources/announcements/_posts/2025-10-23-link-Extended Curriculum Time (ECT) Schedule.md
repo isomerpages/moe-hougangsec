@@ -1,6 +1,6 @@
 ---
 title: Extended Curriculum Time (ECT) Schedule
-date: 2025-03-06
+date: 2025-10-23
 layout: link
 description: ""
 image: ""

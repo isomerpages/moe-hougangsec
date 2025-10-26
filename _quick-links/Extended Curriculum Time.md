@@ -26,6 +26,15 @@ gaps. Refer to the schedule below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>27 - 28 Oct</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ECT/HS_2025_219_Oct_ECT_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Oct ECT Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>11 - 12 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
