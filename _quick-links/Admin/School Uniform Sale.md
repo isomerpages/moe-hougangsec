@@ -36,19 +36,17 @@ details are on the pdf file below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2, 3, 4, 9, 10, 11 Dec 2024 (for 2025 Sec 2-4)
+<p>1, 2, 3, 10, 11, 12 Dec 2025 (for 2026 Sec 2-4)
 <br>
-<br>26, 27, 30 Dec 2024 (all levels)</p>
+<br>26, 29, 30 Dec 2025 (all levels)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9am to 3pm
-<br>
-</p>
-<p>
-<br>(Lunch break 12pm to 1pm)</p>
+<p>9am to 12 noon</p>
+<p>(Lunch break 12nn to 1pm)</p>
+<p>1pm to 3pm</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Hougang_Secondary__sale_schedule_EY24__.pdf" rel="noopener nofollow" target="_blank">Hougang Secondary Sale Schedule EY24</a>
+<p><a href="/files/Admin/Hougang_Secondary_Sale_schedule_EY25__.pdf" rel="noopener nofollow" target="_blank">Hougang Secondary Sale schedule EY25</a>
 </p>
