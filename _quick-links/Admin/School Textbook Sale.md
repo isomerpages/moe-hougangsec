@@ -8,8 +8,8 @@ variant: tiptap
 <p>Dear Parents/Guardians</p>
 <p><strong>I. ONLINE Purchase</strong>
 <br>The&nbsp;<u>online</u>&nbsp;textbook purchase is available from now to
-14 Dec 2025 at our supplier’s website <a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">cascoedusupply.com.sg</a>. Please
-refer to your child’s booklist for the login instructions and other details.</p>
+14 Dec 2025 at our supplier’s website <a href="https://cascoedusupply.com.sg/" rel="noopener nofollow" target="_blank">here</a>. Please refer to your child’s
+booklist for the login instructions and other details.</p>
 <p></p>
 <p></p>
 <p></p>
