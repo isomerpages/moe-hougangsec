@@ -221,7 +221,7 @@ Singapore and Vietnam.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/internationalisation%20trip_2.jpg">
 </div>
-<h4>Internalisation Trip to Bali, Oct 2023</h4>
+<h4>Internationalisation Trip to Bali, Oct 2023</h4>
 <p>Our school's journey to Bali offers a unique Humanities learning opportunity
 with an added focus on understanding tourism in this enchanting island.
 Students immerse in the Balinese way of life, including an immersion program
