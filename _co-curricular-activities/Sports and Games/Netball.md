@@ -39,25 +39,22 @@ and game experience</p>
 <h3>Coach</h3>
 <p>Chow Chon Tee</p>
 <h3>CCA Leadership Structure</h3>
-<ol data-tight="true" class="tight">
+<p>'<strong>B' Division Captain</strong>: KUEK YAN SAN (4A)</p>
+<p><strong>’B' Division Vice Captain</strong>: RAEESA BINTE MOHAMAD ASRAF
+(4O)</p>
+<p><strong>Sec 4 VIA Leader</strong>: NADIA NG JING YI</p>
+<p><strong>Sec 3 Leaders</strong>:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>'<strong>B' Division Captain</strong>: SARAH REKHA KUNALAN (4A)</p>
+<p>DIAN QISTINA FARISHA BINTE IDHAM</p>
 </li>
 <li>
-<p><strong>’B' Division Vice Captain</strong>: NURUL A’DRIANA QYSTINA BINTE
-MOHAMMED HISHAM (4O)</p>
+<p>SOFIA ANJALI KUNALAN</p>
 </li>
-<li>
-<p><strong>Sec 3 Leaders</strong>: KUEK YAN SAN and GILLIAN CHOO SI QI</p>
-</li>
-<li>
-<p><strong>Sec 3 VIA Leader</strong>: RAEESA BINTE MOHAMAD ASRAF</p>
-</li>
-<li>
-<p><strong>Sec 4 VIA Leader</strong>: LEOW ZI XUAN, RAINE</p>
-</li>
-</ol>
-<h3>Achievement</h3>
+</ul>
+<p><strong>Sec 3 VIA Leader: </strong>JOLIE KWAN KAI HIN</p>
+<p></p>
+<p>Achievement</p>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <h3>Training Venue and Days</h3>
@@ -65,28 +62,6 @@ MOHAMMED HISHAM (4O)</p>
 <br><strong>Time</strong>: 3.15 pm - 5.45 pm (Tue) / 1.30 pm - 4.00 pm (Fri)
 <br><strong>Venue</strong>: Parade Square (Wet weather: Foyer / GRC Wall)
 on Tuesdays, and Hougang Primary School Indoor Sports Hall on Fridays</p>
-<h3>Our experiences in Netball:</h3>
-<p><strong>Chloe (3U)</strong>
-<br>My experience in netball was amazing, I get to know people who also have
-the same interest as me. The challenges I faced in netball was my stamina
-because to last throughout the game, I overcame them by exercising at home
-such as lifting weights. Because of netball I became fitter than before.
-The most memorable event in netball cca is the carnivals where I got to
-bond well with my teammates.</p>
-<p><strong>Jerrine (3G)</strong>
-<br>When I first joined netball , it was exhausting but very exciting for
-me. I learned how to shoot a goal as a goal shooter, it wasn't easy but
-I managed by practising shooting the ball to the goal. Challenges that
-I faced are having a hard time building up teamwork with teammates and
-mastering up to new skills. I overcome my challenges by spending time with
-my teammates and participate in bonding activities. The best memories I
-had in netball is winning sportsmanship during NSG with flying colors and
-i also enjoy the carnivals with my teammates.</p>
-<p><strong>Sarah (2E)</strong>
-<br>When I first joined netball , it was really fun but also intense. The
-challenges I faced are teamwork and communication. I overcome them by getting
-to know their characteristics and understand more of how they feel in netball.
-I also get to know them better by team bonding games.</p>
 <h3>Photographs</h3>
 <div class="iframe-wrapper">
 <iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTw4SC-O7VqbkXbW8Vk21o7qA37SJyqKuXX3VtqEQGPXkEfZvZdcdWiECvDCPsNGYFy9nc_72AkACbU/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>

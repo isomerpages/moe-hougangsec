@@ -15,7 +15,7 @@ enriching lives. The Company’s programme includes varied events and activities
 to help our Girls explore their interests, cultivate healthy and meaningful
 pursuits, develop care for one another and the community, and learn leadership
 skills to lead others.</p>
-<p>The Girls’ Brigade Singapore:&nbsp;<a href="http://www.gb.org.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.gb.org.sg/</a>
+<p>The Girls’ Brigade Singapore: <a href="http://www.gb.org.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.gb.org.sg/</a>
 </p>
 <h3>Vision</h3>
 <p>Grow &amp; Go Beyond - Extend. Serve. Lead</p>
@@ -60,11 +60,12 @@ empowering and enabling: Every Girl a leader, Every Officer a Servant Leader.</p
 <p>2</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>Made for More
-<br>Made for Future
-<br>Made for Adventure
-<br>Made for Good Works
-<br>First Aid/GBI/Drills badge</p>
+<p>Made for More</p>
+<p>Made for Future</p>
+<p>Made for Adventure</p>
+<p>Made for Good Works</p>
+<p>First Aid/GBI/Drills badge</p>
+<p></p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Leadership Award Stage 2 (Bronze Pin)</p>
@@ -135,7 +136,7 @@ empowering and enabling: Every Girl a leader, Every Officer a Servant Leader.</p
 <p>Made for Adventure</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Inline Skating/ Rock Climbing/ Dragon Boating</p>
+<p>Inline Skating/ Rock Climbing/ Archery</p>
 </li>
 <li>
 <p>Orienteering &amp; Hike</p>
@@ -172,7 +173,7 @@ Training Camp</p>
 <p>Other Events</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>UG Experience/Sec 1 Welcome Party</p>
+<p>Open House/ UG Experience/Sec 1 Welcome Party</p>
 </li>
 <li>
 <p>Sec 4 POP and Handover</p>
@@ -187,7 +188,7 @@ Training Camp</p>
 <p>GB Day</p>
 </li>
 <li>
-<p>National Day Parade</p>
+<p>School National Day Parade</p>
 </li>
 <li>
 <p>Drill Competition/ Low Guat Tin Challenge (alternate year)&nbsp;</p>
@@ -195,7 +196,6 @@ Training Camp</p>
 </ul>
 </li>
 </ul>
-<p>&nbsp;</p>
 <h3>CCA Leadership Structure</h3>
 <p>Company Sergeant Major, Assistant Company Sergeant Major, Squad leader,
 Assistant Squad Leader, Drill Mistress, Quarter Mistress, Executive Committee
@@ -205,15 +205,15 @@ Assistant Squad Leader, Drill Mistress, Quarter Mistress, Executive Committee
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>CSM: PEE POI SHUEN, CARISSA (BAI PEIXUAN) (S3-U)</p>
+<p>CSM: TAN XIN LEI XUZENN (S3-S)</p>
 </li>
 <li>
-<p>ACSM: LIM LI SHAN (S3-O)</p>
+<p>ACSM: LEE EN TING KAYSE (S3-S)</p>
 </li>
 </ul>
 <h3>Route of Advancement</h3>
-<p>Private – Lance Corporal – Corporal – Sergeant – Staff Sergeant – Master
-Sergeant</p>
+<p>Private –&gt; Lance Corporal –&gt; Corporal –&gt; Sergeant –&gt; Staff
+Sergeant –&gt; Master Sergeant</p>
 <h3>Training Venue and Days</h3>
 <p><strong>Day:</strong>&nbsp;Friday
 <br><strong>Time:</strong>&nbsp;1.45 pm - 5.00 pm
