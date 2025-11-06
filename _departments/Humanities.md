@@ -199,7 +199,7 @@ Changi Experience Studio at Jewel to learn about Changi Airport’s history
 and functions. Through the story of Changi Airport, students appreciate
 how the airport plays a critical role in Singapore’s economy and connection
 to the rest of the world.</p>
-<h4>Internalisation Trip to Vietnam, May 2023</h4>
+<h4>Internationalisation Trip to Vietnam, May 2023</h4>
 <p>The Humanities Department organised the first learning journey after the
 pandemic to Vietnam. During the 5 Day 4 Night trip to Ho Chi Min City and
 Vung Tau City, students experienced the rich cultural, historical and geographical
