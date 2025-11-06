@@ -165,9 +165,8 @@ Girls develop valuable leadership and life skills in five areas: Personal
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <h3>Training Venue and Days</h3>
-<p><strong>Day:</strong>&nbsp;Tuesday &amp; Friday
-<br><strong>Time:</strong>&nbsp;3.30 pm - 5.30 pm (Tue) / 1.30 pm - 4.00 pm
-(Fri)
+<p><strong>Day:</strong>&nbsp;Friday
+<br><strong>Time:</strong>&nbsp;1.30 pm - 4.30 pm
 <br><strong>Venue:</strong>&nbsp;School Compound</p>
 <p><u>Values-in-Action (VIA):</u>
 <br>VIA on some Tuesdays</p>
