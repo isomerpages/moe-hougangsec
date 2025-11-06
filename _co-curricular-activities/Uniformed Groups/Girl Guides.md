@@ -8,13 +8,22 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9rt5SeC9I20"></iframe>
 </div>
-<h3>Introduction</h3>
-<p>The Girl Guide Movement started in Singapore in 1917, as a District of
-the Malayan Association of Girl Guides. Over the years, Guiding has developed
-into a dynamic and vibrant organisation, evolving to meet the changing
-needs of our girls and enabling our Guiding members to make significant
-contributions to our nation and the communities in the ever-changing world
-around us.</p>
+<h3>GIRL GUIDES (1st Hougang Coy)</h3>
+<p><strong>“LEAD WITH HEART, SERVE WITH PURPOSE”</strong>
+</p>
+<p>At Hougang Secondary School, Girl Guides empowers girls to grow into confident,
+caring, and capable young women. Through hands-on activities like tent-pitching,
+outdoor cooking, gadget-making, and foot drills, Guides learn teamwork,
+resilience, and the spirit of “Be Prepared.”</p>
+<p>They also earn proficiency badges such as Free Being Me, Craft, and First
+Aid, building creativity, confidence, and care for others.</p>
+<p>Highlights include the 3D2N Annual Camp, North Division events, and the
+spirited Secondary One Orientation Campfire, where Guides lead songs and
+cheers that bring the school together.</p>
+<p>Rooted in Hougang’s G.R.E.A.T values, <strong><em>Gratitude, Respect, Empathy, Adaptability, and Trustworthiness</em>,</strong> our
+Guides truly live the motto:
+<br><strong>Once a Guide, Always a Guide.</strong>
+</p>
 <h3>Vision</h3>
 <p>We are a growing worldwide Movement ~ the voice of girls and young women
 who influence issues they care about and build a better world</p>
@@ -24,21 +33,19 @@ responsible citizens of the world</p>
 <h3>Motto</h3>
 <p>"Be Prepared"</p>
 <h3>CCA Leadership Structure</h3>
-<p><strong>Company Leader:</strong> Elise Ng (3N)
-<br><strong>Assistant Company Leader</strong>: Nur Amalina Binte Basri (3H)
+<p><strong>HSS 1st Coy – Girl Guides</strong>
+</p>
+<p><strong>Company Leader (CL):</strong> Rya Kaushik (3A)
+<br><strong>Assistant Company Leaders (ACLs)</strong>: Wilma Cheng (3E), Tan
+Wei Xuan (3G)
 <br><strong>Assistant Company Leader</strong>: Sherryn Soh Si Xuan (3O)
-<br><strong>Patrol Leader</strong>: Dania Humaira Binte Muhammad Rizal (3A)
-<br><strong>Patrol Leader</strong>: Koh Jia Xi (3A)
-<br><strong>Patrol Leader</strong>: Afiah Hamizah Binte Abdul Hamid (3G)
-<br><strong>Patrol Leader</strong>: Claire Lee Wen Xuan (3H)
-<br><strong>Patrol Leader</strong>: Janella Teh Jing’Er(3N)
-<br><strong>Patrol Leader</strong>: Kong Zi Ting (3O)
-<br><strong>Patrol Second</strong>: Tan Xin En Carrie (2A)
-<br><strong>Patrol Second</strong>: Trisha Leeann Low Rui Ting (2A)
-<br><strong>Patrol Second</strong>: Ng Jia Qi Jovie (2E)
-<br><strong>Patrol Second</strong>: Woon Jia En, Denise (2E)
-<br><strong>Patrol Second</strong>: Amirah Hazirah Binte Nor Isman (2G)
-<br><strong>Patrol Second</strong>: Alexia Ho Si Ying (2U)</p>
+<br><strong>Patrol Leaders (PLs)</strong>: Nur Serena Binte Mohammad Juhari&nbsp;(3S),
+Nurhayati Binte Mohd Zulkifli&nbsp;(3H1), Nurul Insyirah Binte Kasman&nbsp;(3U),
+Tok Boon Xuan, Celeste&nbsp;(3H2), Layugan Sariah Isabelle Lorenzo&nbsp;(2N),
+Sebi Anahera Maria&nbsp;(3A)
+<br><strong>Patrol Seconds (PSs)</strong>: Daania Elyssa Binte Iskandar (2O),
+Edlyn Nirvana Wie (2N), Lim Yu Tong Cady (2G), Lu Yuyun, Geane (2N), Durrah
+Binte Ardi (2A), Sabrina Binte Abdullah (2G)</p>
 <h3>Programmes</h3>
 <p>The Five-Point Programme forms the foundation for Guiding in Singapore.
 Girls develop valuable leadership and life skills in five areas: Personal
