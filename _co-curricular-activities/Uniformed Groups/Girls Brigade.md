@@ -15,8 +15,9 @@ enriching lives. The Company’s programme includes varied events and activities
 to help our Girls explore their interests, cultivate healthy and meaningful
 pursuits, develop care for one another and the community, and learn leadership
 skills to lead others.</p>
-<p>The Girls’ Brigade Singapore:&nbsp;<a href="http://www.gb.org.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.gb.org.sg/</a>
+<p>The Girls’ Brigade Singapore: <a href="http://www.gb.org.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.gb.org.sg/</a>
 </p>
+<p></p>
 <h3>Vision</h3>
 <p>Grow &amp; Go Beyond - Extend. Serve. Lead</p>
 <h3>Mission</h3>
