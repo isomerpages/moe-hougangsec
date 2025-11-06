@@ -17,7 +17,6 @@ pursuits, develop care for one another and the community, and learn leadership
 skills to lead others.</p>
 <p>The Girls’ Brigade Singapore: <a href="http://www.gb.org.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.gb.org.sg/</a>
 </p>
-<p></p>
 <h3>Vision</h3>
 <p>Grow &amp; Go Beyond - Extend. Serve. Lead</p>
 <h3>Mission</h3>
@@ -61,11 +60,12 @@ empowering and enabling: Every Girl a leader, Every Officer a Servant Leader.</p
 <p>2</p>
 </td>
 <td rowspan="5" colspan="1">
-<p>Made for More
-<br>Made for Future
-<br>Made for Adventure
-<br>Made for Good Works
-<br>First Aid/GBI/Drills badge</p>
+<p>Made for More</p>
+<p>Made for Future</p>
+<p>Made for Adventure</p>
+<p>Made for Good Works</p>
+<p>First Aid/GBI/Drills badge</p>
+<p></p>
 </td>
 <td rowspan="3" colspan="1">
 <p>Leadership Award Stage 2 (Bronze Pin)</p>
