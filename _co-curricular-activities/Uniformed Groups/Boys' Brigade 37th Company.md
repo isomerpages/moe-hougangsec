@@ -93,11 +93,8 @@ resilience, discipline and respect.&nbsp;</p>
 <p>Find us here!&nbsp;<a href="https://www.instagram.com/37thbb_hss/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/37thbb_hss/</a>
 </p>
 <h3>Programmes and Activities</h3>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnu6VerlD1TUHCB33BGXJw6G6jO0wpSYwDRkst4zNA0irT-GsrBrWHnbDWREuxuIVM8CGa_uHWkuT1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1q_Y0y3pnuDZDTw9vCS0cN_3u7yQ_EAz_8uHf6WqqDvM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUX6o2uyr-lF7j_QF4Z1PX5qFJNMODB3phKF0M-ZVpmnkGdvoRPAKdJc-FFMwv-7ODJ_T_8qXKsEhT/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
