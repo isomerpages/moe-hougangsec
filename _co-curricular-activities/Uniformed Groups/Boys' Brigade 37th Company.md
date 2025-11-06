@@ -27,38 +27,61 @@ resilience, discipline and respect.&nbsp;</p>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p></p>
+<h3>Teachers-In-Charge</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Ms Fiona Puah</p>
+</li>
+<li>
+<p>Mr Ho Wee Khong</p>
+</li>
+</ul>
 <h3>Officers-In-Charge</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>LTA Jeremy Wong (Captain)</p>
+<p>LTA Zenas Lee (Captain)</p>
 </li>
 <li>
-<p>LTA Jonathan Pek (Officer mentor)</p>
+<p>LTA Seah O Wen (Officer mentor)</p>
+</li>
+<li>
+<p>2LT Andy Chong (Officer mentor)</p>
+</li>
+<li>
+<p>Mr Calvin Ang (Officer mentor)</p>
 </li>
 </ul>
 <h3>Leadership Structure</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>SGT Ee Jia Le Nicholas (Company Sergeant Major)</p>
+<p>SGT Wong Zhi Hao Marcus (Company Sergeant Major)</p>
 </li>
 <li>
-<p>SGT Muhammad Zulkifl Bin Mohd Nazrie (Assistant CSM)</p>
+<p>SGT Chan Wee Kiat (Assistant CSM)</p>
 </li>
 <li>
-<p>CPL Poh Tian Jun (Squad Leader)</p>
+<p>SGT Gua Yi Yang (Squad Leader)</p>
 </li>
 <li>
-<p>CPL Cavin Chua Koon Leong (Squad Leader)</p>
+<p>SGT Bok Cheng Jun Julian (Squad Leader)</p>
 </li>
 <li>
-<p>CPL Liang Jun De, Boyie (Squad Leader)</p>
+<p>SGT Yuan Weiping (Squad Leader)</p>
 </li>
 <li>
-<p>CPL Alden Ang Xiang Kai (Logistics IC)</p>
+<p>CPL Lukas Low (Assistant Squad Leader)</p>
 </li>
 <li>
-<p>CPL Chow Tin Yang Elvin (Media IC)</p>
-<p></p>
+<p>CPL Ong Wei Kai (Assistant Squad Leader)</p>
+</li>
+<li>
+<p>CPL Kaden Tan (NCO council member)</p>
+</li>
+<li>
+<p>CPL Wang Hong Jun Bryan (NCO council member)</p>
+</li>
+<li>
+<p>CPL Tan Yujie Aaron (NCO council member)</p>
 </li>
 </ul>
 <h3>Training Venue and Days</h3>
@@ -70,11 +93,8 @@ resilience, discipline and respect.&nbsp;</p>
 <p>Find us here!&nbsp;<a href="https://www.instagram.com/37thbb_hss/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/37thbb_hss/</a>
 </p>
 <h3>Programmes and Activities</h3>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSnu6VerlD1TUHCB33BGXJw6G6jO0wpSYwDRkst4zNA0irT-GsrBrWHnbDWREuxuIVM8CGa_uHWkuT1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1q_Y0y3pnuDZDTw9vCS0cN_3u7yQ_EAz_8uHf6WqqDvM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUX6o2uyr-lF7j_QF4Z1PX5qFJNMODB3phKF0M-ZVpmnkGdvoRPAKdJc-FFMwv-7ODJ_T_8qXKsEhT/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>

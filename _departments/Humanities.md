@@ -199,7 +199,7 @@ Changi Experience Studio at Jewel to learn about Changi Airport’s history
 and functions. Through the story of Changi Airport, students appreciate
 how the airport plays a critical role in Singapore’s economy and connection
 to the rest of the world.</p>
-<h4>Internalisation Trip to Vietnam, May 2023</h4>
+<h4>Internationalisation Trip to Vietnam, May 2023</h4>
 <p>The Humanities Department organised the first learning journey after the
 pandemic to Vietnam. During the 5 Day 4 Night trip to Ho Chi Min City and
 Vung Tau City, students experienced the rich cultural, historical and geographical
@@ -221,7 +221,7 @@ Singapore and Vietnam.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/internationalisation%20trip_2.jpg">
 </div>
-<h4>Internalisation Trip to Bali, Oct 2023</h4>
+<h4>Internationalisation Trip to Bali, Oct 2023</h4>
 <p>Our school's journey to Bali offers a unique Humanities learning opportunity
 with an added focus on understanding tourism in this enchanting island.
 Students immerse in the Balinese way of life, including an immersion program
