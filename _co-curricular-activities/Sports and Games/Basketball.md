@@ -32,10 +32,10 @@ while maximising each player’s potential</p>
 <h3>Programmes / Competitions</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>North Zone Championships (B and C Division)</p>
+<p>National School Games (B and C Division)</p>
 </li>
 <li>
-<p>ActiveSG-BAS Basketball Development League (B and C Division)</p>
+<p>Montfort Cup (Sec 1)</p>
 </li>
 <li>
 <p>Inter-school friendly matches</p>
@@ -52,16 +52,16 @@ while maximising each player’s potential</p>
 </p>
 <h3>CCA Leadership Structure</h3>
 <p><strong>B Division (2024)</strong>
-<br><strong>Captain:</strong>&nbsp;Jun Xiang (3N)
-<br><strong>Vice-Captain:</strong>&nbsp;Cody (3N)</p>
+<br><strong>Captain:</strong>&nbsp;Zelfian
+<br><strong>Vice-Captain:</strong>&nbsp;Adrian</p>
 <p><strong>C Division (2024)</strong>
-<br><strong>Captain:</strong>&nbsp;Adrian (2H)
-<br><strong>Vice-Captain:</strong>&nbsp;Zelfian (2A)</p>
-<p><strong>VIA Leaders:</strong>&nbsp;Lewis (3E), Zhi Kai (2G)</p>
-<p><strong>Logistics Heads :</strong>&nbsp;Torres (3N), Kin Onn (2S)</p>
-<p><strong>Publicity/Events Head:</strong>&nbsp;Jing Yan (3A), Asnawi (2E)
-<br><strong>Physical Training Heads:</strong>&nbsp;Tevez (3O), Ryan (2O)
-<br><strong>Discipline Heads:</strong>&nbsp;Jay (3E), Jovan (2A)</p>
+<br><strong>Captain:</strong>&nbsp;Putran
+<br><strong>Vice-Captain:</strong>&nbsp;Jia Jun</p>
+<p><strong>VIA Leaders:</strong>&nbsp;Zhi Kai / Kaden</p>
+<p><strong>Logistics Heads :</strong>&nbsp;Kin Onn / Daviel</p>
+<p><strong>Publicity/Events Head:</strong>&nbsp;Roy / Jayden
+<br><strong>Physical Training Heads:</strong>&nbsp;Ryan / Danson
+<br><strong>Discipline Heads:</strong>&nbsp;Jovan / Ashton</p>
 <p><strong>Leadership Opportunities:</strong>
 <br>C &amp; B Division Captain
 <br>C &amp; B Division Vice-Captain
@@ -110,12 +110,14 @@ while maximising each player’s potential</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bb4.jpeg">
 </div>
 <p>C Division</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Bball_C_DIv.jpg">
 </div>
 <p>B Division</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_pic2_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Bball_B_DIv.jpg">
 </div>
 <p>Showing Gratitude to Teachers</p>
 <p></p>
@@ -142,7 +144,7 @@ while maximising each player’s potential</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/bball_pic7_2024.jpg">
 </div>
-<h3>Open House 2022</h3>
+<h3>Open House</h3>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1q178zJ2QrZHDRdvdX7e_nuvbQXHdBR7oCeCCc4RYW18/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
