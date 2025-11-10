@@ -4,28 +4,62 @@ permalink: /departments/science/
 description: ""
 variant: tiptap
 ---
-<p><strong>Head of Department</strong>
-<br>Ms. Kwek Yu Zhen</p>
 <p><strong>Subject Head</strong>
 <br>Miss Jazreel Toh Hui Khee</p>
 <p><strong>Teachers</strong>
 <br>Mr Javen Gwee (HOD/ICT &amp; Data Management)
-<br>Ms. Kitty Tan Min Jie
 <br>Ms. Rachel Yong Lai Kuan
 <br>Mr Soh Yen Meng
 <br>Mr Ho Wee Khong
 <br>Ms. Phua Li Xian
-<br>Mdm Radzawaty Bte Jamaludin
 <br>Mr Marcus Aw Yu Kian
 <br>Mr Teo Chun Min
-<br>Ms. Puah Mui Kiang
-<br>Ms. Ashley Li
-<br>Ms. Melissa Lim
-<br>Mr Garian Sng Shao Kiat</p>
+<br>Ms. Fiona Puah Mui Kiang
+<br>Ms. Ashley Chan
+<br>Ms. Sharon Wee
+<br>
+</p>
 <p><strong>STEM Instructors (Laboratory)</strong>
 <br>Ms. Kartini Bte Mohd Sidek
 <br>Mdm Nur Suhaila Saidz
+<br>
+</p>
+<p><strong>Operations Support Officer</strong>
 <br>Mr Chiam Yak Quee</p>
+<p></p>
+<h4>Curriculum/Subjects Offered<br></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lower Secondary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Upper Secondary</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>General Science (G1, G2, G3)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Biology (G3)
+<br>Chemistry (G3)
+<br>Physics (G3)
+<br>Science (Phy/Chem) G3 and G2
+<br>Science (Chem/Bio) G3
+<br>Science (G1)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Vision</h3>
 <p>Inquisitive Thinkers, Community of Learners</p>
 <h3>Mission</h3>
@@ -43,36 +77,7 @@ and enrichment programmes to nurture students who:</p>
 concepts and reasoning</p>
 </li>
 </ul>
-<h3>Curriculum/Subject offered</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper Secondary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>General Science Express, N(A), N(T)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Biology
-<br>Chemistry
-<br>Physics
-<br>Science (Phy/Chem) Express and N(A) and
-<br>Science (Chem/Bio) Express
-<br>Science Syllabus (T)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <h3>Programme for the Year</h3>
 <table style="minWidth: 50px">
 <colgroup>
