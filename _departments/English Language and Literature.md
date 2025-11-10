@@ -136,7 +136,7 @@ discourse on contemporary issues.</p>
 <p></p>
 <h4>English Language Literature Snap Shots</h4>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcFZmsghp6E5EhTnNmfl8rlDQonKAYbRzkCW9NjOVKTNDFdQhTuiXuH4u_1qA5Zw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcFZmsghp6E5EhTnNmfl8rlDQonKAYbRzkCW9NjOVKTNDFdQhTuiXuH4u_1qA5Zw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mSF54WdtFTk?si=uMFYprrmHJxcUxwc"></iframe>
