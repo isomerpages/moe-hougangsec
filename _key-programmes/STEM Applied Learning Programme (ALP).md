@@ -38,9 +38,8 @@ outstanding groups showcase their design thinking solutions and receive
 gold, silver, or bronze recognition. This introductory programme kickstarts
 students' journey in becoming resilient innovators, preparing them to tackle
 tomorrow's challenges with confidence through design thinking methodology.</p>
-<p></p>
 <div class="iframe-wrapper">
-<iframe height="480" width="854" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oISQ0mGI-9c"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSIlm1PMQPIMD7MxoHjs17P-lVlLmrcXr4tgxQMryIQEokGoqm6gGheUkHormZYX9zlMVQu7ULFfIE6/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>AI for Fun Programme (Secondary 2)</strong>
 </p>
@@ -87,11 +86,12 @@ with the broader community.</p>
 <p><strong>Singapore Youth Science Festival (2025)</strong>: Five Science
 students developed flood mitigation solutions using strategic plant placement,
 while five STEM Leaders created natural dyes from fruit peels, addressing
-food waste and promoting sustainable textile production.
-<br>
-</p>
+food waste and promoting sustainable textile production.</p>
 </li>
 </ul>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSwMQn50JKKxCeRQ9uE2e6jTASL7QFr19KrSHW1NA1wKZI4aNaZNlK3JvW8OPnwFxm9HUKpjW1VMlH4/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p><strong>Sustainability (Hydroponics and Autopots)</strong>
 </p>
 <p>Our Sustainability Programme develops our STEM Leaders as environmental
@@ -110,7 +110,12 @@ skills while promoting sustainable practices.</p>
 <p>The programme nurtures community builders who develop environmental stewardship
 values, responsibility, and social-emotional competencies through collaborative
 farming, community outreach, and peer education—preparing them to be thoughtful,
-engaged citizens.</p>
+engaged citizens.
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPXYsX86QfsEU_2vv5Ye-z9MZ1C252neewnEsX_9fTPxXtuQ-8CNlOlLCfvFmi0gIHB4RVaro1-Nxh/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <p><strong>Community Innovation Programme</strong>
 </p>
 <p>In 2024, HS collaborated with the Design Singapore Council (DSG) and Bold@Work,
@@ -129,6 +134,9 @@ their innovations to beneficiaries, stakeholders, parents, teachers, and
 fellow schoolmates. This initiative nurtured empowered leaders who gained
 confidence in addressing real-world challenges and making meaningful community
 impact through collaborative innovation.</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ4FfkopIeHEimGyiXV5CqNU0QfNISAdPRaeX7o3AQAJdBKJ4Wyb32QyXndV62kTFg8egpikH0ZUDUC/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h3><strong>Partnerships for Future-Ready Learning</strong></h3>
 <p>HS believes in bridging education with industry relevance. To ensure that
 our students gain world-ready knowledge and skills, we work and partner
