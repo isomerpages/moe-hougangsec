@@ -78,116 +78,12 @@ concepts and reasoning</p>
 </li>
 </ul>
 <p></p>
-<h3>Programme for the Year</h3>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lower Secondary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Upper Secondary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Alternative assessments</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alternative assessments</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mastery Learning (Structured remedials)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mastery Learning (Structured remedials) and extended curriculum</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Green Week in conjunction with Earth Week</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science Ignite</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Funtasia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>USS Stretch Programmes in Biology, Chemistry and Physics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Literacy Programme-
-<br>Think +/ Young Scientists’ Magazine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LSS Stretch Programmes in Biology, Chemistry and Physics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Gallery</h3>
-<p><strong>Chemistry Stretch Programme</strong>
-<br>Purpose
-<br>• To enhance students’ interest in the learning of Chemistry concept through
-authentic learning.
-<br>• To inspire higher ability Secondary Two students in Chemistry, enabling
-them to pursue pure Chemistry at ‘O’ Level and beyond.</p>
-<p><strong>Funtasia</strong>
-<br>Purpose
-<br>• To ignite students’ passion in Science through student-centered science-related
-activities
-<br>• To provide a platform for the students to learn a scientific concept
-through a series of fun and engaging challenges.</p>
-<p><strong>LSS Bio Stretch Programme</strong>
-<br>Purpose
-<br>• To arouse students’ interest in the learning of Science through authentic
-learning.
-<br>• To enhance the students’ knowledge in the three different branches of
-Science to better aid them in choosing a suitable subject combination for
-themselves.
-<br>• To expose Science students of higher progress with content knowledge
-extended beyond lower secondary science syllabus.</p>
-<p><strong>Phy Stretch Programme</strong>
-<br>Purpose
-<br>• To arouse students’ interest in the learning of Science through authentic
-learning.
-<br>• To expose Science students of higher progress with content knowledge
-extended beyond lower secondary science syllabus.</p>
-<p><strong>Green Lesson</strong>
-<br>Purpose
-<br>• To inspire students to play a part in the green movement in the Singapore
-context.
-<br>• To increase awarenes in students about the relevance of Science and
-technology in their everyday lives.
-<br>• To inculcate in students the value of using Science and technology to
-improve the lives of mankind.</p>
-<p><strong>IgnITE</strong>
-<br>Purpose
-<br>A collaboration with ITE, where students are exposed to learning of Science
-concepts through hands-on authentic learning, thereby seeing Science in
-everyday lives and hence inspiring them to pursue Science courses in ITE.</p>
-<p><strong>3NA Stretch Programme</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LQaOEcFwVhA?si=rELM3rW9bURRVGiF"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Science/Science.png">
 </div>
+<h3>Department Programme</h3>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdDdH1HnRJ1dDTY7rGr7EkqHXafbzDd12FCADxiRe9CLhDZ0B2cQNWMCQuH223nU0MSZyHI3I-GKk1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h3></h3>
 <p></p>
