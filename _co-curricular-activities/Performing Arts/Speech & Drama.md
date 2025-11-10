@@ -79,22 +79,28 @@ communication works.&nbsp;</p>
 Public Library (2015)</p>
 </li>
 </ul>
-<h3>Executive Committee</h3>
-<p><strong>Drama Club:</strong>
-<br>President: Nikki Ang Ke Ting
-<br>Vice-President: Kelsey Cher Shi En
-<br>Upper Sec Head: Nurhaiza Ayuni Binte Muhammad Faizal
-<br>Logistics Head: Swa Yu Tong
-<br>VIA Leader: Dhia Nurashiqa Binti Mohamad Fauzie</p>
-<p><strong>Speech Club:</strong>
-<br>President: Peh Xin Rui (Bai Xinrui)
-<br>Vice President: Ryanvir Singh Riar
-<br>Upper Sec Head: Ariqa Humairah Binte Raihimi
-<br>Lower Sec Head: Lee Luo Jie
-<br>VIA Leader: Shariffa Qaisara Binte Syed Mohdar Al-Mutahar</p>
-<p><strong>Instructors:</strong>
-<br>Ms Rossalina Nasir (Drama) / Mr Ananthan s/o Shamugham</p>
-<h3>Training Venue and Days</h3>
+<h3>2025/2026 Speech &amp; Drama Executive Committee</h3>
+<p>President (<strong>Speech</strong>): GENEVIEVE GAN JIA XUAN</p>
+<p>President (<strong>Drama</strong>): GOH RUI TENG, TRAVIS</p>
+<p>Vice-President (<strong>Speech/Training</strong>): MUHAMMAD NAUFAL BIN
+MOHAMMED NAZIR</p>
+<p>Vice-President (<strong>Speech/Operations</strong>): ER XING EN SARAH</p>
+<p>Vice-President (<strong>Drama/Training</strong>): SHARIQ HILMI BIN MUHAMMAD
+TAUFIK</p>
+<p>Vice-President (<strong>Drama/Operations</strong>): HO YAN HEI</p>
+<p>Secretary (<strong>Speech</strong>): LAN ZHENHANG</p>
+<p>Lower Secondary Level I/C (<strong>Speech</strong>): JOVAN TAY WEN JIE</p>
+<p>Upper Secondary Level I/C (<strong>Speech</strong>): REINA TAY MIN EN</p>
+<p>Lower Secondary Level I/C (<strong>Drama</strong>): ANG JIA LIN</p>
+<p>Upper Secondary Level I/C (<strong>Drama</strong>): DHIA NURASHIQA BINTI
+MOHAMAD FAUZIE</p>
+<p>Quartermaster (<strong>Drama</strong>): LEE MING HAO ISAIAH</p>
+<p>Special Projects (<strong>VIA/Drama</strong>): ENGELLA TEOH WEN XUAN</p>
+<p>Special Projects (<strong>VIA/Speech</strong>): ZHANG MINGRUI</p>
+<p>Speech &amp; Drama Integration I/C: EARLENE CALLISTA ANGELINE</p>
+<p><strong>Instructors</strong>:</p>
+<p>Ms Rossalina Nasir (Drama) / Mr Ananthan s/o Shamugham (Speech)Training
+Venue and Days</p>
 <p><strong>Day</strong>: Tuesday &amp; Friday
 <br><strong>Time</strong>: 3.15 pm - 5.15&nbsp; pm (Tue) / 2.00 pm - 4.30
 pm (Fri)
