@@ -10,38 +10,41 @@ variant: tiptap
 <br>Ms. Audrey Chua</p>
 <p><strong>Teachers</strong>:
 <br>Mr Kervin Tang [Senior Teacher, English Language]
-<br>Mdm Amalina Abdul Samad
-<br>Mr Charles Wong
-<br>Mr Eugene Ling
-<br>Mrs Gomathi Guna
-<br>Mdm Martini Rahmat
-<br>Ms. Nur Adilah Bte Jasman
-<br>Mr Rio Elijah Chua
-<br>Mr Ronnie Yeo
-<br>Mr Sean Oh
-<br>Ms. Tan Yin Wei
-<br>Ms. Uma Magheswary
-<br>Ms. Alisa Choong Hwee Xuan
-<br>Ms. Chan Shuyi Clara
-<br>Mdm Soonam Sivadasan
-<br>Mr Han Zheming Chuck-E</p>
+<br>Mdm Amalina Abdul Samad [EL]
+<br>Mdm Martini Rahmat [EL]
+<br>Mr Charles Wong [EL/Computing]
+<br>Mr Sean Oh [EL]
+<br>Mr Ronnie Yeo [EL/Literature]
+<br>Mrs Gomathi Guna [EL]
+<br>Ms Tan Yin Wei [Literature]
+<br>Ms Nur Adilah Bte Jasman [EL/Literature]
+<br>Mr Eugene Ling [EL]
+<br>Mrs Ting Jia Yi [EL/SS]
+<br>Ms Alisa Choong [EL/Mathematics]
+<br>Ms Valerie Chia [Mathematics/Literature]
+<br>Mr Han Zheming Chuck-E [EL]
+<br>Mr Darryl Lim [EL/Literature]</p>
 <h3>Vision</h3>
 <p>Passionate Readers, Competent Writers , Eloquent Communicators</p>
 <h3>Curricular Goals and Objectives</h3>
-<p>• To develop students who communicate confidently, clearly and effectively
-in speech and writing in response to situation, purpose and audience.
-<br>• To develop students who are competent readers with a love and appreciation
+<ul data-tight="true" class="tight">
+<li>
+<p>To develop students who communicate confidently, clearly and effectively
+in speech and writing in response to situation, purpose and audience.</p>
+</li>
+<li>
+<p>To develop students who are competent readers with a love and appreciation
 for a variety of texts and the way writers use language to suit a range
-of purposes and achieve their effects.
-<br>• To develop students who explore areas of human concern, leading to a
-greater understanding of self and others.
-<br>• To develop in students an awareness of the business landscape in Singapore
-and its opportunities and challenges, so that they will be more reflective
-of the knowledge and skills they need.</p>
+of purposes and achieve their effects.</p>
+</li>
+<li>
+<p>To develop students who explore areas of human concern, leading to a greater
+understanding of self and others.</p>
+</li>
+</ul>
 <h3>Curriculum/Subject Offered</h3>
 <p>English Language
-<br>Literature in English
-<br>Elements of Business Skills</p>
+<br>Literature in English</p>
 <h3>Programmes and Activities</h3>
 <p><strong>1. Academic Programmes</strong>
 <br><strong>School-wide Reading Programme</strong>
@@ -63,23 +66,22 @@ the classroom</p>
 <p>Providing a diverse range of topics not only caters to different reading
 interests but also serves as a springboard to engage students critically,
 encouraging them to evaluate sources, identify biases and form opinions
-about the topics they read.</p>
+about the topics they read</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Literature Theatre Appreciation Programme</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The Boy in the Striped Pyjamas (Sec 1)</p>
+<p>Animal Farm &amp; Drama Workshop (Sec 1)</p>
 </li>
 <li>
-<p>Perfecting Pratas (Sec 2)</p>
+<p>Double Bill: Perfecting Pratas and Don’t Know, Don’t Care (Sec 2)</p>
 </li>
 <li>
-<p>I’mperfect Musical Drama (Sec 3)</p>
-</li>
-<li>
-<p>BOOM Meet the Director and Playwright (Sec 4)</p>
+<p>Romeo &amp; Juliet (Sec 3&amp;4)</p>
+<p></p>
 </li>
 </ul>
 <p><strong>GREAT Moment Sharing</strong>
@@ -93,118 +95,44 @@ setting reinforces a positive school culture, promoting a shared sense
 of purpose and community among students, and sharing current news encourages
 students to stay informed about what is happening in the world, helping
 them develop into well-rounded, socially aware individuals.</p>
-<p><strong>2. ALP Workshops and Competitions</strong>
-<br>The English Department curated the following workshops for students as
-part of Inspire Series 2:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Secondary 1: 23 May</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Secondary 2: 20 May</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Secondary 3: 21 May</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Storyboarding for the Media Acting Skills for Video Making a Short Video</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pecha Kucha Live!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>YouTuber Cyber Celebrity Visual Diary</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>The English Department held the following competitions for students as
-part of Inspire Series 3:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Secondary 1: 22 October</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Secondary 2: 21 October</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Secondary 3: 23 October</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Video Text Creation Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pecha Kucha Live Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dystopia 2045: Reclaiming Our Future Escape Room Challenge</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>The English Department held the following competitions for the Secondary
-4 students:</p>
-<p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Competition (Tier 1)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Programmes (Tier 2)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Intra-class Debate Challenge for Secondary 4 Express students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Inter-class Debate Challenge for Secondary 4 Express students (Semi-Finals
-and Finals)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2024 International Essay Contest for Young People organised by the GOI
-Peace Foundation</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday On Air Live DJ (Selected students)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p><strong>HS Radiowaves</strong>
+</p>
+<p>Bringing voices to the airwaves, our students host the <strong>HS Radiowaves</strong>,
+a school radio programme, which features a team of talented hosts who have
+successfully gone through auditions to earn their spot. On Wednesday mornings
+in Semester 2, they engage listeners with lively discussions on current
+trends and relatable topics, while curating a vibrant playlist of songs
+to start the day on a positive note. The programme provides an authentic
+platform for students to showcase their oracy and presentation skills,
+fostering confidence and creativity in a real-world communication setting.</p>
+<p>&nbsp;</p>
+<p><strong>Enrichment Programme</strong>
+</p>
+<p>The Department organised a workshop on <strong>Building Oral Communication and Critical Thinking Skills</strong> for
+Secondary 4NA students in 2025. During the workshop, students learned how
+to analyse video stimulus and infer broader issues linked to contextual
+clues observed. They were guided to interpret any oral question categorically
+and respond in a relevant, coherent and analytical manner. Also, students
+learned how to organise and elaborate on their responses. At the end of
+the course, students were able to verbally present their responses with
+an awareness of purpose, audience and context and become more confident
+and competent in expressing themselves.</p>
+<p><strong>2. Competitions</strong>
+</p>
+<p><strong>Secondary 4 Debate Challenge</strong>
+</p>
+<p>The Secondary 4 Express students put their wit and words to the test through
+a series of intra-class debate rounds, sharpening their oral communication,
+critical thinking and persuasive skills. The top team from each class then
+advanced to the Inter-Class Debate Challenge, where they competed against
+their peers in a spirited exchange of ideas. This experience offered an
+authentic platform for students to showcase their confidence, eloquence
+and mastery of the English Language — all while engaging in meaningful
+discourse on contemporary issues.</p>
+<p><strong>National Schools Literature Festival</strong>
+</p>
+<p>2025 Lower Secondary Book Trailer - Commendation Award</p>
+<p>2025 Upper Secondary Unseen Poetry Debate - Participation</p>
 <p></p>
 <h4>English Language Literature Snap Shots</h4>
 <div class="iframe-wrapper">
