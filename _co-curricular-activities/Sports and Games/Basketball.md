@@ -51,10 +51,10 @@ while maximising each player’s potential</p>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <h3>CCA Leadership Structure</h3>
-<p><strong>B Division (2024)</strong>
+<p><strong>B Division (2025)</strong>
 <br><strong>Captain:</strong>&nbsp;Zelfian
 <br><strong>Vice-Captain:</strong>&nbsp;Adrian</p>
-<p><strong>C Division (2024)</strong>
+<p><strong>C Division (2025)</strong>
 <br><strong>Captain:</strong>&nbsp;Putran
 <br><strong>Vice-Captain:</strong>&nbsp;Jia Jun</p>
 <p><strong>VIA Leaders:</strong>&nbsp;Zhi Kai / Kaden</p>
