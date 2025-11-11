@@ -1,6 +1,6 @@
 ---
-title: Girls Brigade
-permalink: /co-curricular-activities/Uniformed-Groups/girls-brigade/
+title: Girls' Brigade
+permalink: /co-curricular-activities/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
@@ -157,9 +157,6 @@ empowering and enabling: Every Girl a leader, Every Officer a Servant Leader.</p
 <li>
 <p>Annual Camps (3D2N)</p>
 <ul data-tight="true" class="tight">
-<li>
-<p>March Adventure Camp</p>
-</li>
 <li>
 <p>October Leadership Camp</p>
 </li>
