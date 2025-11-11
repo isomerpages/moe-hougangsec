@@ -158,9 +158,6 @@ empowering and enabling: Every Girl a leader, Every Officer a Servant Leader.</p
 <p>Annual Camps (3D2N)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>March Adventure Camp</p>
-</li>
-<li>
 <p>October Leadership Camp</p>
 </li>
 <li>
