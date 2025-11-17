@@ -160,11 +160,17 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng/SYF_performance_2025_3.png">
 </div>
 <p></p>
+<h3>Video of SYF 2025</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ri2gfbEIAo0?si=Zths6no3y0gFSzWu"></iframe>
+</div>
 <h3>External Performance @ Ci Yuan Community Club 2025</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guzheng/External_performance_Ci_Yuan_CC_2025.png">
 </div>
+<p></p>
+<p></p>
 <h3>Exchange Programme with Bedok View Secondary School (Apr 2024)</h3>
 <div class="iframe-wrapper">
 <iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_D79cSAx8Dc"></iframe>
