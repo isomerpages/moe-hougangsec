@@ -32,3 +32,24 @@ encouraging them to appreciate and adapt to diverse cultures beyond Singapore.</
 <p>Through these purposeful experiences, our students are growing into <strong>future-ready learners and empathetic citizens</strong> —
 resilient and proud of their national identity, anchored in <strong>GREAT values</strong>,
 and ready to make the difference in Singapore.</p>
+<p><strong>Total Defence Day</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1A6Uhies2d2EVM0Mq7B1nvtZkJW__6ZKq7jdfv1uF1e8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong>International Friendship Day</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1zaJ0D3FkDWRrjSDUCkzXGJUwDuLKVl5g-btk5Z8U34w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong>Racial Harmony Day</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1d9PXT3XzG7LNPqsOdHqVN9xW3cyiYqbFH1juT8yeccw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p><strong>National Day</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1H-c0z3mQVrINYrYP38JUEet0GdSL2N8ilcopSbfi7_k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
