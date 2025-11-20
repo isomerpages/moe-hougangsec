@@ -45,7 +45,7 @@ communities.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/CCE/3es%20for%20via.png">
 </div>
-<h4><strong>Level-Based Experiences </strong></h4>
+<h4><strong>Level-Based Experiences</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
