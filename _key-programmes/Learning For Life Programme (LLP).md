@@ -5,27 +5,49 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Make the Difference, A Hougean’s Way Of Life</strong></h3>
-<p>The LLP programme, Make the Difference, A Hougean’s Way Of Life, aims
-to:</p>
-<ol>
+<p>Our LLP Programme: Make the Difference – A Hougean’s Way of Life</p>
+<p>The Learning for Life Programme (LLP), <em>Make the Difference – A Hougean’s Way of Life</em>,
+is designed to nurture empowered student leaders who make a difference
+to their community.</p>
+<p><strong>Programme Objectives</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop Empowered Leaders
+– Cultivate Community Youth Leaders grounded in our GREAT values: Gratitude,
+Respect, Empathy, Adaptability, and Trustworthiness.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sustain Values Education
+– Provide a progressive, student-centric approach throughout secondary
+school to develop our students into confident leaders and active community
+builders who make a meaningful difference.</p>
+<p>&nbsp;</p>
+<p><strong>Our experiences are guided by the 3E framework, which focuses on:</strong>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>To develop students as GREAT Stars and Community Youth Leaders</p>
+<p>Enriching Minds – Through the Leadership Challenge Model (LCM), students
+develop leadership skills and critical thinking.</p>
 </li>
 <li>
-<p>To provide a sustained and enhanced student-centric values education progressively
-over 4/5 years which impacts the community.</p>
+<p>Engaging Hands – Through class-based programmes, Values-in-Action (VIA)
+projects and leadership opportunities, students put their learning into
+practice.</p>
 </li>
-</ol>
-<p>Students go through experiences guided by our 3Es Approach:
+<li>
+<p>Encouraging Hearts – Through recognition and affirmation, students develop
+empathy, confidence, and a commitment to serving others.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p>This holistic approach ensures that Hougeans not only grow as leaders
+but also as values-driven citizens ready to make a difference in their
+communities.
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/CCE/3es%20for%20via.png">
 </div>
-<h4><strong>Tier One Community Youth Leadership (CYL) Programme:</strong></h4>
-<table style="minWidth: 100px">
+<h4><strong>Level-Based Experiences </strong></h4>
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -33,55 +55,64 @@ over 4/5 years which impacts the community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
+<p><strong>Secondary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
+<p><strong>Community Youth Leadership Curriculum</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4/5</strong>
+<p><strong>VIA Experiences</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Take Action</p>
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Take action</p>
+</td>
+<td rowspan="3" colspan="1">
+<p>CCA-VIA</p>
+<p>Learn-a-Skill (LAS) Workshops</p>
+<p>LAS Carnival</p>
+<p>Student-Initiated VIA beyond school</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise Awareness</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Be An Advocate</p>
 </td>
-<td rowspan="2" colspan="1">
-<p>Class-Based VIA to impact the community</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="3">
-<p><strong>Community Youth Leadership Training</strong>: Make the Difference,
-A Hougean’s Way of life - Students are given opportunities to learn about
-service-learning and leadership challenge, apply them in community and
-leadership projects and celebrate their accomplishments with their peers,
-teachers and families.</p>
+<td rowspan="1" colspan="1">
+<p>4</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p><strong>CCA-VIA</strong>: Each CCA identifies a suitable community partner
-and the VIA activities are conducted during their CCA regularly. This is
-done with guidance from VIA leaders who lead their CCAs in implementing
-projects to meet community needs.</p>
+<td rowspan="1" colspan="1">
+<p>Be a Community Builder</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class-based VIA</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>For more on Student Leadership Development, please visit</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.hougangsec.moe.edu.sg/key-programmes/student-leadership</a>
+</p>
 <h4>Community Youth Leadership (Students’ Work)</h4>
 <p><strong>Lower Sec (Take Action &amp; Raise Awareness)</strong>
 </p>
@@ -136,4 +167,4 @@ Water Park</p>
 </tr>
 </tbody>
 </table>
-<p>For more on Student Leadership Development, please visit https://www.hougangsec.moe.edu.sg/key-programmes/student-leadership</p>
+<p></p>
