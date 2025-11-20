@@ -69,12 +69,12 @@ Together, these activities exemplify our school’s dedication to nurturing valu
 “Flavours of Harmony” is a Secondary 3 Nutrition &amp; Food Science initiative designed to empower students to appreciate Singapore’s rich multicultural heritage, innovate responsibly, and build social cohesion through meaningful food experiences. Through this programme, students explore how food represents cultural identity, deepening their understanding of the diverse traditions that shape our community. 
 
 The project is closely aligned with CCE: Building Consensus &amp; Celebrating Diversity, and is carried out in conjunction with Racial Harmony Day, allowing students to experience first-hand how shared food experiences can promote respect, unity, and appreciation for different cultures.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ITAInriJIzU?si=YchwBuyDPg2qhN1k" height="315" width="560"></iframe>
 
 ### Enrichment Programme
 At Hougang Secondary, we are always committed to improving our culinary skills through meaningful hands-on learning experiences. This year, our Secondary 3 students took part in an engaging culinary session at Kitchen Showdown, where they had the opportunity to work collaboratively and challenge themselves in a real kitchen environment.
 
 Besides fostering bonding and teamwork, students were tasked with preparing three dishes, including a creative pizza challenge. Using a variety of ingredients provided, they had to design unique pizza toppings, showcase their creativity, and present their dishes professionally.
-
 
 The experience not only strengthened their culinary techniques but also nurtured critical thinking, adaptability, and confidence — essential skills for both the kitchen and beyond.
 ![](/images/Department/AnT/NFS_Picture6.jpg)
