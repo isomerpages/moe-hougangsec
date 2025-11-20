@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<h2><strong>National Education (NE)</strong></h2>
+<h1><strong>National Education (NE)</strong></h1>
 <p>As part of <strong>CCE,</strong>  <strong>NE</strong> plays a vital role in
 nurturing our students into confident, values-driven community builders,
 guided by our school’s <strong>GREAT values — Gratitude, Respect, Empathy, Adaptability, and Trustworthiness</strong>.</p>
