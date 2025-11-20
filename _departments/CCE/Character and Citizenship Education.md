@@ -22,6 +22,14 @@ our school’s <strong>GREAT values and Desired Outcomes (Figure 2)</strong>.
 Together, they form the foundation of our efforts to shape students into
 responsible, resilient, and reflective individuals who are morally upright
 and citizens who actively contribute to society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="MOE CCE 2021 Curriculum Framework" src="/images/CCE_Fig1.png">
+</div>
+<p>Fig. 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="GREAT values and Desired Outcomes" src="/images/CCE_Fig_2.png">
+</div>
+<p>Fig. 2</p>
 <h3><strong>CCE 2021 Curriculum Framework</strong></h3>
 <p><strong>&nbsp;</strong>
 </p>
