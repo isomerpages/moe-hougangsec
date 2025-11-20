@@ -5,17 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<p><strong>Education and Career Guidance (ECG)</strong>
-</p>
+<h1><strong>Education and Career Guidance (ECG)</strong></h1>
 <p>At Hougang Secondary, our <strong>ECG programme</strong> supports students
 in developing a strong sense of purpose and direction, preparing them to
 be <strong>future-ready learners</strong>. Guided by the ECG Goals of <em>discovering purpose, exploring opportunities,</em> and <em>staying relevant</em>,
 students are encouraged to take ownership of their learning journey while
 developing self-awareness, resilience, adaptability, and a growth mindset.</p>
-<p><strong>Tiered ECG Support</strong>
-</p>
-<p><strong>Tier 1 Support</strong>
-</p>
+<h2><strong>Tiered ECG Support</strong></h2>
+<h3><strong>Tier 1 Support</strong></h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students engage in <strong>customised Student Development Experiences</strong> such
 as career talks, career fairs, and open house visits to post-secondary
 institutions. Through CCE lessons, students are taught to use the <strong>MySkillsFuture Student Portal</strong> (
@@ -23,8 +20,7 @@ institutions. Through CCE lessons, students are taught to use the <strong>MySkil
 future.</p>
 <p><strong>&nbsp;</strong>
 </p>
-<p><strong>Tier 2 and 3 Support</strong>
-</p>
+<h3><strong>Tier 2 and 3 Support</strong></h3>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students participate in <strong>ECG workshops and talks</strong> led
 by our ECG Counsellor.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our ECG Counsellor also conducts <strong>parent engagement sessions</strong> and
