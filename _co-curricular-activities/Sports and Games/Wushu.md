@@ -40,6 +40,6 @@ skills and weapons.</p>
 </p>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQOzL7sd-OG17SlHcTMXsEGWULZvpQ8GNPjX1wpkcl8woo4QHyb2EhnU0JpBAn1eQ/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRj2vPjitjZKkSZT-UWhJTEtthOahAbqTbNv6vicuZE1UKtp8VgSQLJgTyltl-ufQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
