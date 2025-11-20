@@ -6,17 +6,6 @@ links:
     collection: departments
   - title: Key Programmes
     collection: key-programmes
-  - title: Key Programmes1
-    url: /stem-applied-learning-programme-alp/
-    sublinks:
-      - title: Applied Learning Programme
-        url: /stem-applied-learning-programme-alp/
-      - title: Learning for Life Programme
-        url: /learning-for-life-programme
-      - title: Student Leadership Development
-        url: /key-programmes/student-leadership/
-      - title: Internationalisation Programme
-        url: /key-programmes/internationalization/international-programme/
   - title: Co-Curricular Activities
     collection: co-curricular-activities
   - title: Quick Links
