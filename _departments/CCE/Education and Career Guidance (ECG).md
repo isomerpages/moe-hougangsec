@@ -50,3 +50,184 @@ institutions, and industry partners to enhance ECG learning and exposure.</p>
 </ul>
 <p><strong>Level-Based ECG Efforts : Link: <a href="https://padlet.com/hssec/hougang-secondary-school-ecg-padlet-22ljz9zg5vfnz0kj" rel="noopener noreferrer nofollow" target="_blank">Click me and find out more!</a></strong>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Student Activities</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Need Help?</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Discovering self through VIPS
+<br>- Student-initiated learning via e-portfolio creation</p>
+</td>
+<td rowspan="4" colspan="1">
+<p>&nbsp;</p>
+<p>Book a <strong>face-to-face or online appointment</strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hss-ecgc<br></a><strong><a rel="noopener noreferrer nofollow" target="_blank">On-site</a> support:</strong> Tuesdays
+&amp; Wednesdays, 8.00 am – 5.00 pm (excluding HBL, school &amp; public
+holidays)
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">juan_peiling@moe.edu.sg</a>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- RIASEC Profiling
+<br>- ECG awareness talk on pathways &amp; subject combinations
+<br>- ECG enrichment programmes: Career Life Awareness, Learning Journeys</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- ApLM@Poly (G3)
+<br>- ApLM@School
+<br>- Work Experience Programmes
+<br>- SG Her Empowerment (SHE)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Goal Setting
+<br>- Workshops on Aptitude-Based Admissions (ITE, Poly, DSA-JC)
+<br>- Future Me Programme
+<br>- Class-based talks on post-secondary education</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>By fostering <strong>self-awareness</strong> and <strong>self-directed learning</strong>,
+ECG cultivates a <strong>growth mindset, adaptability, resilience</strong>,
+and personal initiative through student-led experiences. Students are empowered
+to explore their interests, embrace future opportunities, and appreciate
+the value of diverse occupations.</p>
+<h3><strong>Student Initiated Learning (ECG)</strong></h3>
+<p>To support students in developing clarity and direction in their learning
+journey, <strong>the Student-Initiated Learning (SIL) programme is aligned with Education and Career Guidance (ECG)</strong> to
+help them explore their passions and set meaningful goals.
+<br>
+<br>
+</p>
+<p>Throughout their four years in Hougang Secondary School, students <strong>chart their growth through an individual e-portfolio</strong>,
+documenting key learning experiences and reflections that showcase their
+personal, academic, and career development.</p>
+<p>The school’s SIL focus at each level is outlined below:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Focus</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SIL Description</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Discovering purpose</p>
+<p>‘Who am I?’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students begin their self-discovery journey by identifying their interests,
+strengths, and values through the VIPS survey and other reflective activities.
+SIL serves as a platform for them to explore new hobbies, develop personal
+passions, and build self-awareness.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Developing sense of purpose</p>
+<p>‘What do I want to pursue’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building on their experiences from Secondary 1, students consolidate what
+they have learnt through CCA, VIA, and ECG activities. They reflect on
+their interests and start setting goals that align with their emerging
+sense of purpose.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exploring Pathways and Opportunities</p>
+<p>‘How do I get there?’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students explore different education and career pathways related to their
+aspirations. Through research and experiential learning, they begin curating
+their e-portfolio to showcase learning evidence and achievements in areas
+of interest.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Staying relevant</p>
+<p>‘How far have I come?’</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students reflect on their growth and readiness for post-secondary education.
+They articulate their goals, document key learning experiences, and refine
+their e-portfolio to demonstrate how they have developed in knowledge,
+skills, and character.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
