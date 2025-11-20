@@ -6,134 +6,58 @@ third_nav_title: CCE
 variant: tiptap
 ---
 <h1>Character and Citizenship Education</h1>
-<p>The school believes in providing a holistic education for every student.
-Character and Citizenship Education (CCE) is integrated into instructional
-programmes, co-curricular programmes and other learning experiences. The
-design and delivery of CCE lessons package and programmes in HS are guided
-by the school’s GREAT values and vision statement to nurture empowered,
-future-ready Hougeans of character and purpose.</p>
-<p><strong>The school adopts the following guiding principles and approaches:</strong>
+<p>At <strong>Hougang Secondary School</strong>, we believe that education
+is more than academic achievement — it is about nurturing well-rounded
+individuals who will make a positive difference in society. To<strong> Make the Difference,</strong> we
+are committed to providing a <strong>holistic education</strong> that develops
+every student’s character, values, and sense of active citizenship.</p>
+<p><strong>CCE</strong> is not a standalone subject; it is <strong>woven into every aspect of school life</strong> —
+from classroom learning and co-curricular activities to student leadership
+opportunities and school-wide initiatives. With our <strong>GREAT values</strong> at
+the heart of all we do, we seek to nurture <strong>confident future-ready learners</strong> equipped
+with the 21st-century competencies to thrive in a rapidly changing world.</p>
+<h2><strong>Programme Overview</strong></h2>
+<p>The <strong>CCE Programme</strong> is guided by the <strong>MOE CCE 2021 Curriculum Framework (Figure 1)</strong>,
+our school’s <strong>GREAT values and Desired Outcomes (Figure 2)</strong>.
+Together, they form the foundation of our efforts to shape students into
+responsible, resilient, and reflective individuals who are morally upright
+and citizens who actively contribute to society.</p>
+<h3><strong>CCE 2021 Curriculum Framework</strong></h3>
+<p><strong>&nbsp;</strong>
 </p>
-<p><em>1)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Goals of CCE</em>
+<p>CCE 2021 provides an <strong>integrated and coherent approach</strong> to
+developing students’ character, values, social-emotional well-being, and
+citizenship dispositions. It aims to nurture in every student:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Good Character</strong> –
+grounded in sound moral values and integrity</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Resilience and Social-Emotional Well-being</strong> –
+equipped to manage challenges with confidence and empathy</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Future Readiness</strong> –
+adaptable and innovative in a dynamic world</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Active Citizenship</strong> –
+committed to contributing meaningfully to family, community, and nation</p>
+<p>The curriculum is anchored in three big ideas — <strong>Identity, Relationships, and Choices</strong> —
+which guide students in understanding who they are, how they relate to
+others, and how they make responsible decisions.</p>
+<p>These ideas are explored through six key <strong>Curriculum Content Areas</strong>:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Education and Career Guidance (ECG)</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Good character</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Cyber Wellness</strong>
 </p>
-</li>
-<li>
-<p><em>Resilience and social-emotional well-being</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Sexuality Education (SEd)</strong>
 </p>
-</li>
-<li>
-<p><em>Active citizenship</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>National Education (NE)</strong>
 </p>
-</li>
-<li>
-<p><em>Future readiness</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Mental Health</strong>
 </p>
-</li>
-</ul>
-<p><em>2)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Approaches of CCE</em>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Family Education</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Every School Experience a CCE Lesson</em>
+<p><strong>Refer to our school’s Facebook <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/hougangsecondaryschool/</a> for more of our CCE efforts!</strong>
 </p>
-</li>
-<li>
-<p><em>Every Student a Peer Supporter</em>
-</p>
-</li>
-<li>
-<p><em>Every Teacher a CCE Teacher</em>
-</p>
-</li>
-</ul>
-<p><em>3)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Learning Intents of CCE</em>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Develop self-awareness and self-management skills to achieve personal effectiveness and well-being.</em>
-</p>
-</li>
-<li>
-<p>Develop social awareness and manage relationships for personal and social
-well-being.</p>
-</li>
-<li>
-<p>Make responsible decisions and act on them.</p>
-</li>
-</ul>
-<p><em>4)</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>Guiding Principles for CCE 2021 Implementation</em>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Student-Centricity</em>
-</p>
-</li>
-<li>
-<p><em>Intentionality</em>
-</p>
-</li>
-<li>
-<p><em>Coherence</em>
-</p>
-</li>
-</ul>
-<p><strong>CCE Curriculum Content Areas</strong>
-</p>
-<p>While the CCE Curriculum Content is premised on the three big ideas of
-Identity, Relationships and Choices, and anchored on the teaching of core
-values and social-emotional competencies, to help students find a sense
-of purpose, these fundamentals are taught and applied in the following
-Curriculum Content Areas:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>National Education</p>
-</li>
-<li>
-<p>Sexuality Education</p>
-</li>
-<li>
-<p>Mental Health</p>
-</li>
-<li>
-<p>Education and Career Guidance</p>
-</li>
-<li>
-<p>Cyber Wellness</p>
-</li>
-<li>
-<p>Family Education</p>
-</li>
-</ol>
-<p><strong>The school’s key CCE programmes include:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><em>Values-In-Action</em>, which is an important aspect of CCE in developing
-vital 21st century skills and social-emotional competencies. HS works closely
-with our long-term beneficiaries to provide opportunities for students
-to give back to the community.</p>
-</li>
-<li>
-<p><em>Cohort Camps</em>&nbsp;provide students with immersive and experiential
-learning opportunities to develop character traits of resilience and resourcefulness,
-as well as social skills such as collaboration and communication.</p>
-</li>
-<li>
-<p><em>Educational Career Guidance (ECG) programmes</em> which help students
-understand their Values, Interests, Personality and Skills, where they
-would like to go, and how to get there.</p>
-</li>
-<li>
-<p><em>Citizenship Education activities</em>, including NRIC CCE Lesson,
-NSmen Alumni sharing&nbsp;and commemorating the four key National Education
-events, National Day, Total Defence Day, Racial Harmony Day and International
-Friendship Day.</p>
-</li>
-</ul>
+<p>Through these content areas and school programmes, students learn to discover
+their personal best, make values-driven choices, build meaningful relationships,
+and develop a strong sense of purpose as they become future-ready learners,
+empowered leaders, resilient innovators and community builders.</p>
 <h3>Character Coaching through Values-In-Action (VIA)</h3>
 <p><u>Sec 4 Class-Based VIA</u> 
 <br>Our Sec 4&amp;5s produced plank artwork in resplendent colours for display
@@ -157,69 +81,6 @@ and carried out activities for the carnival in Semester 1 which invited
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1j6Jmgk3Y8IxzG-EizRzrd1ODKLTyYmmTb5n-124fSZs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Education and Career Guidance (ECG)</h3>
-<p><strong>What is ECG?</strong>
-</p>
-<p>Education and Career Guidance (ECG) empowers students to develop purpose,
-self-awareness, and resilience. By fostering a growth mindset and adaptability,
-ECG equips students for lifelong learning and enables them to embrace future
-opportunities and appreciate the value of diverse occupations.</p>
-<p>Education and Career Guidance (ECG) and Counselling Services are available
-by appointment in school on Tues and Wed (8.00 am to 5:00 pm) except HBL,
-School and Public Holidays.&nbsp; Requests for Online consultation is based
-on availability.</p>
-<p>Book appointment with ECG Counsellor:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hss-ecgc</a>
-</p>
-<p>You can also email your enquiries to Ms. Juan at&nbsp; <a rel="noopener noreferrer nofollow" target="_blank">juan_peiling@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-<p><strong>Overview of ECG efforts in Hougang Secondary</strong>
-</p>
-<p><strong>Students’ Engagement</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ECG Counselling (individual
-and group sessions)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Workshops on Early Admissions
-Applications - POLY EAE, ITE EAE, DSA-JC (interview skills, Personal Statement
-writing and Portfolio development)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Workshops on Strengths
-Profiling, Goal Setting and Careers Exploration
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Class-based Engagements
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Post Secondary Talks
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Careers Day Talks</p>
-<p><strong>Parent’s Engagements</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lower Secondary - Subject
-Combination Selection Talk
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Upper Secondary - Education
-Pathways &amp; Post Sec Admission Talks with Parents</p>
-<p><strong>Industry Engagement</strong>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Work Experience Programme
-(WEP)
-<br>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; World Skills</p>
-<p><strong>Guiding Principles for ECG Student Development Experiences (SDEs):</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Student-Led Framework</strong> – SDEs are designed around the needs,
-interests, and aspirations of students. Our focus is on encouraging student
-engagement and expression, empowering them to take ownership of their Career
-and Education Guidance (ECG) learning.</p>
-</li>
-<li>
-<p><strong>Purpose Driven</strong> – SDEs are planned with specific learning
-outcomes in mind.</p>
-</li>
-<li>
-<p><strong>Adaptibility</strong> – SDEs enable students to connect, transfer,
-and apply learning across CCE ECG lessons as well as different key student
-development experiences.</p>
-</li>
-<li>
-<p><strong>Partnerships</strong> – We aim to build meaningful partnerships
-with parents, alumni, post-secondary institutions, and industry partners.</p>
-</li>
-</ol>
 <p></p>
 <table style="minWidth: 25px">
 <colgroup>
