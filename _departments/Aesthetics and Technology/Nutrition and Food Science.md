@@ -3,84 +3,79 @@ title: Nutrition and Food Science
 permalink: /departments/Aesthetics-and-Technology/nutrition-and-food-science/
 description: ""
 third_nav_title: Aesthetics and Technology
+variant: markdown
 ---
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe title="Nutrition and Food Science" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/843118520?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div>
 
 Here in HS, the students are encouraged to explore into the world of Food Sciences and out of the typical classroom experience through our enrichment and innovation programme.
 
-### Secondary 1 &amp; 2 Innovation Project  
+###  Nurturing Future-Ready Learners
 
-We believe in providing our students with innovative and engaging learning opportunities that go beyond traditional classroom instruction. Our lower secondary students had the chance to participate in a project that allowed them to explore the world of nutrition and apply their learning in a practical way.
+At Hougang Secondary School (HS), we believe in igniting the joy of learning by designing lessons that spark curiosity, passion, and motivation. Every learning experience is thoughtfully crafted to deepen students’ understanding of nutrition, promote healthy living, and cultivate innovative thinking. Through this approach, we empower students to make informed decisions and develop lifelong learning habits that support their well-being and future readiness.
 
-  ![](/images/AnT/NFS/nfsci1.jpg)
+### NutriQuench Challenge 2024
 
-Through a series of tasks, students were tasked with researching the nutritional needs of different age groups, including young children, school-going children, teenagers, young adults, and the elderly. Using the design thinking framework, students learned about the factors to consider when planning meals for each target group, such as dietary restrictions, portion sizes, and food preferences.
+Students at Hougang Secondary School (HS) deepen their understanding of nutrition and healthy living through authentic, real-world learning experiences. One such opportunity is the NutriQuench Challenge, organised by Pokka and Nanyang Polytechnic (NYP).
 
-![](/images/AnT/NFS/nfsci2.jpg)
+The NutriQuench Challenge 2024 tasked participants with creating a healthy, refreshing, and innovative beverage that aligns with current health trends and consumer needs. Students were required to develop lower-sugar tea beverages that meet Nutri-Grade A or B standards — a meaningful way to apply their Nutrition &amp; Food Science (NFS) knowledge.
 
-Once they had a solid understanding of the nutritional needs of their assigned target group, students were paired and grouped together to prepare, cook, and serve a healthy and interesting one-dish meal that was suitable for their target group. This allowed students to put their knowledge into action and develop important practical skills such as meal planning, food preparation, and cooking techniques.
+Our HS NFS team demonstrated creativity, resilience, and strong scientific understanding as they progressed through two phases of the competition, refining their recipe and enhancing their presentation before the final showcase.
 
-![](/images/AnT/NFS/nfsci3.jpg)
+Their final creation — the Mango Osmanthus Drink — stood out for its flavour profile, originality, and health-conscious formulation. The team impressed the judges and clinched **First Prize** in the competition.
+![](/images/Department/AnT/NFS_Picture1.jpg)
+Congratulations to our students for their outstanding achievement and for exemplifying the spirit of innovation, healthy living, and applied learning!
 
-After completing their dishes, students shared their products with the class and explained why their chosen dish was suitable for their assigned target group. This not only allowed students to showcase their culinary skills but also enabled them to practice public speaking and communication skills.
 
-![](/images/AnT/NFS/nfsci4.jpg)
 
-Overall, this project provided our students with a hands-on learning experience that allowed them to develop important skills while also learning about the importance of nutrition and healthy eating habits. 
-
-It is a privilege to witness the growth and development of our students as they engage in meaningful learning experiences.  We look forward to providing more innovative learning opportunities in the future.
-
-### Enrichment Programme “Cookyn with Carbs” 
+### Junior Chef Culinary Competition 2025 
   
-An enrichment programme was planned for the Secondary 3 students in September for an ‘out of the classroom’ experience. The theme chosen was on carbohydrates where students were actively engaged in making their own fresh pasta and salted egg sauce. Accompanying this dish, they also made breaded chicken thigh. They also learnt to plate their cooked dishes. It was an enriching experience for the students.
+Our Secondary 3 students also participated in the Junior Chef Culinary Competition, organised in collaboration with Republic Polytechnic (RP). Two teams from Hougang Secondary made it to the finals with their creative and flavour-packed dishes — the Rojak Burger and the Sambal Stingray Burger.
 
-**Students reflections**  
+The finals featured a live “cook-off” held at RP’s training kitchen, where participants demonstrated their culinary skills, creativity, and teamwork under authentic competition conditions.
 
-_“It was an interesting experience as we do not get to do this every day in the class!”_
+We are proud to share that our Rojak Burger emerged as the 1st Prize Winner of the competition.
+![](/images/Department/AnT/NFS_Picture2.jpg)
+Congratulations to our talented young chefs for their remarkable achievement and for showcasing their passion, innovation, and culinary excellence!
 
-_“The lesson in this enrichment course not only reinforces the teaching I got from my teacher, but also allows me to explore further in the world of food sciences”_
+### Ignite BreadCycle Challenge 2025  
+At Hougang Secondary School, we make learning exciting by designing lessons that spark curiosity and help students discover their passions. This was seen in our students’ recent success at the 2025 IgnITE Skills Challenge, a national competition organised by the Institute of Technical Education (ITE).
 
+Our team won 1st place in the BreadCycle Challenge: Innovate and Repurpose category, where they had to turn day-old bread into new and useful products. They created skincare items like face masks and scrubs using upcycled breadcrumbs and lemon peel powder, applying what they learned in class to solve real-world problems.
 
-Enrichment Photo 1
-<img src="/images/Sec3EnrichmentP1.jpeg">
-
-Enrichment Photo 2
-<img src="/images/Sec3EnrichmentP2.jpeg">
-
-Enrichment Photo 3
-<img src="/images/Sec3EnrichmentP3.jpeg">
-
-
-### Enrichment Programme “Food Presentation Workshop”  
-We firmly believe that every student has unique talents and passions waiting to be discovered, and we are dedicated to offering a range of experiences that allow our students to uncover these hidden talents and interests. Our Secondary 3 students had the privilege of attending an enrichment workshop at SHATEC, a leading institution in hospitality and culinary education.
-
-![](/images/AnT/NFS/enrichment%20programme%20“food%20presentation%20workshop%20-%201a.jpg)
-
-During the workshop, our students learned valuable food presentation skills from professional chefs. They were taught how to enhance the aesthetic appeal of a dish through the use of colors, textures, and presentation techniques. This not only helped them to appreciate the importance of visual appeal in the culinary arts but also equipped them with practical skills that they can apply in their daily lives.  
-
-![](/images/AnT/NFS/enrichment%20programme%20“food%20presentation%20workshop%20-%202a.jpg)  
-![](/images/AnT/NFS/enrichment%20programme%20“food%20presentation%20workshop%20-%203a.jpg)
-
-After the workshop, our students were given a tour of the SHATEC campus. They were able to see firsthand the different facilities available on campus, including state-of-the-art kitchens, classrooms, and dining areas. This gave them a glimpse into the world of hospitality and culinary education and allowed them to appreciate the complexity and precision that goes into producing high-quality dishes.
-
-During the tour, our students also had the opportunity to learn about the available post-secondary education pathways for the hospitality and culinary industries. They were able to speak with industry professionals who provided them with valuable insights into the skills and knowledge required for a successful career in these fields.
-
-![](/images/AnT/NFS/enrichment%20programme%20“food%20presentation%20workshop%20-%204a.jpg)
+Their project caught national attention — they were featured in The Straits Times and interviewed on 91.3FM, where they shared their challenges and dreams.
+This experience gave them valuable skills, boosted their confidence, and showed how creativity and sustainability can go hand in hand.
+![](/images/Department/AnT/NFS_Picture3.jpg)
 
 
-![](/images/AnT/NFS/enrichment%20programme%20“food%20presentation%20workshop%20-%205a.jpg)  
-![](/images/AnT/NFS/enrichment%20programme%20“food%20presentation%20workshop%20-%206a.jpg)
+### Celebrating Community, Sustainability &amp; Innovation at Hougang Secondary School
+As part of Hougang Secondary School’s 25th Anniversary celebrations, our NFS teachers and Secondary 3 students prepared a delightful range of desserts to commemorate Teachers’ Day and give back to the school community. Their heartfelt effort not only showcased their culinary skills but also reflected the spirit of gratitude and appreciation that defines our HS culture.
 
+During the school’s carnival programme, the NFS department collaborated with the ALP Unit to prepare desserts and distribute freshly harvested vegetables from our Hydroponics Garden. Students, staff, and PSG members enjoyed these homegrown greens while learning more about sustainable eating and the benefits of urban farming.
+![](/images/Department/AnT/NFS_Picture4.jpg)
 
-### SINO-SG Exchange
+### Youth Festival - Growing and Glowing Sustainably
+Our commitment to contributing to the wider community continued through the Youth Festival, where Hougang Secondary partnered with the Applied Learning Programme (ALP) Unit to engage residents from Ang Mo Kio GRC, Jalan Kayu, Kebun Baru, and Yio Chu Kang SMCs.
 
-HS hosted a 3-day school visit with Haikou No 1. Middle school and as part of their learning in HS, our FCE Unit was delighted to share a hands-on Food Culture lesson with them. The students created the dish “Roti Jala” and tasted the dish with chicken curry. They also learnt the diverse culture and races in Singapore.
+Under the theme “Grow Up Sustainably,” students showcased vegetables grown in our Autopots and Hydroponics Garden. Festival visitors created their own DIY customised salad kits to take home, raising awareness of urban farming and encouraging healthy, sustainable eating habits.
 
-SINOSG P1
-<img src="/images/SINO-SGP1.jpeg">
+At the “Glow Up Sustainably” workshop, winners of the IgnITE BreadCycle Challenge guided participants in crafting eco-friendly face masks using upcycled breadcrumbs and lemon peel powder. This hands-on activity highlighted the creative reuse of food by-products and demonstrated our students’ commitment to sustainability and innovation.
 
-SINOSG P2
-<img src="/images/SINO-SGP2.jpeg">
+A proud highlight of the event was when our students presented their sustainability projects to Senior Minister Lee Hsien Loong, confidently sharing Hougang Secondary's ongoing efforts in applied learning, innovation, community engagement, and environmental stewardship.
 
-SINOSG P3
-<img src="/images/SINO-SGP3.jpeg">
+Together, these activities exemplify our school’s dedication to nurturing values, promoting sustainable living, and empowering students to make a positive impact—both within the school and beyond.
+![](/images/Department/AnT/NFS_Picture5.jpg)
+
+### RHD Collaboration with CCE
+“Flavours of Harmony” is a Secondary 3 Nutrition &amp; Food Science initiative designed to empower students to appreciate Singapore’s rich multicultural heritage, innovate responsibly, and build social cohesion through meaningful food experiences. Through this programme, students explore how food represents cultural identity, deepening their understanding of the diverse traditions that shape our community. 
+
+The project is closely aligned with CCE: Building Consensus &amp; Celebrating Diversity, and is carried out in conjunction with Racial Harmony Day, allowing students to experience first-hand how shared food experiences can promote respect, unity, and appreciation for different cultures.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ITAInriJIzU?si=YchwBuyDPg2qhN1k" height="315" width="560"></iframe>
+
+### Enrichment Programme
+At Hougang Secondary, we are always committed to improving our culinary skills through meaningful hands-on learning experiences. This year, our Secondary 3 students took part in an engaging culinary session at Kitchen Showdown, where they had the opportunity to work collaboratively and challenge themselves in a real kitchen environment.
+
+Besides fostering bonding and teamwork, students were tasked with preparing three dishes, including a creative pizza challenge. Using a variety of ingredients provided, they had to design unique pizza toppings, showcase their creativity, and present their dishes professionally.
+
+The experience not only strengthened their culinary techniques but also nurtured critical thinking, adaptability, and confidence — essential skills for both the kitchen and beyond.
+![](/images/Department/AnT/NFS_Picture6.jpg)
+At Hougang Secondary, the NFS Unit aims to empower every student to make informed decisions, embrace healthy living, and develop lifelong learning habits that support their well-being and future readiness. Through authentic, hands-on experiences, we nurture confident, resilient, and forward-looking learners who are prepared to face future challenges and thrive in an ever-changing world.
