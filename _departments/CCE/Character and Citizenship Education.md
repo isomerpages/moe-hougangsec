@@ -134,29 +134,6 @@ events, National Day, Total Defence Day, Racial Harmony Day and International
 Friendship Day.</p>
 </li>
 </ul>
-<h3>National Education Programmes</h3>
-<p>HS commemorated the four key National Education events through students-planned
-ceremony and activities.</p>
-<p><strong>Total Defence Day</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1A6Uhies2d2EVM0Mq7B1nvtZkJW__6ZKq7jdfv1uF1e8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>International Friendship Day</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1zaJ0D3FkDWRrjSDUCkzXGJUwDuLKVl5g-btk5Z8U34w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Racial Harmony Day</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1d9PXT3XzG7LNPqsOdHqVN9xW3cyiYqbFH1juT8yeccw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>National Day</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1H-c0z3mQVrINYrYP38JUEet0GdSL2N8ilcopSbfi7_k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <h3>Character Coaching through Values-In-Action (VIA)</h3>
 <p><u>Sec 4 Class-Based VIA</u> 
 <br>Our Sec 4&amp;5s produced plank artwork in resplendent colours for display
