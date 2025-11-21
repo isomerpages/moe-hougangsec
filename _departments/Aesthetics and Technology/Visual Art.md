@@ -7,14 +7,22 @@ variant: markdown
 ---
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/UVCv2ZCJpCU" height="315" width="560"></iframe></center>
 
-In HS, we hope to be an active platform for our students to experience, explore and enjoy Art. We encourage them to record, observe and make meaning of what they see, allowing them to understand the values and relevance of art in our world.  
+### HS Art Education
+In HS, we aim to be an active platform for our students to experience, explore and enjoy Art. Students are encouraged to observe, record and make meaning of what they see, helping them recognise the relevance and value of art in their everyday lives. 
 
 **Our Goals**:  
-1.	To create an environment with opportunities for students to develop a critical eye for visual art and demonstrate ingenuity in their art making process.  
-2.	Provide in-school, as well as, out-of-school experiences to inspire and cultivate art appreciation in students.  
-3.	Encourage expression and reflection of thoughts through the making and critique of art.  
+We strive to create an environment where students develop a critical eye for visual art and show ingenuity in their art-making processes.
 
-We encourage every student to recognise the value of art through its historical and cultural context.
+We provide both in-school and out-of-school learning opportunities to inspire and cultivate art appreciation.
+
+We encourage students to express and reflect on their thoughts through the making, discussion and critique of art.
+
+We guide every student to recognise the value of art through its historical, cultural and contemporary contexts.
+
+### Our Platforms for Learning and Showcase
+
+**Art Learning Wall**
+
 
 
 **Lower Secondary Art**   
