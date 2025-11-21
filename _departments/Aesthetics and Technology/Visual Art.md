@@ -70,12 +70,25 @@ We are proud to celebrate their achievements and the creativity, effort, and ded
 
 Below are the achievements from recent years:
 
-2025
+**2025**
 
-•	Live On Festival (LOF) Design Competition - Certificate of Merit: Alden Ang (4S); featured in the official LOF video during the awards ceremony. Artworks were showcased at public roaming exhibitions.
+•	**Live On Festival (LOF) Design Competition** - Certificate of Merit: Alden Ang (4S); featured in the official LOF video during the awards ceremony. Artworks were showcased at public roaming exhibitions.
 
-•	ViART Awards - 3rd Place (Most Creative Award): Kwok Jia Ying (2A); artwork displayed at the Sustainable Singapore Gallery.
+•	**ViART Awards - 3rd Place (Most Creative Award)**: Kwok Jia Ying (2A); artwork displayed at the Sustainable Singapore Gallery.
 
+**2024**
+
+•	**Singapore Youth Festival (SYF) Art Exhibition** - Certificates of Recognition: Paraan Mari Angela Generao (4U); Tay Zhi Xin, Chloe Tan, Yu Tong and Bok Cheng Jun (Sec 1); Tricia Lim, Chan Yu Han, Leong Gia Swen and Gladys Wong (Sec 2).
+
+The artwork by Tricia Lim, Chan Yu Han, Leong Gia Swen and Gladys Wong was also displayed at the Ministry of Education Headquarters (Buona Vista) from 2024–2025.
+
+All three artworks were exhibited at the National Gallery Singapore.
+
+•	**Live On Festival (LOF) Design Competition** - Certificate of Distinction: Charlotte Koh (4R7); Certificate of Merit: Jonas Chua (4R7). Artworks were showcased at public roaming exhibitions.
+
+•	**IgnITE Skills Challenge** - Finalist (3NA) and Certificate of Participation (3NT).
+
+• **ViART Awards** - 2nd Place (Most Creative Award): Teo Shin Hwee Grace (4G); 3rd Place (Most Artistic Award): Lewis Teo Jun Heng (1U); artworks displayed at the Sustainable Singapore Gallery.
 
 
 
