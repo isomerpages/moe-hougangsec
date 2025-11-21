@@ -90,36 +90,53 @@ All three artworks were exhibited at the National Gallery Singapore.
 
 • **ViART Awards** - 2nd Place (Most Creative Award): Teo Shin Hwee Grace (4G); 3rd Place (Most Artistic Award): Lewis Teo Jun Heng (1U); artworks displayed at the Sustainable Singapore Gallery.
 
+**2023**
 
+●	L**ive On Festival (LOF) Design Competition** - 4th Place: Sakinah Binte Jefri (4N); Certificate of Merit: Djanaguiraman Harisha (2N). Artworks were showcased at public roaming exhibitions.
 
-**Singapore Youth Festival Art Exhibition**   
+●	**ViART Art Award** - 3rd Place (Most Artistic Award): Kang Chei Min and Sakinah Bte Jefri (4N); 3rd Place (You Make a Difference Award): Joshua Wong and Chen Song Ze (4S). Artworks were displayed at the Sustainable Singapore Gallery and auctioned for a good cause, with proceeds donated to charity.
 
+**2022**
 
-<iframe src="https://docs.google.com/presentation/d/1_YbrGCvPU5Ae3Wl_60QiCpm5xDOx-GNY/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>  
+●	**Singapore Youth Festival (SYF) Art Exhibition** - Certificate of Distinction: Chloe Soh (4E4).
 
+●	**SG Clean Comic Strip Competition** - Shortlisted and featured in the SG Clean Comic Book: Sakinah Bte Jefri (4N).
 
+●	**Live On Festival (LOF) Design Competition** - Certificate of Distinction: Tricia Wu En Ting (4A1).
 
-**National Organ Transplant Unit Live On Festival Design Competition**  
+**2021**
 
-Every year, HS Art Unit encourage our fellow Sec 2 students &amp; Upper Secondary Art students to participate in the Live On Festival Design Competition organised by the National Organ Transplant Unit, also known as NOTU.   
+●	**Live On Festival (LOF) Design Competition** - Certificate of Distinction: Ho Jun Wei (4E3). Artworks were showcased at public roaming exhibitions.
+●	**Student Learning Space (SLS) Avatar Competition** - Artwork selected and featured in SLS Avatar: Holmberg Eunice (3E3).
+●	**Ministry of Education Corporate Gifts Repository** - Artwork by Sheraz Lim (4E4) selected for the Ministry’s repository of corporate gifts, presented by MOE political leaders and senior management to their foreign counterparts.
 
-We are proud to share that our school has achieved awards in this competition since participating in 2021.   
+![](/images/AnT/VA/HS_Art_Award1.jpg)
+![](/images/AnT/VA/HS_Art_Award2.png)
+![](/images/AnT/VA/HS_Art_Award3.png)
+![](/images/AnT/VA/HS_Art_Award4.png)
 
-Below are the list of our winners:   
+### Art Community Engagement
+At HS, art extends beyond the classroom. Through public events, collaborative projects and authentic platforms, our students use art to communicate ideas, engage with the community and contribute meaningfully to shared causes.
 
+**Youth Festival 2025**
 
-Refer to our winning submissions [here](https://www.liveon.gov.sg/gallery.html?Institution=HougangSecondarySchool).  
+Students engaged the community through eco-friendly tote bag designs. Senior Minister Lee Hsien Loong visited the booth, interacted with our students and received a personalised tote bag designed by one of them.
+The experience provided students with an authentic platform to share their artistic intentions, build confidence and connect with members of the public.
 
-<iframe src="https://docs.google.com/presentation/d/1IjQA37y0PbMx6Ulmh1BLYKLgTFKwJbDU/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>  
+**25th Anniversary Collaborative Batik Artwork (2025)**
 
+To commemorate the school’s 25th Anniversary, students, staff and members of the HS community came together to create a large-scale collaborative batik artwork.
+Participants explored batik techniques and contributed motifs that symbolise unity, gratitude and the Hougean spirit.
+The completed artwork stands as a visual celebration of our identity, creativity and collective journey as a school.
 
-**Secondary 3 Art Enrichment and Learning Journeys**  
+**AMK-Hougang Eco-Passion Art Festival 2024**
 
-Secondary 3 Art students can look forward to an exciting range of media, such as ceramics, digital art, painting, photography and printmaking.  
+As part of this community event, students showcased upcycled artworks that promoted environmental awareness and sustainable practices.
+This collaborative effort between the Art and Green Committees encouraged students to rethink waste, practise creative reuse and engage the public in conversations about environmental responsibility through art.
 
-On top of that, students also have the opportunity to get inspired and broaden their learning experiences beyond the walls of the classroom. The unit organized Learning Journeys to Art events such as ART STAGE, SYF Exhibition and visits to Secondary schools (Victoria, Zhong Hua, CHIJ, Orchid Park), Art Museums and Art Exhibitions, most recently Batik Kita Exhibition at Asian Civilisation Museum and Vincent Van Gogh Immersive Exhibition at Resorts World.   
-
-<iframe src="https://docs.google.com/presentation/d/1dnTmpeJtDyU9_sRdr6hLlPCOPEwzrD48/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
+![](/images/AnT/VA/HS_Art_Comm1.jpg)
+![](/images/AnT/VA/HS_Art_Comm2.png)
+![](/images/AnT/VA/HS_Art_Comm3.png)
 
 
 
@@ -136,17 +153,3 @@ Students were introduced to artworks by local and international artists, offerin
 <iframe src="https://docs.google.com/presentation/d/1FezC_t44_9k7anERorgLpdwsACv20GF5/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
 
 
-**HS e-Gallery**  
-
-Over the past year, our HS E-gallery and Art learning wall have served as valuable resources and teaching tools in our Art curriculum.   
-
-The 2023 edition showcases an exciting interdisciplinary collaboration with the English Literature and Music Unit.  
-
-Visit our HS e-Gallery to view the masterpieces by our HS Artists!   
-
-**2023**
-<a href="https://go.gov.sg/hsartencounters">![](/images/AnT/VA/HS_artencounterEDM2.jpg)</a>  
- 
-
-**2022**
-<a href="https://go.gov.sg/hsartwhodoisee">![](/images/AnT/VA/HSS_ArtsFest_EDM_19Oct2022_12pm.jpg)</a>
