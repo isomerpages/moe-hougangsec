@@ -16,7 +16,7 @@ developing self-awareness, resilience, adaptability, and a growth mindset.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students engage in <strong>customised Student Development Experiences</strong> such
 as career talks, career fairs, and open house visits to post-secondary
 institutions. Through CCE lessons, students are taught to use the <strong>MySkillsFuture Student Portal</strong> (
-<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>) to explore career options and plan their
+<a href="https://go.gov.sg/MySFSec" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/MySFSec</a>) to explore career options and plan their
 future.</p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -82,10 +82,10 @@ institutions, and industry partners to enhance ECG learning and exposure.</p>
 </td>
 <td rowspan="4" colspan="1">
 <p>&nbsp;</p>
-<p>Book a <strong>face-to-face or online appointment</strong>: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hss-ecgc<br></a><strong><a rel="noopener noreferrer nofollow" target="_blank">On-site</a> support:</strong> Tuesdays
+<p>Book a <strong>face-to-face or online appointment</strong>: <a href="https://go.gov.sg/hss-ecgc" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hss-ecgc<br></a><strong>On-Site support:</strong> Tuesdays
 &amp; Wednesdays, 8.00 am – 5.00 pm (excluding HBL, school &amp; public
 holidays)
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">juan_peiling@moe.edu.sg</a>
+<br>Email: <a href="mailto:juan_peiling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">juan_peiling@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
