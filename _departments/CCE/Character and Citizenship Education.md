@@ -60,7 +60,7 @@ others, and how they make responsible decisions.</p>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Family Education</strong>
 </p>
-<p><strong>Refer to our school’s Facebook <a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/hougangsecondaryschool/</a> for more of our CCE efforts!</strong>
+<p><strong>Refer to our school’s Facebook <a href="https://www.facebook.com/hougangsecondaryschool/" rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/hougangsecondaryschool/</a> for more of our CCE efforts!</strong>
 </p>
 <p>Through these content areas and school programmes, students learn to discover
 their personal best, make values-driven choices, build meaningful relationships,
