@@ -297,24 +297,34 @@ its creative and expressive forms.</p>
 <p><strong>Art &amp; Crafts Booth On Origami Gasing</strong>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML2.jpg">
+</div>
 <p><strong>Exploration of Batik Activity</strong>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML3.jpg">
+</div>
 <p><strong>Mini Raya Celebrations in Class</strong>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML4.jpg">
+</div>
 <p><strong>Traditional Games Booth – Batu Seremban &nbsp;</strong>
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML5.jpg">
+</div>
 <p><strong>Ketupat Weaving Activity</strong>
 <br>
 </p>
-<p><strong>Sec 4E 5N – Poetry Appreciation</strong>
-<br>
-</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML6.jpg">
+</div>
+<p></p>
 <h3>HS MTL Reading Program</h3>
 <p><strong>Reading Programme (EL write-up):</strong>
 <br>The Mother Tongue Language (MTL) Reading Programme at Hougang Secondary
