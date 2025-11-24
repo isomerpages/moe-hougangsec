@@ -373,7 +373,9 @@ lebih menyeronokkan!</p>
 <p>• 适应力（Adaptability）：帮助学生培养应对变化和挑战的能力，适应不断变化的环境。</p>
 <p>• 诚信（Trustworthiness）：树立诚信为本的价值观，鼓励学生言行一致，建立个人和集体的信任。</p>
 <p>为了加深学生对这些核心价值观的理解，我校在每个偶数周的早晨开展以华语进行的分享和心得交流活动。在这些活动中，学生们不仅能深入探讨每项价值观的实际意义，还能通过分享个人体验和反思，将这些价值观有意识地融入到日常的学习与生活中。通过这种互动式的学习方式，学生们能够在实际情境中更好地理解和践行学校的核心价值观，从而提升个人素质，培养全面发展的能力。</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS42kxKi986aAB1VRg0qvhk5FCFFNJax5i8ZoRqsKQY6T07Dj9FMcOfpDsuTks1ms7UyfdqG_7IIQbs/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1uI0rKKKwLCv2hULp7e2PvMU1Mv0ib15Yt4oMtwKrmYI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
