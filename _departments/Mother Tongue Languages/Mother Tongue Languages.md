@@ -230,24 +230,18 @@ and appreciation for their Mother Tongue and cultural heritage.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMY2wtlw2zRsgqNI7pwWRZUXLe5urbllUMeI8KwscmWqqrJBY9LertJ0JS4T1WfPC4ocenokqu4xUN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Sec 3 风筝制作</h4>
+<h4>Sec1 Paper Making -  <strong>造纸术与造纸</strong> - <strong>我是小小造纸家</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1xurV91dLrbYEZ74vHNVxbKCqRheA-3rs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUIfSSputGduHF9xC_oS_hWSUL8S6DctFtmKnMnAiH8R2CKL48ygkBEC1R9wcPRzDx8-ahr1LTaTcB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Sec3 - 5 辩论比赛</h4>
+<h4>Sec2 Breakthrough Game - <strong>中二闯关游戏 - 你行我也行</strong></h4>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/19XLfux9GE0S99-G3-XkZqvybjguDPHfT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Sec4&amp;5N 中国结</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/Picture26.jpg">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkkSy20zLAWE4rcoT094l9I2U2LR411pSx90KghUGQOhALNyJ_jYhSPkWvPPMhR7k_ns0b6ton9Nqd/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/Picture25.jpg">
-</div>
 <p>
 <br>
 </p>
