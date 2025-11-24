@@ -327,6 +327,15 @@ terhadap bahasa ibunda dalam kalangan pelajar. Program ini dirancang untuk
 meningkatkan kecekapan berbahasa, kemahiran berfikir kritikal dan reflektif
 pelajar melalui pendedahan kepada bahan bacaan yang autentik, bermakna
 dan menarik.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/MTL/GREAT_Moment_1_ML.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/GREAT_Moment_2_ML.jpg">
+</div>
+<p>Pelajar-pelajar berkongsi pengalaman bermakna semasa sesi GREAT Moment,
+mengaitkan kisahnya dengan nilai sekolah.</p>
 <p>Pelajar didedahkan kepada pelbagai bahan bacaan, termasuk artikel kontemporari,
 cerpen, puisi dan petikan daripada novel. Bahan-bahan ini dipilih dengan
 teliti agar sesuai dengan minat, tahap kecekapan bahasa dan isu semasa
@@ -334,6 +343,13 @@ yang relevan dengan konteks Singapura serta rantau ini. Dengan menggunakan
 Peranti Pembelajaran Peribadi (PLD), pelajar turut mengakses sumber dalam
 talian seperti Berita Harian dan Lianhe Zaobao untuk mengikuti perkembangan
 isu-isu semasa dan melatih kemahiran membaca bahan autentik.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/READ_GAME_ML.png">
+</div>
+<p>Permainan selepas membaca meningkatkan pemahaman dan menjadikan pembelajaran
+lebih menyeronokkan!</p>
+<p></p>
 <p>Sesi membaca dijalankan secara berkala dalam waktu kurikulum melalui aktiviti
 berstruktur yang menekankan pemahaman, pengayaan kosa kata, dan kemahiran
 berfikir aras tinggi. Sebagai sebahagian daripada refleksi pasca bacaan,
@@ -349,21 +365,6 @@ cabaran membaca, memperoleh mata dan membuka kunci ganjaran berdasarkan
 pencapaian bacaan mereka. Pendekatan ini memupuk persaingan yang sihat
 dan menjadikan pembacaan lebih menarik.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/GREAT_Moment_1_ML.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Department/MTL/GREAT_Moment_2_ML.jpg">
-</div>
-<p>Pelajar-pelajar berkongsi pengalaman bermakna semasa sesi GREAT Moment,
-mengaitkan kisahnya dengan nilai sekolah.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/READ_GAME_ML.png">
-</div>
-<p>Permainan selepas membaca meningkatkan pemahaman dan menjadikan pembelajaran
-lebih menyeronokkan!</p>
 <h3><strong>阅读计划（Reading Programme）</strong></h3>
 <p>通过阅读，培养学生的学习兴趣。学生可以获取课堂之外的知识和信息，提高语言和思维能力，培养学生的逻辑思维、判断力、分析能力。为今后的学习、工作和生活打下坚实的基础。</p>
 <p>通过阅读，在校内举办各种活动，激发学生学习的兴趣。</p>
