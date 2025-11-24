@@ -213,25 +213,22 @@ and appreciation for their Mother Tongue and cultural heritage.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQj2yw2ob5ylZGlLKTc8JMC8MKGQ4xv5Sz9t0TF_SBMPpAblxsQLJiKne87iS04Pe2TuSCrvraaoHcN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Chinese Traditional Food Booth - Moon cakes live station  <strong>月饼制作 - 沉浸中的愉悦 品赏中的喜悦</strong></h4>
+<h4>Chinese Traditional Food Booth - Moon cakes live station <strong>月饼制作 - 沉浸中的愉悦 品赏中的喜悦</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCSMXI0OIIgtMlI0ZnwS1c3BFCKeYQz-vvvRVwCEybV0guvu1cRbn104JQelIYNLdgULvLC8xvfSPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Sec 1 谁是推理王</h4>
+<h4>Chinese Paper Cutting - <strong>剪纸</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1uQnNJbNRKGzSpktSHpNwbudafwdGtQsQCLAEvhEb9a0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSOtH4l0IHMU48WBvYXOMHjUPFicFgYQlflyJQbv-oDnHqCaMCZOR9xT9CLkfCxOYFOmYQePwyR8bE/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Sec1 Chinese Traditional Auspicious animals 3D Model Construction</h4>
+<h4>Traditional Games Booth - 传统游戏摊位投壶/投沙包</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/15MPUnqx2DtgCfECZkI6LxAReP-dCcYHiOKQkQydsGTE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRG_jPxHRAJA0YD2j1kY7BxHylPxdfQ547ldq8JE4ftfvyb380Sr2JzJf2ZCfmln8T5gHpohOir1urB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Sec 2 小组呈现《与声剧来》创作的剧本</h4>
+<p></p>
+<h4>I Can See Your Voice <strong>卡拉OK我来唱/Movie Day看电影</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1DZycMlje69--FuHzyvY9rGE0i0QVv1fm/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Sec 3 茶艺茶文化</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1ckEnfzJzUgaDUFTxAeSo00mzMryfl_xa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMY2wtlw2zRsgqNI7pwWRZUXLe5urbllUMeI8KwscmWqqrJBY9LertJ0JS4T1WfPC4ocenokqu4xUN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Sec 3 风筝制作</h4>
 <div class="iframe-wrapper">
@@ -254,9 +251,6 @@ and appreciation for their Mother Tongue and cultural heritage.</p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/Picture27.jpg">
-</div>
 <h4><strong>2023 Mother Tongue (Malay Language) Fortnight Programme</strong></h4>
 <p><strong>Sec 1: Congkak</strong>
 <br>As part of the MTL Fortnight, the Secondary 1 Malay Language students
