@@ -340,17 +340,17 @@ pencapaian bacaan mereka. Pendekatan ini memupuk persaingan yang sihat
 dan menjadikan pembacaan lebih menarik.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/GREAT_Moment_1_ML.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/GREAT_Moment_1_ML.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/GREAT_Moment_2_ML.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Department/MTL/GREAT_Moment_2_ML.jpg">
 </div>
 <p>Pelajar-pelajar berkongsi pengalaman bermakna semasa sesi GREAT Moment,
 mengaitkan kisahnya dengan nilai sekolah.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/READ_GAME_ML.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/READ_GAME_ML.png">
 </div>
 <p>Permainan selepas membaca meningkatkan pemahaman dan menjadikan pembelajaran
 lebih menyeronokkan!</p>
