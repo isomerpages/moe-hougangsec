@@ -124,6 +124,36 @@ across the stage and into the audience, making them feel part of the action.</p>
 </div>
 <p>A close-up shows Sec 1 students’ wide smiles and animated reactions, highlighting
 how live theatre makes storytelling engaging and memorable.</p>
+<p></p>
+<h3>中三母语文化营</h3>
+<p>后港中学于2025年5月29日主办了以“代代传承的传统草药”为主题的中三母语文化营。通过让学生亲身体验中医和传统马来草药疗法的同时，也鼓励他们有意义地运用母语，并进一步理解了传统草药在当代社会中的文化意义。</p>
+<p>文化营先于学校礼堂以嘉年华的形式展开，学生可在各种中医和马来传统草药的展摊中体验传统疗愈文化。接着，学生到各个教室参与学习制作草药香囊，并能够将这些香囊带回家。最后，学生回到礼堂参与了“新空下”新谣音乐分享会，文化营就在悠扬悦耳的新谣音乐中结束了。</p>
+<p>学生认识中医穴位的分布及其疗效</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="学生认识中医穴位的分布及其疗效" src="/images/Camp1.jpg">
+</div>
+<p></p>
+<p>学生通过闻香学习分辨各类草药</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Camp2.jpg">
+</div>
+<p>老师说明多种草药的功效与应用</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Camp3.jpg">
+</div>
+<p>我来示范如何制作香囊！</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Camp4.jpg">
+</div>
+<p>你要我帮你称多少药？</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Camp5.jpg">
+</div>
+<p>看我这样子，像不像中医在抓药？</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Camp6.jpg">
+</div>
+<p></p>
 <h3><strong>Mother Tongue Language (MTL) Fortnight 2025 Overview</strong></h3>
 <p>The MTL Fortnight is an annual program designed to create an immersive
 environment for students to learn and appreciate Mother Tongue Languages
@@ -445,9 +475,6 @@ dan menjadikan pembacaan lebih menarik.</p>
 </tbody>
 </table>
 <p></p>
-<h3>中三母语文化营</h3>
-<p>后港中学于2025年5月29日主办了以“代代传承的传统草药”为主题的中三母语文化营。通过让学生亲身体验中医和传统马来草药疗法的同时，也鼓励他们有意义地运用母语，并进一步理解了传统草药在当代社会中的文化意义。</p>
-<p>文化营先于学校礼堂以嘉年华的形式展开，学生可在各种中医和马来传统草药的展摊中体验传统疗愈文化。接着，学生到各个教室参与学习制作草药香囊，并能够将这些香囊带回家。最后，学生回到礼堂参与了“新空下”新谣音乐分享会，文化营就在悠扬悦耳的新谣音乐中结束了。</p>
 <p></p>
 <p>===========================================================================</p>
 <h1>Malay Language</h1>
