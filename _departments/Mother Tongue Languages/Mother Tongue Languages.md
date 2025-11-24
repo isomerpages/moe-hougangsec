@@ -290,57 +290,31 @@ selected idioms and discovered the beauty of the Malay language through
 its creative and expressive forms.</p>
 <p></p>
 <p><strong>Roti Kirai Making Booth Activity</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML1.jpg">
+</div>
+<p><strong>Art &amp; Crafts Booth On Origami Gasing</strong>
 <br>
 </p>
-<p><strong>Sec 1: Gasing</strong>
-<br>The Sec 1’s also had the opportunity to know more about the traditional
-game ‘gasing’ or top and created one using a toothpick and coloured papers.
-It was amazing to see that it actually worked!</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1I5sTtQhjezgj7uYkMEaicrKoeUcNwStG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Sec 2: Sahibba</strong>
-<br>Sahibba (Scrabble) – The Secondary 2 Malay Language students were involved
-in a classic battle of wits and words where every word counts in a game
-of Sahibba.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/17UfleAfK1KnILqZIX2SW5blqiVu9Vs3k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Sec 2: Keris</strong>
-<br>The Sec 2’s also had the opportunity to learn about the keris; a distinctive,
-asymmetrical dagger used by the Malays as weapon and spiritual object in
-the eleventh century. They also had an opportunity to make their own keris
-using paper.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1umtci_3G3Zd7pUUsgao799wMMMy7DmK8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Sec 3 Batik Painting</strong>
-<br>The Secondary 3 Malay Language Students had a fun time exhibiting their
-creativity in colouring the traditional art of batik painting.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1su_OOgLLTL2pzIcG1rS9Kdr2UpPQzUBx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Sec 3: Khat Calligraphy</strong>
-<br>The Sec 3’s had the opportunity to do khat calligraphy; an artistic practise
-of handwriting using brushwork based on Jawi scripts. Jawi is written in
-a modified Arabic script and read in Malay. Did you know that Jawi was
-the official script in most parts of the Malay Archipelago, including Singapore,
-for more than 700 years?</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1rceMKYHLemMOLTzqzSnPiRWRKlN5P0CU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
+<p><strong>Exploration of Batik Activity</strong>
+<br>
+</p>
+<p><strong>Mini Raya Celebrations in Class</strong>
+<br>
+</p>
+<p><strong>Traditional Games Booth – Batu Seremban &nbsp;</strong>
+<br>
+</p>
+<p><strong>Ketupat Weaving Activity</strong>
+<br>
+</p>
 <p><strong>Sec 4E 5N – Poetry Appreciation</strong>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/PoetryAppreciation.png">
-</div>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/Poetry2.jpg">
-</div>
 <h3>HS MTL Reading Program</h3>
 <p><strong>Reading Programme (EL write-up):</strong>
 <br>The Mother Tongue Language (MTL) Reading Programme at Hougang Secondary
