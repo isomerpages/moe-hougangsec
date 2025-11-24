@@ -230,21 +230,15 @@ and appreciation for their Mother Tongue and cultural heritage.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMY2wtlw2zRsgqNI7pwWRZUXLe5urbllUMeI8KwscmWqqrJBY9LertJ0JS4T1WfPC4ocenokqu4xUN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Sec1 Paper Making -  <strong>造纸术与造纸</strong> - <strong>我是小小造纸家</strong></h4>
+<h4>Sec1 Paper Making - <strong>造纸术与造纸</strong> - <strong>我是小小造纸家</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUIfSSputGduHF9xC_oS_hWSUL8S6DctFtmKnMnAiH8R2CKL48ygkBEC1R9wcPRzDx8-ahr1LTaTcB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Sec2 Breakthrough Game - <strong>中二闯关游戏 - 你行我也行</strong></h4>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkkSy20zLAWE4rcoT094l9I2U2LR411pSx90KghUGQOhALNyJ_jYhSPkWvPPMhR7k_ns0b6ton9Nqd/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
+<p></p>
 <h4><strong>2023 Mother Tongue (Malay Language) Fortnight Programme</strong></h4>
 <p><strong>Sec 1: Congkak</strong>
 <br>As part of the MTL Fortnight, the Secondary 1 Malay Language students
