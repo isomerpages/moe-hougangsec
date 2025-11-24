@@ -74,61 +74,87 @@ decorative ideas.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1lGuXXNOFXHMeH9A098RxhfN-eGjk8naM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Hougang Secondary School Cultural Performance Exposure Scheme (CPES) Programme 2024</h4>
-<p>On 21 Mar 2024, the Sec 1 students had the opportunity to watch the captivating
-fantasy drama <em>Come On! Ryder</em>, a play that explores the theme of
-personal growth and resilience. The story follows Ryder, a young protagonist
-who embarks on a transformative adventure in a mystical place known as
-Adventure Island. On this island, Ryder faces a series of daunting challenges
-that test his courage and inner strength.</p>
-<p>The narrative centers around the loss and rediscovery of courage. As Ryder
-navigates the island, he encounters various obstacles, each symbolizing
-different fears and insecurities that people face in life. Along the way,
-he learns that the love and support of family and friends can provide the
-strength needed to overcome the most difficult situations.</p>
-<p>Students were particularly drawn to the dynamic characters and the imaginative
-setting of Adventure Island, which featured a colorful, dreamlike world
-where the line between reality and fantasy is blurred. The performance
-combined storytelling, visual effects, and strong emotional moments, allowing
-the audience to experience Ryder’s struggles and triumphs as though they
-were on the island with him.</p>
-<p>The play’s engaging plot and heartfelt message left a lasting impression
-on the students, who found themselves reflecting on the importance of resilience,
-bravery, and the power of human connection. By the end of the performance,
-it was clear that <em>Come On! Ryder</em> successfully communicated its core
-message: no matter how difficult the challenges may seem, with the love
-and support of those around us, we can find the strength to persevere.</p>
+<h4>Cultural Performance Exposure Scheme (CPES) Programme 2025</h4>
+<p>On 27 March 2025, the Secondary 1 students from Hougang Secondary School
+had the opportunity to watch the engaging stage play Zhou Chu and the Three
+Monsters, adapted from a historical story set in the Jin Dynasty. This
+learning experience, part of the Cultural Performance Exposure Scheme (CPES)
+by the Committee to Promote Chinese Language Learning (CPCLL), aims to
+expose students to Chinese dramas and Chinese language-related performances
+by local or overseas arts groups. Additionally, we seeks to foster students’
+interest in their cultural heritage and cultivate future Hougang Secondary
+students who are morally grounded, purposeful, and capable of achieving
+their goals.</p>
+<p>The play tells the tale of Zhou Chu, a young man who lost his parents
+early in life and grew up without proper guidance. Though brave and strong,
+he often caused trouble and was feared as one of the “three villains” in
+his village. Eventually, Zhou Chu turned over a new leaf and became a respected
+figure in his community.</p>
+<p>The interactive performance captivated students, who enthusiastically
+responded to the actors and took part in the unfolding story. The lively
+mix of humour, action, and engaging dialogue made the play highly enjoyable.
+Beyond its entertainment value, the production conveyed meaningful lessons
+about change, self-reflection, and personal growth. By the end of the show,
+students left not only laughing but also reflecting deeply on character,
+values, and redemption.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/CPES1.jpg">
 </div>
-<p>One unique aspect of the performance was the creative use of large-scale
-LEGO props that were built to bring the world of Come On! Ryder to life.
-These oversized LEGO structures, including towering buildings, landscapes,
-and fantastical creatures, created a visually striking and imaginative
-environment on stage.</p>
+<p>When the performance began, their eyes were immediately drawn to the actors,
+and they responded with continuous applause. This showed that the students
+were captivated by the charm of the play.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/CPES2.jpg">
 </div>
-<p>Hougang Secondary School students sat together, smiling and laughing as
-they watched a live performance. Their faces lit up with enjoyment, some
-leaning forward with excitement, showing they were fully immersed in the
-show.</p>
+<p>The actors frequently interacted with the students through exaggerated
+expressions and humorous dialogue, creating a lively atmosphere. Students
+eagerly engaged in the actors’ playful exchanges, responding with laughter
+and enthusiasm.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/CPES3.jpg">
 </div>
-<p>Hougang Secondary School students sat attentively in their seats, eyes
-focused on the stage. They looked engaged, with expressions of curiosity
-and concentration, as they took in every detail of the performance unfolding
-in front of them.</p>
+<p>Students burst with laughter and excitement as Zhou Chu chased the dragon
+across the stage and into the audience, making them feel part of the action.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/CPES4.jpg">
 </div>
-<p>A performer on stage gestured towards the audience, and several Hougang
-Secondary School students eagerly raised their hands, some even standing
-up slightly, excited to be chosen to respond. Their faces showed enthusiasm,
-and they looked thrilled to participate in the interaction.</p>
-<h3><strong>Mother Tongue Language (MTL) Fortnight 2023 Overview</strong></h3>
+<p>A close-up shows Sec 1 students’ wide smiles and animated reactions, highlighting
+how live theatre makes storytelling engaging and memorable.</p>
+<p></p>
+<h3>中三母语文化营</h3>
+<p>后港中学于2025年5月29日主办了以“代代传承的传统草药”为主题的中三母语文化营。通过让学生亲身体验中医和传统马来草药疗法的同时，也鼓励他们有意义地运用母语，并进一步理解了传统草药在当代社会中的文化意义。</p>
+<p>文化营先于学校礼堂以嘉年华的形式展开，学生可在各种中医和马来传统草药的展摊中体验传统疗愈文化。接着，学生到各个教室参与学习制作草药香囊，并能够将这些香囊带回家。最后，学生回到礼堂参与了“新空下”新谣音乐分享会，文化营就在悠扬悦耳的新谣音乐中结束了。</p>
+<p>学生认识中医穴位的分布及其疗效</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="学生认识中医穴位的分布及其疗效" src="/images/Camp1.jpg">
+</div>
+<p></p>
+<p>学生通过闻香学习分辨各类草药</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Camp2.jpg">
+</div>
+<p>老师说明多种草药的功效与应用</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Camp3.jpg">
+</div>
+<p>我来示范如何制作香囊！</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Camp4.jpg">
+</div>
+<p>你要我帮你称多少药？</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Camp5.jpg">
+</div>
+<p>看我这样子，像不像中医在抓药？</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Camp6.jpg">
+</div>
+<p></p>
+<h3><strong>Mother Tongue Language (MTL) Fortnight 2025 Overview</strong></h3>
 <p>The MTL Fortnight is an annual program designed to create an immersive
 environment for students to learn and appreciate Mother Tongue Languages
 and Cultures. It aims to make MTL learning engaging and relevant by offering
@@ -173,143 +199,231 @@ a deeper connection to their roots and a sense of belonging.</p>
 to learn and appreciate their Mother Tongue Languages and Cultures. Fun
 and engaging activities are curated to stimulate students’ interests, motivating
 them to learn more.</p>
-<h4>2023 Mother Tongue (Chinese Language) Fortnight Programme</h4>
-<p>3月31日至4月6日和7月31至8月4日这两周，后港中学母语部进行了全校母语双周活动，这次活动是课堂教学延申，旨在让学生在各种活动中，体验学习华文的乐趣，使学生在潜移默化中爱上华文,
-并做到寓教于乐，乐学善用。 During the week from 31 March-6 April and 31July-4August
-, the Mother Tongue Department of Hougang Secondary School carried out
-the Mother Tongue Fortnight activities for the whole school. The objective
-for these activities is to create the platform for students to develop
-interest and love for their mother tongues languages. Students get to know
-more about their culture through the fun activities we planned for them.</p>
+<h4>2025 Mother Tongue (Chinese Language) Fortnight Programme</h4>
+<p>4月7日至4月11日和7月21日至25日这两周，后港中学母语部进行了全校母语双周活动，这次活动是课堂教学延申，旨在让学生在提供的各种活动中善用母语，沉浸式体验学习华文的乐趣，了解传统文化的博大精深,蕴含的价值观。从而使学生在潜移默化中爱上华文,
+并做到寓教于乐，乐学善用。</p>
+<p>From 7–11 April and 21–25 July, the Mother Tongue Department of Hougang
+Secondary School conducted our annual Mother Tongue Fortnight. This programme
+serves as an extension of classroom learning, providing students with opportunities
+to use their Mother Tongue in authentic contexts while deepening their
+appreciation for the richness of traditional culture. Through hands-on
+experiences and engaging activities, students were able to enjoy learning
+Chinese in meaningful and enjoyable ways, nurturing both competence and
+cultural pride.</p>
+<p>该活动包含一系列活动以实现其目标。部分计划活动包括：</p>
+<p>1.制作体验与文化欣赏——沉浸式体验，加深对传统文化遗产的理解和欣赏。如：剪纸，漆扇，中一造纸，月饼制作，中四中国结制作，穿汉唐服装拍照。</p>
+<p>2.在游戏中体验传统文化的博大精神，如：中二的闯关游戏，投沙包投壶游戏，</p>
+<p>3.提高学生有效地使用母语，提高沟通能力，如：中四的辩论赛，</p>
+<p>4.在实践与欣赏中了解传统文化，做到寓教于乐。如：卡拉OK 与看电影</p>
+<p>A wide range of activities was organised to achieve these goals. Highlights
+include:</p>
+<p>1.Experiential Learning and Cultural Appreciation</p>
+<p>Students immersed themselves in traditional cultural heritage through
+activities such as paper cutting, lacquer fan making, paper making, mooncake
+making, Chinese knot tying, and photo-taking in Han and Tang dynasty costumes.</p>
+<p>2.Experiencing Traditional Culture Through Games</p>
+<p>Sec 2 students participated in obstacle course games and beanbag toss
+games, designed to convey the spirit of traditional culture through play.</p>
+<p>3.Strengthening Language Use and Communication Skills</p>
+<p>Sec 4 students showcased their linguistic abilities during Chinese debate
+competitions, sharpening their speaking and critical-thinking skills.</p>
+<p>4.Edutainment Through Cultural Appreciation</p>
+<p>Activities such as karaoke sessions and movie screenings allowed students
+to learn about traditional culture in fun and engaging ways, reinforcing
+the joy of learning.</p>
+<p>Mother Tongue Fortnight successfully provided students with opportunities
+to learn through play, apply their knowledge, and develop a lasting interest
+and appreciation for their Mother Tongue and cultural heritage.</p>
+<p></p>
+<h4>Traditional Wear Photobooth - 穿越汉唐千年前 靓丽潇洒走一回</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHPkmpkAiT1zETfwqzN7gLp7xIIqM9dvuquUZ1c2SHGkXwx0m0Y3XrDvmsU0gZnJrOEySBNCEaWujZ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4>Traditional Wear Photobooth - 漆扇制作 非遗传承 惊喜连连</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQj2yw2ob5ylZGlLKTc8JMC8MKGQ4xv5Sz9t0TF_SBMPpAblxsQLJiKne87iS04Pe2TuSCrvraaoHcN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4>Chinese Traditional Food Booth - Moon cakes live station <strong>月饼制作 - 沉浸中的愉悦 品赏中的喜悦</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCSMXI0OIIgtMlI0ZnwS1c3BFCKeYQz-vvvRVwCEybV0guvu1cRbn104JQelIYNLdgULvLC8xvfSPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4>Chinese Paper Cutting - <strong>剪纸</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSOtH4l0IHMU48WBvYXOMHjUPFicFgYQlflyJQbv-oDnHqCaMCZOR9xT9CLkfCxOYFOmYQePwyR8bE/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4>Traditional Games Booth - 传统游戏摊位投壶/投沙包</h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRG_jPxHRAJA0YD2j1kY7BxHylPxdfQ547ldq8JE4ftfvyb380Sr2JzJf2ZCfmln8T5gHpohOir1urB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<h4>I Can See Your Voice <strong>卡拉OK我来唱/Movie Day看电影</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMY2wtlw2zRsgqNI7pwWRZUXLe5urbllUMeI8KwscmWqqrJBY9LertJ0JS4T1WfPC4ocenokqu4xUN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4>Sec1 Paper Making - <strong>造纸术与造纸</strong> - <strong>我是小小造纸家</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUIfSSputGduHF9xC_oS_hWSUL8S6DctFtmKnMnAiH8R2CKL48ygkBEC1R9wcPRzDx8-ahr1LTaTcB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<h4>Sec2 Breakthrough Game - <strong>中二闯关游戏 - 你行我也行</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkkSy20zLAWE4rcoT094l9I2U2LR411pSx90KghUGQOhALNyJ_jYhSPkWvPPMhR7k_ns0b6ton9Nqd/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<h4><strong>Mother Tongue (Malay Language) Fortnight Programme</strong></h4>
+<p>HS Mother Tongue Fortnight celebration this year brought a lively array
+of traditional activities, performances, and interactive sessions that
+truly engaged students in the richness of our cultural heritage. Each activity
+was filled with opportunities for students to deepen their appreciation
+for their Mother Tongue languages and to connect with cultural traditions
+in meaningful ways. Let’s take a look at some of the highlights!</p>
+<p>School Wide Activities</p>
+<p>The Malay Language (ML) Unit organised a series of enriching activities
+aimed at deepening students’ appreciation and understanding of the Malay
+language and culture. A variety of interactive booths were set up, allowing
+students to experience traditional practices firsthand.</p>
+<p>At the traditional games booth, students learned and played batu seremban
+and congkak, two well-loved heritage games that promote concentration,
+strategy, and fine motor skills. They also had the opportunity to learn
+ketupat weaving. Ketupat weaving offered students a meaningful hands-on
+experience that connected them to an important aspect of Malay culture.</p>
+<p>The Origami gasing is a simple yet engaging activity that combines creativity
+with cultural appreciation. As students fold and assemble the paper top,
+they develop fine motor skills, focus, and patience. The process also encourages
+spatial awareness and problem-solving as they figure out how each fold
+contributes to the final shape. Beyond the hands-on benefits, creating
+an origami gasing helps students connect with a traditional game in a fun,
+meaningful way, fostering appreciation for cultural heritage while enjoying
+a playful, hands-on craft.</p>
+<p>Additionally, students had the chance to participate in a roti kirai making
+activity, where they observed the process of preparing the lace-like crepe
+and tried making their own under the guidance of teachers.</p>
+<p>Students also had the opportunity to immerse themselves in festive cultural
+experiences by putting on traditional baju kurung and enjoying a variety
+of traditional Malay kuehs and delicacies during the mini Hari Raya celebrations
+in class. Through this hands-on experience, they gained a deeper understanding
+of the customs and practices observed during Hari Raya, appreciating the
+values of togetherness, gratitude, and respect that are central to the
+celebration.</p>
+<p>Through these meaningful and experiential activities, students gained
+greater insight into traditional Malay customs and values, fostering a
+deeper sense of cultural pride and appreciation for their Mother Tongue.</p>
+<p>During the Mother Tongue Fortnight too, students from different levels
+took part in a range of enriching activities. The Secondary 1 Malay Language
+students had the opportunity to delve deeper into the art of batik, exploring
+its creative designs and cultural significance. The Secondary 2 students
+explored various places in Singapore that hold historical significance
+for the Malay community, deepening their appreciation of local heritage.
+The Secondary 3 students learnt about bedak sejuk and other forms of traditional
+healing, gaining insight into cultural practices passed down through generations.
+Meanwhile, the Secondary 4 students delved into the symbolic meanings behind
+selected idioms and discovered the beauty of the Malay language through
+its creative and expressive forms.</p>
+<p></p>
+<p><strong>Roti Kirai Making Booth Activity</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/mtl-cl1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML1.jpg">
 </div>
-<h4>Traditional Ethnic Costumes</h4>
-<h4>传统民族服装</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1s7oVK7GNDn7H0CtgLeMvB8LONpV8sgxWIN6BlgLqX5w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Sec 1 闯关游戏</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1TzKGq-QFMX0lU49KvZjojAJjL09YnpAI9fm287MIliM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Sec 1 谁是推理王</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1uQnNJbNRKGzSpktSHpNwbudafwdGtQsQCLAEvhEb9a0/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Sec1 Chinese Traditional Auspicious animals 3D Model Construction</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/15MPUnqx2DtgCfECZkI6LxAReP-dCcYHiOKQkQydsGTE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Sec 2 小组呈现《与声剧来》创作的剧本</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1DZycMlje69--FuHzyvY9rGE0i0QVv1fm/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Sec 3 茶艺茶文化</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1ckEnfzJzUgaDUFTxAeSo00mzMryfl_xa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Sec 3 风筝制作</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1xurV91dLrbYEZ74vHNVxbKCqRheA-3rs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Sec3 - 5 辩论比赛</h4>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/19XLfux9GE0S99-G3-XkZqvybjguDPHfT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<h4>Sec4&amp;5N 中国结</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/Picture26.jpg">
-</div>
-<p>
+<p><strong>Art &amp; Crafts Booth On Origami Gasing</strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/Picture25.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML2.jpg">
 </div>
-<p>
+<p><strong>Exploration of Batik Activity</strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/Picture27.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML3.jpg">
 </div>
-<h4><strong>2023 Mother Tongue (Malay Language) Fortnight Programme</strong></h4>
-<p><strong>Sec 1: Congkak</strong>
-<br>As part of the MTL Fortnight, the Secondary 1 Malay Language students
-had the opportunity to experience how to play Congkak and to hold a conversation
-with their peers.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1tFo2_4XDankeLdtehChm36ubKhTVu8vT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Sec 1: Gasing</strong>
-<br>The Sec 1’s also had the opportunity to know more about the traditional
-game ‘gasing’ or top and created one using a toothpick and coloured papers.
-It was amazing to see that it actually worked!</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1I5sTtQhjezgj7uYkMEaicrKoeUcNwStG/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Sec 2: Sahibba</strong>
-<br>Sahibba (Scrabble) – The Secondary 2 Malay Language students were involved
-in a classic battle of wits and words where every word counts in a game
-of Sahibba.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/17UfleAfK1KnILqZIX2SW5blqiVu9Vs3k/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Sec 2: Keris</strong>
-<br>The Sec 2’s also had the opportunity to learn about the keris; a distinctive,
-asymmetrical dagger used by the Malays as weapon and spiritual object in
-the eleventh century. They also had an opportunity to make their own keris
-using paper.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1umtci_3G3Zd7pUUsgao799wMMMy7DmK8/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Sec 3 Batik Painting</strong>
-<br>The Secondary 3 Malay Language Students had a fun time exhibiting their
-creativity in colouring the traditional art of batik painting.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1su_OOgLLTL2pzIcG1rS9Kdr2UpPQzUBx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Sec 3: Khat Calligraphy</strong>
-<br>The Sec 3’s had the opportunity to do khat calligraphy; an artistic practise
-of handwriting using brushwork based on Jawi scripts. Jawi is written in
-a modified Arabic script and read in Malay. Did you know that Jawi was
-the official script in most parts of the Malay Archipelago, including Singapore,
-for more than 700 years?</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1rceMKYHLemMOLTzqzSnPiRWRKlN5P0CU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
-<p><strong>Sec 4E 5N – Poetry Appreciation</strong>
+<p><strong>Mini Raya Celebrations in Class</strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/PoetryAppreciation.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML4.jpg">
 </div>
-<p>
+<p><strong>Traditional Games Booth – Batu Seremban &nbsp;</strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/Poetry2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML5.jpg">
 </div>
-<h3>Selected Reading Program School Representatives</h3>
+<p><strong>Ketupat Weaving Activity</strong>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML6.jpg">
+</div>
+<p></p>
+<h3>HS MTL Reading Program</h3>
 <p><strong>Reading Programme (EL write-up):</strong>
-<br>In Hougang Secondary School’s MTL Reading Programme, students are exposed
-to a variety of reading resources comprising of articles as well as literary
-texts such as novels, short stories and poems. Students are kept abreast
-of contemporary issues when they read online newspapers like Zao Bao, Berita
-Harian and Gen G from their professional learning device (I-pad). For follow-up
-activities, students provided their viewpoints and applied critical and
-higher order thinking upon reading subscribed materials through platforms
-such as Grit Moment sessions during morning FRC.</p>
+<br>The Mother Tongue Language (MTL) Reading Programme at Hougang Secondary
+School aims to nurture a culture of reading and instil a lifelong appreciation
+for the Mother Tongue languages among students. The programme is designed
+to enhance students’ language proficiency, critical thinking, and reflective
+abilities through exposure to authentic, meaningful, and engaging texts.</p>
+<p>Students explore a wide variety of reading materials, including contemporary
+articles, short stories, poems, and excerpts from novels. These texts are
+carefully selected to match students’ interests, linguistic levels, and
+current social issues relevant to Singapore and the region. Leveraging
+their Personal Learning Devices (PLDs), students also access online resources
+such as Berita Harian and Lianhe Zaobao to stay informed about contemporary
+topics and practise reading authentic materials.</p>
+<p>Reading sessions are conducted regularly during curriculum time with structured
+activities that focus on comprehension, vocabulary development, and higher-order
+thinking skills. As part of post-reading reflection, students share their
+perspectives during sessions such as GREAT Moment, where they relate the
+themes and values in their readings to the school’s GREAT values</p>
+<p>Through this integrated approach, the MTL Reading Programme not only strengthens
+students’ mastery of their Mother Tongue languages but also develops independent,
+thoughtful, and values-driven learners who can connect language learning
+to real-life experiences and character growth.</p>
+<p></p>
 <p><strong>Reading Programme (ML write-up):</strong>
-<br>Dalam Program Membaca Bahasa Ibunda di Sekolah Menengah Hougang, pelajar
-didedahkan kepada pelbagai sumber bacaan yang terdiri daripada artikel
-dan teks sastera seperti novel, cerpen dan puisi. Pelajar sentiasa mengikuti
-perkembangan isu kontemporari apabila mereka membaca akhbar dalam talian
-seperti Berita Harian dan Gen G daripada peranti pembelajaran profesional
-(I-pad) mereka. Untuk aktiviti susulan, pelajar memberikan pandangan mereka
-dan menggunakan pemikiran aras kritis dan lebih tinggi apabila membaca
-bahan yang dilanggan melalui platform seperti sesi Grit Moment semasa FRC
-pagi.</p>
+<br>Program Membaca Bahasa Ibunda (MTL) di Sekolah Menengah Hougang bertujuan
+untuk memupuk budaya membaca serta menanamkan apresiasi sepanjang hayat
+terhadap bahasa ibunda dalam kalangan pelajar. Program ini dirancang untuk
+meningkatkan kecekapan berbahasa, kemahiran berfikir kritikal dan reflektif
+pelajar melalui pendedahan kepada bahan bacaan yang autentik, bermakna
+dan menarik.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Department/MTL/GREAT_Moment_1_ML.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/GREAT_Moment_2_ML.jpg">
+</div>
+<p>Pelajar-pelajar berkongsi pengalaman bermakna semasa sesi GREAT Moment,
+mengaitkan kisahnya dengan nilai sekolah.</p>
+<p>Pelajar didedahkan kepada pelbagai bahan bacaan, termasuk artikel kontemporari,
+cerpen, puisi dan petikan daripada novel. Bahan-bahan ini dipilih dengan
+teliti agar sesuai dengan minat, tahap kecekapan bahasa dan isu semasa
+yang relevan dengan konteks Singapura serta rantau ini. Dengan menggunakan
+Peranti Pembelajaran Peribadi (PLD), pelajar turut mengakses sumber dalam
+talian seperti Berita Harian dan Lianhe Zaobao untuk mengikuti perkembangan
+isu-isu semasa dan melatih kemahiran membaca bahan autentik.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/READ_GAME_ML.png">
+</div>
+<p>Permainan selepas membaca meningkatkan pemahaman dan menjadikan pembelajaran
+lebih menyeronokkan!</p>
+<p></p>
+<p>Sesi membaca dijalankan secara berkala dalam waktu kurikulum melalui aktiviti
+berstruktur yang menekankan pemahaman, pengayaan kosa kata, dan kemahiran
+berfikir aras tinggi. Sebagai sebahagian daripada refleksi pasca bacaan,
+pelajar berkongsi pandangan mereka dalam sesi seperti GREAT Moment, dengan
+mengaitkan tema dan nilai daripada bahan bacaan kepada nilai-nilai GREAT.</p>
+<p>Melalui pendekatan bersepadu ini, Program Membaca Bahasa Ibunda bukan
+sahaja memperkukuh penguasaan bahasa pelajar, malah membentuk pelajar yang
+berfikiran matang, reflektif dan berteraskan nilai, serta mampu menghubungkan
+pembelajaran bahasa dengan pengalaman hidup dan pembangunan sahsiah mereka.</p>
+<p>Bagi Program Membaca Bahasa Melayu, elemen gamifikasi telah diperkenalkan
+untuk meningkatkan pengalaman membaca. Pelajar mengambil bahagian dalam
+cabaran membaca, memperoleh mata dan membuka kunci ganjaran berdasarkan
+pencapaian bacaan mereka. Pendekatan ini memupuk persaingan yang sihat
+dan menjadikan pembacaan lebih menarik.</p>
+<p></p>
 <h3><strong>阅读计划（Reading Programme）</strong></h3>
 <p>通过阅读，培养学生的学习兴趣。学生可以获取课堂之外的知识和信息，提高语言和思维能力，培养学生的逻辑思维、判断力、分析能力。为今后的学习、工作和生活打下坚实的基础。</p>
 <p>通过阅读，在校内举办各种活动，激发学生学习的兴趣。</p>
@@ -321,12 +435,16 @@ pagi.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1HmBV8deMQtLmZnzrCWizAXt9xPzqDGV9y4XWCmz8SeI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h3><strong>GRIT MOMENT</strong></h3>
-<p>GRIT 是我们后港中学五个学校价值观的首个字母缩写，即： GRIT（Gratitude、 Respect、 Ingenuity、 Trustworthiness、
-Grit ）代表感恩、尊重、独创性、可信赖性和坚毅。</p>
-<p>学生们在偶数周的早上以华语的方式进行有关学校价值观的分享与心得。</p>
+<h3><strong>GREAT MOMENT</strong></h3>
+<p>GREAT 是我们后港中学五项核心价值观的首字母缩写，分别代表：</p>
+<p>• 感恩（Gratitude）：培养学生对他人和社会的感激之情，学会珍惜生活中的每一个机会。</p>
+<p>• 尊重（Respect）：强调尊重他人、尊重不同意见，建立和谐的人际关系。</p>
+<p>• 同理心（Empathy）：鼓励学生站在他人立场上理解和关怀，促进情感交流和社会责任感。</p>
+<p>• 适应力（Adaptability）：帮助学生培养应对变化和挑战的能力，适应不断变化的环境。</p>
+<p>• 诚信（Trustworthiness）：树立诚信为本的价值观，鼓励学生言行一致，建立个人和集体的信任。</p>
+<p>为了加深学生对这些核心价值观的理解，我校在每个偶数周的早晨开展以华语进行的分享和心得交流活动。在这些活动中，学生们不仅能深入探讨每项价值观的实际意义，还能通过分享个人体验和反思，将这些价值观有意识地融入到日常的学习与生活中。通过这种互动式的学习方式，学生们能够在实际情境中更好地理解和践行学校的核心价值观，从而提升个人素质，培养全面发展的能力。</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1uI0rKKKwLCv2hULp7e2PvMU1Mv0ib15Yt4oMtwKrmYI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS42kxKi986aAB1VRg0qvhk5FCFFNJax5i8ZoRqsKQY6T07Dj9FMcOfpDsuTks1ms7UyfdqG_7IIQbs/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>20周年的校庆，本部门第一次推出华文作文集</h4>
 <div class="isomer-image-wrapper">
@@ -356,6 +474,8 @@ Grit ）代表感恩、尊重、独创性、可信赖性和坚毅。</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p>===========================================================================</p>
 <h1>Malay Language</h1>
 <h3>Curriculum/Subject Offered</h3>
