@@ -169,14 +169,42 @@ a deeper connection to their roots and a sense of belonging.</p>
 to learn and appreciate their Mother Tongue Languages and Cultures. Fun
 and engaging activities are curated to stimulate students’ interests, motivating
 them to learn more.</p>
-<h4>2023 Mother Tongue (Chinese Language) Fortnight Programme</h4>
-<p>3月31日至4月6日和7月31至8月4日这两周，后港中学母语部进行了全校母语双周活动，这次活动是课堂教学延申，旨在让学生在各种活动中，体验学习华文的乐趣，使学生在潜移默化中爱上华文,
-并做到寓教于乐，乐学善用。 During the week from 31 March-6 April and 31July-4August
-, the Mother Tongue Department of Hougang Secondary School carried out
-the Mother Tongue Fortnight activities for the whole school. The objective
-for these activities is to create the platform for students to develop
-interest and love for their mother tongues languages. Students get to know
-more about their culture through the fun activities we planned for them.</p>
+<h4>2025 Mother Tongue (Chinese Language) Fortnight Programme</h4>
+<p>4月7日至4月11日和7月21日至25日这两周，后港中学母语部进行了全校母语双周活动，这次活动是课堂教学延申，旨在让学生在提供的各种活动中善用母语，沉浸式体验学习华文的乐趣，了解传统文化的博大精深,蕴含的价值观。从而使学生在潜移默化中爱上华文,
+并做到寓教于乐，乐学善用。</p>
+<p>From 7–11 April and 21–25 July, the Mother Tongue Department of Hougang
+Secondary School conducted our annual Mother Tongue Fortnight. This programme
+serves as an extension of classroom learning, providing students with opportunities
+to use their Mother Tongue in authentic contexts while deepening their
+appreciation for the richness of traditional culture. Through hands-on
+experiences and engaging activities, students were able to enjoy learning
+Chinese in meaningful and enjoyable ways, nurturing both competence and
+cultural pride.</p>
+<p>该活动包含一系列活动以实现其目标。部分计划活动包括：</p>
+<p>1.制作体验与文化欣赏——沉浸式体验，加深对传统文化遗产的理解和欣赏。如：剪纸，漆扇，中一造纸，月饼制作，中四中国结制作，穿汉唐服装拍照。</p>
+<p>2.在游戏中体验传统文化的博大精神，如：中二的闯关游戏，投沙包投壶游戏，</p>
+<p>3.提高学生有效地使用母语，提高沟通能力，如：中四的辩论赛，</p>
+<p>4.在实践与欣赏中了解传统文化，做到寓教于乐。如：卡拉OK 与看电影</p>
+<p>A wide range of activities was organised to achieve these goals. Highlights
+include:</p>
+<p>1.Experiential Learning and Cultural Appreciation</p>
+<p>Students immersed themselves in traditional cultural heritage through
+activities such as paper cutting, lacquer fan making, paper making, mooncake
+making, Chinese knot tying, and photo-taking in Han and Tang dynasty costumes.</p>
+<p>2.Experiencing Traditional Culture Through Games</p>
+<p>Sec 2 students participated in obstacle course games and beanbag toss
+games, designed to convey the spirit of traditional culture through play.</p>
+<p>3.Strengthening Language Use and Communication Skills</p>
+<p>Sec 4 students showcased their linguistic abilities during Chinese debate
+competitions, sharpening their speaking and critical-thinking skills.</p>
+<p>4.Edutainment Through Cultural Appreciation</p>
+<p>Activities such as karaoke sessions and movie screenings allowed students
+to learn about traditional culture in fun and engaging ways, reinforcing
+the joy of learning.</p>
+<p>Mother Tongue Fortnight successfully provided students with opportunities
+to learn through play, apply their knowledge, and develop a lasting interest
+and appreciation for their Mother Tongue and cultural heritage.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/mtl-cl1.png">
 </div>
