@@ -74,60 +74,56 @@ decorative ideas.</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1lGuXXNOFXHMeH9A098RxhfN-eGjk8naM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Hougang Secondary School Cultural Performance Exposure Scheme (CPES) Programme 2024</h4>
-<p>On 21 Mar 2024, the Sec 1 students had the opportunity to watch the captivating
-fantasy drama <em>Come On! Ryder</em>, a play that explores the theme of
-personal growth and resilience. The story follows Ryder, a young protagonist
-who embarks on a transformative adventure in a mystical place known as
-Adventure Island. On this island, Ryder faces a series of daunting challenges
-that test his courage and inner strength.</p>
-<p>The narrative centers around the loss and rediscovery of courage. As Ryder
-navigates the island, he encounters various obstacles, each symbolizing
-different fears and insecurities that people face in life. Along the way,
-he learns that the love and support of family and friends can provide the
-strength needed to overcome the most difficult situations.</p>
-<p>Students were particularly drawn to the dynamic characters and the imaginative
-setting of Adventure Island, which featured a colorful, dreamlike world
-where the line between reality and fantasy is blurred. The performance
-combined storytelling, visual effects, and strong emotional moments, allowing
-the audience to experience Ryder’s struggles and triumphs as though they
-were on the island with him.</p>
-<p>The play’s engaging plot and heartfelt message left a lasting impression
-on the students, who found themselves reflecting on the importance of resilience,
-bravery, and the power of human connection. By the end of the performance,
-it was clear that <em>Come On! Ryder</em> successfully communicated its core
-message: no matter how difficult the challenges may seem, with the love
-and support of those around us, we can find the strength to persevere.</p>
+<h4>Cultural Performance Exposure Scheme (CPES) Programme 2025</h4>
+<p>On 27 March 2025, the Secondary 1 students from Hougang Secondary School
+had the opportunity to watch the engaging stage play Zhou Chu and the Three
+Monsters, adapted from a historical story set in the Jin Dynasty. This
+learning experience, part of the Cultural Performance Exposure Scheme (CPES)
+by the Committee to Promote Chinese Language Learning (CPCLL), aims to
+expose students to Chinese dramas and Chinese language-related performances
+by local or overseas arts groups. Additionally, we seeks to foster students’
+interest in their cultural heritage and cultivate future Hougang Secondary
+students who are morally grounded, purposeful, and capable of achieving
+their goals.</p>
+<p>The play tells the tale of Zhou Chu, a young man who lost his parents
+early in life and grew up without proper guidance. Though brave and strong,
+he often caused trouble and was feared as one of the “three villains” in
+his village. Eventually, Zhou Chu turned over a new leaf and became a respected
+figure in his community.</p>
+<p>The interactive performance captivated students, who enthusiastically
+responded to the actors and took part in the unfolding story. The lively
+mix of humour, action, and engaging dialogue made the play highly enjoyable.
+Beyond its entertainment value, the production conveyed meaningful lessons
+about change, self-reflection, and personal growth. By the end of the show,
+students left not only laughing but also reflecting deeply on character,
+values, and redemption.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/CPES1.jpg">
 </div>
-<p>One unique aspect of the performance was the creative use of large-scale
-LEGO props that were built to bring the world of Come On! Ryder to life.
-These oversized LEGO structures, including towering buildings, landscapes,
-and fantastical creatures, created a visually striking and imaginative
-environment on stage.</p>
+<p>When the performance began, their eyes were immediately drawn to the actors,
+and they responded with continuous applause. This showed that the students
+were captivated by the charm of the play.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/CPES2.jpg">
 </div>
-<p>Hougang Secondary School students sat together, smiling and laughing as
-they watched a live performance. Their faces lit up with enjoyment, some
-leaning forward with excitement, showing they were fully immersed in the
-show.</p>
+<p>The actors frequently interacted with the students through exaggerated
+expressions and humorous dialogue, creating a lively atmosphere. Students
+eagerly engaged in the actors’ playful exchanges, responding with laughter
+and enthusiasm.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/CPES3.jpg">
 </div>
-<p>Hougang Secondary School students sat attentively in their seats, eyes
-focused on the stage. They looked engaged, with expressions of curiosity
-and concentration, as they took in every detail of the performance unfolding
-in front of them.</p>
+<p>Students burst with laughter and excitement as Zhou Chu chased the dragon
+across the stage and into the audience, making them feel part of the action.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTL_CPES_Pic_4.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/CPES4.jpg">
 </div>
-<p>A performer on stage gestured towards the audience, and several Hougang
-Secondary School students eagerly raised their hands, some even standing
-up slightly, excited to be chosen to respond. Their faces showed enthusiasm,
-and they looked thrilled to participate in the interaction.</p>
+<p>A close-up shows Sec 1 students’ wide smiles and animated reactions, highlighting
+how live theatre makes storytelling engaging and memorable.</p>
 <h3><strong>Mother Tongue Language (MTL) Fortnight 2023 Overview</strong></h3>
 <p>The MTL Fortnight is an annual program designed to create an immersive
 environment for students to learn and appreciate Mother Tongue Languages
