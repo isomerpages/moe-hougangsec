@@ -205,13 +205,11 @@ the joy of learning.</p>
 to learn through play, apply their knowledge, and develop a lasting interest
 and appreciation for their Mother Tongue and cultural heritage.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/mtl-cl1.png">
-</div>
-<h4>Traditional Ethnic Costumes</h4>
-<h4>传统民族服装</h4>
+<h4>Traditional Wear Photobooth</h4>
+<h4>穿越汉唐千年前 靓丽潇洒走一回</h4>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1s7oVK7GNDn7H0CtgLeMvB8LONpV8sgxWIN6BlgLqX5w/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHPkmpkAiT1zETfwqzN7gLp7xIIqM9dvuquUZ1c2SHGkXwx0m0Y3XrDvmsU0gZnJrOEySBNCEaWujZ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Sec 1 闯关游戏</h4>
 <div class="iframe-wrapper">
