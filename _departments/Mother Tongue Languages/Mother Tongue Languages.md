@@ -286,26 +286,59 @@ for more than 700 years?</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/Poetry2.jpg">
 </div>
-<h3>Selected Reading Program School Representatives</h3>
+<h3>HS MTL Reading Program</h3>
 <p><strong>Reading Programme (EL write-up):</strong>
-<br>In Hougang Secondary School’s MTL Reading Programme, students are exposed
-to a variety of reading resources comprising of articles as well as literary
-texts such as novels, short stories and poems. Students are kept abreast
-of contemporary issues when they read online newspapers like Zao Bao, Berita
-Harian and Gen G from their professional learning device (I-pad). For follow-up
-activities, students provided their viewpoints and applied critical and
-higher order thinking upon reading subscribed materials through platforms
-such as Grit Moment sessions during morning FRC.</p>
+<br>The Mother Tongue Language (MTL) Reading Programme at Hougang Secondary
+School aims to nurture a culture of reading and instil a lifelong appreciation
+for the Mother Tongue languages among students. The programme is designed
+to enhance students’ language proficiency, critical thinking, and reflective
+abilities through exposure to authentic, meaningful, and engaging texts.</p>
+<p>Students explore a wide variety of reading materials, including contemporary
+articles, short stories, poems, and excerpts from novels. These texts are
+carefully selected to match students’ interests, linguistic levels, and
+current social issues relevant to Singapore and the region. Leveraging
+their Personal Learning Devices (PLDs), students also access online resources
+such as Berita Harian and Lianhe Zaobao to stay informed about contemporary
+topics and practise reading authentic materials.</p>
+<p>Reading sessions are conducted regularly during curriculum time with structured
+activities that focus on comprehension, vocabulary development, and higher-order
+thinking skills. As part of post-reading reflection, students share their
+perspectives during sessions such as GREAT Moment, where they relate the
+themes and values in their readings to the school’s GREAT values</p>
+<p>Through this integrated approach, the MTL Reading Programme not only strengthens
+students’ mastery of their Mother Tongue languages but also develops independent,
+thoughtful, and values-driven learners who can connect language learning
+to real-life experiences and character growth.</p>
+<p></p>
 <p><strong>Reading Programme (ML write-up):</strong>
-<br>Dalam Program Membaca Bahasa Ibunda di Sekolah Menengah Hougang, pelajar
-didedahkan kepada pelbagai sumber bacaan yang terdiri daripada artikel
-dan teks sastera seperti novel, cerpen dan puisi. Pelajar sentiasa mengikuti
-perkembangan isu kontemporari apabila mereka membaca akhbar dalam talian
-seperti Berita Harian dan Gen G daripada peranti pembelajaran profesional
-(I-pad) mereka. Untuk aktiviti susulan, pelajar memberikan pandangan mereka
-dan menggunakan pemikiran aras kritis dan lebih tinggi apabila membaca
-bahan yang dilanggan melalui platform seperti sesi Grit Moment semasa FRC
-pagi.</p>
+<br>Program Membaca Bahasa Ibunda (MTL) di Sekolah Menengah Hougang bertujuan
+untuk memupuk budaya membaca serta menanamkan apresiasi sepanjang hayat
+terhadap bahasa ibunda dalam kalangan pelajar. Program ini dirancang untuk
+meningkatkan kecekapan berbahasa, kemahiran berfikir kritikal dan reflektif
+pelajar melalui pendedahan kepada bahan bacaan yang autentik, bermakna
+dan menarik.</p>
+<p>Pelajar didedahkan kepada pelbagai bahan bacaan, termasuk artikel kontemporari,
+cerpen, puisi dan petikan daripada novel. Bahan-bahan ini dipilih dengan
+teliti agar sesuai dengan minat, tahap kecekapan bahasa dan isu semasa
+yang relevan dengan konteks Singapura serta rantau ini. Dengan menggunakan
+Peranti Pembelajaran Peribadi (PLD), pelajar turut mengakses sumber dalam
+talian seperti Berita Harian dan Lianhe Zaobao untuk mengikuti perkembangan
+isu-isu semasa dan melatih kemahiran membaca bahan autentik.</p>
+<p>Sesi membaca dijalankan secara berkala dalam waktu kurikulum melalui aktiviti
+berstruktur yang menekankan pemahaman, pengayaan kosa kata, dan kemahiran
+berfikir aras tinggi. Sebagai sebahagian daripada refleksi pasca bacaan,
+pelajar berkongsi pandangan mereka dalam sesi seperti GREAT Moment, dengan
+mengaitkan tema dan nilai daripada bahan bacaan kepada nilai-nilai GREAT.</p>
+<p>Melalui pendekatan bersepadu ini, Program Membaca Bahasa Ibunda bukan
+sahaja memperkukuh penguasaan bahasa pelajar, malah membentuk pelajar yang
+berfikiran matang, reflektif dan berteraskan nilai, serta mampu menghubungkan
+pembelajaran bahasa dengan pengalaman hidup dan pembangunan sahsiah mereka.</p>
+<p>Bagi Program Membaca Bahasa Melayu, elemen gamifikasi telah diperkenalkan
+untuk meningkatkan pengalaman membaca. Pelajar mengambil bahagian dalam
+cabaran membaca, memperoleh mata dan membuka kunci ganjaran berdasarkan
+pencapaian bacaan mereka. Pendekatan ini memupuk persaingan yang sihat
+dan menjadikan pembacaan lebih menarik.</p>
+<p></p>
 <h3><strong>阅读计划（Reading Programme）</strong></h3>
 <p>通过阅读，培养学生的学习兴趣。学生可以获取课堂之外的知识和信息，提高语言和思维能力，培养学生的逻辑思维、判断力、分析能力。为今后的学习、工作和生活打下坚实的基础。</p>
 <p>通过阅读，在校内举办各种活动，激发学生学习的兴趣。</p>
