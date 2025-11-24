@@ -239,14 +239,59 @@ and appreciation for their Mother Tongue and cultural heritage.</p>
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkkSy20zLAWE4rcoT094l9I2U2LR411pSx90KghUGQOhALNyJ_jYhSPkWvPPMhR7k_ns0b6ton9Nqd/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
-<h4><strong>2023 Mother Tongue (Malay Language) Fortnight Programme</strong></h4>
-<p><strong>Sec 1: Congkak</strong>
-<br>As part of the MTL Fortnight, the Secondary 1 Malay Language students
-had the opportunity to experience how to play Congkak and to hold a conversation
-with their peers.</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1tFo2_4XDankeLdtehChm36ubKhTVu8vT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
+<h4><strong>Mother Tongue (Malay Language) Fortnight Programme</strong></h4>
+<p>HS Mother Tongue Fortnight celebration this year brought a lively array
+of traditional activities, performances, and interactive sessions that
+truly engaged students in the richness of our cultural heritage. Each activity
+was filled with opportunities for students to deepen their appreciation
+for their Mother Tongue languages and to connect with cultural traditions
+in meaningful ways. Let’s take a look at some of the highlights!</p>
+<p>School Wide Activities</p>
+<p>The Malay Language (ML) Unit organised a series of enriching activities
+aimed at deepening students’ appreciation and understanding of the Malay
+language and culture. A variety of interactive booths were set up, allowing
+students to experience traditional practices firsthand.</p>
+<p>At the traditional games booth, students learned and played batu seremban
+and congkak, two well-loved heritage games that promote concentration,
+strategy, and fine motor skills. They also had the opportunity to learn
+ketupat weaving. Ketupat weaving offered students a meaningful hands-on
+experience that connected them to an important aspect of Malay culture.</p>
+<p>The Origami gasing is a simple yet engaging activity that combines creativity
+with cultural appreciation. As students fold and assemble the paper top,
+they develop fine motor skills, focus, and patience. The process also encourages
+spatial awareness and problem-solving as they figure out how each fold
+contributes to the final shape. Beyond the hands-on benefits, creating
+an origami gasing helps students connect with a traditional game in a fun,
+meaningful way, fostering appreciation for cultural heritage while enjoying
+a playful, hands-on craft.</p>
+<p>Additionally, students had the chance to participate in a roti kirai making
+activity, where they observed the process of preparing the lace-like crepe
+and tried making their own under the guidance of teachers.</p>
+<p>Students also had the opportunity to immerse themselves in festive cultural
+experiences by putting on traditional baju kurung and enjoying a variety
+of traditional Malay kuehs and delicacies during the mini Hari Raya celebrations
+in class. Through this hands-on experience, they gained a deeper understanding
+of the customs and practices observed during Hari Raya, appreciating the
+values of togetherness, gratitude, and respect that are central to the
+celebration.</p>
+<p>Through these meaningful and experiential activities, students gained
+greater insight into traditional Malay customs and values, fostering a
+deeper sense of cultural pride and appreciation for their Mother Tongue.</p>
+<p>During the Mother Tongue Fortnight too, students from different levels
+took part in a range of enriching activities. The Secondary 1 Malay Language
+students had the opportunity to delve deeper into the art of batik, exploring
+its creative designs and cultural significance. The Secondary 2 students
+explored various places in Singapore that hold historical significance
+for the Malay community, deepening their appreciation of local heritage.
+The Secondary 3 students learnt about bedak sejuk and other forms of traditional
+healing, gaining insight into cultural practices passed down through generations.
+Meanwhile, the Secondary 4 students delved into the symbolic meanings behind
+selected idioms and discovered the beauty of the Malay language through
+its creative and expressive forms.</p>
+<p></p>
+<p><strong>Roti Kirai Making Booth Activity</strong>
+<br>
+</p>
 <p><strong>Sec 1: Gasing</strong>
 <br>The Sec 1’s also had the opportunity to know more about the traditional
 game ‘gasing’ or top and created one using a toothpick and coloured papers.
