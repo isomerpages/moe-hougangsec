@@ -32,11 +32,11 @@ The HS Art E-Gallery is our digital exhibition platform where students’ artwor
 
 **Access our E-Gallery here:**
 
-• 2024 - 2025: https://go.gov.sg/hsfuturemadepage
+• 2024 - 2025: [https://go.gov.sg/hsfuturemadepage](https://go.gov.sg/hsfuturemadepage)
 
-• 2023: https://go.gov.sg/hsartencounters
+• 2023: [https://go.gov.sg/hsartencounters](https://go.gov.sg/hsartencounters)
 
-• 2022: https://go.gov.sg/hsartwhodoisee
+• 2022: [https://go.gov.sg/hsartwhodoisee](https://go.gov.sg/hsartwhodoisee)
 
 ![](/images/AnT/VA/HS_E__Gallery.png)
 
@@ -151,5 +151,3 @@ HS hosted a three-day school visit with Haikou No 1. Middle school and our Art U
 
 Students were introduced to artworks by local and international artists, offering them the chance to appreciate and craft literary responses through poem-writing. The lesson was led by the Art and English Literature Unit.  
 <iframe src="https://docs.google.com/presentation/d/1FezC_t44_9k7anERorgLpdwsACv20GF5/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="700" height="422" allowfullscreen="true"></iframe>
-
-
