@@ -35,6 +35,16 @@ skills and weapons.</p>
 <p><strong>Motto:</strong>
 </p>
 <p>Strive Hard. Stand Strong. Show Respect.</p>
+<p><strong>Leadership Structure:<br>Captain: </strong>Ho Rui Ting</p>
+<p><strong>Vice Captains: </strong>Hidayah, Mohamad Hilman</p>
+<p><strong>Sec 1 I/C &amp; Training I/C: </strong>Gabrielle Jamie Kaunang</p>
+<p><strong>Sec 2 I/C &amp; Training I/C: </strong>Ain Insyirah</p>
+<p><strong>Sec 3 I/C &amp; Training I/C: </strong>Kyros Lau</p>
+<p><strong>Training I/C: </strong>Teo Wei Jun, Zachary Lim, Mervyn Yeong</p>
+<p><strong>Logistics: </strong>Jasper Chew, Jovier Teo, Muhammad Danish</p>
+<p><strong>VIA: </strong>Olivia Neo, Ernest Chua</p>
+<p><strong>Publicity &amp; Events: </strong>Naina Nabilla, Hugh Teo, Victoria
+Png</p>
 <h3>Achievements</h3>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
