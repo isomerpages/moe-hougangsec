@@ -22,6 +22,88 @@ keep Singapore safe.</p>
 </p>
 <h3>Route of Advancement</h3>
 <p>CDT – LCP – CPL – SGT – SSG – SI</p>
+<h3>Leadership Structure</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CHAIRPERSON</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIN XIN TONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>VICE-CHAIRPERSON</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEE YU EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>VALUES-IN-ACTION</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOVIS OH JIN WEI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SOCIAL MEDIA IN-CHARGE</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHLOE TAN YU TONG</p>
+<p>PHOEBE CHAN CHENG WAI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CADET LEADERS IN-CHARGE OF</strong>
+</p>
+<p><strong>SECONDARY 1 SQUAD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AARON TAN JIE WEI</p>
+<p>AIDAN TAN WEI SHENG</p>
+<p>BOO JUN YI, IVAN</p>
+<p>JOVIS OH JIN WEI</p>
+<p>KEITH ONG JUN XIANG</p>
+<p>NURUL RAIHANAH BINTE MAZATULAMRAN</p>
+<p>PHOEBE CHAN CHENG WAI</p>
+<p>YAP CHU RONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CADET LEADERS IN-CHARGE OF</strong>
+</p>
+<p><strong>SECONDARY 2 SQUAD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEE RUYI SASHANA</p>
+<p>CHLOE TAN YU TONG</p>
+<p>KUMARASAMY NITESH KUMAR</p>
+<p>LEE YU ZHI, DAYLEN</p>
+<p>LIN ZU EN, CELESTE</p>
+<p>RABI'ATUL ADAWIYAH BINTE MUHAMMAD IMRAN</p>
+<p>TAN YEE MENG</p>
+<p>TAY YU JIN, GLADYS</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Key Programmes for Secondary 1 Cadets</h3>
 <ul data-tight="true" class="tight">
 <li>
