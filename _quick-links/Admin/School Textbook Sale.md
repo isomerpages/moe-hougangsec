@@ -15,8 +15,8 @@ booklist for the login instructions and other details.</p>
 <p></p>
 <p><strong>II. Purchase in School</strong>
 </p>
-<p>Walk-in purchase is available on the following dates and time. <u>Only one adult is allowed to accompany the student</u>.
-Please refer to your child’s booklist for other details.</p>
+<p>Walk-in purchase is available on the following dates and time. <u>Only one adult is allowed to accompany the student</u>. <u>Students entering the school are to be in school top (e.g. PE/CCA/Class T-shirt, Uniform Top, Polo Shirt, etc.) and school bottoms (e.g. Pants, skorts, PE shorts) with proper shoes (i.e. no slippers/sandals). </u>Please
+refer to your child’s booklist for other details.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

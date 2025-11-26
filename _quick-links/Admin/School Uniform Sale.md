@@ -17,9 +17,9 @@ time slot via this weblink. <a href="https://jeepsinguniform.com/pages/appointme
 </p>
 <p><strong>III. Purchase in School</strong>
 <br>Walk-in purchase is available on the following dates and time.
-<br><u>Only one adult is allowed to accompany the student</u>. Please bring
-the best fitted garment to compare and assist in selecting the size. Other
-details are on the pdf file below.</p>
+<br><u>Only one adult is allowed to accompany the student</u>. <u>Students entering the school are to be in school top (e.g. PE/CCA/Class T-shirt, Uniform Top, Polo&nbsp;Shirt, etc.) and school bottoms (e.g. Pants, skorts, PE shorts) with proper shoes (i.e. no slippers/sandals).</u> Please
+bring the best fitted garment to compare and assist in selecting the size.
+Other details are on the pdf file below.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
