@@ -5,15 +5,16 @@ description: ""
 third_nav_title: PLD Initiative
 variant: tiptap
 ---
-<p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
-Digital Literacy Programme (NDLP) for our schools and Institutes of Higher
-Learning to help students strengthen their digital literacy. One of the
-components of the NDLP is the introduction of the Personalised Digital
-Learning Programme (PDLP) for all secondary school students, whereby every
-secondary school student will own a school-prescribed Personal Learning
-Device (PLD) by end-2021. This provides important information about how
-you can purchase the PLD for your child/ward as well as about the accompanying
-applications that the school may be rolling out as part of the NDLP.</p>
+<p>The NDLP was launched at MOE’s Committee of Supply Debate in March 2020
+to help students strengthen their digital literacy. One of the components
+of the NDLP is the introduction of the Personalised Digital Learning Programme
+(“<strong>PDLP</strong>”) for all secondary school students, whereby every
+secondary school student will own a school-prescribed PLD. The PLD will
+be used together with the national e-learning platform – the Singapore
+Student Learning Space (“<strong>SLS</strong>”) – as well as other educational
+technology to personalise and enhance students’ learning. This will also
+enable students to acquire digital skills and apply these skills as they
+navigate an increasingly digitalised world.</p>
 <h4>Personal Learning Device (PLD) for Secondary School Students</h4>
 <p>2.&nbsp;&nbsp; &nbsp;<strong>Overview.</strong>&nbsp;</p>
 <p>The PLD will be used in tandem with the national e-learning platform –
@@ -22,8 +23,8 @@ technology to personalise and enhance students’ learning. This will also
 enable students to acquire digital skills and apply these skills as they
 navigate an increasingly digitalised world.</p>
 <p><strong>For newly posted in students at Secondary 1</strong>, parents
-will need to ensure that the following are submitted before Tuesday, 31
-December 2024, 12 pm.</p>
+will need to ensure that the following are submitted before Wednesday,
+31 December 2025, 12 pm.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">Intent to purchase and use of Edusave</a>&nbsp;(requires
@@ -32,8 +33,7 @@ office for the hardcopy form. &gt; &gt;</p>
 </li>
 <li>
 <p>Information on existing household computing device(s). Access the survey
-here <a href="https://go.gov.sg/hsdevicesurvey2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hsdevicesurvey2025</a>
-</p>
+<a href="https://for.edu.sg/hsdevicesurvey" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 </ul>
 <p>3.&nbsp;&nbsp; &nbsp;<strong>Purchase of PLD bundle.</strong>&nbsp;</p>
@@ -45,7 +45,7 @@ PLD bundle which includes warranty and insurance for purchase by your child/ward
 will be the&nbsp;Enhanced Device Bundle&nbsp;comprising the following :&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Apple iPad [10.9” 10th Gen model, A14 Bionic chip, 64 GB Storage]&nbsp;&nbsp;</p>
+<p>Apple iPad 11-inch A16 Bionic chip, 6 GB Memory, 128 GB Storage]</p>
 </li>
 <li>
 <p>Apple Pencil&nbsp;USB-C</p>
@@ -54,17 +54,17 @@ will be the&nbsp;Enhanced Device Bundle&nbsp;comprising the following :&nbsp;</p
 <p>Ruggedized Keyboard Combo 4 Case</p>
 </li>
 <li>
-<p>3 Year AppleCare+</p>
+<p>4 Year AppleCare+</p>
 </li>
 <li>
-<p>3 Year Insurance</p>
+<p>4 Year Insurance</p>
 </li>
 </ul>
-<p>The price of the Enhanced Device Bundle is tentatively priced at $853.40
-and is inclusive of 9% GST.&nbsp;</p>
+<p>The price of the Enhanced Device Bundle is tentatively priced at $904.00
+and is inclusive of 9% GST.</p>
 <p>The Enhanced Device Bundle includes the device, associated accessories,
 insurance, warranty, and fortnightly courier service by Contractor to collect
-damaged devices from school&nbsp;<em>(Or parents can choose to send directly to the 6 Apple Service Centres)</em>
+damaged devices from school&nbsp;<em>(Or parents can choose to send directly to the Apple Service Centres)</em>
 </p>
 <ol start="4" data-tight="true" class="tight">
 <li>
@@ -74,10 +74,11 @@ damaged devices from school&nbsp;<em>(Or parents can choose to send directly to 
 <p>Students who are Singapore citizens can use their Edusave to pay fully
 or partly for the PLD, after setting aside provision for payment of miscellaneous
 fees. Parents/Guardians can also choose to pay cash for the PLD. MOE has
-provided additional Edusave top-ups of $200 in 2020 to 2022, and $300 in
-2023 to all eligible Singaporean students in primary and secondary schools.
-This is on top of the annual Edusave contribution of $290 for secondary
-school students and $230 for primary school students.</p>
+provided Edusave top-ups of $200 in 2020 to 2023 to all eligible Singaporean
+students in primary and secondary schools. In 2025, MOE provided a $500
+Edusave top-up for students aged 13-16 years old. This is on top of the
+annual Edusave contribution of $290 for secondary school students and $230
+for primary school students.</p>
 <p>5.&nbsp; <strong>Financial Assistance.</strong>&nbsp;</p>
 <p>Subsidies are available for students who require funding support to purchase
 a PLD. Please note that it is compulsory for all students on the MOE Financial
@@ -108,8 +109,8 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under MOE FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gross Household Income (“GHI”) is $3,000 or less, or
-<br>Per Capita Income (“PCI”) is $750 or less</p>
+<p>Gross Household Income (“<strong>GHI</strong>”) is $4,000 or less, or</p>
+<p>Per Capita Income (“<strong>PCI</strong>”) * is $1,000 or less</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>No action required. Automatically subsidised for the PLD.</p>
@@ -120,12 +121,11 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students under School-based FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GHI is $4,400 or less, or
-<br>PCI is $1,100 or less</p>
+<p><strong>GHI</strong> is $5,500 or less, or</p>
+<p><strong>PCI</strong> is $1,375 or less</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Approach the school’s General Office to apply for a subsidy.
-<br>(To submit Annex D)</p>
+<p>Approach the school’s General Office to apply for a subsidy.</p>
 </td>
 </tr>
 <tr>
@@ -133,12 +133,11 @@ below for information on the eligibility for the subsidy:</p>
 <p>Students who are currently not under the MOE FAS / School-based FAS</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>GHI is $4,400 or less, or
-<br>PCI is $1,100 or less</p>
+<p><strong>GHI</strong> is $5,500 or less, or</p>
+<p><strong>PCI</strong> is $1,375 or less</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Approach the school’s General Office to apply for a subsidy.
-<br>(To submit Annex D)</p>
+<p>Approach the school’s General Office to apply for a subsidy.</p>
 </td>
 </tr>
 </tbody>
@@ -186,7 +185,8 @@ the type of websites accessible to the student, and placing restrictions
 on students’ screen time to prevent cyber addiction.</p>
 <p>Please refer to <u>Annexes A, B and C</u> for more details on the functions
 and features of the DMA, and on the collection and protection of personal
-data.</p>
+data. . <strong>Students are to refer to the student handbook for the acceptable use policy for use of EdTech Resources.</strong>
+</p>
 <ol start="9" data-tight="true" class="tight">
 <li>
 <p><strong>Devices not purchased through the school.</strong> If parents/guardians
@@ -206,7 +206,7 @@ school in lieu of the school-prescribed PLD.</p>
 PLD, please consent for the purchase via the Parents Gateway (PG) notification.
 Parents who want to use Edusave funds for the PLD (for Singapore citizens
 students only), please submit the online Standing Order (SO) from via this
-link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> by <strong>31 Dec 2024</strong> if
+link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> by <strong>31 Dec 2025</strong> if
 you have not done so previously. If you are unable to submit the online
 form, please approach the school for assistance or to request for a hardcopy
 form.</p>
@@ -239,7 +239,7 @@ commence in February and the delivery of the PLD is expected to be in Term
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>31 Dec 2024</p>
+<p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Submission of application forms
@@ -265,7 +265,7 @@ go to: <a href="http://www.digitalaccess.gov.sg/" rel="noopener noreferrer" targ
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jan 2025</p>
+<p>Jan 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Confirmation of Order
@@ -280,7 +280,7 @@ their iPad assessed by the school for suitability.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jan-Feb 2025</p>
+<p>Jan-Feb 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Billing and Payment</p>
@@ -293,7 +293,19 @@ for the deduction)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mar 2025</p>
+<p>Feb – Mar 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Deployment and onboarding of PLD and DMA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Date to be advised after confirmation of all Sec 1 students' purchase
+is completed.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mar 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Briefing to Parents (Optional)</p>
@@ -303,22 +315,11 @@ for the deduction)</p>
 (See Annex B)</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mar – Apr 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Deployment and onboarding of PLD and DMA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Date to be advised.</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4>Next Steps</h4>
 <p>11.&nbsp; To proceed with the purchase of the PLD, please submit the online
-forms (see table 2) by&nbsp;<strong>31 December 2024</strong>. The online
+forms (see table 2) by&nbsp;<strong>31 December 2025</strong>. The online
 forms will be available after Sec 1 registration. If you are unable to
 submit the form online, please contact the school for a hardcopy version.</p>
 <p>12.&nbsp; For students with insufficient Edusave and remainder/full payment
@@ -474,22 +475,23 @@ options <strong>after</strong> school hours.</p>
 <p>Alternative Setting:</p>
 <p><strong>Option B</strong>
 </p>
-<p>(DMA will be inactive <strong><u>only </u></strong>after school hours)
-<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>
-</p>
+<p>(DMA will be inactive <strong><u>only </u></strong>after school hours)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>For parents/guardians who want their child’s/ward’s use of the device
-to be restricted only to teaching and learning, and who prefer to follow
-the Default Setting as set by the school for both during and after school
-hours.</p>
+<p>For parents/guardians who want their child’s/ward’s use of the PLD to
+be restricted only to teaching and learning and prefer to leave it to the
+school to decide on DMA settings after school hours.</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>For parents/guardians who prefer to take charge of the level of restrictions
-for their child’s/ward’s use of the device after school hours regulated
-by the DMA.</p>
+for their child’s/ward’s use of the PLD after school hours regulated by
+the DMA.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>For parents/guardians who do not want their child’s/ward’s use of the
+PLD after school hours to be regulated by the DMA at all.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>For parents/guardians who do not want their child’s/ward’s use of the
@@ -506,11 +508,22 @@ categories:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Violent/extremist content</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual/pornographic
 content</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling-related content&nbsp;&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suicide/self-harm content&nbsp;</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyberbullying content&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling-related content</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Parents/Guardians will be able to include additional web content filtering
-programmes by submitting a request to the school.</p>
+using the Jamf Parent app. However, parents cannot allow access to web
+content that is filtered out under the Default Setting.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No content filtering at all after school hours.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -530,21 +543,32 @@ programmes by submitting a request to the school.</p>
 to install additional applications.</p>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians and/or students
-will be able to install additional applications after school hours.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications installed by parents/guardians
-and/or students after school hours will not be accessible during school
-hours.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians can limit access
-to applications installed on the device.</p>
+<td rowspan="1" colspan="1">
+<p>Parents/Guardians and/or students will be able to install additional applications
+after school hours by signing in to the Apple App Store using their personal
+Apple Accounts.</p>
+<p>&nbsp;</p>
+<p>Applications installed by parents/guardians and/or students after school
+hours will not be accessible during school hours.</p>
+<p>&nbsp;</p>
+<p>Parents/Guardians can limit access to applications that they install on
+the device.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians and/or students
-will be able to install additional applications after school hours.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Applications installed by parents/guardians
-and/or students after school hours will not be accessible during school
-hours.</p>
+<p>Parents/Guardians and/or students will be able to install additional applications
+after school hours by signing in to the Apple App Store using their personal
+Apple Accounts.</p>
+<p>&nbsp;</p>
+<p>Applications installed by parents/guardians and/or students after school
+hours will not be accessible during school hours.</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/Guardians and/or students will be able to install additional applications
+after school hours.</p>
+<p></p>
+<p>Applications installed by parents/guardians and/or students after school
+hours will not be accessible during school hours.</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -558,14 +582,25 @@ use the device.</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians can adjust their
-child's/ward’s screen time by setting rules on the device.<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>
-</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents/Guardians can determine
-the duration of use of specified applications.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents/Guardians can modify the amount of screen time for their child/ward
+by setting the PLD sleep hours to 1 prescribed time between 3.00 pm and
+10:30 pm or earlier. This can be done on the Jamf Parent Application.&nbsp;</p>
+<p>Parents/Guardians can determine the duration of use of specified applications.</p>
+</td>
+</tr>
+</tbody>
+</table>
 </td>
 <td rowspan="1" colspan="1">
-<p>No control over screen time.</p>
+<p>No limitation on duration of screen time. after school hours.&nbsp;Sleep
+hours are not enforced</p>
 </td>
 </tr>
 <tr>
@@ -573,17 +608,9 @@ the duration of use of specified applications.</p>
 <p>Monitor child’s/ward’s cyber activities</p>
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="4">
 <p>Parents/Guardians will <u>not </u>be able to track their child’s/ward’s
-browser history.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians will <u>not </u>be able to track their child’s/ward’s
-browser history via the parent account.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians will <u>not</u> be able to monitor or control their child’s/ward’s
-use of the device through the DMA.</p>
+browser history due to Apple’s Privacy Policy.</p>
 </td>
 </tr>
 <tr>
@@ -606,14 +633,51 @@ use of the device through the DMA.</p>
 </tbody>
 </table>
 <hr>
-<p>[1] Please note that software features are subject to change and may be
-improved or updated over time.</p>
-<p>[2] No data will be collected after school hours when the DMA is inactive.</p>
-<p>[3] During school hours, the screen time limits set by the school will
-override parents/guardians’ settings.</p>
+<p>4. The general setting for the PLD are:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School hours</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>After-school hours</strong>
+</p>
+<p>(Not applicable to Option B users)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sleep Hours</strong>
+</p>
+<p>(Not applicable to Option B users)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.30 am and 3.00 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 p.m. to 10.30 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.30 pm to 6.30 am</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
-<p>4. Parents/Guardians may wish to consider the following questions before
-deciding on which After-School DMA Option is best for their child/ward.&nbsp;</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Parents/Guardians may wish to consider the following questions before
+deciding on which After-School DMA Option is best for their child/ward.</p>
+</li>
+</ol>
+<p></p>
 <p><strong>a. Child’s/Ward’s current device usage habits</strong>
 </p>
 <ul data-tight="true" class="tight">
