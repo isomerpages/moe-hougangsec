@@ -5,15 +5,16 @@ description: ""
 third_nav_title: PLD Initiative
 variant: tiptap
 ---
-<p>At MOE’s Committee of Supply Debate in March 2020, MOE launched the National
-Digital Literacy Programme (NDLP) for our schools and Institutes of Higher
-Learning to help students strengthen their digital literacy. One of the
-components of the NDLP is the introduction of the Personalised Digital
-Learning Programme (PDLP) for all secondary school students, whereby every
-secondary school student will own a school-prescribed Personal Learning
-Device (PLD) by end-2021. This provides important information about how
-you can purchase the PLD for your child/ward as well as about the accompanying
-applications that the school may be rolling out as part of the NDLP.</p>
+<p>The NDLP was launched at MOE’s Committee of Supply Debate in March 2020
+to help students strengthen their digital literacy. One of the components
+of the NDLP is the introduction of the Personalised Digital Learning Programme
+(“<strong>PDLP</strong>”) for all secondary school students, whereby every
+secondary school student will own a school-prescribed PLD. The PLD will
+be used together with the national e-learning platform – the Singapore
+Student Learning Space (“<strong>SLS</strong>”) – as well as other educational
+technology to personalise and enhance students’ learning. This will also
+enable students to acquire digital skills and apply these skills as they
+navigate an increasingly digitalised world.</p>
 <h4>Personal Learning Device (PLD) for Secondary School Students</h4>
 <p>2.&nbsp;&nbsp; &nbsp;<strong>Overview.</strong>&nbsp;</p>
 <p>The PLD will be used in tandem with the national e-learning platform –
