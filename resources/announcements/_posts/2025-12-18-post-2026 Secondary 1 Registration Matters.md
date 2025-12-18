@@ -229,6 +229,20 @@ and 2 shorts).</p>
 <p><strong>Girls:</strong> 1 packet of name tags (Sky Blue), 1 school tie,
 1 blouse, 2 school polo tees, 3 skirts and 2 sets of PE attire (2 T-shirts
 and 2 shorts).</p>
+<p><strong>5. <u>FINANCIAL ASSISTANCE SCHEME (FAS)</u></strong>
+</p>
+<p><strong>(A)&nbsp;&nbsp; Approved Sec 1 FAS:</strong> Parents/Guardians
+of Secondary 1 students whose MOEFAS application was approved will need
+to go to the HS General Office to collect your FAS approval letter on<strong> <u>Tuesday, 23 December 2025 between 8.30 and 10.30 am</u>.</strong> After
+receiving the FAS approval letter from HS, you can proceed to collect the
+textbooks and uniforms. Please refer to the schedule above for the collection
+of textbooks and uniforms. The last day for the collection of the official
+letter from HS is<u> </u><strong><u>Tuesday, 30 December 2025</u>.</strong>
+</p>
 <p></p>
+<p><strong>New MOEFAS applicants:</strong> Please complete the online <strong><a href="https://go.gov.sg/hsfasapply" rel="noopener noreferrer nofollow" target="_blank">application form</a></strong>.&nbsp;
+Kindly ensure the form is completed and submitted with the supporting documents,
+by <strong><u>Friday, 26 December 2025</u>.</strong>
+</p>
 <p></p>
 <p></p>
