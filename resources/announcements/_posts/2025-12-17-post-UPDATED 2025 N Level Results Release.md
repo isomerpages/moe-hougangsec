@@ -43,10 +43,11 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Students (Annex B)</p>
+<p><a href="/files/GCE/For_Students__Annex_B_.pdf" rel="noopener noreferrer nofollow" target="_blank">For Students (Annex B)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[For Students]</p>
+<p>[For Students] N-Level Briefing Slides from MOE</p>
 </td>
 </tr>
 <tr>
@@ -54,10 +55,11 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ITE Course Booklet 2026</p>
+<p><a href="/files/GCE/ITE_Course_Booklet_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">ITE Course Booklet 2026</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[For Students]</p>
+<p>[For Students] 2026 ITE Course Booklet</p>
 </td>
 </tr>
 <tr>
@@ -65,10 +67,11 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Whats Next-N-Level-2025</p>
+<p><a href="/files/GCE/Whats_Next_N_Level_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Whats Next-N-Level-2025</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[For Students]</p>
+<p>[For Students] What’s Next after N-Level Brochure</p>
 </td>
 </tr>
 <tr>
@@ -76,10 +79,11 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DPP Factsheet for Students</p>
+<p><a href="/files/GCE/DPP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">DPP Factsheet for Students</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[For Students]</p>
+<p>[For Students] DPP Factsheet for Students</p>
 </td>
 </tr>
 <tr>
@@ -87,10 +91,11 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PFP Factsheet for Students</p>
+<p><a href="/files/GCE/PFP_Factsheet_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">PFP Factsheet for Students</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[For Students]</p>
+<p>[For Students] PFP Factsheet for Students</p>
 </td>
 </tr>
 <tr>
@@ -98,10 +103,11 @@ variant: tiptap
 <p>7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>For Students (You've Got This)</p>
+<p><a href="/files/GCE/For_Students__You_ve_Got_This_.pdf" rel="noopener noreferrer nofollow" target="_blank">For Students (You've Got This)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[For Students]</p>
+<p>[For Students] Student Resource on N Level</p>
 </td>
 </tr>
 <tr>
@@ -109,10 +115,11 @@ variant: tiptap
 <p>8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Info Sheet for Parents (N-Level)</p>
+<p><a href="/files/GCE/Info_Sheet_for_Parents__N_Level_.pdf" rel="noopener noreferrer nofollow" target="_blank">Info Sheet for Parents (N-Level)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[For Parents]</p>
+<p>[For Parents] Infosheet on Tips and Resources for Parents</p>
 </td>
 </tr>
 </tbody>
