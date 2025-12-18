@@ -36,5 +36,199 @@ have attained at least a Pass in HCL or AL1/AL2&nbsp; at PSLE will be offered
 HCL by the school. Parents will be notified via PG on<strong> <u>Friday, 19 December 2025, after 5 pm</u>. </strong>Acceptance/rejection
 of the HMTL offer via PG must be done by <strong><u>Friday, 26 December 2025, 12 pm</u>.</strong>
 </p>
-<p>For other MT-related matters, please refer to <strong><a rel="noopener noreferrer nofollow" target="_blank">this link</a></strong>.&nbsp;</p>
+<p>For other MT-related matters, please refer to <strong><a href="https://docs.google.com/presentation/d/1Y1hluQZsODjhJVj-j5S_yuOAsUUWQ5vH2wmy2ZnLuLU/edit?slide=id.p12#slide=id.p12" rel="noopener noreferrer nofollow" target="_blank">this link</a></strong>.&nbsp;</p>
+<p><strong>4. <u>Purchase of Books, Uniform and PE Attire for Secondary 1</u></strong>
+</p>
+<p><strong>Method 1</strong>: Online Purchase (Preferred)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Link</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Instructions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Books and Stationery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://www.cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Casco Educational Supply</a>
+</p>
+<p><a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Casco Educational Supply Pte Ltd</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents are required to set up an account via the link provided.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Uniforms and PE Attire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jeep Sing Uniform</p>
+<p><a href="https://jeepsinguniform.com/" rel="noopener noreferrer nofollow" target="_blank">https://jeepsinguniform.com/</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Please indicate Sec 1 as class if class is not available when making online
+purchase</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Method 2</strong>: Purchase/Collection at Hougang Secondary School</p>
+<p>Please follow the schedule below for the purchase/collection of textbooks
+and uniforms.</p>
+<p>We seek your understanding that <strong><em>only one adult </em></strong><em>is allowed to accompany each student.</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><em>Date</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Time</em></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><em>Level/Group</em></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Monday, 22 December 2025</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>9 am to 3 pm</em>
+</p>
+<p><em>(Lunch break 12.00 pm - 1.00pm)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Secondary 1</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Tuesday, 23 December 2025</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>9 am to 3 pm</em>
+</p>
+<p><em>(Lunch break 12.00 pm - 1.00pm)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Only for FAS collection</em>
+</p>
+<p><em>For Secondary 1</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Wednesday, 24 December 2025</em>
+</p>
+<p><em>(Purchase of textbooks only)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>9 am to 12 pm</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Secondary 1</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Friday, 26 December 2025</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>9 am to 3 pm</em>
+</p>
+<p><em>(Lunch break 12.00 pm - 1.00pm)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Secondary 1 to 4</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Monday, 29 December 2025 to Tuesday, 30 December 2025&nbsp;</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>9 am to 3 pm</em>
+</p>
+<p><em>(Lunch break 12.00 pm - 1.00pm)</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Secondary 1 to 4</em>
+</p>
+<p><em>&nbsp;</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Please note:</p>
+<p>●&nbsp;&nbsp;&nbsp; For Textbooks: You can view the booklist below or
+collect a hardcopy from the bookshop. Please select the correct posting
+group (G1/G2/G3) when purchasing the books for your child.</p>
+<p><a href="/files/S1reg/HS_Sec_1_Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Booklist</a>
+<br>
+</p>
+<p><strong><em><u>Note:</u></em></strong><em> Parents/Guardians of students who are </em><strong><em>eligible</em></strong><em> to take subjects at a More Demanding Level (</em><strong><em>MDL</em></strong><em>) / Less Demanding Level (</em><strong><em>LDL</em></strong><em>) and/or Higher Mother Tongue Language (</em><strong><em>HMTL</em></strong><em>) will receive the letter of offer via the Parents Gateway (PG) app. Please only purchase the books for the respective subjects </em><strong><em>after</em></strong><em> you have decided on the subjects.</em>
+</p>
+<p></p>
+<p>●&nbsp;&nbsp;&nbsp; For Uniforms: There is no trying of uniforms, please
+bring the best fitting garment to compare when selecting the suitable size
+for purchase in school.</p>
+<p>You can refer to the suggested quantity to purchase for uniforms:</p>
+<p><strong>Boys:</strong> 1 packet of name tags (Sky Blue), 1 school tie,
+1 shirt, 2 school polo tees, 3 long pants and 2 sets of PE attire (2 T-shirts
+and 2 shorts).</p>
+<p><strong>Girls:</strong> 1 packet of name tags (Sky Blue), 1 school tie,
+1 blouse, 2 school polo tees, 3 skirts and 2 sets of PE attire (2 T-shirts
+and 2 shorts).</p>
+<p></p>
+<p></p>
 <p></p>
