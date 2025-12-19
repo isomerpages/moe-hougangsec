@@ -244,5 +244,33 @@ letter from HS is<u> </u><strong><u>Tuesday, 30 December 2025</u>.</strong>
 Kindly ensure the form is completed and submitted with the supporting documents,
 by <strong><u>Friday, 26 December 2025</u>.</strong>
 </p>
+<p><strong>6.&nbsp; <u>Personal Digital Learning Programme (PDLP)</u></strong>
+</p>
+<p>The use of Personal Learning Devices (PLD) is a requirement for secondary
+schools. The PLD initiative aims to develop and strengthen the digital
+literacy of your child/ward. For important information and required actions
+relating to the PLD initiative, including financial assistance as well
+as purchase of the PLD, please refer to <strong><a href="https://go.gov.sg/hspdlp" rel="noopener noreferrer nofollow" target="_blank">this link</a></strong>.</p>
+<p>Do note that the submission of the <strong><a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">online application</a></strong> includes
+the authorisation to use your child’s Edusave for the purchase of the PLD.
+It is important that these are submitted before <strong><u>Wednesday, 31 December 2025</u></strong> so
+that the school can initiate the procurement of the PLDs without delay.</p>
+<p><strong>7.<u> Sec 1 Orientation &amp; GREAT Start Week (Term 1, Week 1, 2 to 7 January 2026)</u></strong>
+</p>
+<p>On <strong><u>Thursday, 2 January 2026</u></strong>, your child/ward is
+required to report to the school hall (Level 2) in HS PE Attire <strong>by 7.20 am.</strong> You
+can view the Orientation Programme <a href="/files/S1reg/2026_Sec_1_Orientation_Programme_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>. </strong>The
+schedule for the GREAT Formation Week will be sent to all parents and guardians
+via PG before<strong> <u>Friday, 2 January 2026</u></strong>. There are
+no lessons in the first week, but students are expected to bring their
+working thermometer, stationery and water bottle for the activities planned
+for the week.</p>
+<p>In case of possible delivery delays for uniforms purchased online, Sec
+1 students may report to school in their Primary School uniform for the
+first week of school, in this case, Primary School PE attire <u>on</u><strong><u> 2 January 2026</u></strong>.
+For more information on school attire and general appearance, please refer
+to our <strong><a href="https://hougangsec.moe.edu.sg/departments/pupil-management" rel="noopener noreferrer nofollow" target="_blank">school webpage (Pupil Management</a></strong>
+<a href="https://hougangsec.moe.edu.sg/departments/pupil-management" rel="noopener noreferrer nofollow" target="_blank">)</a><strong>.</strong>
+</p>
 <p></p>
 <p></p>
