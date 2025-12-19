@@ -272,5 +272,205 @@ For more information on school attire and general appearance, please refer
 to our <strong><a href="https://hougangsec.moe.edu.sg/departments/pupil-management" rel="noopener noreferrer nofollow" target="_blank">school webpage (Pupil Management</a></strong>
 <a href="https://hougangsec.moe.edu.sg/departments/pupil-management" rel="noopener noreferrer nofollow" target="_blank">)</a><strong>.</strong>
 </p>
-<p></p>
+<p><strong>8. <u>Updating of Contact Details in Parent’s Gateway (PG)</u></strong>
+</p>
+<p>If there is/are any change(s) in your contact details (mobile, residential/change
+of email address) for the last 3 months, kindly refer to the<a rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a rel="noopener noreferrer nofollow" target="_blank">instructions </a></strong>and
+update before <strong><u>Wednesday, 31 December 2025</u></strong>.</p>
+<p><strong>9. <u>Appeal Matters (Transfer out of HS)</u></strong>
+</p>
+<p><strong>(A) For non-medical reasons: </strong>Please submit your intent
+to the other school before <strong><u>Wednesday, 24 December 2025, 12 pm</u></strong>.
+Once you have received the confirmed placement in the other school, you
+need to bring the MOE school transfer form, signed by the other school
+principal, and submit it to our General Office staff for processing.</p>
+<p><strong>(B) For medical reason(s): </strong>Documentary evidence is required
+based on serious medical conditions or severe physical impairments. <strong>&nbsp;</strong>Kindly
+submit your request and supporting documents to our General Office staff
+before <strong><u>Monday, 22 December 2025, 12 pm.</u></strong>
+</p>
+<p><a href="https://www.hougangsec.moe.edu.sg/quick-links/appeal/" rel="noopener nofollow" target="_blank">Appeal in to Hougang Secondary School</a>
+</p>
+<p><strong>10. <u>Summary of Important Dates and Actions to be taken</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SN</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DETAILS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>DATES</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Offering of Higher Mother Tongue Language (HMTL)</p>
+<p>through PG notification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On Friday, 19 December 2025, after 5 pm</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Acceptance/rejection of HMTL offer via PG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Before Friday, 26 December 2025, 12 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appeal for Transfer out of HS (medical reason)</p>
+<p><em>*on-site appeal with supporting documents</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Before Monday, 22 December 2025, 12 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Complete Sec 1 Online Registration Form</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Before Monday, 22 December 2025, 12 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Online MS Teams Briefing for Sec 1 students eligible for SBB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On Tuesday, 23 December 2025, 8 – 8.30 am</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Purchase of school uniforms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From Monday, 22 December to</p>
+<p>Tuesday, 30 December 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Purchase of school textbooks</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From Monday, 22 December to</p>
+<p>Tuesday, 30 December 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Collection of HS FAS letter (for MOEFAS from Primary School)</p>
+<p><em>*bring along the approved letter from Primary School</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>On Tuesday, 23 December 2025</p>
+<p>8.30 am – 10.30 am</p>
+<p>&nbsp;</p>
+<p>Last Day of collection: Tuesday, 30 December 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Application of MOE FAS (new applicants)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By Friday, 26 December 2025, 5 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acceptance/rejection of SBB offer via PG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By Friday, 26 December 2025, 12 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Appeal for Transfer out of HS (non-medical reason)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By Wednesday, 24 December 2025, 12 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Updating of Contact Details in PG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By Wednesday, 31 December 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Submission of online application forms and survey for PLD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>By Wednesday, 31 December 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>&nbsp;</em></strong>
+</p>
+<p><strong><em>Thank you and on behalf of the school,</em></strong>
+</p>
+<p><strong><em>here’s wishing all our 2026 Sec 1 Hougeans and families a wonderful year ahead.</em></strong>
+</p>
 <p></p>
