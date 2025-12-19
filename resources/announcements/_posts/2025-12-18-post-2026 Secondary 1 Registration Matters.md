@@ -15,7 +15,7 @@ the information below.</p>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; <u>Online Registration Form</u></strong>
 </p>
 <p>As part of Secondary 1 Registration, we would appreciate it if parents/guardians
-could take some time to complete <strong><a href="https://go.gov.sg/s1studentdetails" rel="noopener noreferrer nofollow" target="_blank">this form</a></strong> by <strong><u>Monday, 22 December 2025, 12 pm</u></strong>.
+could take some time to complete <strong><a href="https://form.gov.sg/694273db7eb3c49e5841f609" rel="noopener noreferrer nofollow" target="_blank">this form</a></strong> by <strong><u>Monday, 22 December 2025, 12 pm</u></strong>.
 This is to allow us to get to know your child/ward better.</p>
 <p><strong>2.&nbsp;&nbsp;&nbsp;&nbsp; <u>Subject Based Banding (SBB)</u></strong>
 </p>
@@ -250,11 +250,12 @@ by <strong><u>Friday, 26 December 2025</u>.</strong>
 schools. The PLD initiative aims to develop and strengthen the digital
 literacy of your child/ward. For important information and required actions
 relating to the PLD initiative, including financial assistance as well
-as purchase of the PLD, please refer to <strong><a href="https://go.gov.sg/hspdlp" rel="noopener noreferrer nofollow" target="_blank">this link</a></strong>.</p>
-<p>Do note that the submission of the <strong><a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">online application</a></strong> includes
+as purchase of the PLD, please refer to <strong><a href="https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/pld-initiative/" rel="noopener noreferrer nofollow" target="_blank">this link</a></strong>.</p>
+<p>Do note that the submission of the <strong><a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">online application</a></strong> includes
 the authorisation to use your child’s Edusave for the purchase of the PLD.
 It is important that these are submitted before <strong><u>Wednesday, 31 December 2025</u></strong> so
 that the school can initiate the procurement of the PLDs without delay.</p>
+<p>Please complete the Survey on Household Computing Device <a href="https://go.gov.sg/hssurveycomputingdevicesec1" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><strong>7.<u> Sec 1 Orientation &amp; GREAT Start Week (Term 1, Week 1, 2 to 7 January 2026)</u></strong>
 </p>
 <p>On <strong><u>Thursday, 2 January 2026</u></strong>, your child/ward is
@@ -275,7 +276,7 @@ to our <strong><a href="https://hougangsec.moe.edu.sg/departments/pupil-manageme
 <p><strong>8. <u>Updating of Contact Details in Parent’s Gateway (PG)</u></strong>
 </p>
 <p>If there is/are any change(s) in your contact details (mobile, residential/change
-of email address) for the last 3 months, kindly refer to the<a rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a rel="noopener noreferrer nofollow" target="_blank">instructions </a></strong>and
+of email address) for the last 3 months, kindly refer to the<a href="https://ask.gov.sg/parentsgateway/questions/cm3i492a5007es57iov4ymckn" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="https://ask.gov.sg/parentsgateway/questions/cm3i492a5007es57iov4ymckn" rel="noopener noreferrer nofollow" target="_blank">instructions </a></strong>and
 update before <strong><u>Wednesday, 31 December 2025</u></strong>.</p>
 <p><strong>9. <u>Appeal Matters (Transfer out of HS)</u></strong>
 </p>
