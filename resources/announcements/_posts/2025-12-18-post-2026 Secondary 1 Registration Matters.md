@@ -240,7 +240,7 @@ of textbooks and uniforms. The last day for the collection of the official
 letter from HS is<u> </u><strong><u>Tuesday, 30 December 2025</u>.</strong>
 </p>
 <p></p>
-<p><strong>New MOEFAS applicants:</strong> Please complete the online <strong><a href="https://go.gov.sg/hsfasapply" rel="noopener noreferrer nofollow" target="_blank">application form</a></strong>.&nbsp;
+<p><strong>New MOEFAS applicants:</strong> Please complete the online <strong><a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">application form</a></strong>.&nbsp;
 Kindly ensure the form is completed and submitted with the supporting documents,
 by <strong><u>Friday, 26 December 2025</u>.</strong>
 </p>
