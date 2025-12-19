@@ -470,8 +470,6 @@ before <strong><u>Monday, 22 December 2025, 12 pm.</u></strong>
 </table>
 <p><strong><em>&nbsp;</em></strong>
 </p>
-<p><strong><em>Thank you and on behalf of the school,</em></strong>
-</p>
-<p><strong><em>here’s wishing all our 2026 Sec 1 Hougeans and families a wonderful year ahead.</em></strong>
+<p><strong><em>Thank you and on behalf of the school, here’s wishing all our 2026 Sec 1 Hougeans and families a wonderful year ahead.</em></strong>
 </p>
 <p></p>
