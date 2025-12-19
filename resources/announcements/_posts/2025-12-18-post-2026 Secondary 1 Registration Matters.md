@@ -66,8 +66,7 @@ of the HMTL offer via PG must be done by <strong><u>Friday, 26 December 2025, 12
 <p>Books and Stationery</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Casco Educational Supply</a>
-</p>
+<p>Casco Educational Supply</p>
 <p><a href="https://cascoedusupply.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Casco Educational Supply Pte Ltd</a>
 </p>
 </td>
@@ -209,7 +208,6 @@ and uniforms.</p>
 </tr>
 </tbody>
 </table>
-<p>Please note:</p>
 <p>●&nbsp;&nbsp;&nbsp; For Textbooks: You can view the booklist below or
 collect a hardcopy from the bookshop. Please select the correct posting
 group (G1/G2/G3) when purchasing the books for your child.</p>
@@ -255,12 +253,12 @@ as purchase of the PLD, please refer to <strong><a href="https://www.hougangsec.
 the authorisation to use your child’s Edusave for the purchase of the PLD.
 It is important that these are submitted before <strong><u>Wednesday, 31 December 2025</u></strong> so
 that the school can initiate the procurement of the PLDs without delay.</p>
-<p>Please complete the Survey on Household Computing Device <a href="https://go.gov.sg/hssurveycomputingdevicesec1" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>Please complete the Survey on Household Computing Device <strong><a href="https://go.gov.sg/hssurveycomputingdevicesec1" rel="noopener nofollow" target="_blank">here</a></strong>.</p>
 <p><strong>7.<u> Sec 1 Orientation &amp; GREAT Start Week (Term 1, Week 1, 2 to 7 January 2026)</u></strong>
 </p>
-<p>On <strong><u>Thursday, 2 January 2026</u></strong>, your child/ward is
-required to report to the school hall (Level 2) in HS PE Attire <strong>by 7.20 am.</strong> You
-can view the Orientation Programme <a href="/files/S1reg/2026_Sec_1_Orientation_Programme_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong>. </strong>The
+<p>On <strong><u>Friday, 2 January 2026</u></strong>, your child/ward is required
+to report to the school hall (Level 2) in HS PE Attire <strong>by 7.20 am.</strong> You
+can view the Orientation Programme <strong><a href="/files/S1reg/2026_Sec_1_Orientation_Programme_Overview.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. </strong>The
 schedule for the GREAT Formation Week will be sent to all parents and guardians
 via PG before<strong> <u>Friday, 2 January 2026</u></strong>. There are
 no lessons in the first week, but students are expected to bring their
@@ -276,7 +274,7 @@ to our <strong><a href="https://hougangsec.moe.edu.sg/departments/pupil-manageme
 <p><strong>8. <u>Updating of Contact Details in Parent’s Gateway (PG)</u></strong>
 </p>
 <p>If there is/are any change(s) in your contact details (mobile, residential/change
-of email address) for the last 3 months, kindly refer to the<a href="https://ask.gov.sg/parentsgateway/questions/cm3i492a5007es57iov4ymckn" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="https://ask.gov.sg/parentsgateway/questions/cm3i492a5007es57iov4ymckn" rel="noopener noreferrer nofollow" target="_blank">instructions </a></strong>and
+of email address) for the last 3 months, kindly refer to the <strong><a href="https://ask.gov.sg/parentsgateway/questions/cm3i492a5007es57iov4ymckn" rel="noopener noreferrer nofollow" target="_blank">instructions </a></strong>and
 update before <strong><u>Wednesday, 31 December 2025</u></strong>.</p>
 <p><strong>9. <u>Appeal Matters (Transfer out of HS)</u></strong>
 </p>
@@ -369,6 +367,8 @@ before <strong><u>Monday, 22 December 2025, 12 pm.</u></strong>
 </td>
 <td rowspan="1" colspan="1">
 <p>On Tuesday, 23 December 2025, 8 – 8.30 am</p>
+<p><em>(Details will be released on PG.)</em>
+</p>
 </td>
 </tr>
 <tr>
