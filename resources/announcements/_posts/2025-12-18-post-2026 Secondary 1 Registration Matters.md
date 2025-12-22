@@ -8,6 +8,8 @@ image: ""
 variant: tiptap
 ---
 <h1><strong><u>Important information for 2026 Sec 1 Students and Parents</u></strong></h1>
+<p><strong>**UPDATE: Please note that the class information will be available from 26 December 2025, Friday. You may check the information on the PG app under 'Contacts'. We apologise for the inconvenience caused.</strong>
+</p>
 <p>Welcome to Hougang Secondary School (HS). The school would like to extend
 a warm welcome to all Secondary 1 students and parents. To prepare for
 the start of your secondary school journey with us, please look through
