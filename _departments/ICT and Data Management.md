@@ -13,7 +13,7 @@ variant: tiptap
 <br>Mr Abdul Kholiq Bin Sapie
 <br>
 <br><strong>ICT and Media Trainer</strong>
-<br>Muhammad Yusuf Bin Adlee Nazree</p>
+<br>Mr Tjong Rumin</p>
 <h3>ICT Vision</h3>
 <hr>
 <p>Digital and Data Literate Student Leaders</p>
