@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 <p><strong>VICE-PRINCIPALS</strong>
 </p>
-<p><strong>Mr Tay Yuan Zhuang</strong>
+<p><strong>Mdm Norhayati Awang</strong>
 <br><a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>
 <br><strong>Mr Lim Soon Wai</strong>
 <br><a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>
