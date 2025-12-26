@@ -10,7 +10,7 @@ variant: tiptap
 <br>Mr Charles Wong</p>
 <p><strong>ICT Desktop Engineers</strong>
 <br>Mr Vikneswaran Rajenderan
-<br>Mr Abdul Kholiq Bin Sapie
+<br>Mr Muhammad Irfan
 <br>
 <br><strong>ICT and Media Trainer</strong>
 <br>Mr Tjong Rumin</p>
