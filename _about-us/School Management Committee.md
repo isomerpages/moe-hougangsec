@@ -114,15 +114,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Yuzhen
-<br>kwek_yu_zhen@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Khairul Adli Bin Rahmat
 <br>khairul_adli_rahmat@moe.edu.sg</p>
 </td>
