@@ -11,9 +11,9 @@ variant: tiptap
 </p>
 <p><strong>VICE-PRINCIPALS</strong>
 </p>
-<p><strong>Mr Tay Yuan Zhuang</strong>
+<p><strong>Mdm Norhayati Awang</strong>
 <br><a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>
-<br><strong>Mr Lim Soon Wai</strong>
+<br><strong>Mrs Lim Yin Chieu Audrey</strong>
 <br><a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
@@ -110,15 +110,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Pupil Management</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lee Yuzhen
-<br>kwek_yu_zhen@moe.edu.sg</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Science</p>
 </td>
 </tr>
 <tr>
