@@ -1,6 +1,6 @@
 ---
-title: Speech & Drama
-permalink: /co-curricular-activities/Performing-Arts/speech-and-drama/
+title: English Language, Drama, Debating and Speech (ELDDS)
+permalink: /co-curricular-activities/performing-arts/speech-and-drama/
 description: ""
 third_nav_title: Performing Arts
 variant: tiptap
