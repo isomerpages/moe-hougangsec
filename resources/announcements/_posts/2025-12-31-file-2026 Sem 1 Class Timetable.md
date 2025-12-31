@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Timetables/2026_Timetable___All_Classes_301225.pdf
+file_url: /files/Timetables/2026_Timetable___All_Classes_311225.pdf
 ---
