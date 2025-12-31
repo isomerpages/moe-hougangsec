@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Serina Tan Bei Ling
+<p>Ms. Serina Tan Bei Ling
 <br>tan_bei_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,11 +60,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Koh Min Chit
-<br>andy_koh_min_chit@moe.edu.sg</p>
+<p>Ms. Li Huilin
+<br>li_huilin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities</p>
+<p>HOD Humanities (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -78,16 +78,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tracy Huang Yuyan
+<p>Ms. Tracy Huang Yuyan
 <br>huang_yuyan@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD&nbsp;Mathematics (Covering)</p>
+<p>HOD&nbsp;Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheng Sze Mei Carmen
+<p>Ms. Cheng Sze Mei Carmen
 <br>cheng_sze_mei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,11 +123,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Choon Ling
-<br>lim_choon_ling@moe.edu.sg</p>
+<p>Mr Tan Chin Juay Daniel
+<br>tan_chin_juay_daniel@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
+<p>Year Head (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +142,6 @@ variant: tiptap
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -186,11 +185,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Huilin
-<br>li_huilin@moe.edu.sg</p>
+<p>Ms. Joanne Toh Chui Theng</p>
+<p>joanne_toh_chui_theng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Humanities</p>
+<p>SH / Humanities (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -200,6 +199,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / ICT &amp; Data Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Nicholas Quek
+<br>quek_wee_hee_nicholas@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -240,17 +248,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Uma Magheswary D/o Pandyan
-<br>uma_magheswary@moe.edu.sg</p>
+<p>Ms. Wee Swee Kee
+<br>wee_swee_kee@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Leadership</p>
+<p>SH / Talent Development (Covering)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Tan
-<br>tan_chin_juay_daniel@moe.edu.sg</p>
+<p>Mdm Martini Rahmat
+<br>martini_rahmat@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
@@ -258,8 +266,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Martini Rahmat
-<br>martini_rahmat@moe.edu.sg</p>
+<p>Mrs Jeannie Pan Jie Ying</p>
+<p>yee_jie_ying_jeannie@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
@@ -307,6 +315,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Peng Hwee</p>
+<p>toh_peng_hwee_a@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohamed Hafiz Mustafa
+<br>mohamed_hafiz_mustafa@moe.edu.sg</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
 </td>
 </tr>
 </tbody>
