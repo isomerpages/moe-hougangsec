@@ -65,7 +65,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p><strong>Football (Boys)&nbsp;</strong>
+<p><strong>Football (Boys)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,10 +93,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mark Yong</p>
+<p>Toh Ren Yi Ezra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>mark_yong_jia_jie@moe.edu.sg</p>
+<p>ezra_toh_ren_yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -104,10 +104,10 @@ description: ""
 <p><strong>Floorball (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Irwan Bin Jamal (OIC)</p>
+<p>Law Ngiap Hui (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_irwan_jamal@moe.edu.sg</p>
+<p>law_ngiap_hui@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +128,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Law Ngiap Hui</p>
+<p>Muhammad Irwan Bin Jamal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>law_ngiap_hui@moe.edu.sg</p>
+<p>muhammad_irwan_jamal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -168,10 +168,10 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ezra Toh (OIC)</p>
+<p>Lim Choon Ling (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ezra_toh_ren_yi@moe.edu.sg</p>
+<p>lim_choon_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -218,18 +218,18 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="21" colspan="1">
+<td rowspan="18" colspan="1">
 <p><strong>Uniformed Groups</strong>
 </p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Boys' Brigade (Boys)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Andy Chong Weng Keong (OIC)</p>
+<p>Puah Mui Kiang (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_weng_keong_andy@moe.edu.sg</p>
+<p>puah_mui_kiang_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -241,15 +241,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Puah Mui Kiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>puah_mui_kiang_a@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Girls' Brigade (Girls)&nbsp;</strong>
 </p>
 </td>
@@ -262,14 +254,22 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Chan Jong&nbsp;</p>
+<p>Tan Yin Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_yin_wei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Chan Jong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_chan_jong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Girl Guides (Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,14 +277,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_nurhizah_mohamed_hassan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Uma Magheswary D/O Pandyan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>uma_magheswary@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -304,15 +296,15 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>National Police Cadet Corps (NPCC) (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Wei Jing (OIC)</p>
+<p>Nur Adilah Binte Jasman (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_wei_jing@moe.edu.sg</p>
+<p>nur_adilah_jasman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -325,10 +317,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Adilah Binte Jasman</p>
+<p>Tan Wei Jing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_adilah_jasman@moe.edu.sg</p>
+<p>tan_wei_jing@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -340,15 +332,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Clara Chan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chan_shuyi_clara@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>National Cadet Corps (NCC) (Land) (Boys)&nbsp;</strong>
 </p>
 </td>
@@ -373,14 +357,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>wong_wai_kit_charles@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Kandirikara Abdul Aziz Haji Mohamed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kandirikara_abdul_aziz_haji_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -411,26 +387,18 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="21" colspan="1">
+<td rowspan="19" colspan="1">
 <p><strong>Visual and Peforming Arts</strong>
 </p>
 </td>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Angklung/Kulintang and Gamelan Ensemble (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fazillah Mohd Ismail (OIC)</p>
+<p>Loo An Qi (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fazillah_mohd_ismail@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Siti Nurbaya Binte Rameh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_nurbaya_rameh@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -443,10 +411,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Leow Hui Chye</p>
+<p>Tan Li Boon Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>leow_hui_chye@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -470,10 +438,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Xue Xue</p>
+<p>Toh Sock Yan, Magdalene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>xue_xue@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -490,18 +458,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Kitty Tan</p>
+<p>Jazreel Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_min_jie_kitty@moe.edu.sg</p>
+<p>toh_hui_khee_jazreel@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bryan Mar</p>
+<p>Jeannie Pan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>bryan_mar_song_cheng@moe.edu.sg</p>
+<p>yee_ying_jie_jeannie@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -553,30 +521,30 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lynn Yeo</p>
+<p>Rynise Lee Hsin Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>yeo_lynn@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
-<p><strong>Speech &amp; Drama (Boys and Girls)&nbsp;</strong>
+<td rowspan="4" colspan="1">
+<p><strong>English Language, Drama, Debating and Speech (ELDDS) (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Yin Wei (OIC)</p>
+<p>Eugene Ling&nbsp;(OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yin_wei@moe.edu.sg</p>
+<p>eugene_ling_jun_yi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Eugene Ling&nbsp;</p>
+<p>Quek Wee Hee Nicholas</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eugene_ling_jun_yi@moe.edu.sg</p>
+<p>quek_wee_hee_nicholas@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -596,15 +564,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Jolie Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jolie_ng_peck_hwee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Club &amp; Society</strong>
 </p>
 </td>
@@ -629,21 +589,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Audrey Chua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_wen_min_audrey@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Alisa Choong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>alisa_choong_hwee_xuan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Derrick Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
