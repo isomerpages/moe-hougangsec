@@ -75,7 +75,7 @@ variant: tiptap
 </table>
 <h4></h4>
 <hr>
-<h3>HS Parents Connect 2025</h3>
+<h3>HS Parents Connect 2026</h3>
 <p><a href="/files/HS_Parents_Connect_2025___Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2025 Issue 1</a>
 </p>
 <p><a href="/files/Parents Connect/HS_Parents_Connect_2025___Issue_2.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2025 Issue 2</a>
@@ -84,6 +84,7 @@ variant: tiptap
 </p>
 <p><a href="/files/Parents Connect/HS_Parents_Connect_2025___Issue_4__Version_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2025 Issue 4</a>
 </p>
+<p>HS Parents Connect 2026 Issue 1</p>
 <hr>
 <h3>Financial Assistance Scheme</h3>
 <p>For FAS, you may wish to apply via eFAS here:&nbsp;<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
