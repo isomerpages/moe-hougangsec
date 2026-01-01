@@ -17,6 +17,8 @@ variant: tiptap
 <br>Ms. Fiona Puah Mui Kiang
 <br>Ms. Ashley Chan
 <br>Ms. Sharon Wee
+<br>Ms. Jasmine Binti Roslan
+<br>Ms. Noor Aqilah Binte Noor Azlan
 <br>
 </p>
 <p><strong>STEM Instructors (Laboratory)</strong>

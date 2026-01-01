@@ -5,24 +5,19 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Head of Department</strong>
-<br>Mr Andy Koh Min Chit
+<br>Mdm Li Huilin (Covering)
 <br>&nbsp;
 <br><strong>Subject Head</strong>
-<br>Mdm Li Huilin
-<br>&nbsp;
-<br><strong>Senior Teacher</strong>&nbsp;
-<br>Mr Andy Chong (History)
+<br>Ms. Joanne Toh Chui Theng (Covering)
 <br>&nbsp;
 <br><strong>Teachers</strong>
-<br>Mr Low Yi En
+<br>Mr Low Yi En (HOD/Pupil Management)
 <br>Mr Ng Wee Chung
 <br>Mr Vicknesh Kunnansekaran
-<br>Mrs Jeannie Pan
-<br>Miss Joanne Toh
-<br>Miss Nurbaya Binte Rameh
-<br>Ms. Yvonne Chin
+<br>Mrs Jeannie Pan (Covering AYH)
+<br>Ms. Tan Li Boon Vanessa
 <br>Mr Law Ngiap Hui
-<br>Ms. Siti Syuhaidah
+<br>Mr Tan Eng Tee Derrick
 <br>Mr Alvin Lye</p>
 <p>Aristotle once said, “<em>For the things we have to learn before we can do them, we learn by doing them</em>.”</p>
 <p>Simply put, knowledge is gained by making meaning from direct experiences,

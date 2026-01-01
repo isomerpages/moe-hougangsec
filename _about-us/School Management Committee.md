@@ -158,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lynn Yeo
+<p>Ms. Lynn Yeo
 <br>yeo_lynn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Audrey Chua Wen Min
+<p>Ms. Audrey Chua Wen Min
 <br>chua_wen_min_audrey@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,8 +185,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Joanne Toh Chui Theng</p>
-<p>joanne_toh_chui_theng@moe.edu.sg</p>
+<p>Ms. Joanne Toh Chui Theng
+<br>joanne_toh_chui_theng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Humanities (Covering)</p>
@@ -221,7 +221,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Wei Jing
+<p>Ms. Tan Wei Jing
 <br>tan_wei_jing@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,7 +230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Amalina Samad
+<p>Mrs Lina Amli
 <br>amalina_abdul_samad@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Jazreel Toh Hui Khee
+<p>Ms. Jazreel Toh Hui Khee
 <br>toh_hui_khee_jazreel@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,11 +266,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jeannie Pan Jie Ying</p>
-<p>yee_jie_ying_jeannie@moe.edu.sg</p>
+<p>Mrs Jeannie Pan Jie Ying
+<br>yee_jie_ying_jeannie@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Covering)</p>
 </td>
 </tr>
 </tbody>
@@ -292,7 +292,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jolin Chang Wan Yun
+<p>Ms. Jolin Chang Wan Yun
 <br>jolin_chang@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -319,8 +319,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Toh Peng Hwee</p>
-<p>toh_peng_hwee_a@moe.edu.sg</p>
+<p>Mr Toh Peng Hwee
+<br>toh_peng_hwee_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>

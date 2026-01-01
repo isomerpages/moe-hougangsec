@@ -6,14 +6,14 @@ variant: tiptap
 ---
 <p><strong>Head of Department</strong>
 <br>Mr Gwee Chen Meng Javen</p>
-<p><strong>Subject Head ICT</strong>
+<p><strong>Subject Head</strong>
 <br>Mr Charles Wong</p>
-<p><strong>ICT Desktop Engineers</strong>
-<br>Mr Vikneswaran Rajenderan
-<br>Mr Muhammad Irfan
-<br>
-<br><strong>ICT and Media Trainer</strong>
-<br>Mr Tjong Rumin</p>
+<p><strong>ICT Support Team</strong>
+<br>Mr Toh Peng Hwee (ICT Manager)
+<br>Mr Mohamed Hafiz Bin Mustafa (ICT Associate)
+<br>Mr Vikneswaran Rajenderan (Desktop Engineer)
+<br>Mr Muhammad Irfan (Desktop Engineer)
+<br>Mr Tjong Rumin (ICT and Media Trainer)</p>
 <h3>ICT Vision</h3>
 <hr>
 <p>Digital and Data Literate Student Leaders</p>

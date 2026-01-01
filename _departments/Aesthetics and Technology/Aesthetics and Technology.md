@@ -10,9 +10,10 @@ variant: tiptap
 <p><strong>Design and Technology Unit</strong>
 <br>Mr Benny Ng (Senior Teacher)
 <br>Mr Alfred Choo
-<br>Mr Kandirikara Abdul Aziz Haji Mohamed
-<br>Ms. Wendy Hia Lan Ching
-<br>Mr Syarifuddin Azhar Bin Rosli</p>
+<br>Mr Noh Danial Bin Abdul Hamid
+<br>Mr Ng He Tong
+<br>Mr Vincent Yong Swee Lek
+<br>Mr Tong Song Khai</p>
 <p><strong>Visual Art Unit</strong>
 <br>Mdm Farahana Binti Abdul Rahim (Subject Coordinator)
 <br>Ms. Jane Koh
@@ -22,7 +23,7 @@ variant: tiptap
 <br>Mdm Azlinah Wahed (Subject Coordinator)
 <br>Ms. Raidah Binte Moktar
 <br>Mdm Tan Chan Jong
-<br>Ms. Tan Wei Jing</p>
+<br>Ms. Tan Wei Jing (SH/Partnership)</p>
 <p><strong>Music Unit</strong>
 <br>Mr Daniel Chong</p>
 <p><strong>Technical Support Officers</strong>

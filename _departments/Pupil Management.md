@@ -2,7 +2,7 @@
 title: Pupil Management
 permalink: /departments/pupil-management/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <p>Hougang Secondary School adopts a whole-school holistic approach in managing
 school discipline with the aim of instilling self-discipline in our pupils.
@@ -35,7 +35,7 @@ to be responsible for their own actions.</p>
 <p>SH/Pupil Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Amalina Abdul Samad</p>
+<p>Mrs Lina Amli</p>
 </td>
 </tr>
 <tr>
@@ -43,8 +43,8 @@ to be responsible for their own actions.</p>
 <p>Sec 1 Discipline Level Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vicknesh</p>
-<p>Mrs Jeannie Pan</p>
+<p>Mr Ng Wee Chung
+<br>Mdm Lim Choon Ling</p>
 </td>
 </tr>
 <tr>
@@ -52,8 +52,8 @@ to be responsible for their own actions.</p>
 <p>Sec 2 Discipline Level Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sean Oh Boon Chong</p>
-<p>Ms. Siti Nurhizah Mohamed Hassan</p>
+<p>Mr Vicknesh
+<br>Mdm Azlinah Bte Wahed</p>
 </td>
 </tr>
 <tr>
@@ -61,8 +61,8 @@ to be responsible for their own actions.</p>
 <p>Sec 3 Discipline Level Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Rio Elijah Chua</p>
-<p>Mr Ezra Toh</p>
+<p>Mr Sean Oh Boon Chong
+<br>Ms. Siti Nurhizah Mohamed Hassan</p>
 </td>
 </tr>
 <tr>
@@ -70,8 +70,8 @@ to be responsible for their own actions.</p>
 <p>Sec 4/5 Discipline Level Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Wee Chung</p>
-<p>Mdm Azlinah Bte Wahed</p>
+<p>Mr Rio Elijah Chua
+<br>Mr Soh Yen Meng</p>
 </td>
 </tr>
 </tbody>
