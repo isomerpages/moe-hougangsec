@@ -23,7 +23,7 @@ variant: tiptap
 <br>Mdm Azlinah Wahed (Subject Coordinator)
 <br>Ms. Raidah Binte Moktar
 <br>Mdm Tan Chan Jong
-<br>Ms. Tan Wei Jing</p>
+<br>Ms. Tan Wei Jing (SH/Partnership)</p>
 <p><strong>Music Unit</strong>
 <br>Mr Daniel Chong</p>
 <p><strong>Technical Support Officers</strong>
