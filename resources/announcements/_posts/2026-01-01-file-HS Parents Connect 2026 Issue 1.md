@@ -5,5 +5,5 @@ layout: file
 description: ""
 image: ""
 variant: tiptap
-file_url: /files/Parents Connect/HS_Parents_Connect_2026___Issue_1_.pdf
+file_url: /files/Parents Connect/HS_Parents_Connect_2026___Issue_1__Version_2_.pdf
 ---
