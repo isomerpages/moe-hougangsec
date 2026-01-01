@@ -76,7 +76,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Alisa Choong
-<br><a href="mailto:Alisa_Choong_Hwee_Xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alisa_Choong_Hwee_Xuan@schools.gov.sg</a>
+<br><a href="mailto:Alisa_Choong_Hwee_Xuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alisa_choong_hwee_Xuan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
