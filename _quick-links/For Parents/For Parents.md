@@ -75,14 +75,8 @@ variant: tiptap
 </table>
 <h4></h4>
 <hr>
-<h3>HS Parents Connect 2025</h3>
-<p><a href="/files/HS_Parents_Connect_2025___Issue_1.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2025 Issue 1</a>
-</p>
-<p><a href="/files/Parents Connect/HS_Parents_Connect_2025___Issue_2.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2025 Issue 2</a>
-</p>
-<p><a href="/files/Parents Connect/HS_Parents_Connect_2025___Issue_3.pdf" rel="noopener nofollow" target="_blank">HS Parents Connect 2025 Issue 3</a>
-</p>
-<p><a href="/files/Parents Connect/HS_Parents_Connect_2025___Issue_4__Version_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2025 Issue 4</a>
+<h3>HS Parents Connect 2026</h3>
+<p><a href="/files/Parents Connect/HS_Parents_Connect_2026___Issue_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2026 Issue 1</a>
 </p>
 <hr>
 <h3>Financial Assistance Scheme</h3>
