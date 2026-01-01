@@ -230,7 +230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Amalina Samad
+<p>Mrs Lina Amli
 <br>amalina_abdul_samad@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
