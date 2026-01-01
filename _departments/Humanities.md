@@ -8,15 +8,14 @@ variant: tiptap
 <br>Mdm Li Huilin (Covering)
 <br>&nbsp;
 <br><strong>Subject Head</strong>
-<br>Ms. Joanne Toh hui Theng (Covering)
+<br>Ms. Joanne Toh Chui Theng (Covering)
 <br>&nbsp;
 <br><strong>Teachers</strong>
-<br>Mr Low Yi En
+<br>Mr Low Yi En (HOD/Pupil Management)
 <br>Mr Ng Wee Chung
 <br>Mr Vicknesh Kunnansekaran
-<br>Mrs Jeannie Pan
+<br>Mrs Jeannie Pan (Covering AYH)
 <br>Ms. Tan Li Boon Vanessa
-<br>Ms. Yvonne Chin
 <br>Mr Law Ngiap Hui
 <br>Mr Tan Eng Tee Derrick
 <br>Mr Alvin Lye</p>
