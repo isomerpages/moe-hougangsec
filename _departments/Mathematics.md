@@ -12,13 +12,13 @@ variant: tiptap
 <br>Mr Elangovan (Year Head)
 <br>Mr Khairul Adli (School Staff Developer)
 <br>Miss Serina Tan (HOD/CCE)
-<br>Mr Daniel Tan (Assistant Year Head)
+<br>Mr Daniel Tan (Covering Year Head)
 <br>Ms. Lynn Yeo (Subject Head CCE)
 <br>Mr Aaron Yeo
 <br>Mdm Goh Lay Hoon
 <br>Mdm Jessica Heng
 <br>Mdm Rebecca Ho
-<br>Miss Wee Swee Kee
+<br>Miss Wee Swee Kee (Covering SH/Talent Development)
 <br>Mdm Vanessa Ng
 <br>Ms. Khoo Ru Yu Melissa
 <br>Ms. Alisa Choong Hwee Xuan
