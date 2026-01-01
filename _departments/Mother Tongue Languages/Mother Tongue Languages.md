@@ -5,14 +5,13 @@ description: ""
 third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
-<p><strong>Head of Department:</strong>
+<p><strong>Head of Department</strong>
 <br>Ms. Cheng Sze Mei Carmen</p>
-<p><strong>Subject Head:</strong>
+<p><strong>Subject Head</strong>
 <br>Ms. Yvonne Liew</p>
-<p><strong>Teachers:</strong>
+<p><strong>Teachers</strong>
 <br>Mr Muhammad Irwan Bin Jamal (ML ST)
 <br>Ms. Chen Si Si
-<br>Mdm Fazillah Binte Mohamed Ismail
 <br>Mr Lee Heng Han
 <br>Mr Mohamed Hairi Bin Nor Azmi
 <br>Mr Leo Sing Ann
@@ -20,8 +19,9 @@ variant: tiptap
 <br>Ms. Yu Honghong
 <br>Mdm Wang Qingzhen
 <br>Ms. Lian Bee San
-<br>Mr Toh Jing Zhang
-<br>Mdm Rohayah Binte Ya'acub
+<br>Ms. Zhou Shaojuan
+<br>Mr Chua Yong Le
+<br>Mdm Janisah Binte Johari
 <br>Mr Watt Chan Meng</p>
 <h3>Vision</h3>
 <p>To nurture in our students a strong foundation in their Mother Tongue
