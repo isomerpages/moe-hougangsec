@@ -4,8 +4,7 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p><strong>Principal’s Message 2026</strong>
-</p>
+<h4><strong>Principal’s Message 2026</strong></h4>
 <p>At Hougang Secondary School, we believe that every child can grow into
 an empowered, future-ready individual with strong character and a clear
 sense of purpose.</p>
