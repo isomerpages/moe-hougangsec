@@ -176,7 +176,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Amalina Abdul Samad</p>
+<p>Lina Amli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>amalina_abdul_samad@moe.edu.sg</p>
