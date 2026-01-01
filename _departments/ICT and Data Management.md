@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><strong>Head of Department</strong>
 <br>Mr Gwee Chen Meng Javen</p>
-<p><strong>Subject Head ICT</strong>
+<p><strong>Subject Head</strong>
 <br>Mr Charles Wong</p>
 <p><strong>ICT Support Team</strong>
 <br>Mr Toh Peng Hwee (ICT Manager)
