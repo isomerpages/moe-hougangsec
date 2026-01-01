@@ -185,8 +185,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Joanne Toh Chui Theng</p>
-<p>joanne_toh_chui_theng@moe.edu.sg</p>
+<p>Ms. Joanne Toh Chui Theng
+<br>joanne_toh_chui_theng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Humanities (Covering)</p>
@@ -266,8 +266,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Jeannie Pan Jie Ying</p>
-<p>yee_jie_ying_jeannie@moe.edu.sg</p>
+<p>Mrs Jeannie Pan Jie Ying
+<br>yee_jie_ying_jeannie@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
@@ -319,8 +319,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Toh Peng Hwee</p>
-<p>toh_peng_hwee_a@moe.edu.sg</p>
+<p>Mr Toh Peng Hwee
+<br>toh_peng_hwee_a@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
