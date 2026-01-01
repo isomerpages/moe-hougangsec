@@ -10,7 +10,7 @@ variant: tiptap
 <br>Ms. Audrey Chua</p>
 <p><strong>Teachers</strong>:
 <br>Mr Kervin Tang [Senior Teacher, English Language]
-<br>Mdm Amalina Abdul Samad [EL]
+<br>Mrs Lina Amli [EL]
 <br>Mdm Martini Rahmat [EL]
 <br>Mr Charles Wong [EL/Computing]
 <br>Mr Sean Oh [EL]
@@ -23,7 +23,8 @@ variant: tiptap
 <br>Ms Alisa Choong [EL/Mathematics]
 <br>Ms Valerie Chia [Mathematics/Literature]
 <br>Mr Han Zheming Chuck-E [EL]
-<br>Mr Darryl Lim [EL/Literature]</p>
+<br>Mr Darryl Lim [EL/Literature]
+<br>Ms. Rynise Lee Hsin Yu [EL/SS]</p>
 <h3>Vision</h3>
 <p>Passionate Readers, Competent Writers , Eloquent Communicators</p>
 <h3>Curricular Goals and Objectives</h3>
