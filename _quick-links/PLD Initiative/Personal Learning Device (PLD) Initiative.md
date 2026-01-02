@@ -60,8 +60,8 @@ will be the&nbsp;Enhanced Device Bundle&nbsp;comprising the following :&nbsp;</p
 <p>4 Year Insurance</p>
 </li>
 </ul>
-<p>The price of the Enhanced Device Bundle is tentatively priced at $904.00
-and is inclusive of 9% GST.</p>
+<p>The price of the Enhanced Device Bundle is tentatively priced at $<strong>829.30</strong> and
+is inclusive of 9% GST.</p>
 <p>The Enhanced Device Bundle includes the device, associated accessories,
 insurance, warranty, and fortnightly courier service by Contractor to collect
 damaged devices from school&nbsp;<em>(Or parents can choose to send directly to the Apple Service Centres)</em>
