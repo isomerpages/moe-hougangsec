@@ -255,7 +255,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Rynise Lee Hsin Yu</p>
+<p>Ms. Rynise Lee Hsin Yu
+<br><a href="mailto:rynise_lee_hsin_yu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rynise_lee_hsin_yu@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
