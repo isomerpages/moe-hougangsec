@@ -150,11 +150,11 @@ variant: tiptap
 </li>
 </ul>
 <h3>HS Student Handbook</h3>
-<p><a href="/files/HS_Student_Handbook_2026.pdf" rel="noopener nofollow" target="_blank">Download HS Student Handbook 2026file</a>
+<p><a href="/files/HS_Student_Handbook_2026.pdf" rel="noopener nofollow" target="_blank">Download HS Student Handbook 2026</a>
 </p>
 <h3>Class Timetable 2026</h3>
-<p><a href="/files/Timetables/2026_Timetable___All_Classes_311225.pdf" rel="noopener nofollow" target="_blank">Download Class Timetable 2025 Sem 1</a> (caa
-1 Jan 2026)</p>
+<p><a href="/files/Timetables/2026_Timetable___All_Classes_20260105.pdf" rel="noopener nofollow" target="_blank">2026 Sem 1 Class Timetable</a> (caa
+5 Jan 2026)</p>
 <h3>HS ICT Helpdesk Form</h3>
 <p>Please submit your request on this form&nbsp;<a href="https://go.gov.sg/hs-ict-helpdesk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hs-ict-helpdesk</a>
 </p>
