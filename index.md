@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HOMEPAGE/Hero_Banner_2025_1200_x_630_px__C.gif
+      background: /images/HeroBanner/HS___Website_Banner_GIF__1200_x_269_px_.gif
       key_highlights:
         - title: Our Facebook
           description: ""
