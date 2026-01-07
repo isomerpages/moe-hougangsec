@@ -45,7 +45,8 @@ PLD bundle which includes warranty and insurance for purchase by your child/ward
 will be the&nbsp;Enhanced Device Bundle&nbsp;comprising the following :&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Apple iPad 11-inch A16 Bionic chip, 6 GB Memory, 128 GB Storage]</p>
+<p>Apple iPad 11-inch A16 Bionic chip, 6 GB Memory, 128 GB Storage], WiFI
+only</p>
 </li>
 <li>
 <p>Apple Pencil&nbsp;USB-C</p>
@@ -198,7 +199,8 @@ the same OS as the school-prescribed PLD and is compatible with the DMA
 before approving it as an alternative to the school-prescribed PLD. Parents
 will be required to consent to the installation of the DMA, and the DMA
 must be installed in the non-prescribed device, before it can be used in
-school in lieu of the school-prescribed PLD.</p>
+school in lieu of the school-prescribed PLD. Please note that the alternative
+device should be a WiFi only model.</p>
 <p></p>
 </li>
 <li>
