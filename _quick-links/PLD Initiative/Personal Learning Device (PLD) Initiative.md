@@ -200,7 +200,7 @@ before approving it as an alternative to the school-prescribed PLD. Parents
 will be required to consent to the installation of the DMA, and the DMA
 must be installed in the non-prescribed device, before it can be used in
 school in lieu of the school-prescribed PLD. Please note that the alternative
-device should be a WiFi only model.</p>
+device should not support cellular functions (i.e. WiFi only).</p>
 <p></p>
 </li>
 <li>
