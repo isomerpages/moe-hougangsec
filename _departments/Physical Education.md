@@ -8,11 +8,10 @@ variant: tiptap
 <br>Mr Lee Lis King</p>
 <p><strong>Subject Head</strong>
 <br>Mr Joseph Chung</p>
-<p><strong>Lower Sec Year Head</strong>
-<br>Mdm Lim Choon Ling</p>
 <p><strong>Senior Teacher</strong>
 <br>Mr Muhamad Hashim</p>
 <p><strong>Teachers</strong>
+<br>Mdm Lim Choon Ling
 <br>Mr Elijah Chua
 <br>Mr Ezra Toh</p>
 <h3>Vision</h3>
