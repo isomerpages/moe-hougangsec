@@ -398,7 +398,7 @@ description: ""
 <p>Loo An Qi (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>loo_an_qi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -414,7 +414,7 @@ description: ""
 <p>Tan Li Boon Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>vanessa_lb_tan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -524,7 +524,7 @@ description: ""
 <p>Rynise Lee Hsin Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>rynise_lee_hsin_yu@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -600,7 +600,7 @@ description: ""
 <p>Derrick Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_eng_tee_derrick@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
