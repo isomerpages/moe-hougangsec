@@ -205,10 +205,11 @@ device should not support cellular functions (i.e. WiFi only).</p>
 </li>
 <li>
 <p><strong>Purchase of PLD.</strong> To proceed with the purchase of the school-prescribed
-PLD, please consent for the purchase via the Parents Gateway (PG) notification.
-Parents who want to use Edusave funds for the PLD (for Singapore citizens
-students only), please submit the online Standing Order (SO) from via this
-link: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> by <strong>31 Dec 2025</strong> if
+PLD, please consent for the purchase via the Parents Gateway (PG) notification
+or access the form here (<a href="https://go.gov.sg/hspld" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hspld</a>). Parents who
+want to use Edusave funds for the PLD (for Singapore citizens students
+only), please submit the online Standing Order (SO) from via this link:
+<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>by <strong>31 Dec 2025</strong> if
 you have not done so previously. If you are unable to submit the online
 form, please approach the school for assistance or to request for a hardcopy
 form.</p>
@@ -244,23 +245,48 @@ commence in February and the delivery of the PLD is expected to be in Term
 <p>31 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submission of application forms
-<br>
-<br>Submit information on existing household computing device
-<br>
-<br>Other applications
-<br>
-<br>
-</p>
+<p>Submission of intent to purchase</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>required:</em>
-<br>1. Intent to Purchase PLD and Use of Edusave (go to: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
-<br>2. Survey on Household Computing Device <a href="https://go.gov.sg/hsdevicesurvey2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hsdevicesurvey2025</a>
-<br>
-<br>
-<br><em>where applicable:</em>
-<br>1. Application for Subsidy (See Annex D)
+<p>required:
+<br>1. Intent to Purchase PLD: <a href="https://go.gov.sg/hspld" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hspld</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Submission of Use of Edusave</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.Use of Edusave: <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Submit information on existing household computing device</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3. Survey on Household Computing Device: <a href="https://go.gov.sg/hsdevicesurvey2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hsdevicesurvey2025</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Other applications</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>where applicable:
+<br>1. Application for subsidy (approach the general office)
 <br>2. Application for Home Access Programme (subsidised fibre broadband,
 go to: <a href="http://www.digitalaccess.gov.sg/" rel="noopener noreferrer" target="_blank">www.digitalaccess.gov.sg</a>)</p>
 </td>
@@ -288,9 +314,9 @@ their iPad assessed by the school for suitability.</p>
 <p>Billing and Payment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>via SAM, Giro, or Cheque/Cash payment to school after receiving the bill
+<p>via AXS, Giro, or Cash payment to school after receiving the bill
 <br>(If you are using Giro, please ensure that there are sufficient funds
-for the deduction)</p>
+in the bank account for the deduction)</p>
 </td>
 </tr>
 <tr>
@@ -328,25 +354,12 @@ submit the form online, please contact the school for a hardcopy version.</p>
 is required, the school will inform parents/guardians to make the balance
 payment. Payment modes are detailed below. For non-GIRO payment, payments
 should only be made after parents are informed by the school.</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>(a)&nbsp;<strong>Payment through GIRO (recommended)</strong>&nbsp;: Please
 ensure sufficient funds in the GIRO account to be deducted.</p>
-</li>
-<li>
-<p>(b)&nbsp;<strong>Payment by Cheque</strong>&nbsp;: Please cross the cheque
-and indicate&nbsp;<strong>Ministry of Education</strong>&nbsp;as account
-payable.</p>
-</li>
-<li>
-<p>(c)&nbsp;<strong>Payment through SAM</strong>&nbsp;: Pay to&nbsp;<strong>Ministry of Education</strong>.
+<p>(b)&nbsp;<strong>Payment through AXS&nbsp;Mobile App</strong>: Select <strong>eServices</strong> &gt;&nbsp;<strong>Ministry of Education </strong>&gt;<strong> Student Bill (MOE/School Bill)</strong>.
 Please key in your child/ward’s NRIC/FIN and amount payable when prompted.</p>
-</li>
-<li>
-<p>(d)&nbsp;<strong>Payment by Cash</strong>&nbsp;: Pay at the General Office
+<p>(c)&nbsp;<strong>Payment by Cash</strong>&nbsp;: Pay at the General Office
 after school dismissal.</p>
-</li>
-</ul>
 <p><strong>Further Queries</strong>
 </p>
 <p>13. Should there be any further queries or clarification, please contact
@@ -779,60 +792,7 @@ in place strong personal data protection laws and policies to safeguard
 sensitive data collected by public agencies such as MOE. Please refer to
 this website for more information on these laws and policies: <a rel="noopener noreferrer nofollow" target="_blank">https://www.mddi.gov.sg/gov-personal-data-protection-laws-and-policies/</a>
 </p>
-<h4>Annex D:&nbsp; APPLICATION FOR SUBSIDY FOR PURCHASE OF PERSONAL LEARNING DEVICE (PLD)</h4>
-<p><em>This application is open to all students whose Gross Household Income (GHI) ≤ $4,400 or Per Capita Income (PCI)&nbsp; ≤ $1,100.&nbsp; PCI is GHI divided by the number of household members.&nbsp; Students on MOE Financial Assistance Scheme do not need to apply for this as they will automatically be granted the subsidy by the school.</em>&nbsp;&nbsp;</p>
-<p><strong>Section I: Particulars of Student</strong>
-<br>Please indicate the details of the student applying for subsidy.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Name (Underline Surname)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Birth Cert / NRIC / FIN No.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level / Class</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Section II: Information on Other Household Members</strong>
-</p>
-<p>Please include details of the&nbsp;<u>parents, unmarried siblings and grandparents (if they are living in the same household) of the student</u>.&nbsp;
-For household members who are employed/self-employed, please include the
-latest payslip or past 3 months CPF transactions or latest Income Tax Notice
-of Assessment, or a letter from the employer certifying gross income (where
-applicable).&nbsp; Any other documents must be submitted as and when required
-by the school for the purpose of verifying the income.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdlpform.png">
-</div>
+<h4>APPLICATION FOR SUBSIDY FOR PURCHASE OF PERSONAL LEARNING DEVICE (PLD)</h4>
+<p>Please approach the general office for more details.</p>
 <h4></h4>
 <p></p>
