@@ -4,7 +4,116 @@ permalink: /assessment/
 variant: tiptap
 description: ""
 ---
-<p>Please refer to the information below regarding school-based assessments.</p>
+<p>Please refer to the information below regarding assessments.</p>
+<h4>2026 Weighted Assessments</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Weighted Assessment 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WA1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/2026 Assessment/HS_2026_010_WEIGHTED_ASSESSMENT_SCHEDULE_FOR_SEMESTER_1__School_Website_.pdf" rel="noopener nofollow" target="_blank">2026 WA1 and WA2 Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WA1 Format:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1: To be released.</p>
+<p>Sec 2: To be released.</p>
+<p>Sec 3: To be released.</p>
+<p>Sec 4 &amp; 5: To be released.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Weighted Assessment 2</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WA2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Assessment/2026 Assessment/HS_2026_010_WEIGHTED_ASSESSMENT_SCHEDULE_FOR_SEMESTER_1__School_Website_.pdf" rel="noopener nofollow" target="_blank">2026 WA1 and WA2 Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WA2 Format:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1: To be released.</p>
+<p>Sec 2: To be released.</p>
+<p>Sec 3: To be released.</p>
+<p>Sec 4 &amp; 5: To be released.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Weighted Assessment 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WA3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be released.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WA3 Format:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1: To be released.</p>
+<p>Sec 2: To be released.</p>
+<p>Sec 3: To be released.</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <h4>2025 GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
@@ -143,114 +252,5 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4>2026 Weighted Assessments</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Weighted Assessment 1</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Information</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WA1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2026 Assessment/HS_2026_010_WEIGHTED_ASSESSMENT_SCHEDULE_FOR_SEMESTER_1__School_Website_.pdf" rel="noopener nofollow" target="_blank">2026 WA1 and WA2 Schedule</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WA1 Format:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1: To be released.</p>
-<p>Sec 2: To be released.</p>
-<p>Sec 3: To be released.</p>
-<p>Sec 4 &amp; 5: To be released.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Weighted Assessment 2</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Information</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WA2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2026 Assessment/HS_2026_010_WEIGHTED_ASSESSMENT_SCHEDULE_FOR_SEMESTER_1__School_Website_.pdf" rel="noopener nofollow" target="_blank">2026 WA1 and WA2 Schedule</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WA2 Format:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1: To be released.</p>
-<p>Sec 2: To be released.</p>
-<p>Sec 3: To be released.</p>
-<p>Sec 4 &amp; 5: To be released.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Weighted Assessment 3</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Information</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WA3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>To be released.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>WA3 Format:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 1: To be released.</p>
-<p>Sec 2: To be released.</p>
-<p>Sec 3: To be released.</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
+<h4></h4>
 <p></p>
