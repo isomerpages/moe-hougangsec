@@ -1,6 +1,6 @@
 ---
-title: 2025 Weighted Assessments, Preliminary Examinations and Format
-date: 2025-04-02
+title: 2026 Weighted Assessment Schedule
+date: 2026-01-12
 layout: link
 description: ""
 image: ""
