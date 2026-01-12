@@ -6,7 +6,7 @@ description: ""
 ---
 <p>Please refer to the information below regarding school-based assessments.</p>
 <p></p>
-<h4>GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
+<h4>2025 GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -32,7 +32,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>Preliminary Examinations (Sec 4 &amp; 5)</h4>
+<h4>2025 Preliminary Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -77,7 +77,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4>End-of-Year Examination (Sec 1 to Sec 3)</h4>
+<h4>2025 End-of-Year Examination (Sec 1 to Sec 3)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -143,7 +143,7 @@ description: ""
 </tbody>
 </table>
 <p></p>
-<h4>Weighted Assessments</h4>
+<h4>2026 Weighted Assessments</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
