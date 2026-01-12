@@ -152,7 +152,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Weighted Assessment 3</p>
+<p>Weighted Assessment 1</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Information</p>
@@ -160,30 +160,26 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WA3</p>
+<p>WA1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2025 Assessment/WA_3_Schedule_for_website.pdf" rel="noopener nofollow" target="_blank">WA3 Schedule</a>
+<p><a href="/files/Assessment/2026 Assessment/HS_2026_010_WEIGHTED_ASSESSMENT_SCHEDULE_FOR_SEMESTER_1__School_Website_.pdf" rel="noopener nofollow" target="_blank">2026 WA1 and WA2 Schedule</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WA3 Format:</p>
+<p>WA1 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1: <a href="/files/Assessment/2025 Assessment/2025_Secondary_1_WA3_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 1 WA3 Format</a>
-</p>
-<p>Sec 2: <a href="/files/Assessment/2025 Assessment/2025_Secondary_2_WA3_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 WA3 Format</a>
-</p>
-<p>Sec 3: <a href="/files/Assessment/2025 Assessment/2025_Secondary_3_WA3_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 WA3 Format</a>
-</p>
-<p></p>
+<p>Sec 1: To be released.</p>
+<p>Sec 2: To be released.</p>
+<p>Sec 3: To be released.</p>
+<p>Sec 4 &amp; 5: To be released.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -203,7 +199,7 @@ description: ""
 <p>WA2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2025 Assessment/2025_WA1_Information_for_website_final.pdf" rel="noopener nofollow" target="_blank">WA1 and WA2 Schedule</a>
+<p><a href="/files/Assessment/2026 Assessment/HS_2026_010_WEIGHTED_ASSESSMENT_SCHEDULE_FOR_SEMESTER_1__School_Website_.pdf" rel="noopener nofollow" target="_blank">2026 WA1 and WA2 Schedule</a>
 </p>
 </td>
 </tr>
@@ -212,19 +208,14 @@ description: ""
 <p>WA2 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1: <a href="/files/Assessment/2025 Assessment/2025_Secondary_1_WA2_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 1 WA2 Format</a>
-</p>
-<p>Sec 2: <a href="/files/Assessment/2025 Assessment/2025_Secondary_2_WA2_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 WA2 Format</a>
-</p>
-<p>Sec 3: <a href="/files/Assessment/2025 Assessment/2025_Secondary_3_WA2_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 WA2 Format</a>
-</p>
-<p>Sec 4 &amp; 5: <a href="/files/Assessment/2025 Assessment/2025_Secondary_4_5_WA2_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 4 WA2 Format</a>
-</p>
+<p>Sec 1: To be released.</p>
+<p>Sec 2: To be released.</p>
+<p>Sec 3: To be released.</p>
+<p>Sec 4 &amp; 5: To be released.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -233,7 +224,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Weighted Assessment 1</p>
+<p>Weighted Assessment 3</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Information</p>
@@ -241,28 +232,25 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WA1</p>
+<p>WA3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2025 Assessment/2025_WA1_Information_for_website_final.pdf" rel="noopener nofollow" target="_blank">WA1 and WA2 Schedule</a>
-</p>
+<p>To be released.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>WA1 Format:</p>
+<p>WA3 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1: <a href="/files/Assessment/2025 Assessment/2025_Secondary_1_WA1_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 1 WA1 Format</a>
-</p>
-<p>Sec 2: <a href="/files/Assessment/2025 Assessment/2025_Secondary_2_WA1_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 2 WA1 Format</a>
-</p>
-<p>Sec 3: <a href="/files/Assessment/2025 Assessment/2025_Secondary_3_WA1_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 3 WA1 Format</a>
-</p>
-<p>Sec 4 &amp; 5: <a href="/files/Assessment/2025 Assessment/2025_Secondary_4_5_WA1_Format.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 4 &amp; 5 WA1 Format</a>
-</p>
+<p>Sec 1: To be released.</p>
+<p>Sec 2: To be released.</p>
+<p>Sec 3: To be released.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
