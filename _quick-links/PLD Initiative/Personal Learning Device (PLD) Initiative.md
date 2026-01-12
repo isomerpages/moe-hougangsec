@@ -27,9 +27,9 @@ will need to ensure that the following are submitted before Wednesday,
 31 December 2025, 12 pm.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/hspld" rel="noopener noreferrer nofollow" target="_blank">Intent to purchase and use of Edusave</a>&nbsp;(requires
-SingPass log in) – Parents without SingPass are to approach the general
-office for the hardcopy form.</p>
+<p><a href="https://go.gov.sg/hspld" rel="noopener noreferrer nofollow" target="_blank">Intent to purchase PLD</a>&nbsp;
+– Parents without SingPass are to approach the general office for the hardcopy
+form.</p>
 </li>
 <li>
 <p><a href="https://go.gov.sg/edusaveformsgso" rel="noopener nofollow" target="_blank">Use of Edusave for purchase of PLD</a> (requires
