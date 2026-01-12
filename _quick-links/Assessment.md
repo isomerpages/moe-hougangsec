@@ -4,7 +4,9 @@ permalink: /assessment/
 variant: tiptap
 description: ""
 ---
-<p>Please refer to the information below regarding assessments.</p>
+<p>Please refer to the information below regarding assessments.
+<br>
+</p>
 <h4>2026 Weighted Assessments</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -34,10 +36,10 @@ description: ""
 <p>WA1 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1: To be released.</p>
-<p>Sec 2: To be released.</p>
-<p>Sec 3: To be released.</p>
-<p>Sec 4 &amp; 5: To be released.</p>
+<p>Sec 1: To be released.
+<br>Sec 2: To be released.
+<br>Sec 3: To be released.
+<br>Sec 4 &amp; 5: To be released.</p>
 </td>
 </tr>
 </tbody>
@@ -70,10 +72,10 @@ description: ""
 <p>WA2 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1: To be released.</p>
-<p>Sec 2: To be released.</p>
-<p>Sec 3: To be released.</p>
-<p>Sec 4 &amp; 5: To be released.</p>
+<p>Sec 1: To be released.
+<br>Sec 2: To be released.
+<br>Sec 3: To be released.
+<br>Sec 4 &amp; 5: To be released.</p>
 </td>
 </tr>
 </tbody>
@@ -105,15 +107,14 @@ description: ""
 <p>WA3 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1: To be released.</p>
-<p>Sec 2: To be released.</p>
-<p>Sec 3: To be released.</p>
-<p></p>
+<p>Sec 1: To be released.
+<br>Sec 2: To be released.
+<br>Sec 3: To be released.
+<br>Sec 4 &amp; 5: To be released.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <h4>2025 GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
