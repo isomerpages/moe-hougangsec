@@ -130,4 +130,9 @@ healthy living through authentic learning experiences</p>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTwgi9HD9mHd0FyZPuZT7MfVSBSwR0LX61x47pKx-7R2UpsHaNmnWeF-f57OtAZAFG8fQC_HcbRjdTv/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
+<p><strong>Secondary 3 Outdoor Adventure Learning Camp 2026</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/y_qf2u4EtMk?si=oe6kE5CmhXH7KdB1"></iframe>
+</div>
 <p></p>
