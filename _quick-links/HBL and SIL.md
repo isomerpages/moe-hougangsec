@@ -8,21 +8,21 @@ description: ""
 <p>In 2025, the Home-Based Learning (HBL) schedule is as follows:</p>
 <p><strong>Term 1</strong>
 </p>
-<p>03 February, Monday (Secondary 4 and 5 only)</p>
-<p>20 February, Thursday</p>
-<p>03 March, Monday</p>
+<p>02 February, Monday (Secondary 4 and 5 only)</p>
+<p>19 February, Thursday</p>
+<p>02 March, Monday</p>
 <p><strong>Term 2</strong>
 </p>
-<p>26 March, Wednesday</p>
-<p>10 April, Thursday</p>
-<p>23 April, Wednesday</p>
-<p>05 May, Monday</p>
-<p>21 May, Wednesday</p>
+<p>30 March, Monday</p>
+<p>09 April, Thursday</p>
+<p>22 April, Wednesday</p>
+<p>07 May, Thursday</p>
+<p>18 May, Monday</p>
 <p><strong>Term 3 (Sec 1, 2 and 3 only)</strong>
 </p>
-<p>3 July, Thursday</p>
-<p>15 ( Tuesday), 16 (Wednesday), 17 July (Thursday)</p>
-<p>28 July, Monday</p>
+<p>1 July, Wednesday</p>
+<p>14 ( Tuesday), 15 (Wednesday), 16 July (Thursday)</p>
+<p>27 July, Monday</p>
 <p>HBL will be in the form of asynchronous learning. Your child/ward will
 learn based on their own schedule by accessing and completing lessons prepared
 by his/her subject teachers. Students who need a more conducive environment
