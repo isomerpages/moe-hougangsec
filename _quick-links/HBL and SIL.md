@@ -88,7 +88,8 @@ Please ensure that your account is active. All students should also have
 entered a verified email address and updated the security questions&nbsp;so
 that you can perform a password self-reset. Your username is the first
 5 characters of your full name and last 4 digits of birth cert or NRIC
-together with the alphabet, e.g. TANAH2345X</p>
+together with the alphabet, e.g. TANAH2345X. Alternatively, you can use
+your student MIMS account.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please refer to this&nbsp;<a href="https://static.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooting/index.html" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;for
