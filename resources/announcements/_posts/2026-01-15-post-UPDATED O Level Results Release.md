@@ -27,7 +27,7 @@ variant: tiptap
 <p>Presentation Slides for students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_O_Level_Results_Release___Admin__ECG_Briefing__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 O Level Results Release - Admin  ECG Briefing (Final)</a>
+<p><a href="/files/2025_O_Level_Results_Release___Admin__ECG_Briefing__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 O Level Results Release - Admin ECG Briefing (Final)</a>
 </p>
 </td>
 </tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>SEL and ECG Resources for students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025_SEL__ECG_Resources_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 SEL  ECG Resources for Students</a>
+<p><a href="/files/2025_SEL__ECG_Resources_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 SEL ECG Resources for Students</a>
 </p>
 </td>
 </tr>
@@ -54,7 +54,8 @@ variant: tiptap
 <p>Parent Information Sheet</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><a href="/files/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 O-Level Parent Information Sheet</a></h4>
+<p><a href="/files/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 O-Level Parent Information Sheet</a>
+</p>
 </td>
 </tr>
 </tbody>
