@@ -5,24 +5,24 @@ variant: tiptap
 description: ""
 ---
 <h4>Home-Based Learning and Student-Initiated Learning (HBL-SIL)</h4>
-<p>In 2025, the Home-Based Learning (HBL) schedule is as follows:</p>
+<p>In 2026, the Home-Based Learning (HBL) schedule is as follows:</p>
 <p><strong>Term 1</strong>
 </p>
-<p>03 February, Monday (Secondary 4 and 5 only)</p>
-<p>20 February, Thursday</p>
-<p>03 March, Monday</p>
+<p>02 February, Monday (Secondary 4 and 5 only)</p>
+<p>19 February, Thursday (Tentative Sec 1 PDLP Onboarding Day)</p>
+<p>02 March, Monday</p>
 <p><strong>Term 2</strong>
 </p>
-<p>26 March, Wednesday</p>
-<p>10 April, Thursday</p>
-<p>23 April, Wednesday</p>
-<p>05 May, Monday</p>
-<p>21 May, Wednesday</p>
+<p>30 March, Monday</p>
+<p>09 April, Thursday</p>
+<p>22 April, Wednesday</p>
+<p>07 May, Thursday</p>
+<p>18 May, Monday</p>
 <p><strong>Term 3 (Sec 1, 2 and 3 only)</strong>
 </p>
-<p>3 July, Thursday</p>
-<p>15 ( Tuesday), 16 (Wednesday), 17 July (Thursday)</p>
-<p>28 July, Monday</p>
+<p>1 July, Wednesday</p>
+<p>14 ( Tuesday), 15 (Wednesday), 16 July (Thursday)</p>
+<p>27 July, Monday</p>
 <p>HBL will be in the form of asynchronous learning. Your child/ward will
 learn based on their own schedule by accessing and completing lessons prepared
 by his/her subject teachers. Students who need a more conducive environment
@@ -88,7 +88,8 @@ Please ensure that your account is active. All students should also have
 entered a verified email address and updated the security questions&nbsp;so
 that you can perform a password self-reset. Your username is the first
 5 characters of your full name and last 4 digits of birth cert or NRIC
-together with the alphabet, e.g. TANAH2345X</p>
+together with the alphabet, e.g. TANAH2345X. Alternatively, you can use
+your student MIMS account.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Please refer to this&nbsp;<a href="https://static.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooting/index.html" rel="noopener noreferrer nofollow" target="_blank">link</a>&nbsp;for
