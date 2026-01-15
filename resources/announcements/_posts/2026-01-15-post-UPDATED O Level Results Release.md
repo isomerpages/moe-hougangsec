@@ -1,12 +1,66 @@
 ---
-title: O Level Results Release
+title: UPDATED O Level Results Release
 permalink: /o-level-results-release/
-date: 2026-01-09
+date: 2026-01-15
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
+<h4>Resources</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Items</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Attachments</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Presentation Slides for students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_O_Level_Results_Release___Admin__ECG_Briefing__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 O Level Results Release - Admin ECG Briefing (Final)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Briefing slides for students by MOE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_O_Level_Briefing_Slides_for_Students_on_Supporting_Students__Well_being.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 O-Level Briefing Slides for Students on Supporting Students' Well-being</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEL and ECG Resources for students</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_SEL__ECG_Resources_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 SEL ECG Resources for Students</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parent Information Sheet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/2025_O_Level_Parent_Information_Sheet.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 O-Level Parent Information Sheet</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Announcement</h4>
 <p>Dear students</p>
 <p></p>
 <p>The results of the <strong>2025 Singapore-Cambridge General Certificate of Education Ordinary Level (GCE O-Level) examination</strong> will
