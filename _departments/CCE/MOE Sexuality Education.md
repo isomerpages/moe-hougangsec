@@ -832,8 +832,8 @@ The completed form is to be submitted by <strong>30/01/2026</strong>.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/CCE/eTeens_Opt_out_form_Annex_B_on_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;The
-completed form is to be submitted by <strong>28/01/2025</strong>.</p>
+of the year and is also available <a href="/files/CCE/eTeens_Opt_out_form_Annex_B_on_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;The
+completed form is to be submitted by <strong>30/01/2026</strong>.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 63851990 for Ms Serina Tan or Ms Lynn Yeo for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
