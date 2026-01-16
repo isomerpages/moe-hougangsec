@@ -222,7 +222,7 @@ of online falsehoods, flouting copyright laws, etc.)</p>
 </table>
 <p></p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 2</strong>
 </p>
@@ -295,7 +295,7 @@ of one’s own unique qualities and characteristics as a male or female</p>
 orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -325,7 +325,7 @@ situations and the importance of exercising discretion to reduce risks
 and avoid negative consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -352,13 +352,13 @@ risky situations and the importance of exercising discretion to reduce
 risks and avoid negative consequences, both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 3</strong>
 </p>
@@ -430,7 +430,7 @@ when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -464,7 +464,7 @@ are healthy ways of coping with broken relationships, and family and friends
 are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -495,7 +495,7 @@ viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
