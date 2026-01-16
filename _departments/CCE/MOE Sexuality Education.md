@@ -198,10 +198,11 @@ on matters related to sexuality – masturbation and pornography. Students
 will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
-will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+will learn that it could lead to addiction and/or other risky sexual behaviours.&nbsp;</p>
 <p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept
@@ -214,7 +215,7 @@ access and acting irresponsibly or maliciously when online (e.g. spreading
 of online falsehoods, flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
