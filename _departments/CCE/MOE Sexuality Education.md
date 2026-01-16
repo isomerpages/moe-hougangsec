@@ -1,5 +1,5 @@
 ---
-title: MOE Sexuality Education in Schools 2025
+title: MOE Sexuality Education
 permalink: /departments/cce/moe-sexuality-education-in-schools/
 description: ""
 third_nav_title: CCE
@@ -45,7 +45,7 @@ marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"> here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong><br>Overview of Hougang secondary school's Sexuality Education Programme for 2025</strong>
+<p><strong><br>Overview of Hougang secondary school's Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -80,10 +80,10 @@ a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p></p>
-<p><strong>At Hougang Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Hougang Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -158,7 +158,7 @@ is, and recognise that the readiness and interest in dating vary among
 individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ and psychological abuse from others, especially those we know and trust,
 can have strong negative effects on a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -198,10 +198,11 @@ on matters related to sexuality – masturbation and pornography. Students
 will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
-will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+will learn that it could lead to addiction and/or other risky sexual behaviours.&nbsp;</p>
 <p>&nbsp;</p>
 <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
 </p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understand and accept
@@ -214,14 +215,14 @@ access and acting irresponsibly or maliciously when online (e.g. spreading
 of online falsehoods, flouting copyright laws, etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 2</strong>
 </p>
@@ -294,7 +295,7 @@ of one’s own unique qualities and characteristics as a male or female</p>
 orientation entails</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +325,7 @@ situations and the importance of exercising discretion to reduce risks
 and avoid negative consequences, both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -351,13 +352,13 @@ risky situations and the importance of exercising discretion to reduce
 risks and avoid negative consequences, both offline and online</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 10</p>
+<p>Term 3 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 3</strong>
 </p>
@@ -429,7 +430,7 @@ when entering into a dating relationship</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -463,7 +464,7 @@ are healthy ways of coping with broken relationships, and family and friends
 are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -494,14 +495,14 @@ viewpoints (e.g. respect for life) and decisions, and speak and act in
 alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 8</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 4</strong>
 </p>
@@ -638,7 +639,7 @@ a couple handles conflict is critical to the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -665,13 +666,13 @@ that we strengthen our character when we commit to sound values-based viewpoints
 our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 5</strong>
 </p>
@@ -733,7 +734,7 @@ our character when we commit to sound values-based viewpoints (e.g. respect
 for life) and decisions, and speak and act in alignment with our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 3</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -741,12 +742,15 @@ for life) and decisions, and speak and act in alignment with our beliefs</p>
 <p></p>
 <p><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a
-programme developed by Health Promotion Board, in collaboration with the
-Ministry of Education, to provide Secondary 3 students with accurate information
-on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.</p>
+programme that was developed by Health Promotion Board, in collaboration
+with the Ministry of Education, to provide Secondary 3 students with accurate
+information on STIs, HIV and protection from a health perspective. With
+the formation of the Communicable Diseases Agency (CDA) on 1 April 2025,
+the programme would now be managed by CDA’s Training and Education Division
+instead of HPB. <em>eTeens</em> is conducted in two segments – a mass talk
+segment and a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions
+to protect themselves from sexually transmitted infectious diseases.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are taught
 skills such as decision-making, assertiveness and negotiation to say “no”
 to sex and negative peer pressure. They also learn that the impact of STIs/HIV
@@ -754,7 +758,7 @@ extends beyond themselves and involves their family, and the importance
 of responsible decision-making and seeking help. Abstinence and upholding
 family values are the key messages.</p>
 <p></p>
-<p><strong>At Hougang Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
+<p><strong>At Hougang Secondary School, the <em>eTeens</em> programme will be implemented as follows in 2026:</strong>
 </p>
 <p></p>
 <table style="minWidth: 75px">
@@ -785,11 +789,14 @@ family values are the key messages.</p>
 <td rowspan="1" colspan="1">
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and
 provide knowledge on:</p>
-<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
-it spreads, how to prevent infection mainly through ABC (abstinence, being
-faithful, correct, and consistent condom use).</p>
-<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
-healthy way.</p>
+<p>a)&nbsp;&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and
+HIV): what it is, how it spreads, how to prevent infection mainly through
+ABC (abstinence, being faithful, correct, and consistent condom use), consequences
+and impact</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure)</p>
+<p>c)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
+healthy way, including avenues for help-seeking.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 8</p>
@@ -820,14 +827,14 @@ sexuality education programmes by MOE-approved external providers.</p>
 <p>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong>Sexuality Education lessons</strong> need to
 complete an opt-out form. This form will be communicated to parents at
-the start of the year and is also downloadable <a href="/files/CCE/Parent_Opt_out_form_Annex_A_on_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by <strong>28/01/2025</strong>.</p>
+the start of the year and is also available <a href="/files/SEd_opt_out_form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed form is
+to be submitted by <strong>30/01/2026</strong>.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their
 children out of the <strong><em>eTeens</em> programme</strong> need to complete
 an opt-out form. This form will be communicated to parents at the start
-of the year and is also downloadable <a href="/files/CCE/eTeens_Opt_out_form_Annex_B_on_website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;The
-completed form is to be submitted by <strong>28/01/2025</strong>.</p>
+of the year and is also available <a href="/files/eTeens_Parents_Opt_out_Form_2026.pdf" rel="noopener nofollow" target="_blank">here</a>.&nbsp;The completed
+form is to be submitted by <strong>30/01/2026</strong>.</p>
 <p>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at 63851990 for Ms Serina Tan or Ms Lynn Yeo for discussion or to seek
-clarification about the school’s Sexuality Education programme.</p>
+at 63851990 for discussion or to seek clarification about the school’s
+Sexuality Education programme.</p>
 <p>&nbsp;</p>
