@@ -502,7 +502,7 @@ alignment with our beliefs</p>
 </table>
 <p></p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 4</strong>
 </p>
@@ -639,7 +639,7 @@ a couple handles conflict is critical to the success of their marriage</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -666,7 +666,7 @@ that we strengthen our character when we commit to sound values-based viewpoints
 our beliefs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 8</p>
 </td>
 </tr>
 </tbody>
