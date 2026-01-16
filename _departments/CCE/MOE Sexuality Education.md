@@ -464,7 +464,7 @@ are healthy ways of coping with broken relationships, and family and friends
 are important pillars of support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
