@@ -45,7 +45,7 @@ marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"> here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong><br>Overview of Hougang secondary school's Sexuality Education Programme for 2025</strong>
+<p><strong><br>Overview of Hougang secondary school's Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered
 in a holistic manner through the school curriculum. The content for Sexuality
@@ -80,10 +80,10 @@ a positive self-esteem, develop their character, and expand their understanding
 and repertoire of skills to deal with various issues related to sexuality,
 which are of prime concern at this age.</p>
 <p></p>
-<p><strong>At Hougang Secondary School, the following Sexuality Education lessons will be taught in <u>2025</u>:</strong>
+<p><strong>At Hougang Secondary School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <p></p>
-<p><strong>2025 Sexuality Education Lessons in CCE</strong>
+<p><strong>2026 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>&nbsp;</strong>
 </p>
@@ -158,7 +158,7 @@ is, and recognise that the readiness and interest in dating vary among
 individuals</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -183,7 +183,7 @@ and psychological abuse from others, especially those we know and trust,
 can have strong negative effects on a person’s self-concept</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 9</p>
+<p>Term 3 Week 7</p>
 </td>
 </tr>
 <tr>
