@@ -441,7 +441,7 @@ description: ""
 <p>Toh Sock Yan, Magdalene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>toh_sok_yan_magdalene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
