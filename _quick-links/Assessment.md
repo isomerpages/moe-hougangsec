@@ -36,10 +36,11 @@ description: ""
 <p>WA1 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1: To be released.
-<br>Sec 2: To be released.
-<br>Sec 3: To be released.
-<br>Sec 4 &amp; 5: To be released.</p>
+<p>Sec 1: <a href="/files/Assessment/2026 Assessment/2026_Secondary_1_WA1_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA1 Format</a>
+<br>Sec 2: <a href="/files/Assessment/2026 Assessment/2026_Secondary_2_WA1_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA1 Format</a>
+<br>Sec 3: <a href="/files/Assessment/2026 Assessment/2026_Secondary_3_WA1_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA1 Format</a>
+<br>Sec 4 &amp; 5: <a href="/files/Assessment/2026 Assessment/2026_Secondary_4_5_WA1_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA1 Format</a>
+</p>
 </td>
 </tr>
 </tbody>
