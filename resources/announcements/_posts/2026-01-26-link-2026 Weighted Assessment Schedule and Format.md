@@ -1,6 +1,6 @@
 ---
-title: 2026 Weighted Assessment Schedule
-date: 2026-01-12
+title: 2026 Weighted Assessment Schedule and Format
+date: 2026-01-26
 layout: link
 description: ""
 image: ""
