@@ -22,8 +22,9 @@ our school’s <strong>GREAT values and Desired Outcomes (Figure 2)</strong>.
 Together, they form the foundation of our efforts to shape students into
 responsible, resilient, and reflective individuals who are morally upright
 and citizens who actively contribute to society.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="MOE CCE 2021 Curriculum Framework" src="/images/CCE_Fig1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/CCE/CCE_Framework__Figure_1.png">
 </div>
 <p>Fig. 1</p>
 <div class="isomer-image-wrapper">
@@ -86,6 +87,6 @@ March 2023.
 and carried out activities for the carnival in Semester 1 which invited
 7 beneficiaries. CCAs worked collaboratively to meet community/school needs.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1j6Jmgk3Y8IxzG-EizRzrd1ODKLTyYmmTb5n-124fSZs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1j6Jmgk3Y8IxzG-EizRzrd1ODKLTyYmmTb5n-124fSZs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
