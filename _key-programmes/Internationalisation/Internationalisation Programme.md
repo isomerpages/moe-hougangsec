@@ -13,4 +13,8 @@ More information on each trip will be given to your child/ward at a later date. 
 
 Watch the videos below to see how the 2025 trips went! Our students visited Vietnam, Hong Kong and Beijing!
 
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/---QE19NKpk?si=Y8fA2ZZ_9ccVLLBH" height="315" width="560"></iframe>
+
+
+
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sPKCmmcVWOk?si=1EE0XeApGI6d0K6W" height="315" width="560"></iframe>
