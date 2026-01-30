@@ -11,8 +11,6 @@ More information on each trip will be given to your child/ward at a later date. 
 
 ### Internationalisation Trips 2025 ###
 
-![Beijing, China](/images/Key%20Programmes/Beijing.jpg)
-![](/images/Key%20Programmes/Ho_Chi_Minh_City.jpg)
-![](/images/Key%20Programmes/Hong_Kong.jpg)
+Watch the videos below to see how the 2025 trips went! Our students visited Vietnam, Hong Kong and Beijing!
 
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sPKCmmcVWOk?si=1EE0XeApGI6d0K6W" height="315" width="560"></iframe>
