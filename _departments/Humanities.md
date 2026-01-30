@@ -18,7 +18,8 @@ variant: tiptap
 <br>Ms. Tan Li Boon Vanessa
 <br>Mr Law Ngiap Hui
 <br>Mr Tan Eng Tee Derrick
-<br>Mr Alvin Lye</p>
+<br>Mr Alvin Lye
+<br>Ms Valeria Goh Jing Yi</p>
 <p>Aristotle once said, “<em>For the things we have to learn before we can do them, we learn by doing them</em>.”</p>
 <p>Simply put, knowledge is gained by making meaning from direct experiences,
 a theory popularized by renowned American educational theorist, David A.
@@ -89,7 +90,7 @@ indeed sparked joy in the students’ learning as they brought history to
 life, outside the classroom.</p>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqbgPhITfOFnw8Z_ORCc8uIYGMCNPdxMMQuWm1bUKlxwS2d3trE3cu7S-vHD556a81WeTIYIX6dMNa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSqbgPhITfOFnw8Z_ORCc8uIYGMCNPdxMMQuWm1bUKlxwS2d3trE3cu7S-vHD556a81WeTIYIX6dMNa/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>
 <br>
@@ -151,7 +152,7 @@ our Presidents and Singapore’s diplomatic relations with other nations.</p>
 </div>
 <h4>Stretch Programmes</h4>
 <div class="iframe-wrapper">
-<iframe height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0aYI5OFzr08EJsvoNA5lvtsPSa5owud2hk0LAL5EXxL-hklCshYG2z7gUNjzFUFBxoOgcJ5vc3eCe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="389" width="480" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0aYI5OFzr08EJsvoNA5lvtsPSa5owud2hk0LAL5EXxL-hklCshYG2z7gUNjzFUFBxoOgcJ5vc3eCe/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><u>History Challenge</u>
 <br>2 Sec Three students participated in the MOE History Challenge through
@@ -229,6 +230,6 @@ the region's geography. Bali's lush landscapes and vibrant traditions offer
 an enriching educational adventure, turning the entire island into a living
 Humanities classroom.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1an9JULaYxoSJFGr0_STSJrlitgU7stcu_P9xRwn09BE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1an9JULaYxoSJFGr0_STSJrlitgU7stcu_P9xRwn09BE/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
