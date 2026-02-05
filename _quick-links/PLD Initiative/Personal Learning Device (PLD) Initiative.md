@@ -469,192 +469,23 @@ parents/guardians have a choice to continue with the Default Setting or
 opt for an Alternative Setting. The following table outlines the different
 levels of restrictions, controls, and monitoring for the different DMA
 options <strong>after</strong> school hours.</p>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="2" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Default Setting</strong>
-</p>
-<p>(Note: This will apply if no Alternative Setting is chosen)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Alternative Setting:</p>
-<p><strong>Option A</strong>
-</p>
-<p>(DMA settings can be modified)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Alternative Setting:</p>
-<p><strong>Option B</strong>
-</p>
-<p>(DMA will be inactive <strong><u>only </u></strong>after school hours)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>For parents/guardians who want their child’s/ward’s use of the PLD to
-be restricted only to teaching and learning and prefer to leave it to the
-school to decide on DMA settings after school hours.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For parents/guardians who prefer to take charge of the level of restrictions
-for their child’s/ward’s use of the PLD after school hours regulated by
-the DMA.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For parents/guardians who do not want their child’s/ward’s use of the
-PLD after school hours to be regulated by the DMA at all.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>For parents/guardians who do not want their child’s/ward’s use of the
-device after school hours to be regulated by the DMA at all.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Protect child/ward from objectionable content</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Web content filtering will include, but not limited to, the following
-categories:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Violent/extremist content</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexual/pornographic
-content</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling-related content&nbsp;&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suicide/self-harm content&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cyberbullying content&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gambling-related content</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians will be able to include additional web content filtering
-using the Jamf Parent app. However, parents cannot allow access to web
-content that is filtered out under the Default Setting.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No content filtering at all after school hours.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>No content filtering at all after school hours.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Reduce distractions from learning through control of applications</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians and students will <strong><u>not</u></strong> be able
-to install additional applications.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians and/or students will be able to install additional applications
-after school hours by signing in to the Apple App Store using their personal
-Apple Accounts.</p>
-<p>&nbsp;</p>
-<p>Applications installed by parents/guardians and/or students after school
-hours will not be accessible during school hours.</p>
-<p>&nbsp;</p>
-<p>Parents/Guardians can limit access to applications that they install on
-the device.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians and/or students will be able to install additional applications
-after school hours by signing in to the Apple App Store using their personal
-Apple Accounts.</p>
-<p>&nbsp;</p>
-<p>Applications installed by parents/guardians and/or students after school
-hours will not be accessible during school hours.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians and/or students will be able to install additional applications
-after school hours.</p>
-<p></p>
-<p>Applications installed by parents/guardians and/or students after school
-hours will not be accessible during school hours.</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Limit screen time</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The school will define the specific hours during which the student can
-use the device.</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="2">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Parents/Guardians can modify the amount of screen time for their child/ward
-by setting the PLD sleep hours to 1 prescribed time between 3.00 pm and
-10:30 pm or earlier. This can be done on the Jamf Parent Application.&nbsp;</p>
-<p>Parents/Guardians can determine the duration of use of specified applications.</p>
-</td>
-</tr>
-</tbody>
-</table>
-</td>
-<td rowspan="1" colspan="1">
-<p>No limitation on duration of screen time. after school hours.&nbsp;Sleep
-hours are not enforced</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Monitor child’s/ward’s cyber activities</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="4">
-<p>Parents/Guardians will <u>not </u>be able to track their child’s/ward’s
-browser history due to Apple’s Privacy Policy.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Provision of Parent Account</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>X</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>√</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>X</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLD Initiative/dma_options.png">
+</div>
 <hr>
+<p>Footnote:
+<br>[1] Please note that software features are subject to change and may be
+improved or updated over time.
+<br>[2] No data will be collected after school hours when the DMA is inactive.
+<br>[3] During school hours, the screen time limits set by the school will
+override parents/guardians’ settings.
+<br>[4] It is not recommended to install other parental controls (e.g.&nbsp;Apple’s&nbsp;Family
+Sharing/Screen Time) as this could result in conflicting
+<br>settings between school and parent controls. It may result in unexpected
+issues where some controls such as screen time restrictions may not work
+as intended.&nbsp;</p>
+<p></p>
 <p>4. The general setting for the PLD are:</p>
 <table style="minWidth: 75px">
 <colgroup>
