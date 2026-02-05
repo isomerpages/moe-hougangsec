@@ -36,10 +36,6 @@ form.</p>
 SingPass log in) – Parents without SingPass are to approach the general
 office for the hardcopy form.</p>
 </li>
-<li>
-<p>Information on existing household computing device(s). Access the survey
-<a href="https://for.edu.sg/hsdevicesurvey" rel="noopener nofollow" target="_blank">here</a>.</p>
-</li>
 </ul>
 <p>3.&nbsp;&nbsp; &nbsp;<strong>Purchase of PLD bundle.</strong>&nbsp;</p>
 <p>The school has made arrangements for you to purchase the PLD from&nbsp;ASIAPAC
@@ -277,18 +273,6 @@ commence in February and the delivery of the PLD is expected to be in Term
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submit information on existing household computing device</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3. Survey on Household Computing Device: <a href="https://go.gov.sg/hsdevicesurvey2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hsdevicesurvey2025</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Other applications</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -464,29 +448,8 @@ manage device usage of child/ward</p>
 (DMA) solution for iPad PLDs is Jamf. &nbsp;</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>During</strong> school hours,
 the Default Setting will apply.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>After</strong> school hours,
-parents/guardians have a choice to continue with the Default Setting or
-opt for an Alternative Setting. The following table outlines the different
-levels of restrictions, controls, and monitoring for the different DMA
-options <strong>after</strong> school hours.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLD Initiative/dma_options.png">
-</div>
-<hr>
-<p>Footnote:
-<br>[1] Please note that software features are subject to change and may be
-improved or updated over time.
-<br>[2] No data will be collected after school hours when the DMA is inactive.
-<br>[3] During school hours, the screen time limits set by the school will
-override parents/guardians’ settings.
-<br>[4] It is not recommended to install other parental controls (e.g.&nbsp;Apple’s&nbsp;Family
-Sharing/Screen Time) as this could result in conflicting
-<br>settings between school and parent controls. It may result in unexpected
-issues where some controls such as screen time restrictions may not work
-as intended.&nbsp;</p>
-<p></p>
-<p>4. The general setting for the PLD are:</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The general setting for the PLD
+are:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -523,6 +486,22 @@ as intended.&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>After</strong> school hours,
+parents/guardians have a choice to continue with the Default Setting or
+opt for an Alternative Setting. The following table outlines the different
+levels of restrictions, controls, and monitoring for the different DMA
+options <strong>after</strong> school hours.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLD Initiative/dma_options.png">
+</div>
+<hr>
+<p>Footnote:
+<br>[1] <em>Please note that software features are subject to change and may be improved or updated over time. </em>
+<br>[2] <em>No data will be collected after school hours when the DMA is inactive. </em>
+<br>[3]<em> During school hours, the screen time limits set by the school will override parents/guardians’ settings. </em>
+<br>[4] <em>It is not recommended to install other parental controls (e.g.&nbsp;Apple’s&nbsp;Family Sharing/Screen Time) as this could result in conflicting settings between school and parent controls. It may result in unexpected issues where some controls such as screen time restrictions may not work as intended.&nbsp;</em>
+</p>
 <p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
@@ -530,35 +509,36 @@ as intended.&nbsp;</p>
 deciding on which After-School DMA Option is best for their child/ward.</p>
 </li>
 </ol>
-<p></p>
 <p><strong>a. Child’s/Ward’s current device usage habits</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>How much time does my child/ward spend on his/her device?</p>
+<p><em>How much time does my child/ward spend on his/her device?</em>
+</p>
 </li>
 <li>
-<p>How well is my child/ward able to regulate his/her device usage on his/her
-own?</p>
+<p><em>How well is my child/ward able to regulate his/her device usage on his/her own?</em>
+</p>
 </li>
 <li>
-<p>Does my child/ward get easily distracted while doing online learning?</p>
+<p><em>Does my child/ward get easily distracted while doing online learning?</em>
+</p>
 </li>
 </ul>
 <p><strong>b. Parental/Guardian involvement</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>How confident and familiar am I with managing my child’s/ward’s cyber
-wellness?</p>
+<p><em>How confident and familiar am I with managing my child’s/ward’s cyber wellness?</em>
+</p>
 </li>
 <li>
-<p>Are there existing routines and open conversations on the use of the internet
-at home?</p>
+<p><em>Are there existing routines and open conversations on the use of the internet at home?</em>
+</p>
 </li>
 <li>
-<p>Am I aware of how to prevent different types of cyber threats that my
-child/ward might face?</p>
+<p><em>Am I aware of how to prevent different types of cyber threats that my child/ward might face?</em>
+</p>
 </li>
 </ul>
 <h4>Annex C:&nbsp; Privacy and Data Security</h4>
