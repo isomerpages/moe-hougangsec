@@ -174,24 +174,26 @@ effective use of the PLD in the classroom to enhance students’ learning
 and safeguard their cyber wellness:
 <br>(a)&nbsp;&nbsp;&nbsp; <u>Classroom Management Service</u>. To help teachers
 manage students’ use of the PLD during lesson time to improve classroom
-management and support effective teaching and learning.</p>
-<p>(b)&nbsp;&nbsp;&nbsp; <u>Mobile Device Management Service</u>. To help
+management and support effective teaching and learning.
+<br>(b)&nbsp;&nbsp;&nbsp; <u>Mobile Device Management Service</u>. To help
 update and manage the PLD, protect the PLD from malicious software, and
-protects students from objectionable internet content.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp; <u>Usage Management Service</u>. To enable
+protects students from objectionable internet content.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp; <u>Usage Management Service</u>. To enable
 school and/or parents/guardians to better supervise and set helpful limits
 for students’ use of PLD after school.</p>
 <p>8. <strong>Cyber-wellness.</strong>Parents/Guardians may have concerns
 regarding students’ cyber wellness with the introduction of the PLD. The
 DMA allows the school to manage this by:</p>
 <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; collecting data on usage by the
-student, such as the websites accessed on the PLD,</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; monitoring, filtering, and limiting
+student, such as the websites accessed on the PLD,
+<br>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; monitoring, filtering, and limiting
 the type of websites accessible to the student, and placing restrictions
-on students’ screen time to prevent cyber addiction.</p>
+on students’ screen time to prevent cyber addiction.
+<br>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; placing restrictions on students’ screen
+time to prevent cyber addiction</p>
 <p>Please refer to <u>Annexes A, B and C</u> for more details on the functions
 and features of the DMA, and on the collection and protection of personal
-data. . <strong>Students are to refer to the student handbook for the acceptable use policy for use of EdTech Resources.</strong>
+data. . <strong><u>Students are to also refer to the student handbook for the acceptable use policy for use of EdTech Resources.</u></strong>
 </p>
 <ol start="9" data-tight="true" class="tight">
 <li>
