@@ -36,10 +36,6 @@ form.</p>
 SingPass log in) – Parents without SingPass are to approach the general
 office for the hardcopy form.</p>
 </li>
-<li>
-<p>Information on existing household computing device(s). Access the survey
-<a href="https://for.edu.sg/hsdevicesurvey" rel="noopener nofollow" target="_blank">here</a>.</p>
-</li>
 </ul>
 <p>3.&nbsp;&nbsp; &nbsp;<strong>Purchase of PLD bundle.</strong>&nbsp;</p>
 <p>The school has made arrangements for you to purchase the PLD from&nbsp;ASIAPAC
@@ -277,18 +273,6 @@ commence in February and the delivery of the PLD is expected to be in Term
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submit information on existing household computing device</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3. Survey on Household Computing Device: <a href="https://go.gov.sg/hsdevicesurvey2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hsdevicesurvey2025</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Other applications</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -481,10 +465,9 @@ improved or updated over time.
 <br>[3] During school hours, the screen time limits set by the school will
 override parents/guardians’ settings.
 <br>[4] It is not recommended to install other parental controls (e.g.&nbsp;Apple’s&nbsp;Family
-Sharing/Screen Time) as this could result in conflicting
-<br>settings between school and parent controls. It may result in unexpected
-issues where some controls such as screen time restrictions may not work
-as intended.&nbsp;</p>
+Sharing/Screen Time) as this could result in conflicting settings between
+school and parent controls. It may result in unexpected issues where some
+controls such as screen time restrictions may not work as intended.&nbsp;</p>
 <p></p>
 <p>4. The general setting for the PLD are:</p>
 <table style="minWidth: 75px">
