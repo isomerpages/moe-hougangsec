@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>PDLP - Warranty and Insurance</h3>
 <p></p>
-<h4>3-year AppleCare (For 2025 Sec 1 cohort and preceding cohorts)</h4>
+<h4>3-year AppleCare+ (For 2025 Sec 1 cohort and preceding cohorts)</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Device epair at Apple Service Centre* or Apple Authorised Service Provider</p>
@@ -39,7 +39,7 @@ include "MOE PLD" under "Add a Comment" section of the form.</p>
 <p>Service Centre Number</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Service Centre Email / Weblink</p>
+<p>Service Centre Email / link</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Service Cengtre Operating Hours</p>
@@ -57,7 +57,7 @@ include "MOE PLD" under "Add a Comment" section of the form.</p>
 <p>800 186 1087</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://getsupport.apple.com" rel="noopener noreferrer nofollow" target="_blank"><u>https://getsupport.apple.com</u></a>
+<p><a href="https://getsupport.apple.com/topics" rel="noopener noreferrer nofollow" target="_blank">https://getsupport.apple.com/topics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ include "MOE PLD" under "Add a Comment" section of the form.</p>
 <p>800 186 1087</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://getsupport.apple.com" rel="noopener noreferrer nofollow" target="_blank"><u>https://getsupport.apple.com</u></a>
+<p><a href="https://getsupport.apple.com/topics" rel="noopener noreferrer nofollow" target="_blank">https://getsupport.apple.com/topics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -100,7 +100,7 @@ include "MOE PLD" under "Add a Comment" section of the form.</p>
 <p>800 186 1087</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://getsupport.apple.com" rel="noopener noreferrer nofollow" target="_blank"><u>https://getsupport.apple.com</u></a>
+<p><a href="https://getsupport.apple.com/topics" rel="noopener noreferrer nofollow" target="_blank">https://getsupport.apple.com/topics</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,13 +140,16 @@ include "MOE PLD" under "Add a Comment" section of the form.</p>
 </div>
 <p></p>
 <h4>4-year AppleCare+ (For 2026 Sec 1 cohort)</h4>
+<p>For more information, visit <a href="https://support.apple.com/en-sg/ipad/repair" rel="noopener noreferrer nofollow" target="_blank">https://support.apple.com/en-sg/ipad/repair</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PLD Initiative/Applecare_plus_2026.png">
+</div>
 <h4>4 -Year Insurance (For 2026 Sec 1 cohort)</h4>
 <p><strong><u>Coverage</u></strong>
-</p>
-<p>•Covers iPad and Apple brand accessories</p>
-<p>•2 Repairs service fees will be waived</p>
-<p>•Once 2 repairs consumed,&nbsp; out-of-warranty charges are applicable</p>
+<br>•Covers iPad and Apple brand accessories
+<br>•2 Repairs service fees will be waived
+<br>•Once 2 repairs consumed,&nbsp; out-of-warranty charges are applicable</p>
 <p><strong><u>Exclusion</u></strong>
-</p>
-<p>•iPads and Accessories with missing components</p>
-<p>•Any unauthorized repairs by 3<sup>rd</sup> party providers prior</p>
+<br>•iPads and Accessories with missing components
+<br>•Any unauthorized repairs by 3<sup>rd</sup> party providers prior</p>
