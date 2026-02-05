@@ -134,10 +134,19 @@ include "MOE PLD" under "Add a Comment" section of the form.</p>
 </tbody>
 </table>
 <p></p>
-<h4>3 -Year Insurance (For 2025 Sec 1 cohort and preceding cohorts)</h4>
+<h4>3 -Year Insurance (For 2025 Sec 1 cohort and preceding cohorts</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdlpinsurance.png">
 </div>
 <p></p>
+<h4>4-year AppleCare+ (For 2026 Sec 1 cohort)</h4>
 <h4>4 -Year Insurance (For 2026 Sec 1 cohort)</h4>
-<p></p>
+<p><strong><u>Coverage</u></strong>
+</p>
+<p>•Covers iPad and Apple brand accessories</p>
+<p>•2 Repairs service fees will be waived</p>
+<p>•Once 2 repairs consumed,&nbsp; out-of-warranty charges are applicable</p>
+<p><strong><u>Exclusion</u></strong>
+</p>
+<p>•iPads and Accessories with missing components</p>
+<p>•Any unauthorized repairs by 3<sup>rd</sup> party providers prior</p>
