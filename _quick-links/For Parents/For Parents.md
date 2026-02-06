@@ -90,8 +90,7 @@ to lower income family. Parents can apply online at <a href="https://eservice.im
 <h3>HS Application To Be On Waiting List Form</h3>
 <p>To apply for transfer, please click <a href="https://www.hougangsec.moe.edu.sg/quick-links/appeal/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3>GREAT Start Week For Sec 1 to Sec 5</h3>
-<p><a href="/files/Parents/GREAT_START_2026.pdf" rel="noopener nofollow" target="_blank">Great Start Week 2026 pro</a>
-<a href="/files/GREAT_START_WEEK_2025_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">gramme</a>
+<p><a href="/files/Parents/GREAT_START_2026.pdf" rel="noopener nofollow" target="_blank">Great Start Week 2026 programme</a>
 </p>
 <h3>Principal Meets Parents 2026</h3>
 <p>Sec 1 <a href="/files/Parents/2__Sec_1_PMP_P_s_Address_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 PMP P's Address 2026</a>
