@@ -139,17 +139,20 @@ include "MOE PLD" under "Add a Comment" section of the form.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/pdlpinsurance.png">
 </div>
 <p></p>
-<h4>4-year AppleCare+ (For 2026 Sec 1 cohort)</h4>
+<h4>4-year AppleCare+ for Schools (For 2026 Sec 1 cohort)</h4>
 <p>For more information, visit <a href="https://support.apple.com/en-sg/ipad/repair" rel="noopener noreferrer nofollow" target="_blank">https://support.apple.com/en-sg/ipad/repair</a>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/PLD Initiative/Applecare_plus_2026.png">
 </div>
-<h4>4 -Year Insurance (For 2026 Sec 1 cohort)</h4>
 <p><strong><u>Coverage</u></strong>
-<br>•Covers iPad and Apple brand accessories
-<br>•2 Repairs service fees will be waived
-<br>•Once 2 repairs consumed,&nbsp; out-of-warranty charges are applicable</p>
+<br>•Covers iPad and Apple brand accessories (e.g. Apple Pencil)
+<br>•2 Repairs <strong><u>or</u></strong> 1 replacement with no excess charged
+(i.e. no service fees, no repair fees) under accidental damage handling
+(ADH). Once 2 repairs or 1 replacement used,&nbsp;out-of-warranty charges
+are applicable.
+<br>•Warranty continues regardles of ADH claims.</p>
+<p></p>
 <p><strong><u>Exclusion</u></strong>
 <br>•iPads and Accessories with missing components
 <br>•Any unauthorized repairs by 3<sup>rd</sup> party providers prior</p>
