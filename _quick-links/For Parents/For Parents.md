@@ -90,5 +90,26 @@ to lower income family. Parents can apply online at <a href="https://eservice.im
 <h3>HS Application To Be On Waiting List Form</h3>
 <p>To apply for transfer, please click <a href="https://www.hougangsec.moe.edu.sg/quick-links/appeal/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h3>GREAT Start Week For Sec 1 to Sec 5</h3>
-<p><a href="/files/GREAT_START_WEEK_2025_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">GREAT Start Week 2025 Programme</a>
+<p><a href="/files/Parents/GREAT_START_2026.pdf" rel="noopener nofollow" target="_blank">Great Start Week 2026 programme</a>
 </p>
+<h3>Principal Meets Parents 2026</h3>
+<p>Sec 1 <a href="/files/Parents/2__Sec_1_PMP_P_s_Address_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 PMP P's Address 2026</a>
+</p>
+<p>Sec 1 <a href="/files/Parents/3a__HBL_SIL_PDLP_Briefing_2026_17_Jan_Final___updated__.pdf" rel="noopener nofollow" target="_blank">HBL SIL PDLP Briefing 2026</a>
+</p>
+<p>Sec 1 <a href="/files/Parents/3b__Assessment_Matters_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">Assessment Matters Briefing 2026</a>
+</p>
+<p>Sec 1 <a href="/files/Parents/4__CCA_Briefing_2026_17_Jan__final_.pdf" rel="noopener nofollow" target="_blank">CCA Briefing 2026</a>
+</p>
+<p>Sec 2 <a href="/files/Parents/Secondary_2_Subject_Combination_Overview_2026.pdf" rel="noopener nofollow" target="_blank">Subject Combination Overview 2026</a>
+</p>
+<p>Sec 2 <a href="/files/Parents/Secondary_2_PMP_2026_2.pdf" rel="noopener nofollow" target="_blank">Sec 2 PMP 2026</a>
+</p>
+<p>Sec 3 <a href="/files/Parents/Secondary_3_PMP_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 PMP 2026</a>
+</p>
+<p>Sec 4 <a href="/files/Parents/3__Sec_4_and_5_PMP_P_s_Address_2026_for_Parents_.pdf" rel="noopener nofollow" target="_blank">Sec 4 and 5 PMP P's Address 2026</a>
+</p>
+<p>Sec 4 <a href="/files/Parents/Sec_4_PMP_QA_Responses_for_parents.pdf" rel="noopener nofollow" target="_blank">Sec 4 PMP QA Responses for parent</a>
+<a href="/files/Parents/4__CCA_Briefing_2026_17_Jan__final_.pdf" rel="noopener nofollow" target="_blank">s</a>
+</p>
+<p></p>
