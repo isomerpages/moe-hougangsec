@@ -97,7 +97,6 @@ to lower income family. Parents can apply online at <a href="https://eservice.im
 <p>Sec 1 <a href="/files/Parents/2__Sec_1_PMP_P_s_Address_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 PMP P's Address 2026</a>
 </p>
 <p>Sec 1 <a href="/files/Parents/3a__HBL_SIL_PDLP_Briefing_2026_17_Jan_Final___updated__.pdf" rel="noopener nofollow" target="_blank">HBL SIL PDLP Briefing 2026</a>
-<a href="/files/Parents/2__Sec_1_PMP_P_s_Address_2026.pdf" rel="noopener nofollow" target="_blank">026</a>
 </p>
 <p>Sec 1 <a href="/files/Parents/3b__Assessment_Matters_Briefing_2026.pdf" rel="noopener nofollow" target="_blank">Assessment Matters Briefing 2026</a>
 </p>
@@ -105,7 +104,7 @@ to lower income family. Parents can apply online at <a href="https://eservice.im
 </p>
 <p>Sec 2 <a href="/files/Parents/Secondary_2_Subject_Combination_Overview_2026.pdf" rel="noopener nofollow" target="_blank">Subject Combination Overview 2026</a>
 </p>
-<p>Sec 2 <a href="/files/Parents/4__CCA_Briefing_2026_17_Jan__final_.pdf" rel="noopener nofollow" target="_blank">CCA Briefing 2026</a>
+<p>Sec 2 <a href="/files/Parents/4__CCA_Briefing_2026_17_Jan__final_.pdf" rel="noopener nofollow" target="_blank">Sec 2 PMP 2026 to upload</a>
 </p>
 <p>Sec 3 <a href="/files/Parents/Secondary_3_PMP_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 PMP 2026</a>
 </p>
