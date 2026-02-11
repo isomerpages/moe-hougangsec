@@ -145,7 +145,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.ite.edu.sg/wps/portal/definitely-des/" rel="noopener noreferrer nofollow" target="_blank">On ITE to Poly Program (DPP)</a>
+<p><a href="https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/higher-nitec-for-dpp/" rel="noopener noreferrer nofollow" target="_blank">On ITE to Poly Program (DPP)</a>
 </p>
 </li>
 </ul>
