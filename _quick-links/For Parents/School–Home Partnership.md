@@ -3,6 +3,7 @@ title: School–Home Partnership
 permalink: /quick-links/For-Parents/school-home-partnership/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 Dear Parents,
 
@@ -14,10 +15,10 @@ We hope these guidelines on school-home partnership will be a useful reference f
 
 MOE has also provided the guides which may be useful to you below.    
 
-[English](https://www.moe.gov.sg/-/media/files/news/press/2019/guidelines-for-school-home-partnership.pdf)
+[English](https://www.moe.gov.sg/api/media/984c30bb-3fc9-478b-93a9-35885c15ec82/guidelines-for-school-home-partnership.pdf)
 
-[Chinese](https://www.moe.gov.sg/-/media/files/news/press/2019/guidelines-for-school-home-partnership-chinese.pdf)
+[Chinese](https://www.moe.gov.sg/api/media/3b89af2c-14b8-4d1f-b558-eb2517d95a38/guidelines-for-school-home-partnership-chinese.pdf)
 
-[Malay](https://www.moe.gov.sg/-/media/files/news/press/2019/guidelines-for-school-home-partnership-malay.pdf)
+[Malay](https://www.moe.gov.sg/api/media/a428fdb6-0c29-4184-8bce-8e17dd145863/guidelines-for-school-home-partnership-malay.pdf)
 
-[Tamil](https://www.moe.gov.sg/-/media/files/news/press/2019/guidelines-for-school-home-partnership-tamil.pdf)
+[Tamil](https://www.moe.gov.sg/api/media/c812b334-15e8-4623-8b3e-364158fa9919/guidelines-for-school-home-partnership-tamil.pdf)

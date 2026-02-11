@@ -13,7 +13,7 @@ fee. <a href="https://jeepsinguniform.com/collections/hougang-secondary-school" 
 </p>
 <p><strong>II. Purchase at Jeep Sing Retail Outlet</strong>
 <br>This option is by <u>appointment only, no walk-in</u>. Please book your
-time slot via this weblink. <a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a>
+time slot via this weblink. <a href="https://jeepsinguniform.com/pages/contact-us" rel="noopener nofollow" target="_blank">https://jeepsinguniform.com/pages/appointment-booking</a>
 </p>
 <p><strong>III. Purchase in School</strong>
 <br>Walk-in purchase is available on the following dates and time.
