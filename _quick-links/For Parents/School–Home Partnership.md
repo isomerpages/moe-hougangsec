@@ -19,6 +19,6 @@ MOE has also provided the guides which may be useful to you below.
 
 [Chinese](https://www.moe.gov.sg/api/media/3b89af2c-14b8-4d1f-b558-eb2517d95a38/guidelines-for-school-home-partnership-chinese.pdf)
 
-[Malay](https://www.moe.gov.sg/-/media/files/news/press/2019/guidelines-for-school-home-partnership-malay.pdf)
+[Malay](https://www.moe.gov.sg/api/media/a428fdb6-0c29-4184-8bce-8e17dd145863/guidelines-for-school-home-partnership-malay.pdf)
 
 [Tamil](https://www.moe.gov.sg/-/media/files/news/press/2019/guidelines-for-school-home-partnership-tamil.pdf)
