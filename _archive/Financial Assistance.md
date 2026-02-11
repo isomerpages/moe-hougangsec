@@ -24,4 +24,3 @@ More details on the FAS is available on the MOE websites below.&nbsp;
 
 [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)  
 
-[Frequently Asked Questions](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=32819&amp;utm_source=moe-corp-site&amp;utm_medium=referral)
