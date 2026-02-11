@@ -182,7 +182,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" alt="SSOE" src="/images/SSOE.jpeg">
 </div>
-<p>(insert link)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
