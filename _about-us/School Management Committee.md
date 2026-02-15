@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <p><strong>Mdm Norhayati Awang</strong>
 <br><a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>
-<br><strong>Mrs Lim Yin Chieu Audrey</strong>
+<br><strong>Mrs Audrey Ee-Lim Yin Chieu</strong>
 <br><a href="mailto:hougang_ss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hougang_ss@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
