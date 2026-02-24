@@ -7,7 +7,7 @@ description: ""
 <p>Please refer to the information below regarding assessments.
 <br>
 </p>
-<h4>2026 Weighted Assessments</h4>
+<h4>2026 Weighted Assessments and Examinations</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -116,6 +116,32 @@ description: ""
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Examination</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Information</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages (MTL) Oral Examination</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to Sec 4: <a href="/files/Assessment/2026 Assessment/MTL_Oral_Exam_2026_for_Website.pdf" rel="noopener nofollow" target="_blank">MTL Oral Examination Schedule 2026</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <h4>2025 GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
@@ -187,6 +213,8 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
 <h4>2025 End-of-Year Examination (Sec 1 to Sec 3)</h4>
 <table style="minWidth: 50px">
