@@ -7,7 +7,7 @@ description: ""
 <p>Please refer to the information below regarding assessments.
 <br>
 </p>
-<h4>2026 Weighted Assessments and Examinations</h4>
+<h4>2026 Weighted Assessments</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -116,6 +116,7 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4>2026 End-of-Year and Preliminary Examinations</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -136,6 +137,24 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1 to Sec 4: <a href="/files/Assessment/2026 Assessment/MTL_Oral_Exam_2026_for_Website.pdf" rel="noopener nofollow" target="_blank">MTL Oral Examination Schedule 2026</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language Oral End-of-Year Oral Examination (Sec 1 to Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to Sec 3: <a href="/files/Assessment/2026 Assessment/HS_2026_030_Letter_for_EOY_EL_Oral_Exam.pdf" rel="noopener nofollow" target="_blank">English EOY Oral Exam</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language Oral for Preliminary Examination (Sec 4 &amp; 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5: <a href="/files/Assessment/2026 Assessment/HS_2026_031_Letter_for_Prelim_EL_Oral_Exam.pdf" rel="noopener nofollow" target="_blank">English Oral for Preliminary Exam</a>
 </p>
 </td>
 </tr>
