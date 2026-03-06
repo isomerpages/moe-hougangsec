@@ -121,18 +121,17 @@ to lower income family. Parents can apply online at <a href="https://eservice.im
 <p>Sec 4 <a href="/files/HS_2026_034_Inspire_HS_Series_1_Secondary_4.pdf" rel="noopener nofollow" target="_blank">HS_2026_034_Inspire_HS_Series_1_Secondary_4</a>
 </p>
 <h3>March ECT 2026</h3>
-<p><a href="/files/March_ECT_2026_4A.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4A</a>
+<p><a href="/files/ECT/March_ECT_2026_4A.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4A</a>
 </p>
-<p><a href="/files/March_ECT_2026_4E.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4E</a>
+<p><a href="/files/ECT/March_ECT_2026_4E.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4E</a>
 </p>
-<p><a href="/files/March_ECT_2026_4H1H2.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4H1H2</a>
+<p><a href="/files/ECT/March_ECT_2026_4H1H2.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4H1H2</a>
 </p>
-<p><a href="/files/March_ECT_2026_4N.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4N</a>
+<p><a href="/files/ECT/March_ECT_2026_4N.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4N</a>
 </p>
-<p><a href="/files/March_ECT_2026_4O.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4O</a>
+<p><a href="/files/ECT/March_ECT_2026_4O.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4O</a>
 </p>
-<p><a href="/files/March_ECT_2026_4S.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4S</a>
+<p><a href="/files/ECT/March_ECT_2026_4S.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4S</a>
 </p>
-<p><a href="/files/March_ECT_2026_4U.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4U</a>
+<p><a href="/files/ECT/March_ECT_2026_4U.pdf" rel="noopener nofollow" target="_blank">March_ECT_2026_4U</a>
 </p>
-<p></p>
