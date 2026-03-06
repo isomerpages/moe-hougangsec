@@ -1,6 +1,6 @@
 ---
 title: ECT Schedule 2026
-date: 2025-03-06
+date: 2026-03-06
 layout: link
 description: ""
 image: ""
