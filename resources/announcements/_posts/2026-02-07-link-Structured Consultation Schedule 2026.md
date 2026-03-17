@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.hougangsec.moe.edu.sg/2025-structured-consultation-schedule/
+external: https://www.hougangsec.moe.edu.sg/2026-structured-consultation-schedule/
 ---
