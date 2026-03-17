@@ -7,5 +7,5 @@ third_nav_title: For Parents
 ---
 <p>Dear parents/guardians,</p>
 <p>Please refer to the Structured Consultation Schedule below for more details.</p>
-<p><a href="/files/SCT/HS_2026_015_SCT_2026.pdf" rel="noopener nofollow" target="_blank">HS_2026_015_SCT_2026</a>
+<p><a href="/files/SCT/HS_2026_015_SCT_2026.pdf" rel="noopener nofollow" target="_blank">Term 1 SCT Schedule 2026</a>
 </p>
