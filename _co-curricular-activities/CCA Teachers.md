@@ -32,7 +32,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="20" colspan="1">
+<td rowspan="24" colspan="1">
 <p><strong>Physical Sports</strong>
 </p>
 </td>
@@ -64,7 +64,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Football (Boys)</strong>
 </p>
 </td>
@@ -100,7 +100,15 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Noh Danial Abdul Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>noh_danial_abdul_hamid_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
 <p><strong>Floorball (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,6 +116,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>law_ngiap_hui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Irwan Bin Jamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_irwan_jamal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -128,14 +144,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Irwan Bin Jamal</p>
+<p>Noor Aqilah Noor Azlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_irwan_jamal@moe.edu.sg</p>
+<p>noor_aqilah_noor_azlan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Judo (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
@@ -163,6 +179,14 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Tina Yashwant Agarwal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tina_yashwant_agarwal@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
 <td rowspan="3" colspan="1">
 <p><strong>Netball (Girls)&nbsp;</strong>
 </p>
@@ -176,6 +200,14 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Valeria Goh Jing Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_jing_yi_valeria@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lina Amli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -183,15 +215,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Valeria Goh Jinh Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>goh_jing_yi_valeria@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Wushu (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,6 +223,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>yeo_see_heng_ronnie@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teo Chun Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>teo_chun_min@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -211,10 +243,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teo Chun Min</p>
+<p>Jian Xingmin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>teo_chun_min@moe.edu.sg</p>
+<p>jian_xingmin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -353,10 +385,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Charles Wong Wai Kit</p>
+<p>Chua Yong Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_wai_kit_charles@moe.edu.sg</p>
+<p>chua_yong_le_c@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -387,7 +419,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="19" colspan="1">
+<td rowspan="22" colspan="1">
 <p><strong>Visual and Peforming Arts</strong>
 </p>
 </td>
@@ -445,7 +477,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Guzheng Ensemble (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
@@ -473,7 +505,15 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Zhou Xiao Juan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zhou_shaojuan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p><strong>Modern Dance ( Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -500,7 +540,15 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Nur Jasmine Roslan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_jasmine_roslan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p><strong>Symphonic Band (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
@@ -525,6 +573,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>rynise_lee_hsin_yu@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ng He Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_he_tong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
