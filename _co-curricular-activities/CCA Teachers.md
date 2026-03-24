@@ -183,7 +183,7 @@ description: ""
 <p>Tina Yashwant Agarwal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tina_yashwant_agarwal@moe.edus.g</p>
+<p>tina_yashwant_agarwal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
