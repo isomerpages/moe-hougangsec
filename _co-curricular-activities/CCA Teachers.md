@@ -215,7 +215,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Wushu (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,6 +239,17 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>teo_chun_min@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jing Xingmin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>jian_xingmin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
