@@ -243,7 +243,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jing Xingmin</p>
+<p>Jian Xingmin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jian_xingmin@moe.edu.sg</p>
