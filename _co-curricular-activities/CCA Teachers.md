@@ -200,18 +200,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lina Amli</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>amalina_abdul_samad@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Valeria Goh Jinh Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_jing_yi_valeria@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lina Amli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>amalina_abdul_samad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
