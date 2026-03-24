@@ -139,8 +139,7 @@ description: ""
 <p>Noor Aqilah Noor Azlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:noor_aqilah_noor_azlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_aqilah_noor_azlan@moe.edu.sg</a>
-</p>
+<p>noor_aqilah_noor_azlan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
