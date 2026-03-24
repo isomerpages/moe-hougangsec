@@ -200,7 +200,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Valeria Goh Jinh Yi</p>
+<p>Valeria Goh Jing Yi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_jing_yi_valeria@moe.edu.sg</p>
@@ -227,18 +227,18 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vanessa Ng Mei Leng&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_mei_leng_vanessa@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Teo Chun Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>teo_chun_min@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vanessa Ng Mei Leng&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_mei_leng_vanessa@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
