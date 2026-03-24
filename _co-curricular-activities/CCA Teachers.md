@@ -419,7 +419,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="21" colspan="1">
+<td rowspan="22" colspan="1">
 <p><strong>Visual and Peforming Arts</strong>
 </p>
 </td>
@@ -548,7 +548,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Symphonic Band (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
@@ -573,6 +573,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>rynise_lee_hsin_yu@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
