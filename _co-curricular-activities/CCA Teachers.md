@@ -32,7 +32,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="21" colspan="1">
+<td rowspan="22" colspan="1">
 <p><strong>Physical Sports</strong>
 </p>
 </td>
@@ -64,7 +64,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Football (Boys)</strong>
 </p>
 </td>
@@ -97,6 +97,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>ezra_toh_ren_yi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Noh Danial Abdul Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>noh_danial_abdul_hamid_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
