@@ -388,7 +388,7 @@ description: ""
 <p>Chua Yong Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_yong_le@moe.edu.sg</p>
+<p>chua_yong_le_c@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
