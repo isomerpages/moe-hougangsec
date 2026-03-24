@@ -385,10 +385,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Charles Wong Wai Kit</p>
+<p>Chua Yong Le</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_wai_kit_charles@moe.edu.sg</p>
+<p>chua_yong_le@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -419,7 +419,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="19" colspan="1">
+<td rowspan="21" colspan="1">
 <p><strong>Visual and Peforming Arts</strong>
 </p>
 </td>
@@ -477,7 +477,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Guzheng Ensemble (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
@@ -505,7 +505,15 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Zhou Xiao Juan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>zhou_shaojuan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
 <p><strong>Modern Dance ( Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -529,6 +537,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>valerie_chia_kai_ning@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nur Jasmine Roslan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_jasmine_roslan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
