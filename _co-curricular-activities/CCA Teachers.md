@@ -32,7 +32,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="20" colspan="1">
+<td rowspan="21" colspan="1">
 <p><strong>Physical Sports</strong>
 </p>
 </td>
@@ -100,7 +100,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="5" colspan="1">
 <p><strong>Floorball (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,6 +108,14 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>law_ngiap_hui@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Irwan Bin Jamal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>muhammad_irwan_jamal@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -128,10 +136,11 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muhammad Irwan Bin Jamal</p>
+<p>Noor Aqilah Noor Azlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>muhammad_irwan_jamal@moe.edu.sg</p>
+<p><a href="mailto:noor_aqilah_noor_azlan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_aqilah_noor_azlan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
