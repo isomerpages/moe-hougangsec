@@ -577,10 +577,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng He Tong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ng_he_tong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
