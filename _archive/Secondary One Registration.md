@@ -86,7 +86,7 @@ B.  New MOE FAS applicants: Please download, print, and complete this <a href="h
 The use of Personal Learning Devices (PLD) is a requirement for secondary schools. The PLD initiative aims to develop and strengthen the digital literacy of your child/ward. For important information and required actions relating to the PLD initiative, including financial assistance as well as purchase of the PLD, please refer to <a href="https://www.hougangsec.moe.edu.sg/quick-links/PLD-Initiative/pld-initiative/">this link.</a>
 	</p>
 	<p>
-Do note that the submission of the <a href="https://go.gov.sg/pdlpadmin">online application</a>  includes the authorisation to use your child’s Edusave for the purchase of the PLD. It is important that these are submitted before <u><b>Tuesday, 26 December 2023, 12 pm</b></u> so that the school can initiate the procurement of the PLDs without delay.</p>
+Do note that the submission of the online application  includes the authorisation to use your child’s Edusave for the purchase of the PLD. It is important that these are submitted before <u><b>Tuesday, 26 December 2023, 12 pm</b></u> so that the school can initiate the procurement of the PLDs without delay.</p>
 	<p>
 		Please click the link below to submit your purchase of the PLD.  
 		</p><p> Click here to purchase the PLD
