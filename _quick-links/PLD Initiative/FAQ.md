@@ -24,3 +24,6 @@ All user data which is collected by MOE will be stored in secure servers managed
 
 PDPC | Advisory Guidelines for the Education Sector
 https://www.pdpc.gov.sg/guidelines-and-consultation/2018/09/advisory-guidelines-for-the-education-sector
+
+
+
