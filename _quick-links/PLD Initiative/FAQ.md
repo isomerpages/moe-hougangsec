@@ -20,4 +20,7 @@ variant: markdown
 
 2\. **Where will the data collected by DMA and IT Applications for NDLP be stored?** 
 
-All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies: [https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection](https://www.smartnation.gov.sg/why-Smart-Nation/secure-smart-nation/personal-data-protection)
+All user data which is collected by MOE will be stored in secure servers managed by the respective vendors of our systems. The Government has put in place strong personal data protection laws and policies to safeguard sensitive data collected by public agencies such as MOE. Please refer to this website for more information on these laws and policies:
+
+[Advisory Guidelines for the Education Sector](https://www.pdpc.gov.sg/guidelines-and-consultation/2018/09/advisory-guidelines-for-the-education-sector)
+
