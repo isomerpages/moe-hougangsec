@@ -310,7 +310,7 @@ videos etc)</p>
 <p><a href="https://go.gov.sg/postsecadminguide" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/postsecadminguide</a> -
 Parents can refer to the MOE ECG Resources for Parents to support their
 children’s ECG journey</p>
-<p><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf</a> -
+<p><a href="https://go.gov.sg/tips-for-parents" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.pdf</a> -
 Journeying with Our Children, Supporting Their Aspirations</p>
 </div>
 </details>
@@ -322,6 +322,6 @@ Journeying with Our Children, Supporting Their Aspirations</p>
 </details>
 </div>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN54cIvFQEKbFIriGrx5prXV1jc8QNZsfMzSZcom5j21YZw5_P1WlcbvjZWIsd6ZYwodSP-zWKUCdK/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSN54cIvFQEKbFIriGrx5prXV1jc8QNZsfMzSZcom5j21YZw5_P1WlcbvjZWIsd6ZYwodSP-zWKUCdK/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
