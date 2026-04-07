@@ -95,7 +95,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Jian Xingmin
-<br><a href="mailto:jian_xingmin_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jian_xingmin_1@moe.edu.sg</a>
+<br><a href="mailto:jian_xingmin_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jian_xingmin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,7 +131,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Zhou Shaojuan
-<br><a rel="noopener noreferrer nofollow" target="_blank">zhou_shaojuan_1@moe.edu.sg</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">zhou_shaojuan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -488,7 +488,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Nur Jasmine Binti Roslan
-<br><a href="mailto:nur_jasmine_roslan_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_jasmine_roslan_1@moe.edu.sg</a>
+<br><a href="mailto:nur_jasmine_roslan_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_jasmine_roslan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -542,7 +542,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ng He Tong
-<br><a href="mailto:ng_he_tong_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_he_tong_1@moe.edu.sg</a>
+<br><a href="mailto:ng_he_tong_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_he_tong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -627,7 +627,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Noh Danial Bin Abdul Hamid
-<br><a href="mailto:noh_danial_abdul_hamid_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noh_danial_abdul_hamid_a_1@moe.edu.sg</a>
+<br><a href="mailto:noh_danial_abdul_hamid_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noh_danial_abdul_hamid_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
