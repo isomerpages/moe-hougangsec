@@ -419,7 +419,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noor Aqilah Binte Noor Azlan
-<br><a href="mailto:noor_aqilah_noor_azlan_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_aqilah_noor_azlan_1@moe.edu.sg</a>
+<br><a href="mailto:noor_aqilah_noor_azlan_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_aqilah_noor_azlan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
