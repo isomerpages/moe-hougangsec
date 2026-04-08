@@ -64,7 +64,7 @@ description: ""
 <p>WA2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2026 Assessment/HS_2026_010_WEIGHTED_ASSESSMENT_SCHEDULE_FOR_SEMESTER_1__School_Website_.pdf" rel="noopener nofollow" target="_blank">2026 WA1 and WA2 Schedule</a>
+<p><a href="/files/Assessment/2026 Assessment/HS_2026_010_Class_Test_Cover_Letter_and_Schedule__Semester_1__Revised_7_April.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 WA2 Schedule (Revised)</a>
 </p>
 </td>
 </tr>
@@ -73,10 +73,11 @@ description: ""
 <p>WA2 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1: To be released.
-<br>Sec 2: To be released.
-<br>Sec 3: To be released.
-<br>Sec 4 &amp; 5: To be released.</p>
+<p>Sec 1: <a href="/files/Assessment/2026 Assessment/2026_Secondary_1_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA2 Format</a>
+<br>Sec 2: <a href="/files/Assessment/2026 Assessment/2026_Secondary_2_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA2 Format</a>
+<br>Sec 3: <a href="/files/Assessment/2026 Assessment/2026_Secondary_3_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA2 Format</a>
+<br>Sec 4 &amp; 5: <a href="/files/Assessment/2026 Assessment/2026_Secondary_4_5_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA2 Format</a>
+</p>
 </td>
 </tr>
 </tbody>
