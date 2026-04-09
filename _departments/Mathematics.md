@@ -104,4 +104,21 @@ Maths and POA</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BU3uEeaz0gI"></iframe>
 </div>
+<p><strong>Alternate Assessment at HS</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Assessment strategies beyond traditional exams to provide students more
+opportunities to strengthen their 21st century competencies and develop
+as self-directed learners.</p>
+</li>
+<li>
+<p>Supports a holistic approach in assessing students’ learning needs whilst
+providing a variety of learning experiences.</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/Alternate_Assessment_at_HS.jpg">
+</div>
+<p>Computational Thinking at HS</p>
 <p></p>
