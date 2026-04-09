@@ -13,18 +13,22 @@ variant: tiptap
 <br>Mr Khairul Adli (School Staff Developer)
 <br>Miss Serina Tan (HOD/CCE)
 <br>Mr Daniel Tan (Covering Year Head)
-<br>Ms. Lynn Yeo (Subject Head CCE)
+<br>Ms Lynn Yeo (Subject Head CCE)
 <br>Mr Aaron Yeo
 <br>Mdm Goh Lay Hoon
 <br>Mdm Jessica Heng
 <br>Mdm Rebecca Ho
 <br>Miss Wee Swee Kee (Covering SH/Talent Development)
 <br>Mdm Vanessa Ng
-<br>Ms. Khoo Ru Yu Melissa
-<br>Ms. Alisa Choong Hwee Xuan
+<br>Ms Khoo Ru Yu Melissa
+<br>Miss Valeria Chia
+<br>Ms Nur Jasamine Roslan
+<br>Ms Alisa Choong Hwee Xuan
 <br>Mdm Zalina Bte Abdul Jalil
 <br>Mr John Koh
-<br>Mr Lee Chee Weng</p>
+<br>Mr Lee Chee Weng
+<br>Mdm Lynn Ng Lay Suan
+<br>Dr Chan Wen Kiat</p>
 <p><strong>HS Enrichment Programme</strong>&nbsp;:&nbsp;
 <br>To provide students with opportunity to apply mathematics concepts to
 solve problems in Real World Context and to develop critical thinking skills
@@ -34,7 +38,7 @@ through our level programmes:
 <br>Sec 1 to 3 Maths Real World Challenge
 <br>Sec 3 POA Investment Game</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1j2MpKTHMFyQhV3guSxVkVzcG0RwxRhbHYxsengRZn4U/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1j2MpKTHMFyQhV3guSxVkVzcG0RwxRhbHYxsengRZn4U/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>HS Maths Talent Programme:</strong>
 <br>• To identify and nurture Hougeans with an aptitude for Mathematics/POA/CPA
@@ -79,6 +83,6 @@ Maths and POA</p>
 </ol>
 <h3>Measuring Angles Using A Protractor</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BU3uEeaz0gI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BU3uEeaz0gI"></iframe>
 </div>
 <p></p>
