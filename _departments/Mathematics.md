@@ -132,6 +132,8 @@ and inventive thinking skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/Computational_Thinking_at_HS.png">
 </div>
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRd4OVIOHNYubyk1UZzoEdDLHRFWRlFQigPw3Fy21RomU9_z0lQvqMSbjkq5XxNfDiFEBIsOolwQQ3N/pubembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 <p></p>
 <p></p>
