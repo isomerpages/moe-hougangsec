@@ -81,12 +81,7 @@ Mentions
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/singapore%20math%20kangaroo%20contest.jpeg">
 </div>
-<p>2023 All Singapore Secondary Mathematics Competition for Normal Course
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/all%20singapore%20math%20normal%20competition.jpeg">
-</div>
+<p></p>
 <p><strong>HS Maths ICT Programme</strong>
 </p>
 <ol data-tight="true" class="tight">
