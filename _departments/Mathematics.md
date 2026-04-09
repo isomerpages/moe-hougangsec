@@ -34,7 +34,7 @@ variant: tiptap
 solve problems in Real World Context and to develop critical thinking skills
 through our level programmes:
 <br>Sec 1 Data handling
-<br>Sec 2 Maths Escape
+<br>Sec 2 Maths Escape and Math Trail
 <br>Sec 1 to 3 Maths Real World Challenge
 <br>Sec 3 POA Investment Game</p>
 <div class="iframe-wrapper">
