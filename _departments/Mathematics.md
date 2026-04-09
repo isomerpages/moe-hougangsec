@@ -41,9 +41,28 @@ through our level programmes:
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1j2MpKTHMFyQhV3guSxVkVzcG0RwxRhbHYxsengRZn4U/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong>HS Maths Talent Programme:</strong>
-<br>• To identify and nurture Hougeans with an aptitude for Mathematics/POA/CPA
+<br>• To identify and nurture Hougeans with an aptitude for Mathematics/POA
 <br>• To stretch pupils with higher ability in Mathematics (HPL) and instill
 in them a passion for solving non-routine problems.</p>
+<p></p>
+<p>2025 RP Financial Literacy Competition: 1st place</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/2025_RP_financial_literacy_comp.jpg">
+</div>
+<p>Singapore Math Kangaroo Contest (SMKC) 2025, 3 Golds, 2 Silvers, 8 Bronzes,
+4 Honourable Mentions</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/Singapore_Math_Kangaroo_Contest.jpg">
+</div>
+<p>NIE Math Challenge 2025: 4 High Distinctions and 29 Distinctions</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/NIE_Math_Challenge_2025.png">
+</div>
+<p>Singapore Mathematical Olympiad 2025</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/Singapore_Mathematical_Olympiad_2025.png">
+</div>
+<p></p>
 <p>2023 Animation and Game Making Competition 1 Bronze Award, 1 Certificate
 of Participation</p>
 <div class="isomer-image-wrapper">
