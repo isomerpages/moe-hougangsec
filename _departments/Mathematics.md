@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p><strong>Head of Department</strong>
-<br>Ms. Tracy Huang</p>
+<br>Ms Tracy Huang</p>
 <p><strong>Subject Head</strong>
 <br>Mr Quek Wee Hee Nicholas</p>
 <p><strong>Teachers</strong>
@@ -21,9 +21,9 @@ variant: tiptap
 <br>Miss Wee Swee Kee (Covering SH/Talent Development)
 <br>Mdm Vanessa Ng
 <br>Ms Khoo Ru Yu Melissa
-<br>Miss Valeria Chia
-<br>Ms Nur Jasamine Roslan
 <br>Ms Alisa Choong Hwee Xuan
+<br>Miss Valeria Chia
+<br>Ms Nur Jasmine Roslan
 <br>Mdm Zalina Bte Abdul Jalil
 <br>Mr John Koh
 <br>Mr Lee Chee Weng
