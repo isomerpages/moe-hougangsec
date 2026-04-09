@@ -120,5 +120,17 @@ providing a variety of learning experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/Alternate_Assessment_at_HS.jpg">
 </div>
-<p>Computational Thinking at HS</p>
+<p><strong>Computational Thinking at HS</strong>
+</p>
+<p>• Computational Thinking encompasses systematic-thinking skills essential
+in our digital age.</p>
+<p>• Involves decomposition (breaking down problems), pattern recognition,
+abstraction, and algorithms that supports students’ critical, adaptive
+and inventive thinking skills.</p>
+<p>Computational flowchart created in class by Secondary One students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/Math/Computational_Thinking_at_HS.png">
+</div>
+<p></p>
 <p></p>
