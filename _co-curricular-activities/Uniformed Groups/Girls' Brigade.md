@@ -205,7 +205,7 @@ Assistant Squad Leader, Drill Mistress, Quarter Mistress, Executive Committee
 <p>CSM: BELICIA POY LIYA (S3-S)</p>
 </li>
 <li>
-<p>ACSM: TAN WAN XUAN GERRILYN (S3-S)</p>
+<p>ACSM: TAN WAN XUAN GERRILYN (S3-G)</p>
 </li>
 </ul>
 <h3>Route of Advancement</h3>
