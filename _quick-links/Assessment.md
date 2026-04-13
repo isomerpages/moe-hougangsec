@@ -74,7 +74,7 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 1: <a href="/files/Assessment/2026 Assessment/2026_Secondary_1_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA2 Format</a>
-<br>Sec 2: <a href="/files/Assessment/2026 Assessment/2026_Secondary_2_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA2 Format</a>
+<br>Sec 2: <a href="/files/Assessment/2026 Assessment/2026_Secondary_2_WA2_Format_Updated.pdf" rel="noopener noreferrer nofollow" target="_blank">WA2 Format</a>
 <br>Sec 3: <a href="/files/Assessment/2026 Assessment/2026_Secondary_3_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA2 Format</a>
 <br>Sec 4 &amp; 5: <a href="/files/Assessment/2026 Assessment/2026_Secondary_4_5_WA2_Format.pdf" rel="noopener noreferrer nofollow" target="_blank">WA2 Format</a>
 </p>
