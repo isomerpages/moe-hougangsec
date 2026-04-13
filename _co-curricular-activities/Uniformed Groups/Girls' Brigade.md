@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yu6wV4n_ggE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yu6wV4n_ggE"></iframe>
 </div>
 <h3>Introduction</h3>
 <p>The 86th Company started at Hougang Secondary School in 2012. The Company
@@ -202,10 +202,10 @@ Assistant Squad Leader, Drill Mistress, Quarter Mistress, Executive Committee
 </div>
 <ul data-tight="true" class="tight">
 <li>
-<p>CSM: TAN XIN LEI XUZENN (S3-S)</p>
+<p>CSM: BELICIA POY LIYA (S3-S)</p>
 </li>
 <li>
-<p>ACSM: LEE EN TING KAYSE (S3-S)</p>
+<p>ACSM: TAN WAN XUAN GERRILYN (S3-S)</p>
 </li>
 </ul>
 <h3>Route of Advancement</h3>
@@ -221,6 +221,6 @@ Sergeant –&gt; Master Sergeant</p>
 <br><strong>Venue:</strong>&nbsp;School Compound</p>
 <h3>Photo Gallery</h3>
 <div class="iframe-wrapper">
-<iframe height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSItbNYJEE5J1RdhJx-hM-FnrvRhfbsFlA_Afqs7g0VWZVhHYqawvURCfEzu5otGesW8PIB1auXAlRu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSItbNYJEE5J1RdhJx-hM-FnrvRhfbsFlA_Afqs7g0VWZVhHYqawvURCfEzu5otGesW8PIB1auXAlRu/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
