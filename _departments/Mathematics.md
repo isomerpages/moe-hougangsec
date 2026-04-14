@@ -22,7 +22,7 @@ variant: tiptap
 <br>Mdm Vanessa Ng
 <br>Ms Khoo Ru Yu Melissa
 <br>Ms Alisa Choong Hwee Xuan
-<br>Miss Valeria Chia
+<br>Miss Valerie Chia
 <br>Ms Nur Jasmine Roslan
 <br>Mdm Zalina Bte Abdul Jalil
 <br>Mr John Koh
