@@ -11,7 +11,7 @@ variant: tiptap
 <h3>Vision</h3>
 <p>Passionate Learners and Principled Leaders</p>
 <h3>Mission</h3>
-<p>We strive to find Joy in making music together</p>
+<p>We strive to find Joy in making music together.</p>
 <h3>Motto</h3>
 <p>'Unity through the sound of music.'</p>
 <h3>CCA Leadership Structure</h3>
