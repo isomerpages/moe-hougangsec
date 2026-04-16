@@ -6,14 +6,14 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h-T9JX-8R4U?si=ssiOrE7clmfF5-GW"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/h-T9JX-8R4U?si=ssiOrE7clmfF5-GW"></iframe>
 </div>
 <h3>Vision</h3>
 <p>Passionate Learners and Principled Leaders</p>
 <h3>Mission</h3>
-<p>We strive to find the Joy of Making Music Together</p>
+<p>We strive to find Joy in making music together</p>
 <h3>Motto</h3>
-<p>Unity through the Sound of Music</p>
+<p>'Unity through the sound of music.'</p>
 <h3>CCA Leadership Structure</h3>
 <p><strong>Executive Committee</strong>
 <br>Band Major: WYNNE FOO XUAN MING (S3-S)
@@ -101,6 +101,6 @@ variant: tiptap
 <p></p>
 <p>SYF 2025</p>
 <div class="iframe-wrapper">
-<iframe height="695" width="1236" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Mms_kMelkrA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="695" width="1236" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Mms_kMelkrA"></iframe>
 </div>
 <p></p>
