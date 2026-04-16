@@ -16,10 +16,9 @@ variant: tiptap
 <p>'Unity through the sound of music.'</p>
 <h3>CCA Leadership Structure</h3>
 <p><strong>Executive Committee</strong>
-<br>Band Major: WYNNE FOO XUAN MING (S3-S)
-<br>Drum Major: PEH ZHEN KAI (S3-N)
-<br>Student Conductor: CHEW JUN YANG (S3-N)
-<br>Asst Student Conductor: LOW WEN YI JOVAN (S2-O)</p>
+<br>Band Major: TEO JIA WEI (S3-A)
+<br>Drum Major: ONG RUI KANG (S3-A)
+<br>Concert Master: TOBIAS JOHN MEESTERS SOON MENG (S3-A)</p>
 <p><strong>Section Leaders</strong>
 <br>Flute and Oboe: LOW WEN YI JOVAN (S2-O)
 <br>Clarinet: LI YIXUAN (S2-N)
