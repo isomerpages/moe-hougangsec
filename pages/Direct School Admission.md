@@ -564,6 +564,6 @@ in their school community and beyond.</p>
 </div>
 <h3>CONTACT US</h3>
 <p>For further clarification, you may contact the following staff:
-<br>Mdm Jolin <a rel="noopener noreferrer nofollow" target="_blank">Chang<br>jolin_chang@schools.gov.sg</a> 
+<br>Mdm Jolin Chang<a rel="noopener noreferrer nofollow" target="_blank"><br>jolin_chang@schools.gov.sg</a> 
 <br>Tel. No: 6385-1990</p>
 <p></p>
