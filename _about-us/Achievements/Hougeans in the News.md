@@ -18,12 +18,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="#1" rel="noopener noreferrer nofollow" target="_blank">The Straits Times Article</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><a href="#2" rel="noopener noreferrer nofollow" target="_blank">One Dream Journal 2015</a>
 </p>
 </td>
@@ -100,19 +94,7 @@ Network (SCENE)</p>
 </table>
 <p>Thank you, Level Coaches, Character Coaches, Students of 4NA and 4T1.</p>
 <p></p>
-<h4>The Straits Times Article</h4>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Hougang%20Sec_mockup_A4%20acrylic.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Hougang%20Secondary%20%20teaching%20juniors-page-001.jpeg">
-</div>
-<p><a href="/files/Hougang%20Secondary%20%20teaching%20juniors.pdf" rel="noopener noreferrer nofollow" target="_blank">Hougang Secondary teaching juniors.pdf</a>
-</p>
-<p><em>© Singapore Press Holdings Limited. Permission required for reproduction</em>
-</p>
-<p></p>
-<h4>One Dream Journal</h4>
+<h4>One Dream Journal 2015</h4>
 <p>One Dream Journal Launch at HS on 30 January</p>
 <p>The Dream Journal is a collaborative project conceived by The One Dream
 Initiative and motion, supportedby the SG50 Celebration Fund. The journals’
