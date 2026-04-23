@@ -122,7 +122,7 @@ visited one of the home hospice patients living in Hougang and presented
 their handmade patchwork blanket to her.</p>
 <p>For more information, please see the link here https://www.hca.org.sg/hcaconnect/a-blanket-of-love/</p>
 <p></p>
-<h4>PAYM-SLC 10th Year Anniversary</h4>
+<h4>PAYM-SLC 10th Year Anniversary 2015</h4>
 <p><a href="/images/SLC.jpeg" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
 <div class="isomer-image-wrapper">
