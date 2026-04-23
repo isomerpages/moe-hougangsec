@@ -116,12 +116,6 @@ should all citizens and residents think and behave this way, Singapore
 and the world will be a much better, much brighter place.”</p>
 <p>- Peter Ong, Leader, One Dream Initiative.</p>
 <p></p>
-<h4>HS Story - A Blanket of Love by Secondary Four Students</h4>
-<p>A group of Hougang Secondary students, led by Ms Yen Nee and Ms Hwee Noi
-visited one of the home hospice patients living in Hougang and presented
-their handmade patchwork blanket to her.</p>
-<p>For more information, please see the link here https://www.hca.org.sg/hcaconnect/a-blanket-of-love/</p>
-<p></p>
 <h4>PAYM-SLC 10th Year Anniversary 2015</h4>
 <p><a href="/images/SLC.jpeg" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
 </p>
