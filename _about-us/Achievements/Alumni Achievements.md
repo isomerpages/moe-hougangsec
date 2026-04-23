@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
-<h2>Our Alumnus</h2>
+<h2>Our Alumni</h2>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">
