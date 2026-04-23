@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="#2" rel="noopener noreferrer nofollow" target="_blank">One Dream Journal</a>
+<p><a href="#2" rel="noopener noreferrer nofollow" target="_blank">One Dream Journal 2015</a>
 </p>
 </td>
 </tr>
