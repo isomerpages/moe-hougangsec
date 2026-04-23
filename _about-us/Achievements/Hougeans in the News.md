@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ignite BreadCycle Challenge 2025</p>
 </td>
 </tr>
 </tbody>
@@ -184,5 +184,6 @@ and the world will be a much better, much brighter place.”</p>
 </tbody>
 </table>
 <p></p>
+<h4>Ignite BreadCycle Challenge 2025</h4>
 <h4></h4>
 <p></p>
