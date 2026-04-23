@@ -111,7 +111,7 @@ projects, such as Gear Up, or as personal hobby.</p>
 <br>The techniques to print mugs includes sublimation prints. The mug press
 is similar to the T-shirt press but it is curved to suit the curve of the
 mug. Students from the Gear Up program prepared 120 mugs for teachers during
-the Staff Day Celebration.</p>
+the Teachers' Day Celebration.</p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/MG3.jpeg">
 </div>
