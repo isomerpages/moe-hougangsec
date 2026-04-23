@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
-<h2>Our Alumnus</h2>
+<h2>Our Alumni</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Achievements/3046___Hougang_Secondary_School_Sharing_Alumni_Success_Stories_NYP_2026.png">
+</div>
 <div class="isomer-card-grid">
 <div class="isomer-card">
 <div class="isomer-card-image">

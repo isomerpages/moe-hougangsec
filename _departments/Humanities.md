@@ -8,14 +8,14 @@ variant: tiptap
 <br>Mdm Li Huilin (Covering)
 <br>&nbsp;
 <br><strong>Subject Head</strong>
-<br>Ms. Joanne Toh Chui Theng (Covering)
+<br>Ms Joanne Toh Chui Theng (Covering)
 <br>&nbsp;
 <br><strong>Teachers</strong>
 <br>Mr Low Yi En (HOD/Pupil Management)
 <br>Mr Ng Wee Chung
 <br>Mr Vicknesh Kunnansekaran
 <br>Mrs Jeannie Pan (Covering AYH)
-<br>Ms. Tan Li Boon Vanessa
+<br>Ms Tan Li Boon Vanessa
 <br>Mr Law Ngiap Hui
 <br>Mr Tan Eng Tee Derrick
 <br>Mr Alvin Lye
@@ -24,7 +24,7 @@ variant: tiptap
 <p>Simply put, knowledge is gained by making meaning from direct experiences,
 a theory popularized by renowned American educational theorist, David A.
 Kolb.</p>
-<p>At HSS, the inquiry approach is the cornerstone to our students’ learning.
+<p>At HS, the inquiry approach is the cornerstone to our students’ learning.
 Our students learn how to gather relevant information, to make sense of
 them meaningfully, and to draw well-reasoned conclusions supported by evidence.
 To facilitate the learning, the department organises numerous learning
@@ -39,7 +39,7 @@ Blended Learning.</p>
 <p>Simply put, knowledge is gained by making meaning from direct experiences,
 a theory popularized by renowned American educational theorist, David A.
 Kolb.</p>
-<p>At HSS, the inquiry approach is the cornerstone to our students’ learning.
+<p>At HS, the inquiry approach is the cornerstone to our students’ learning.
 Our students learn how to gather relevant information, to make sense of
 them meaningfully, and to draw well-reasoned conclusions supported by evidence.
 To facilitate the learning, the department organises numerous learning
@@ -55,7 +55,7 @@ Blended Learning.</p>
 <p>Nurturing lifelong learners in the study of Humanities</p>
 <h3>Lower Secondary</h3>
 <h4>Geographical Investigation (GI)</h4>
-<p><u>Sec 1</u>
+<p><u>Secondary 1</u>
 <br>Sec 1 students conducted their GI via water testing at the school’s ponds.
 They took samples of water from the ponds and used the water test kits
 to test pH of the water and examine its quality. This allowed for a hands-on
@@ -69,7 +69,7 @@ activity for students to test real-world issues such as the water of ponds.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Humanities/gi_sec%201_2.jpg">
 </div>
-<p><u>Sec 2</u>
+<p><u>Secondary 2</u>
 <br>Singapore has one of the most rapidly ageing populations in the world.
 It is estimated that by 2030, one in four people will be aged over 65 years,
 and that this will rise to almost one in two by 2050. Sec 2 students were
@@ -79,7 +79,7 @@ they conduct surveys, collect, analyse and present their data. They will
 then come out with a conclusion and a reflection on the whole process of
 their investigation.</p>
 <h4>Historical Investigation (HI)</h4>
-<p><u>Sec 1</u>
+<p><u>Secondary 1</u>
 <br>This year, the Secondary One students visited two museums - the SGH Museum
 and the National Museum of Singapore. They looked through the artefacts
 and exhibits on display to help them in their investigation of life in
@@ -95,7 +95,7 @@ life, outside the classroom.</p>
 <p>
 <br>
 </p>
-<p><u>Sec 2</u>
+<p><u>Secondary 2</u>
 <br>This year, the Secondary Two students went through a series of museum
 virtual tours designed by our very own Secondary Two history teachers.
 This was an opportunity to sculpt students’ learning experience by helping
