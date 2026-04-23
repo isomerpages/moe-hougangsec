@@ -185,5 +185,21 @@ and the world will be a much better, much brighter place.”</p>
 </table>
 <p></p>
 <h4>Ignite BreadCycle Challenge 2025</h4>
-<h4></h4>
+<p>At Hougang Secondary School, we make learning exciting by designing lessons
+that spark curiosity and help students discover their passions. This was
+seen in our students’ recent success at the 2025 IgnITE Skills Challenge,
+a national competition organised by the Institute of Technical Education
+(ITE).</p>
+<p>Our team won 1st place in the BreadCycle Challenge: Innovate and Repurpose
+category, where they had to turn day-old bread into new and useful products.
+They created skincare items like face masks and scrubs using upcycled breadcrumbs
+and lemon peel powder, applying what they learned in class to solve real-world
+problems.</p>
+<p>Their project caught national attention — they were featured in The Straits
+Times and interviewed on 91.3FM, where they shared their challenges and
+dreams. This experience gave them valuable skills, boosted their confidence,
+and showed how creativity and sustainability can go hand in hand.</p>
+<p>For more information, please see the link here: <a href="https://www.straitstimes.com/singapore/hougang-secondary-students-turn-stale-bread-into-sweet-victory-at-ite-skills-competition" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/hougang-secondary-students-turn-stale-bread-into-sweet-victory-at-ite-skills-competition</a>
+</p>
+<p></p>
 <p></p>
