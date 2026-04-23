@@ -5,48 +5,6 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="#0" rel="noopener noreferrer nofollow" target="_blank">Chingay Parade Volunteers</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="#2" rel="noopener noreferrer nofollow" target="_blank">One Dream Journal 2015</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="#4" rel="noopener noreferrer nofollow" target="_blank">PAYM-SLC 10th Year Anniversary 2015</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="#6" rel="noopener noreferrer nofollow" target="_blank">PAYM Service Learning Festival 2015</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="#5" rel="noopener noreferrer nofollow" target="_blank">PAYM Service Learning Festival 2016</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ignite BreadCycle Challenge 2025</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Chingay Parade Volunteers</h4>
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/cpv1.jpeg">
