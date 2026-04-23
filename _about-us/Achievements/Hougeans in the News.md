@@ -123,6 +123,14 @@ and the world will be a much better, much brighter place.”</p>
 <img style="width:65%" height="auto" width="100%" src="/images/SLC.jpeg">
 </div>
 <p></p>
+<h4>PAYM Service Learning Festival 2015</h4>
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/paym15-1.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:65%" height="auto" width="100%" src="/images/paym15-2.jpeg">
+</div>
+<p></p>
 <h4>PAYM Service Learning Festival 2016</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -149,9 +157,7 @@ and the world will be a much better, much brighter place.”</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -178,11 +184,5 @@ and the world will be a much better, much brighter place.”</p>
 </tbody>
 </table>
 <p></p>
-<h4>PAYM Service Learning Festival 2015</h4>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/paym15-1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/paym15-2.jpeg">
-</div>
+<h4></h4>
 <p></p>
