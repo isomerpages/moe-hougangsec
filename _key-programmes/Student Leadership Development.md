@@ -112,60 +112,71 @@ with the necessary skills and knowledge to succeed.</p>
 <p>Class Committee</p>
 </li>
 <li>
-<p>CCA Comm/ Exco</p>
+<p>CCA Committee</p>
 </li>
 <li>
 <p>VIA Leaders</p>
 </li>
+<li>
+<p>Sports Leaders</p>
+</li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Role-specific Leadership Training</p>
-<p>a)&nbsp;&nbsp;&nbsp; Leadership Training focuses on how students can “Model
-the Way”, “Enable Others to Act” and “Encourage the Heart” in their specific
-roles</p>
+<p>Leadership Challenge Model</p>
+<p>Role-specific leadership training</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Discovering group dynamics</p>
+</li>
+<li>
+<p>Fostering a positive class culture</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Tier 3</strong>
 </p>
 </td>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Student Council</p>
 </li>
 <li>
-<p>Peer Support Leaders</p>
-</li>
-<li>
-<p>Class Monitors</p>
-</li>
-<li>
 <p>CCA Leaders</p>
+</li>
+<li>
+<p>Sports Leaders Exco</p>
+</li>
+<li>
+<p>Peer Support Leaders Exco</p>
+</li>
+<li>
+<p>Student Council Exco</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Customised LCM Training based on Training Experience</p>
-<p>a)&nbsp;&nbsp;&nbsp; Year 1 Focus: Self-Leadership</p>
-<p>b)&nbsp;&nbsp;&nbsp; Year 2 Focus: Team-Leadership</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Contextualized Training based on Student Leader Roles</p>
-<p>a)&nbsp;&nbsp;&nbsp; Class Monitors: Discovering Group Dynamics, Managing
-Conflicts (Context: Leading Class Committee)</p>
-<p>b)&nbsp;&nbsp;&nbsp; Sec 2 Peer Support Leaders: Discovering Group Dynamics,
-Managing Conflicts (Context: Supporting Peers in and beyond classroom activities)</p>
-<p>c)&nbsp;&nbsp;&nbsp; Sec 2 Student Councilors: Project Management</p>
-<p>d)&nbsp;&nbsp;&nbsp; Sec 3 CCA Leaders + Sec 3 Student Councilors &amp;
-Sec 3 Peer Support Leaders: Enabling Others to Act and Inspiring a Shared
-Vision</p>
-<p>&nbsp;</p>
+<p>Leadership Challenge Model</p>
+<p>Role-specific leadership training</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Managing conflicts</p>
+</li>
+<li>
+<p>Representing student voice</p>
+</li>
+<li>
+<p>Project Management</p>
+</li>
+<li>
+<p>Develop a shared vision</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
