@@ -114,23 +114,23 @@ communities.
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.hougangsec.moe.edu.sg/key-programmes/student-leadership</a>
 </p>
 <h4>Community Youth Leadership (Students’ Work)</h4>
-<p><strong>Lower Sec (Take Action &amp; Raise Awareness)</strong>
+<p><strong>Lower Secondary (Take Action &amp; Raise Awareness)</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1D7Ofse7ndvRSm7seyshfMOvZXHPJUgOyY-ByFoikpvU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1D7Ofse7ndvRSm7seyshfMOvZXHPJUgOyY-ByFoikpvU/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Sec 3 (Be An Advocate)</h4>
+<h4>Secondary 3 (Be An Advocate)</h4>
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AGjSiXdyN_4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AGjSiXdyN_4"></iframe>
 </div>
 <h4><strong>Tier Two CYL Programme:</strong></h4>
-<p><strong>Sec 2 Learn-A-Skill Workshop during Inspire Week</strong>
+<p><strong>Secondary 2 Learn-A-Skill Workshop during Inspire Week</strong>
 <br>To level up their skills in engaging with beneficiaries, the Secondary
 2 students attended Learn-a-Skill workshops.
 <br>
 </p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1bApCZbkeh3CaW2p390QjNghWZ-_KqlLPhtf_Ih1W6NY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1bApCZbkeh3CaW2p390QjNghWZ-_KqlLPhtf_Ih1W6NY/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <table style="minWidth: 25px">
