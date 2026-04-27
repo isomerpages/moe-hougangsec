@@ -74,7 +74,7 @@ pm (Fri)
 <h3>Achievements</h3>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<h3>CCA Leadership Structure:</h3>
+<h3>CCA Leadership Structure 2026:</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -152,6 +152,9 @@ pm (Fri)
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3>SYF 2025</h3>
+<p></p>
 <h3>Photographs</h3>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6f6rPUjYfj9DeIUHXnVon-y_0nSqPopnMvITV_Kw5rBcwVovTJ54jXKaL7noXKPzX_CCX_Dcls-Y-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
