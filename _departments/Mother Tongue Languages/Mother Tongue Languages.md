@@ -122,8 +122,8 @@ across the stage and into the audience, making them feel part of the action.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Department/MTL/CPES4.jpg">
 </div>
-<p>A close-up shows Sec 1 students’ wide smiles and animated reactions, highlighting
-how live theatre makes storytelling engaging and memorable.</p>
+<p>A close-up shows Secondary 1 students’ wide smiles and animated reactions,
+highlighting how live theatre makes storytelling engaging and memorable.</p>
 <p></p>
 <h3>中三母语文化营</h3>
 <p>后港中学于2025年5月29日主办了以“代代传承的传统草药”为主题的中三母语文化营。通过让学生亲身体验中医和传统马来草药疗法的同时，也鼓励他们有意义地运用母语，并进一步理解了传统草药在当代社会中的文化意义。</p>
@@ -222,11 +222,12 @@ include:</p>
 activities such as paper cutting, lacquer fan making, paper making, mooncake
 making, Chinese knot tying, and photo-taking in Han and Tang dynasty costumes.</p>
 <p>2.Experiencing Traditional Culture Through Games</p>
-<p>Sec 2 students participated in obstacle course games and beanbag toss
-games, designed to convey the spirit of traditional culture through play.</p>
+<p>Secondary 2 students participated in obstacle course games and beanbag
+toss games, designed to convey the spirit of traditional culture through
+play.</p>
 <p>3.Strengthening Language Use and Communication Skills</p>
-<p>Sec 4 students showcased their linguistic abilities during Chinese debate
-competitions, sharpening their speaking and critical-thinking skills.</p>
+<p>Secondary 4 students showcased their linguistic abilities during Chinese
+debate competitions, sharpening their speaking and critical-thinking skills.</p>
 <p>4.Edutainment Through Cultural Appreciation</p>
 <p>Activities such as karaoke sessions and movie screenings allowed students
 to learn about traditional culture in fun and engaging ways, reinforcing
@@ -260,11 +261,11 @@ and appreciation for their Mother Tongue and cultural heritage.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMY2wtlw2zRsgqNI7pwWRZUXLe5urbllUMeI8KwscmWqqrJBY9LertJ0JS4T1WfPC4ocenokqu4xUN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Sec1 Paper Making - <strong>造纸术与造纸</strong> - <strong>我是小小造纸家</strong></h4>
+<h4>Secondary 1 Paper Making - <strong>造纸术与造纸</strong> - <strong>我是小小造纸家</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUIfSSputGduHF9xC_oS_hWSUL8S6DctFtmKnMnAiH8R2CKL48ygkBEC1R9wcPRzDx8-ahr1LTaTcB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Sec2 Breakthrough Game - <strong>中二闯关游戏 - 你行我也行</strong></h4>
+<h4>Secondary 2 Breakthrough Game - <strong>中二闯关游戏 - 你行我也行</strong></h4>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkkSy20zLAWE4rcoT094l9I2U2LR411pSx90KghUGQOhALNyJ_jYhSPkWvPPMhR7k_ns0b6ton9Nqd/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
@@ -479,7 +480,7 @@ dan menjadikan pembacaan lebih menarik.</p>
 <p>===========================================================================</p>
 <h1>Malay Language</h1>
 <h3>Curriculum/Subject Offered</h3>
-<p>Sec 3 Exp: Malay Lit (Elective)</p>
+<p>Secondary 3 Exp: Malay Lit (Elective)</p>
 <h3>Programmes and Activities</h3>
 <p><strong>1. Academic Programmes</strong>
 </p>
@@ -487,19 +488,20 @@ dan menjadikan pembacaan lebih menarik.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Reading Programme (Sec 1 to 5)</p>
+<p>Reading Programme (Secondary 1 to 5)</p>
 </li>
 <li>
-<p>GRIT Moment Sharing (Sec 1 to 5)</p>
+<p>GREAT Moment Sharing (Secondary 1 to 5)</p>
 </li>
 <li>
-<p>MT Fortnight Programme (Sec 1 to 3)</p>
+<p>MT Fortnight Programme (Secondary 1 to 3)</p>
 </li>
 <li>
-<p>Virtual Video Showcase (Sec 1 and 2)</p>
+<p>Virtual Video Showcase (Secondary 1 and 2)</p>
 </li>
 <li>
-<p>Sharing &amp; Presentation of opinions through Video Production (Sec 3)</p>
+<p>Sharing &amp; Presentation of opinions through Video Production (Secondary
+3)</p>
 </li>
 </ul>
 <p>&nbsp;
@@ -508,7 +510,7 @@ dan menjadikan pembacaan lebih menarik.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Toastmasters cum Debate Workshop (for Sec 2 &amp; 3)</p>
+<p>Toastmasters cum Debate Workshop (for Secondary 2 &amp; 3)</p>
 </li>
 <li>
 <p>Script-Writing Workshops (for Malay Lit students)</p>
