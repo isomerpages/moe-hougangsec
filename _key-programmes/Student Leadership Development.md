@@ -23,8 +23,9 @@ of Dweck (2006) on mindset and the belief that <strong>every child</strong> has
 the potential to be a leader with the right environment and circumstances.
 As such, the school adopts a tiered approach to <strong>provide leadership opportunities for all students</strong>.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leadership/3_Tier.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key Programmes/LLP/Image_1___Student_Leadership_Tiering.jpg">
 </div>
 <p>At Tier 1, all students undergo the Community Youth Leadership programme,
 which focuses on developing self-leadership skills and aims to equip every
@@ -34,15 +35,17 @@ programme is also a key components of our school’s Learning For Life Programme
 <p><a href="https://www.hougangsec.moe.edu.sg/learning-for-life-programme/" rel="noopener noreferrer nofollow" target="_blank">Learning For Life Programme (LLP)</a>
 </p>
 <p>At Tier 2, students can take on leadership roles in their respective class
-committees, CCA committees, and VIA (Values-In-Action) leadership positions.
+committees, CCA committees (e.g. Values-In-Action leaders) and sports leaders.
 By taking on these roles, students can develop and refine their leadership
-abilities, enabling them to make a positive impact on their classmates
+abilities, enabling them to make a positive impact on their peers, classmates
 and CCA members beyond their individual selves.</p>
 <p>At Tier 3, selected students are given the opportunity to lead the school
-as Student Councillors, Peer Support Leaders, Class Monitors, or CCA Leaders.
-These positions require a higher level of leadership skills and provide
-students with more significant responsibilities and opportunities to impact
-their school community and beyond.</p>
+as Student Councillors and Executive Committee of the Student Council,
+Peer Support Leaders, CCA Leaders and Sports Leaders. These positions require
+a higher level of leadership skills and provide students with more significant
+responsibilities and opportunities to impact their school community and
+beyond.</p>
+<p></p>
 <h3>Enriching Minds - Cultivate Competencies</h3>
 <p>The school's leadership programme is grounded in the philosophy that <strong>leadership can be learned, nurtured, and developed over time</strong>,
 which is consistent with the work of Kouzes and Posner (2002) and their
@@ -169,7 +172,7 @@ Vision</p>
 </table>
 <p>&nbsp;</p>
 <div class="iframe-wrapper">
-<iframe height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGp3jxF8tSMFTCp0VeG-HnE3pDbNZfQLGMNQbq-6JqfCOSvmpkC3ZhbBCetQzQkVEQsU1bpK_OXiik/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="749" width="1280" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGp3jxF8tSMFTCp0VeG-HnE3pDbNZfQLGMNQbq-6JqfCOSvmpkC3ZhbBCetQzQkVEQsU1bpK_OXiik/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>Encouraging Hearts - Inspire Excellence</h3>
 <p>Hougang Secondary implements a two-pronged approach to encourage the hearts
@@ -193,7 +196,7 @@ event is the year-end Summit, where student leaders come together to reflect
 on their experiences over the year, celebrate their successes, and set
 new goals for the future.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmBhSnDmo8y0PoMkSYZ-PyFkgz53stuL1urV50jT6SQdhkcQanKyYO1IFi0QvpGeGy1eYwIi2M3fhb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTmBhSnDmo8y0PoMkSYZ-PyFkgz53stuL1urV50jT6SQdhkcQanKyYO1IFi0QvpGeGy1eYwIi2M3fhb/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p>References:</p>
 <p>Ministry of Education Singapore. (2021). Character and Citizenship Education
