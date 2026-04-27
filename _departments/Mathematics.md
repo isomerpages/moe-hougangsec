@@ -10,10 +10,10 @@ variant: tiptap
 <br>Mr Quek Wee Hee Nicholas</p>
 <p><strong>Teachers</strong>
 <br>Mr Elangovan (Year Head)
-<br>Mr Khairul Adli (School Staff Developer)
-<br>Miss Serina Tan (HOD/CCE)
+<br>Mr Khairul Adli (HOD/School Staff Developer)
+<br>Miss Serina Tan (HOD/Character and Citizenship Education)
 <br>Mr Daniel Tan (Covering Year Head)
-<br>Ms Lynn Yeo (Subject Head CCE)
+<br>Ms Lynn Yeo (SH/Character and Citizenship Education)
 <br>Mr Aaron Yeo
 <br>Mdm Goh Lay Hoon
 <br>Mdm Jessica Heng

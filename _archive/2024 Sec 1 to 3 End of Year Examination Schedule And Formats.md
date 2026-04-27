@@ -3,7 +3,6 @@ title: 2024 Sec 1 to 3 End of Year Examination Schedule And Formats
 permalink: /quick-links/for-students/end-of-year-exam-schedule/
 variant: tiptap
 description: ""
-third_nav_title: For Students
 ---
 <p><strong>The End-of-year Written Examination will be conducted from 25 September (Wednesday) to 4 October (Friday) for all Secondary 1 to 3 students</strong>.</p>
 <p>All students need not report to school on 07 October (Monday) and 08 October

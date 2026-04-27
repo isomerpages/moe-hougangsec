@@ -3,7 +3,6 @@ title: Inspire@HS
 permalink: /inspire-series/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
 ---
 <p>The Inspire@HS series is a series of structured programme planned and
 designed to engage the heads, hearts and hands of Hougeans, towards nurturing

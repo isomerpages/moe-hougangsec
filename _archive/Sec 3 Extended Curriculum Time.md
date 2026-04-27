@@ -3,7 +3,6 @@ title: Sec 3 Extended Curriculum Time
 permalink: /sec-3-extended-curriculum-time/
 variant: tiptap
 description: ""
-third_nav_title: For Parents
 ---
 <p>Dear parents/guardians,</p>
 <p>Please refer to the attached schedule below for more details on the Sec

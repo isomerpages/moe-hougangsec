@@ -3,7 +3,6 @@ title: Inspire Series 2
 permalink: /inspire-series-2/
 variant: tiptap
 description: ""
-third_nav_title: For Students
 ---
 <p>Dear parents/students,</p>
 <p>The programme for the Inspire @ HS Series 2 are listed below.</p>

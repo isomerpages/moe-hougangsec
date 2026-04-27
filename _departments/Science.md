@@ -8,21 +8,21 @@ variant: tiptap
 <br>Miss Jazreel Toh Hui Khee</p>
 <p><strong>Teachers</strong>
 <br>Mr Javen Gwee (HOD/ICT &amp; Data Management)
-<br>Ms. Rachel Yong Lai Kuan
+<br>Ms Rachel Yong Lai Kuan
 <br>Mr Soh Yen Meng
 <br>Mr Ho Wee Khong
-<br>Ms. Phua Li Xian
+<br>Ms Phua Li Xian
 <br>Mr Marcus Aw Yu Kian
 <br>Mr Teo Chun Min
-<br>Ms. Fiona Puah Mui Kiang
-<br>Ms. Ashley Chan
+<br>Ms Fiona Puah Mui Kiang
+<br>Ms Ashley Chan
 <br>Ms. Sharon Wee
-<br>Ms. Jasmine Binti Roslan
-<br>Ms. Noor Aqilah Binte Noor Azlan
+<br>Ms Jasmine Binti Roslan
+<br>Ms Noor Aqilah Binte Noor Azlan
 <br>
 </p>
 <p><strong>STEM Instructors (Laboratory)</strong>
-<br>Ms. Kartini Bte Mohd Sidek
+<br>Ms Kartini Bte Mohd Sidek
 <br>Mdm Nur Suhaila Saidz
 <br>
 </p>
@@ -85,7 +85,7 @@ concepts and reasoning</p>
 </div>
 <h3>Department Programme</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdDdH1HnRJ1dDTY7rGr7EkqHXafbzDd12FCADxiRe9CLhDZ0B2cQNWMCQuH223nU0MSZyHI3I-GKk1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdDdH1HnRJ1dDTY7rGr7EkqHXafbzDd12FCADxiRe9CLhDZ0B2cQNWMCQuH223nU0MSZyHI3I-GKk1/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3></h3>
 <p></p>
