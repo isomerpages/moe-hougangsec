@@ -74,6 +74,84 @@ pm (Fri)
 <h3>Achievements</h3>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
+<h3>CCA Leadership Structure:</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YONG WEN EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HAM JIA XUAN, ASHLEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3N</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLAIRE LAI JIAXIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAINIE TANG MINXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3H1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer/Secretary:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO CHOY XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3N</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIA Committee IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEK CI HUI, CHARMAINE&nbsp;</p>
+<p>KYLIE LIM YU XIN&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+<p>2N</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Photographs</h3>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6f6rPUjYfj9DeIUHXnVon-y_0nSqPopnMvITV_Kw5rBcwVovTJ54jXKaL7noXKPzX_CCX_Dcls-Y-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
