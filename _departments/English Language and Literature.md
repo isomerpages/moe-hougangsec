@@ -7,24 +7,24 @@ variant: tiptap
 <p><strong>Head of Department/English:</strong>
 <br>Mdm S Chitradevi</p>
 <p><strong>Level Head EL/Literature:</strong>
-<br>Ms. Audrey Chua</p>
+<br>Ms Audrey Chua</p>
 <p><strong>Teachers</strong>:
-<br>Mr Kervin Tang [Senior Teacher, English Language]
-<br>Mrs Lina Amli [EL]
-<br>Mdm Martini Rahmat [EL]
-<br>Mr Charles Wong [EL/Computing]
-<br>Mr Sean Oh [EL]
-<br>Mr Ronnie Yeo [EL/Literature]
-<br>Mrs Gomathi Guna [EL]
-<br>Ms Tan Yin Wei [Literature]
-<br>Ms Nur Adilah Bte Jasman [EL/Literature]
-<br>Mr Eugene Ling [EL]
-<br>Mrs Ting Jia Yi [EL/SS]
-<br>Ms Alisa Choong [EL/Mathematics]
-<br>Ms Valerie Chia [Mathematics/Literature]
-<br>Mr Han Zheming Chuck-E [EL]
-<br>Mr Darryl Lim [EL/Literature]
-<br>Ms. Rynise Lee Hsin Yu [EL/SS]</p>
+<br>Mr Kervin Tang (ST/English Language)
+<br>Mrs Lina Amli (EL)
+<br>Mdm Martini Rahmat (EL)
+<br>Mr Charles Wong (EL/Computing)
+<br>Mr Sean Oh (EL)
+<br>Mr Ronnie Yeo (EL/Literature)
+<br>Mrs Gomathi Guna (EL)
+<br>Ms Tan Yin Wei (Literature)
+<br>Ms Nur Adilah Bte Jasman (EL/Literature)
+<br>Mr Eugene Ling (EL)
+<br>Mrs Ting Jia Yi (EL/SS)
+<br>Ms Alisa Choong (EL/Mathematics)
+<br>Ms Valerie Chia (Mathematics/Literature)
+<br>Mr Han Zheming Chuck-E (EL)
+<br>Mr Darryl Lim (EL/Literature)
+<br>Ms Rynise Lee Hsin Yu (EL/SS)</p>
 <h3>Vision</h3>
 <p>Passionate Readers, Competent Writers , Eloquent Communicators</p>
 <h3>Curricular Goals and Objectives</h3>
@@ -137,10 +137,10 @@ discourse on contemporary issues.</p>
 <p></p>
 <h4>English Language Literature Snap Shots</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcFZmsghp6E5EhTnNmfl8rlDQonKAYbRzkCW9NjOVKTNDFdQhTuiXuH4u_1qA5Zw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQcFZmsghp6E5EhTnNmfl8rlDQonKAYbRzkCW9NjOVKTNDFdQhTuiXuH4u_1qA5Zw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mSF54WdtFTk?si=uMFYprrmHJxcUxwc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mSF54WdtFTk?si=uMFYprrmHJxcUxwc"></iframe>
 </div>
 <p></p>
 <p></p>
