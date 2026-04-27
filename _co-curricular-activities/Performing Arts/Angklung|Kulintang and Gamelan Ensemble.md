@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DFGs75LpRfo?si=PQDJqd1sG2RT__Am"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DFGs75LpRfo?si=PQDJqd1sG2RT__Am"></iframe>
 </div>
 <h3>Introduction</h3>
 <p>Angklung/Kulintang and Gamelan Ensemble comprises of both Angklung and
@@ -20,21 +20,185 @@ to one’s soul, uplifting one’s spirit! For truly, the joy of music is real.<
 <p>The ensemble is only as strong as its weakest player</p>
 <h3>CCA Leadership Structure</h3>
 <p><strong><u>Executive Committee</u></strong> 
-<br>President – Elisya Batrisyia Binte Mohammad Harisman S3-S</p>
-<p>Vice President – Sim Jia Yu S3-O</p>
-<p>TK Angklung IC - Elva Daania Marsha Binte Haizul S3- A</p>
-<p>TK Angklung 2IC – Siti Nadhirah Binte Rizwan S2-U</p>
-<p>Kulintang IC – Nasha Farzanah Binte Sharil Falindi S3-A</p>
-<p>Kulintang 2IC – Lesta Nisriina Binte Suraidi S2-S</p>
-<p>Bass Angklung IC - Aaron Hayden Bin Eddy Harman S3-G</p>
-<p>Melody IC – Muhammad Ilham Bin Abdul Halim S3-N</p>
-<p>Melody 2IC – Nur Amylia Aisha Binte Basri S2-G</p>
-<p>VIA Leader – Koh Kaixin, Janessa S3-O</p>
-<p>VIA Leader – Nur Amylia Aisha Binte Basri S2-G</p>
-<p>Level Leaders:</p>
-<p>Sec 1 – Noor Amira Adawiya Binte Amdan S1-E</p>
-<p>Sec 2 – Najihah Binte Noor Affandy</p>
-<p>Sec 3 – Ezann Beh</p>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Delynn Tan Rui En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aiden Wynn Pio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Angklung/Kulintang IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Isabel Ng Paggao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Angklung/Kulintang 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Aaliyah Sakinah Binte Muhammad Taufek</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Angklung/Kulintang 3IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Rizqah Putri Binte Mohammed Yazri</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gamelan IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Jin Lin Louis</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Gamelan 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ashaz Bin Mohammed Raiman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kulintang IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Jia Yee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Kulintang 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Damia Adelia Binte Muhammad Norman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TK IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shervelle Zhuo Xinying&nbsp;(S3-U)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TK 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Irdina Binte Muhamad Sadli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Toeil IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Noor Amira Adawiya Binte Amdan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Toeil 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Freya Goh Qi Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quarter Master</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Aayden Chia Si Kai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quarter Master 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Faris Fathurrahman Bin Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIA Leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nathan Weiss Pio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIA Leader</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hifza Nafesa Binte Hamsazri</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>Level Leaders</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary One</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hoh York Yhin Manxavier</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary Two</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nuryn Farlysa Binte Muhammad Yasin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary Three</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Syazani Rahul Iman Bin Zaki</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Achievements</h3>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
@@ -82,46 +246,5 @@ to one’s soul, uplifting one’s spirit! For truly, the joy of music is real.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
-<p><strong>Celebrating a Year of Music and Milestones:</strong>
-</p>
-<p><strong>HS Angklung Kulintang &amp; Gamelan Ensemble's Memorable 2024</strong>
-</p>
-<p>The year 2024 has been a truly remarkable one for the Angklung Kulintang
-&amp; Gamelan Ensemble, as we were involved in several prestigious events
-that showcased the rich cultural heritage of our music and brought us closer
-to the community. From school celebrations to national performances, our
-ensemble has had the honor of representing our school in ways that will
-leave lasting memories.</p>
-<p>Our musical journey began with performances at significant school events
-such as Chinese New Year, Speech Day, and National Day. These occasions
-allowed us to share the beauty of our traditional instruments, delighting
-both students and staff with our lively and vibrant rendition.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
-</div>
-<p>One of the most memorable highlights of the year was when we were invited
-to perform at the Istana for the inaugural Hari Raya Aidilfitri cum Labour
-Day celebration. It was an extraordinary experience to perform in front
-of distinguished guests, including Singapore’s President, Mr. Tharman Shanmugaratnam,
-and his wife. The ensemble members not only enjoyed showcasing their musical
-talents, but also had the unique opportunity to interact with the President
-and other guests of honor, making it an unforgettable moment in our musical
-journey.</p>
-<p>As the year progressed, our ensemble continued to represent the school
-with pride. In another significant achievement, we were invited to perform
-at a cluster board meeting hosted by Hougang Secondary School. This event,
-which brought together school leaders from various institutions, was a
-fitting conclusion to an eventful year. Our performance was well-received
-and highlighted the importance of fostering cultural appreciation within
-our community.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.jpg">
-</div>
-<p>Reflecting on the year, 2024 has undoubtedly been one of growth, pride,
-and accomplishment for every member of the Angklung Kulintang &amp; Gamelan
-Ensemble. As we close out this exciting chapter, we are eagerly looking
-ahead to the challenges and opportunities that await us in 2025, especially
-with the upcoming Singapore Youth Festival (SYF) competition.</p>
 <p></p>
