@@ -6,20 +6,20 @@ third_nav_title: Mother Tongue Languages
 variant: tiptap
 ---
 <p><strong>Head of Department</strong>
-<br>Ms. Cheng Sze Mei Carmen</p>
+<br>Ms Cheng Sze Mei Carmen</p>
 <p><strong>Subject Head</strong>
-<br>Ms. Yvonne Liew</p>
+<br>Ms Yvonne Liew</p>
 <p><strong>Teachers</strong>
-<br>Mr Muhammad Irwan Bin Jamal (ML ST)
-<br>Ms. Chen Si Si
+<br>Mr Muhammad Irwan Bin Jamal (ST/Malay Language)
+<br>Ms Chen Si Si
 <br>Mr Lee Heng Han
 <br>Mr Mohamed Hairi Bin Nor Azmi
 <br>Mr Leo Sing Ann
-<br>Ms. Nur Nadzirah Bte Mohamed Hassan
-<br>Ms. Yu Honghong
+<br>Ms Nur Nadzirah Bte Mohamed Hassan
+<br>Ms Yu Honghong
 <br>Mdm Wang Qingzhen
-<br>Ms. Lian Bee San
-<br>Ms. Zhou Shaojuan
+<br>Ms Lian Bee San
+<br>Ms Zhou Shaojuan
 <br>Mr Chua Yong Le
 <br>Mdm Janisah Binte Johari
 <br>Mr Watt Chan Meng</p>
@@ -72,7 +72,7 @@ opportunity for students to develop essential skills such as research,
 teamwork, and communication as they collaborate to design and execute their
 decorative ideas.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1lGuXXNOFXHMeH9A098RxhfN-eGjk8naM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1lGuXXNOFXHMeH9A098RxhfN-eGjk8naM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Cultural Performance Exposure Scheme (CPES) Programme 2025</h4>
 <p>On 27 March 2025, the Secondary 1 students from Hougang Secondary School
@@ -237,36 +237,36 @@ and appreciation for their Mother Tongue and cultural heritage.</p>
 <p></p>
 <h4>Traditional Wear Photobooth - 穿越汉唐千年前 靓丽潇洒走一回</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHPkmpkAiT1zETfwqzN7gLp7xIIqM9dvuquUZ1c2SHGkXwx0m0Y3XrDvmsU0gZnJrOEySBNCEaWujZ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSHPkmpkAiT1zETfwqzN7gLp7xIIqM9dvuquUZ1c2SHGkXwx0m0Y3XrDvmsU0gZnJrOEySBNCEaWujZ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Traditional Wear Photobooth - 漆扇制作 非遗传承 惊喜连连</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQj2yw2ob5ylZGlLKTc8JMC8MKGQ4xv5Sz9t0TF_SBMPpAblxsQLJiKne87iS04Pe2TuSCrvraaoHcN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQj2yw2ob5ylZGlLKTc8JMC8MKGQ4xv5Sz9t0TF_SBMPpAblxsQLJiKne87iS04Pe2TuSCrvraaoHcN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Chinese Traditional Food Booth - Moon cakes live station <strong>月饼制作 - 沉浸中的愉悦 品赏中的喜悦</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCSMXI0OIIgtMlI0ZnwS1c3BFCKeYQz-vvvRVwCEybV0guvu1cRbn104JQelIYNLdgULvLC8xvfSPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSCSMXI0OIIgtMlI0ZnwS1c3BFCKeYQz-vvvRVwCEybV0guvu1cRbn104JQelIYNLdgULvLC8xvfSPA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Chinese Paper Cutting - <strong>剪纸</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSOtH4l0IHMU48WBvYXOMHjUPFicFgYQlflyJQbv-oDnHqCaMCZOR9xT9CLkfCxOYFOmYQePwyR8bE/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSOtH4l0IHMU48WBvYXOMHjUPFicFgYQlflyJQbv-oDnHqCaMCZOR9xT9CLkfCxOYFOmYQePwyR8bE/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Traditional Games Booth - 传统游戏摊位投壶/投沙包</h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRG_jPxHRAJA0YD2j1kY7BxHylPxdfQ547ldq8JE4ftfvyb380Sr2JzJf2ZCfmln8T5gHpohOir1urB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRG_jPxHRAJA0YD2j1kY7BxHylPxdfQ547ldq8JE4ftfvyb380Sr2JzJf2ZCfmln8T5gHpohOir1urB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <h4>I Can See Your Voice <strong>卡拉OK我来唱/Movie Day看电影</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMY2wtlw2zRsgqNI7pwWRZUXLe5urbllUMeI8KwscmWqqrJBY9LertJ0JS4T1WfPC4ocenokqu4xUN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMY2wtlw2zRsgqNI7pwWRZUXLe5urbllUMeI8KwscmWqqrJBY9LertJ0JS4T1WfPC4ocenokqu4xUN/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Sec1 Paper Making - <strong>造纸术与造纸</strong> - <strong>我是小小造纸家</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUIfSSputGduHF9xC_oS_hWSUL8S6DctFtmKnMnAiH8R2CKL48ygkBEC1R9wcPRzDx8-ahr1LTaTcB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUIfSSputGduHF9xC_oS_hWSUL8S6DctFtmKnMnAiH8R2CKL48ygkBEC1R9wcPRzDx8-ahr1LTaTcB/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Sec2 Breakthrough Game - <strong>中二闯关游戏 - 你行我也行</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkkSy20zLAWE4rcoT094l9I2U2LR411pSx90KghUGQOhALNyJ_jYhSPkWvPPMhR7k_ns0b6ton9Nqd/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkkSy20zLAWE4rcoT094l9I2U2LR411pSx90KghUGQOhALNyJ_jYhSPkWvPPMhR7k_ns0b6ton9Nqd/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
 <h4><strong>Mother Tongue (Malay Language) Fortnight Programme</strong></h4>
@@ -355,7 +355,7 @@ its creative and expressive forms.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Department/MTL/ML6.jpg">
 </div>
 <p></p>
-<h3>HS MTL Reading Program</h3>
+<h3>HS MTL Reading Programme</h3>
 <p><strong>Reading Programme (EL write-up):</strong>
 <br>The Mother Tongue Language (MTL) Reading Programme at Hougang Secondary
 School aims to nurture a culture of reading and instil a lifelong appreciation
@@ -428,12 +428,12 @@ dan menjadikan pembacaan lebih menarik.</p>
 <p>通过阅读，培养学生的学习兴趣。学生可以获取课堂之外的知识和信息，提高语言和思维能力，培养学生的逻辑思维、判断力、分析能力。为今后的学习、工作和生活打下坚实的基础。</p>
 <p>通过阅读，在校内举办各种活动，激发学生学习的兴趣。</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1629S_Ek10MFqLnuPCaSUdlhJPR2I0Lncf76XG9jGppo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1629S_Ek10MFqLnuPCaSUdlhJPR2I0Lncf76XG9jGppo/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3><strong>校园早报</strong></h3>
 <p>推动和鼓励学生利用晨读或业余时间阅读课外书以及网上《校园早报》，丰富和扩大学生们的知识面，增加阅历和见识。</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1HmBV8deMQtLmZnzrCWizAXt9xPzqDGV9y4XWCmz8SeI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1HmBV8deMQtLmZnzrCWizAXt9xPzqDGV9y4XWCmz8SeI/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3><strong>GREAT MOMENT</strong></h3>
 <p>GREAT 是我们后港中学五项核心价值观的首字母缩写，分别代表：</p>
@@ -444,7 +444,7 @@ dan menjadikan pembacaan lebih menarik.</p>
 <p>• 诚信（Trustworthiness）：树立诚信为本的价值观，鼓励学生言行一致，建立个人和集体的信任。</p>
 <p>为了加深学生对这些核心价值观的理解，我校在每个偶数周的早晨开展以华语进行的分享和心得交流活动。在这些活动中，学生们不仅能深入探讨每项价值观的实际意义，还能通过分享个人体验和反思，将这些价值观有意识地融入到日常的学习与生活中。通过这种互动式的学习方式，学生们能够在实际情境中更好地理解和践行学校的核心价值观，从而提升个人素质，培养全面发展的能力。</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS42kxKi986aAB1VRg0qvhk5FCFFNJax5i8ZoRqsKQY6T07Dj9FMcOfpDsuTks1ms7UyfdqG_7IIQbs/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS42kxKi986aAB1VRg0qvhk5FCFFNJax5i8ZoRqsKQY6T07Dj9FMcOfpDsuTks1ms7UyfdqG_7IIQbs/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>20周年的校庆，本部门第一次推出华文作文集</h4>
 <div class="isomer-image-wrapper">
@@ -543,7 +543,7 @@ While both teams walked away with certificates of participation, the Secondary
 2 achieved second place overall with Muhammad Ismail Bin Jumadi from 2E
 winning second in the individual category.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1IGVQxdvo8d1ISijjhVgHfXTsv-jAauBA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1IGVQxdvo8d1ISijjhVgHfXTsv-jAauBA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p><strong><u>Malay Literature Dari Pena Ke Panggung (DPKP) 2023</u></strong>
 <br>Literature In Malay students did a dramatisation showcase of a poem entitled
@@ -552,6 +552,6 @@ which is held at the Republic Cultural Centre, Studio at Republic Polytechnic,
 is aimed to deepen students’ understanding of the literary texts and to
 provide an avenue to interpret and adapt the text into a theatrical performance.</p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1JTlOGOGDgzzK_eEfbYPKhU-20J0hCwT-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1JTlOGOGDgzzK_eEfbYPKhU-20J0hCwT-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
