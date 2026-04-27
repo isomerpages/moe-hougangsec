@@ -2,6 +2,7 @@ collections:
   archive:
     output: true
     order:
+      - Science Practical Prelim Briefing Slides 2024.md
       - 2024 Sem 2 Inspire@HS.md
       - English Language Listening Comprehension Examination Schedule for
         Secondary 1 to 5 Students.md
