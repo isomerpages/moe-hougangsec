@@ -19,7 +19,7 @@ to one’s soul, uplifting one’s spirit! For truly, the joy of music is real.<
 <h3>Motto</h3>
 <p>The ensemble is only as strong as its weakest player</p>
 <h3>CCA Leadership Structure</h3>
-<p><strong><u>Executive Committee</u></strong> 
+<p><strong><u>Executive Committee</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -246,5 +246,4 @@ to one’s soul, uplifting one’s spirit! For truly, the joy of music is real.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
-<p></p>
 <p></p>
