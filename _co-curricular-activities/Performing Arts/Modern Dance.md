@@ -154,7 +154,13 @@ pm (Fri)
 </table>
 <p></p>
 <h3>SYF 2025</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/Picture1.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/Picture2.jpg">
+</div>
 <h3>Photographs</h3>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6f6rPUjYfj9DeIUHXnVon-y_0nSqPopnMvITV_Kw5rBcwVovTJ54jXKaL7noXKPzX_CCX_Dcls-Y-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
