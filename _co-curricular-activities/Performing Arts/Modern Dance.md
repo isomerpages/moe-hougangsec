@@ -154,6 +154,10 @@ pm (Fri)
 </table>
 <p></p>
 <h3>SYF 2025</h3>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=iRFkJcQ7EjY"></iframe>
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/Picture1.jpg">
 </div>
