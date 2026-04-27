@@ -117,7 +117,4 @@ Football CCA</p>
 <br><strong>Time</strong>: 3.15 pm - 5.15 pm (Tue) / 1.30 pm - 5.30 pm (Fri)
 <br><strong>Venue</strong>:&nbsp;Red Cross Youth Room / School Compound</p>
 <h3>Photographs</h3>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1FvSAvmmE7JbqYIwyqsE4wzYkpzCLZCrkoYaVAv1HfSs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
