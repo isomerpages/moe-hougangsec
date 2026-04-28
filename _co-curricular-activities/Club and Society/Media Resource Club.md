@@ -6,7 +6,7 @@ third_nav_title: Club and Society
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dxH7NXJ7WRg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dxH7NXJ7WRg"></iframe>
 </div>
 <h3>Introduction</h3>
 <p>Established in 2018, the HS Media Resource Club provides media support
@@ -23,28 +23,40 @@ having fun!</p>
 <p>To contribute with pride, learn and master skills with open mind.</p>
 <h3>Values</h3>
 <p>Teamwork; Passion; Courage; Resilience.</p>
-<h3>Leadership Structure</h3>
+<h3>Secondary 3 CCA Leadership Structure</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>President</strong>: Miko (S3-G)</p>
+<p><strong>President</strong>: Wong Rong Jie Xavier</p>
 </li>
 <li>
-<p><strong>Vice-President</strong>: Grandon (S3-H)</p>
+<p><strong>Vice-president</strong>: Liang Yuheng</p>
 </li>
 <li>
-<p><strong>Head of Admin</strong>: Auni (S3-G)</p>
+<p><strong>Head of PA (Daily): </strong>Valentina Malva</p>
 </li>
 <li>
-<p><strong>Head of Media (Photography)</strong>: Su En (S3-U)</p>
+<p><strong>Head of PA (Event): </strong>Cheam Kai Zhe</p>
 </li>
 <li>
-<p><strong>Head of Media (Videography)</strong>: Nicholas (S3-H)</p>
+<p><strong>Head of Video:</strong> Heng Fu En</p>
 </li>
 <li>
-<p><strong>Head of PA</strong>: Jessica (S3-H)</p>
+<p><strong>Head of Photo (External):</strong> Kee Kai Jie</p>
 </li>
 <li>
-<p><strong>VIA Leaders</strong>:&nbsp; Isabel (S3-E), Javier (S2-E)</p>
+<p><strong>Head of Photo (Internal):</strong> Riley Eng Rui Feng</p>
+</li>
+<li>
+<p><strong>Head of Event</strong>: Tang Yu Ze Zachariah</p>
+</li>
+<li>
+<p><strong>Assistance of Event: </strong>Yeo Zhi Jie Nelson</p>
+</li>
+<li>
+<p><strong>Head of Wellbeing: </strong>Mohammad Adam Bin Mohammad</p>
+</li>
+<li>
+<p><strong>Head of Logistics</strong>: Jamie Ong Jia En</p>
 </li>
 </ul>
 <h3>Programmes</h3>

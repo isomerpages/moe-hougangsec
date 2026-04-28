@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/81Y_k6URokY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/81Y_k6URokY"></iframe>
 </div>
 <h3>Vision</h3>
 <ul data-tight="true" class="tight">
@@ -34,42 +34,44 @@ dignity, relieving human suffering and responding to emergencies.</p>
 <h3>Achievements</h3>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<h3>CCA Leadership Structure</h3>
+<h3>Secondary 4 CCA Leadership Structure</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Chairperson</strong>: PHYLLIS ONG YIZHEN</p>
+<p><strong>Chairperson</strong>: LIU ZHIYU FELICIA</p>
 </li>
 <li>
-<p><strong>Vice-chairperson</strong>: ASHLYN TAN XIN LE</p>
-</li>
-<li>
-<p><strong>Training Head</strong>: ONG JIA CHENG , EDRIC</p>
-</li>
-<li>
-<p><strong>Operation Head</strong>: TAN JUN MENG</p>
-</li>
-<li>
-<p><strong>Logistics I/C of first aid supplies</strong>: LIM WEILING, KYRA
-ADRIANNA BINTE DZUL AZRI @ KAI QI &amp; KESSANDRA CLARE KASHVI GOPINATHAN</p>
-</li>
-<li>
-<p><strong>Logistics IC of unit training: &nbsp;</strong>ALFRED TAN CHOE
-CHIN, NING HAOYUAN &amp; NUR 'AQILAH BINTE MOHAMAD HAZIR</p>
-</li>
-<li>
-<p><strong>VIA Leaders</strong>: SIM JIA EN &amp; VALERIE LIM</p>
-</li>
-<li>
-<p><strong>Sec 1 Level Heads</strong>: TAN KAI YAO KYLE &amp; ONG QIN HAN
+<p><strong>Vice-chairperson</strong>: TEO WEI YUN, JOVELLE and KUAN Y HSIN
 PHOEBE</p>
 </li>
 <li>
-<p><strong>Sec 2 Level Heads</strong>: CHAN LE XUAN&nbsp;&amp; JOANNE CHEY
-WEE MIN</p>
+<p><strong>Training Head</strong>: WONG WEI EN WAYNE</p>
 </li>
 <li>
-<p><strong>Sec 3 Level Heads</strong>: CASSIAN TAN CHUAN LONG &amp; ANTHEA
-SEE HWEE</p>
+<p><strong>Operation Head</strong>: AU JIE XUN ELROY</p>
+</li>
+<li>
+<p><strong>Logistics In-Charge of first aid supplies</strong>: LOO KAI JIA
+RYDEN and SETH RYUS JAVIER EN KAI</p>
+</li>
+<li>
+<p><strong>Logistics In-Charge of unit training: &nbsp;</strong>SETH RYUS
+JAVIER EN KAI</p>
+</li>
+<li>
+<p><strong>Value-In-Action Leaders</strong>: MENESES RYAN JAMES POSCABLO,
+WANG MANTING and WONG WEI EN WAYNE</p>
+</li>
+<li>
+<p><strong>Secondary 1 Level Heads</strong>: SETH RYUS JAVIER EN KAI and
+AU JIE XUN ELROY</p>
+</li>
+<li>
+<p><strong>Secondary 2 Level Heads</strong>: DARIUS NG GUO FENG and KUAN
+Y HSIN PHOEBE</p>
+</li>
+<li>
+<p><strong>Secondary 3 Level Heads</strong>: TEO JUN HENG LEWIS and CHEAM
+KAI QIN</p>
 </li>
 </ul>
 <h3>Programmes</h3>
@@ -115,7 +117,63 @@ Football CCA</p>
 <br><strong>Time</strong>: 3.15 pm - 5.15 pm (Tue) / 1.30 pm - 5.30 pm (Fri)
 <br><strong>Venue</strong>:&nbsp;Red Cross Youth Room / School Compound</p>
 <h3>Photographs</h3>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/1FvSAvmmE7JbqYIwyqsE4wzYkpzCLZCrkoYaVAv1HfSs/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture1.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture4.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture6.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture7.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Red Cross/Picture3.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>

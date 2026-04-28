@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WpBz-P_Kp3Q"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WpBz-P_Kp3Q"></iframe>
 </div>
 <h3>Platforms for Dancers to LEAP with Grit</h3>
 <p>We aim to provide:</p>
@@ -49,8 +49,10 @@ in our dancers.</p>
 <p>CCA Teachers-in-charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Joanne Toh Chui Theng (OIC)
-<br>Ms Yu Hong Hong</p>
+<p>Ms Joanne Toh Chui Theng (OIC)</p>
+<p>Ms Valeria Chia Kai Ning</p>
+<p>Ms Nur Jasmine Roslan</p>
+<p>Ms Yu Hong Hong</p>
 </td>
 </tr>
 <tr>
@@ -59,6 +61,7 @@ in our dancers.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chai Ching Nicole</p>
+<p>Ms Kwek Yi Xuan</p>
 </td>
 </tr>
 </tbody>
@@ -71,12 +74,103 @@ pm (Fri)
 <h3>Achievements</h3>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
+<h3>CCA Leadership Structure 2026:</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YONG WEN EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice President:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HAM JIA XUAN, ASHLEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3N</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Logistics IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLAIRE LAI JIAXIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Welfare IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAINIE TANG MINXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3H1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Treasurer/Secretary:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO CHOY XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3N</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIA Committee IC:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEK CI HUI, CHARMAINE&nbsp;</p>
+<p>KYLIE LIM YU XIN&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3A</p>
+<p>2N</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>SYF 2025</h3>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=iRFkJcQ7EjY"></iframe>
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/Picture1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Modern Dance/Picture2.jpg">
+</div>
 <h3>Photographs</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6f6rPUjYfj9DeIUHXnVon-y_0nSqPopnMvITV_Kw5rBcwVovTJ54jXKaL7noXKPzX_CCX_Dcls-Y-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT6f6rPUjYfj9DeIUHXnVon-y_0nSqPopnMvITV_Kw5rBcwVovTJ54jXKaL7noXKPzX_CCX_Dcls-Y-/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h3>About HS Modern Dance</h3>
 <div class="iframe-wrapper">
-<iframe height="725" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aYGPpI2y090"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="725" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aYGPpI2y090"></iframe>
 </div>
 <p></p>
