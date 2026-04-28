@@ -6,7 +6,7 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/j2YuwbdnxMg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/j2YuwbdnxMg"></iframe>
 </div>
 <h3>Introduction</h3>
 <p>Wushu is a martial art that originated from China. Today, it is a modern
@@ -35,21 +35,12 @@ skills and weapons.</p>
 <p><strong>Motto:</strong>
 </p>
 <p>Strive Hard. Stand Strong. Show Respect.</p>
-<p><strong>Leadership Structure:<br>Captain: </strong>Ho Rui Ting</p>
-<p><strong>Vice Captains: </strong>Hidayah, Mohamad Hilman</p>
-<p><strong>Sec 1 I/C &amp; Training I/C: </strong>Gabrielle Jamie Kaunang</p>
-<p><strong>Sec 2 I/C &amp; Training I/C: </strong>Ain Insyirah</p>
-<p><strong>Sec 3 I/C &amp; Training I/C: </strong>Kyros Lau</p>
-<p><strong>Training I/C: </strong>Teo Wei Jun, Zachary Lim, Mervyn Yeong</p>
-<p><strong>Logistics: </strong>Jasper Chew, Jovier Teo, Muhammad Danish</p>
-<p><strong>VIA: </strong>Olivia Neo, Ernest Chua</p>
-<p><strong>Publicity &amp; Events: </strong>Naina Nabilla, Hugh Teo, Victoria
-Png</p>
+<p></p>
 <h3>Achievements</h3>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <h3>Photos</h3>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRj2vPjitjZKkSZT-UWhJTEtthOahAbqTbNv6vicuZE1UKtp8VgSQLJgTyltl-ufQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRj2vPjitjZKkSZT-UWhJTEtthOahAbqTbNv6vicuZE1UKtp8VgSQLJgTyltl-ufQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
