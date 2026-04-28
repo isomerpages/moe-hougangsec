@@ -36,6 +36,9 @@ skills and weapons.</p>
 </p>
 <p>Strive Hard. Stand Strong. Show Respect.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu/Picture1.jpg">
+</div>
 <h3>Achievements</h3>
 <p>View CCA achievements <a href="https://www.hougangsec.moe.edu.sg/about-us/Achievements/cca-achievements/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
