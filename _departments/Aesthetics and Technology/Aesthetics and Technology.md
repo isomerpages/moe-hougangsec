@@ -11,25 +11,25 @@ variant: tiptap
 <br>Mr Benny Ng (ST/Design &amp; Technology)
 <br>Mr Alfred Choo
 <br>Mr Noh Danial Bin Abdul Hamid
-<br>Mr Ng He Tong
-<br>Mr Vincent Yong Swee Lek
-<br>Mr Tong Song Khai</p>
+<br>Mr Ng He Tong</p>
 <p><strong>Visual Art Unit</strong>
 <br>Mdm Farahana Binti Abdul Rahim (Subject Coordinator)
 <br>Ms Jane Koh
 <br>Ms Siti Nurhizah Mohamed Hassan
 <br>Ms Zakiah Binte Ahmad</p>
-<p><strong>Nutrition and Food Science</strong>
+<p><strong>Nutrition and Food Science Unit</strong>
 <br>Mdm Azlinah Wahed (Subject Coordinator)
 <br>Ms Raidah Binte Moktar
 <br>Mdm Tan Chan Jong
 <br>Ms Tan Wei Jing (SH/Partnership)</p>
 <p><strong>Music Unit</strong>
-<br>Mr Daniel Chong</p>
+<br>Mr Daniel Chong
+<br>Ms Loo An Qi</p>
 <p><strong>Technical Support Officers</strong>
 <br>Mr Tangarajoo Marimuthu
 <br>Mr Mohammad Fauzi Bin Selamat
-<br>Mr Koh Wee Chong</p>
+<br>
+</p>
 <h3>Department Vision</h3>
 <p><strong>To nurture creative and confident thinkers</strong>
 </p>
