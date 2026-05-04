@@ -332,7 +332,7 @@ variant: tiptap
 <br>mohamed_hafiz_mustafa@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 </tbody>
