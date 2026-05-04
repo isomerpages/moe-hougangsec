@@ -183,8 +183,23 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p>NCC PDS Team performance on Total Defence Day 2026</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NCC PDS Team performance on Total Defence Day 2026" src="/images/CCA/NCC/NCC1.jpg">
+</div>
+<p>Orienteering on Bike at St John Island during Unit Camp 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC2.jpg">
+</div>
+<p>Learning Urban Operations</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC3.jpg">
+</div>
+<p>Photo shoot after our school’s National Day Parade</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC4.jpg">
+</div>
 <h3>Key Programs for Junior Cadets (Sec 1)</h3>
 <ul data-tight="true" class="tight">
 <li>
