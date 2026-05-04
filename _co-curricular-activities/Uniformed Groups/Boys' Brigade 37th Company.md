@@ -103,4 +103,4 @@ resilience, discipline and respect.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Dedication_Service.jpg">
 </div>
-<p>Together with officer mentor, Mr Andy Chong</p>
+<p>Dedication Service</p>
