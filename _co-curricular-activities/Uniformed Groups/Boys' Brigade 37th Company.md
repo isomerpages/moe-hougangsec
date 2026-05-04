@@ -80,7 +80,4 @@ resilience, discipline and respect.&nbsp;</p>
 </p>
 <h3>Programmes and Activities</h3>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUX6o2uyr-lF7j_QF4Z1PX5qFJNMODB3phKF0M-ZVpmnkGdvoRPAKdJc-FFMwv-7ODJ_T_8qXKsEhT/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
