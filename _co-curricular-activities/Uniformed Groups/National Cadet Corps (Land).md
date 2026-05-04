@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yf1XHskf6z0?si=2rfdrOuqNT1B6c7E"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Yf1XHskf6z0?si=2rfdrOuqNT1B6c7E"></iframe>
 </div>
 <h3>Introduction</h3>
 <p>The National Cadet Corps (NCC) works towards developing our youth into
@@ -55,10 +55,10 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Master Sergeant</p>
+<p>Unit Sergeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MSG CHUA YUE HENG</p>
+<p>3SG (NCC) Muhammad Shaariq Bin Abdullah</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>Assistant Sergeant Major</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MSG WONG HONG XI</p>
+<p>3SG (NCC) Goh Yu Zhe Zachary</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>Junior Cadet Platoon Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG CHARLES RAYMOND KOH ZI AN</p>
+<p>3SG (NCC) Gabriel Tan Jia Le</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>Junior cadet Asst. Platoon Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1SG SEBASTIAN JOEL LING</p>
+<p>3SG (NCC) Liew Jing Xian</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>Senior Cadet Platoon Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG BRYAN BONG JUN KAI</p>
+<p>3SG (NCC) Hayden Chua Ren Xian</p>
 </td>
 </tr>
 <tr>
@@ -98,23 +98,7 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>Senior Cadet Asst. Platoon Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3SG DARRYL TAN JUN HENG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3SG JAVIUS NG ZHENG CHONG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3SG (NCC) Chok Wei Jian</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +106,7 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>Cadet Leaders Platoon Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG FOO YONG JIE KINS</p>
+<p>3SG Goh (NCC) Yu Zhe Zachary</p>
 </td>
 </tr>
 <tr>
@@ -130,15 +114,7 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>Cadet Leaders Asst. Platoon Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG DORJE NAH YI JIE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3SG (NCC) Jastin Liu SiYu</p>
 </td>
 </tr>
 <tr>
@@ -146,15 +122,15 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>Senior Cadet Leaders Platoon Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG WONG JIA JUN KAYDEN</p>
+<p>(N.A. as of now)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Senior Cadet Leaders Asst. Platoon Sergeant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;(N.A. as of now)</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +138,7 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>PDS Team IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG WONG JIA JUN KAYDEN</p>
+<p>3SG (NCC) Gabriel Tan Jia Le</p>
 </td>
 </tr>
 <tr>
@@ -170,15 +146,23 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>PDS Team 2IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SSG WONG HONG XI</p>
+<p>3SG (NCC) Hayden Chua Ren Xian</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;VIA IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3SG (NCC) Chok Wei Jian</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIA 2IC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LCP (NCC) Yap Jin Yuan</p>
 </td>
 </tr>
 <tr>
@@ -186,39 +170,7 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>Physical Training Instructor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3SG TONY CHEE SIANG YI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSG DORJE NAH YI JIE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>VIA IC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CPL CHOK WEI JIAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>3SG Hayden Chua Ren Xian</p>
 </td>
 </tr>
 <tr>
@@ -226,11 +178,28 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 <p>Logistics / Games IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3SG XAVIER CHUA TIAN AN</p>
+<p>3SG Yu Kai Pin</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>NCC PDS Team performance on Total Defence Day 2026</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NCC PDS Team performance on Total Defence Day 2026" src="/images/CCA/NCC/NCC1.jpg">
+</div>
+<p>Orienteering on Bike at St John Island during Unit Camp 2024</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC2.jpg">
+</div>
+<p>Learning Urban Operations</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC3.jpg">
+</div>
+<p>Photo shoot after our school’s National Day Parade</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/NCC/NCC4.jpg">
+</div>
 <h3>Key Programs for Junior Cadets (Sec 1)</h3>
 <ul data-tight="true" class="tight">
 <li>
