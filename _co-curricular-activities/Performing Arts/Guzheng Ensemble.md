@@ -95,15 +95,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Logistics Committee IC:</p>
+<p>Logistics (Instrument) IC:
+<br>Logistics (Costume) IC:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liu Yun Han</p>
-<p>Vera Siew</p>
+<p>Ryder Chng Rui Kai
+<br>Nur Silmy Mysara Binte Nuyussufyan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E</p>
-<p>3O</p>
+<p>3U
+<br>3S</p>
 </td>
 </tr>
 <tr>
@@ -111,18 +112,7 @@ variant: tiptap
 <p>Lead Player 1:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mikko chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3E</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lead Player 2:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Niccole Chia</p>
+<p>Shanice Boon Yu En</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3A</p>
@@ -130,13 +120,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Player 3:</p>
+<p>Lead Player 2:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nicole Ang</p>
+<p>Chai Rui En Samatha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3N</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lead Player 3:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reyna Soh Ya Ting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3E</p>
 </td>
 </tr>
 </tbody>
