@@ -10,7 +10,7 @@ variant: tiptap
 <br>Mr Charles Wong</p>
 <p><strong>ICT Support Team</strong>
 <br>Mr Toh Peng Hwee (ICT Manager)
-<br>Mr Mohamed Hafiz Bin Mustafa (ICT Associate)
+<br>Mr Mohamed Hafiz Bin Mustafa (ICT Manager)
 <br>Mr Vikneswaran Rajenderan (Desktop Engineer)
 <br>Mr Muhammad Irfan (Desktop Engineer)
 <br>Mr Tjong Rumin (ICT and Media Trainer)</p>

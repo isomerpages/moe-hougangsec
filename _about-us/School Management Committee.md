@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Serina Tan Bei Ling
+<p>Ms Serina Tan Bei Ling
 <br>tan_bei_ling@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Li Huilin
+<p>Ms Li Huilin
 <br>li_huilin@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,7 +78,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Tracy Huang Yuyan
+<p>Ms Tracy Huang Yuyan
 <br>huang_yuyan@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Cheng Sze Mei Carmen
+<p>Ms Cheng Sze Mei Carmen
 <br>cheng_sze_mei@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,7 +158,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Lynn Yeo
+<p>Ms Lynn Yeo
 <br>yeo_lynn@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -167,7 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Audrey Chua Wen Min
+<p>Ms Audrey Chua Wen Min
 <br>chua_wen_min_audrey@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -185,7 +185,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Joanne Toh Chui Theng
+<p>Ms Joanne Toh Chui Theng
 <br>joanne_toh_chui_theng@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -239,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Jazreel Toh Hui Khee
+<p>Ms Jazreel Toh Hui Khee
 <br>toh_hui_khee_jazreel@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -248,7 +248,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Wee Swee Kee
+<p>Ms Wee Swee Kee
 <br>wee_swee_kee@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -292,7 +292,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Jolin Chang Wan Yun
+<p>Ms Jolin Chang Wan Yun
 <br>jolin_chang@schools.gov.sg</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -332,7 +332,7 @@ variant: tiptap
 <br>mohamed_hafiz_mustafa@moe.edu.sg</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 </tbody>
