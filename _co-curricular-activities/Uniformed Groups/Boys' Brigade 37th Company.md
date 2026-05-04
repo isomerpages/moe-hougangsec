@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rLZpVbO6qY8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/rLZpVbO6qY8"></iframe>
 </div>
 <h3>Introduction</h3>
 <p>The objective of the Boys' Brigade is to promote habits of obedience,
@@ -54,34 +54,20 @@ resilience, discipline and respect.&nbsp;</p>
 <h3>Leadership Structure</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>SGT Wong Zhi Hao Marcus (Company Sergeant Major)</p>
+<p>SGT Lukas Low (Company Sergeant Major)</p>
 </li>
 <li>
-<p>SGT Chan Wee Kiat (Assistant CSM)</p>
+<p>CPL Ong Wei Kai (Squad Leader)</p>
 </li>
 <li>
-<p>SGT Gua Yi Yang (Squad Leader)</p>
+<p>CPL Wang Hong Jun (Squad Leader)</p>
 </li>
 <li>
-<p>SGT Bok Cheng Jun Julian (Squad Leader)</p>
+<p>CPL Tan Yu Jie Aaron (Squad Leader)</p>
 </li>
 <li>
-<p>SGT Yuan Weiping (Squad Leader)</p>
-</li>
-<li>
-<p>CPL Lukas Low (Assistant Squad Leader)</p>
-</li>
-<li>
-<p>CPL Ong Wei Kai (Assistant Squad Leader)</p>
-</li>
-<li>
-<p>CPL Kaden Tan (NCO council member)</p>
-</li>
-<li>
-<p>CPL Wang Hong Jun Bryan (NCO council member)</p>
-</li>
-<li>
-<p>CPL Tan Yujie Aaron (NCO council member)</p>
+<p>LCP Kelvin Chin Hong Guang (Assistant Squad Leader)</p>
+<p></p>
 </li>
 </ul>
 <h3>Training Venue and Days</h3>
@@ -95,6 +81,6 @@ resilience, discipline and respect.&nbsp;</p>
 <h3>Programmes and Activities</h3>
 <p></p>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUX6o2uyr-lF7j_QF4Z1PX5qFJNMODB3phKF0M-ZVpmnkGdvoRPAKdJc-FFMwv-7ODJ_T_8qXKsEhT/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSUX6o2uyr-lF7j_QF4Z1PX5qFJNMODB3phKF0M-ZVpmnkGdvoRPAKdJc-FFMwv-7ODJ_T_8qXKsEhT/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
