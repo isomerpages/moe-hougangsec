@@ -43,7 +43,7 @@ variant: tiptap
 <p>President:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mikko Chew</p>
+<p>Samantha Lu Yun Yee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3E</p>
@@ -54,10 +54,10 @@ variant: tiptap
 <p>Vice President:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ong Si Hua</p>
+<p>Wee Rui En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3E</p>
+<p>3O</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@ variant: tiptap
 <p>Secretary/Treasurer:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sherlyn Whey</p>
+<p>Lai Yan Tong Annsofie</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3E</p>
@@ -76,10 +76,10 @@ variant: tiptap
 <p>VIA Committee IC:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Niccole Chia</p>
+<p>Poon Zi Xuan Jayvian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3A</p>
+<p>3U</p>
 </td>
 </tr>
 <tr>
@@ -87,10 +87,10 @@ variant: tiptap
 <p>Events Committee IC:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Yeo Rui Xue</p>
+<p>Lim Wei Xi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3N</p>
+<p>3E</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ variant: tiptap
 <p></p>
 <h3>Video of SYF 2025</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ri2gfbEIAo0?si=Zths6no3y0gFSzWu"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ri2gfbEIAo0?si=Zths6no3y0gFSzWu"></iframe>
 </div>
 <h3>External Performance @ Ci Yuan Community Club 2025</h3>
 <p></p>
@@ -173,7 +173,7 @@ variant: tiptap
 <p></p>
 <h3>Exchange Programme with Bedok View Secondary School (Apr 2024)</h3>
 <div class="iframe-wrapper">
-<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_D79cSAx8Dc"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_D79cSAx8Dc"></iframe>
 </div>
 <p></p>
 <p></p>
@@ -230,10 +230,10 @@ variant: tiptap
 </table>
 <h3>SYF 2021 No 1 百花引</h3>
 <div class="iframe-wrapper">
-<iframe height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q0LQdiTM8QE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="830" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/q0LQdiTM8QE"></iframe>
 </div>
 <h3></h3>
 <div class="iframe-wrapper">
-<iframe height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kWkv5mypO7k"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="720" width="1280" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kWkv5mypO7k"></iframe>
 </div>
 <p></p>
