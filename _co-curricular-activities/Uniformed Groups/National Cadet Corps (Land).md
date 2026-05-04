@@ -183,6 +183,8 @@ Sergeant (2SG) / 1st Sergeant (1SG) (Selected Cadets)&nbsp;</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <h3>Key Programs for Junior Cadets (Sec 1)</h3>
 <ul data-tight="true" class="tight">
 <li>
