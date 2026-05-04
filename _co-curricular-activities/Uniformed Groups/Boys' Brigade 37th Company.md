@@ -80,4 +80,16 @@ resilience, discipline and respect.&nbsp;</p>
 </p>
 <h3>Programmes and Activities</h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Kayaking_Course_on_14_15_March_2026.jpg">
+</div>
+<p>Kayaking Course on 14-15 March 2026</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/Capsize_drill.jpg">
+</div>
+<p>Capsize drill</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB/One_of_the_station_during_BB_blaze_competition.jpg">
+</div>
+<p>One of the station during BB blaze competition</p>
 <p></p>
