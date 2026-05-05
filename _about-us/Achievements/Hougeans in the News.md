@@ -5,6 +5,24 @@ description: ""
 third_nav_title: Achievements
 variant: tiptap
 ---
+<h4>Ignite BreadCycle Challenge 2025</h4>
+<p>At Hougang Secondary School, we make learning exciting by designing lessons
+that spark curiosity and help students discover their passions. This was
+seen in our students’ recent success at the 2025 IgnITE Skills Challenge,
+a national competition organised by the Institute of Technical Education
+(ITE).</p>
+<p>Our team won 1st place in the BreadCycle Challenge: Innovate and Repurpose
+category, where they had to turn day-old bread into new and useful products.
+They created skincare items like face masks and scrubs using upcycled breadcrumbs
+and lemon peel powder, applying what they learned in class to solve real-world
+problems.</p>
+<p>Their project caught national attention — they were featured in The Straits
+Times and interviewed on 91.3FM, where they shared their challenges and
+dreams. This experience gave them valuable skills, boosted their confidence,
+and showed how creativity and sustainability can go hand in hand.</p>
+<p>For more information, please see the link here: <a href="https://www.straitstimes.com/singapore/hougang-secondary-students-turn-stale-bread-into-sweet-victory-at-ite-skills-competition" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/hougang-secondary-students-turn-stale-bread-into-sweet-victory-at-ite-skills-competition</a>
+</p>
+<p></p>
 <h4>Chingay Parade Volunteers</h4>
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/cpv1.jpeg">
@@ -51,6 +69,57 @@ Network (SCENE)</p>
 </tbody>
 </table>
 <p>Thank you, Level Coaches, Character Coaches, Students of 4NA and 4T1.</p>
+<h4>PAYM Service Learning Festival 2016</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/paym16-1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/paym16-3.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Silver Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/paym16-4.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/paym16-2.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4>One Dream Journal 2015</h4>
 <p>One Dream Journal Launch at HS on 30 January</p>
@@ -89,75 +158,6 @@ and the world will be a much better, much brighter place.”</p>
 <img style="width:65%" height="auto" width="100%" src="/images/paym15-2.jpeg">
 </div>
 <p></p>
-<h4>PAYM Service Learning Festival 2016</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/paym16-1.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/paym16-3.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Silver Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/paym16-4.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/paym16-2.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h4>Ignite BreadCycle Challenge 2025</h4>
-<p>At Hougang Secondary School, we make learning exciting by designing lessons
-that spark curiosity and help students discover their passions. This was
-seen in our students’ recent success at the 2025 IgnITE Skills Challenge,
-a national competition organised by the Institute of Technical Education
-(ITE).</p>
-<p>Our team won 1st place in the BreadCycle Challenge: Innovate and Repurpose
-category, where they had to turn day-old bread into new and useful products.
-They created skincare items like face masks and scrubs using upcycled breadcrumbs
-and lemon peel powder, applying what they learned in class to solve real-world
-problems.</p>
-<p>Their project caught national attention — they were featured in The Straits
-Times and interviewed on 91.3FM, where they shared their challenges and
-dreams. This experience gave them valuable skills, boosted their confidence,
-and showed how creativity and sustainability can go hand in hand.</p>
-<p>For more information, please see the link here: <a href="https://www.straitstimes.com/singapore/hougang-secondary-students-turn-stale-bread-into-sweet-victory-at-ite-skills-competition" rel="noopener noreferrer nofollow" target="_blank">https://www.straitstimes.com/singapore/hougang-secondary-students-turn-stale-bread-into-sweet-victory-at-ite-skills-competition</a>
-</p>
-<p></p>
+<h4></h4>
 <p></p>
