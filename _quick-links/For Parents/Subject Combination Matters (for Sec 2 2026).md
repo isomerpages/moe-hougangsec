@@ -30,13 +30,13 @@ order of the subjects):</p>
 </p>
 <p><a href="https://youtu.be/rbnYupedetE" rel="noopener nofollow" target="_blank">G2/G3 Literature-in-English</a>
 </p>
-<p><a href="https://youtu.be/YNgNlrdp5nU" rel="noopener nofollow" target="_blank">G2/G3 Principles of Accounts</a>
+<p><a href="https://youtu.be/DSrW-pdYBbM" rel="noopener nofollow" target="_blank">G2/G3 Principles of Accounts</a>
 </p>
 <p><a href="https://youtu.be/pnQU2hj3YjQ" rel="noopener nofollow" target="_blank">G1 Nutrition &amp; Food Science*</a>
 </p>
 <p><a href="https://youtu.be/hMFULmxcPzo" rel="noopener nofollow" target="_blank">G2/G3 Nutrition &amp; Food Science*</a>
 </p>
-<p><a href="https://youtu.be/wDnHy70_lNM" rel="noopener nofollow" target="_blank">G2/G3 Science</a>
+<p><a href="https://youtu.be/d5WXw87IWVQ" rel="noopener nofollow" target="_blank">G2/G3 Science</a>
 </p>
 <p><em>*coursework subjects</em>
 </p>
