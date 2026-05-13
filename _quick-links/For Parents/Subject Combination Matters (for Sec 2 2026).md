@@ -24,7 +24,7 @@ order of the subjects):</p>
 </p>
 <p><a href="https://youtu.be/3RPldfthWNg" rel="noopener nofollow" target="_blank">G3 Geography (Pure)</a>
 </p>
-<p><a href="https://youtu.be/J_RVKZRJ7ak" rel="noopener nofollow" target="_blank">G2/G3 Humanities (Social Studies &amp; Geography)</a>
+<p><a href="https://youtu.be/_mCPrve5MN4" rel="noopener nofollow" target="_blank">G2/G3 Humanities (Social Studies &amp; Geography)</a>
 </p>
 <p><a href="https://youtu.be/iDeDHlWEZ7E" rel="noopener nofollow" target="_blank">G2/G3 Humanities (Social Studies &amp; History)</a>
 </p>
