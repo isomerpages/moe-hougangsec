@@ -26,7 +26,7 @@ order of the subjects):</p>
 </p>
 <p><a href="https://youtu.be/_mCPrve5MN4" rel="noopener nofollow" target="_blank">G2/G3 Humanities (Social Studies &amp; Geography)</a>
 </p>
-<p><a href="/files/Parents/G2_G3_Humanities__Social_Studies_with_History_.pdf" rel="noopener nofollow" target="_blank">G2/G3 Humanities_Social_Studies_with_History</a>
+<p><a href="/files/Parents/G2_G3_Humanities__Social_Studies_with_History_.pdf" rel="noopener nofollow" target="_blank">G2/G3 Humanities_(Social_Studies_with_History)</a>
 </p>
 <p><a href="https://youtu.be/rbnYupedetE" rel="noopener nofollow" target="_blank">G2/G3 Literature-in-English</a>
 </p>
