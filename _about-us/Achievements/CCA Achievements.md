@@ -368,8 +368,9 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Sports</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -393,6 +394,10 @@ variant: tiptap
 <p><strong>NSG 2025</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG 2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -407,6 +412,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>B Div’ – 2nd Round Stage</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -420,6 +428,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>B Div’ (Boys) – 2nd Round Stage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
 </td>
 </tr>
 <tr>
@@ -436,6 +447,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>B Div’ – 1<sup>st</sup> runner up, League 2 Group Stage
 <br>C Div’ – 1<sup>st</sup> runner up, League 4 Group Stage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Div’ – League 2 Qualification</p>
 </td>
 </tr>
 <tr>
@@ -491,6 +505,9 @@ Ang</p>
 <p>8.&nbsp;B Div’ (Girls), Half Heavy, 3rd position, Aiunie Putri Binte Mohd
 Hirwan</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -505,6 +522,9 @@ Hirwan</p>
 <td rowspan="1" colspan="1">
 <p>B Div’ (Girls) – 2nd Round Stage</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -512,6 +532,9 @@ Hirwan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6th position (Individual) in 1st International Sword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nil</p>
@@ -538,6 +561,9 @@ Azriel Ng Min Xin (Huang Minxin)</p>
 <td rowspan="1" colspan="1">
 <p>B Div’ (Girls), Poom Belt -64kg, 2nd&nbsp;position, Azriel Ng Min Xin
 (Huang Minxin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
 </td>
 </tr>
 </tbody>
