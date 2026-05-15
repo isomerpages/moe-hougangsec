@@ -6,8 +6,9 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <h3>Uniformed Group - CCA Awards</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -31,6 +32,10 @@ variant: tiptap
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -45,6 +50,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>JM Fraser Award Excellence</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>JM Fraser Award with Distinction Award</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -55,6 +63,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Company Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Company Silver Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Company Silver Award</p>
@@ -73,6 +84,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Puan Noor Aishah Award (PNAA) Gold Award</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award (PNAA) Gold Award</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,6 +97,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Unit Recognition Award (Participation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition Award (Distinction)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unit Recognition Award (Distinction)</p>
@@ -101,10 +118,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Unit Overall Proficiency Award (Distinction)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award (Distinction)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Excellent Unit Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold Excellent Unit Award</p>
@@ -345,8 +368,9 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Sports</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -370,6 +394,10 @@ variant: tiptap
 <p><strong>NSG 2025</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>NSG 2025</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -384,6 +412,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>B Div’ – 2nd Round Stage</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -397,6 +428,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>B Div’ (Boys) – 2nd Round Stage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
 </td>
 </tr>
 <tr>
@@ -413,6 +447,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>B Div’ – 1<sup>st</sup> runner up, League 2 Group Stage
 <br>C Div’ – 1<sup>st</sup> runner up, League 4 Group Stage</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Div’ – League 2 Qualification</p>
 </td>
 </tr>
 <tr>
@@ -468,6 +505,12 @@ Ang</p>
 <p>8.&nbsp;B Div’ (Girls), Half Heavy, 3rd position, Aiunie Putri Binte Mohd
 Hirwan</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>1.&nbsp;B Div’ (Girls), Feather, 3rd position, Yu En Ow</p>
+<p>2. B Div' (Girls), Extra Light, 3rd position, Nur Syafira Binte Shaharudin</p>
+<p>3. B Div' (Girls), Light, 3rd position, Aufa Qistina Binte Mohamed Remy</p>
+<p>4. B Div' (Boys), Heavy, 3rd position, Hamka Bin Muhamad Fadli</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -482,6 +525,9 @@ Hirwan</p>
 <td rowspan="1" colspan="1">
 <p>B Div’ (Girls) – 2nd Round Stage</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -489,6 +535,9 @@ Hirwan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6th position (Individual) in 1st International Sword</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nil</p>
@@ -515,6 +564,9 @@ Azriel Ng Min Xin (Huang Minxin)</p>
 <td rowspan="1" colspan="1">
 <p>B Div’ (Girls), Poom Belt -64kg, 2nd&nbsp;position, Azriel Ng Min Xin
 (Huang Minxin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nil</p>
 </td>
 </tr>
 </tbody>
