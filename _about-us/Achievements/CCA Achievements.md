@@ -33,7 +33,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p><strong>2025</strong>
+</p>
 </td>
 </tr>
 <tr>
