@@ -506,7 +506,7 @@ Ang</p>
 Hirwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Div' (Girls) - Divisional 3<sup>rd</sup> 
+<p>B Div' (Girls) - Divisional 3<sup>rd</sup>
 </p>
 <p>1.&nbsp;B Div’ (Girls), Feather, 3rd position, Yu En Ow</p>
 <p>2. B Div' (Girls), Extra Light, 3rd position, Nur Syafira Binte Shaharudin</p>
