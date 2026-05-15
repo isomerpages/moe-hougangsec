@@ -506,7 +506,10 @@ Ang</p>
 Hirwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1.&nbsp;B Div’ (Girls), Feather, 3rd position, Yu En Ow</p>
+<p>2. B Div' (Girls), Extra Light, 3rd position, Nur Syafira Binte Shaharudin</p>
+<p>3. B Div' (Girls), Light, 3rd position, Aufa Qistina Binte Mohamed Remy</p>
+<p>4. B Div' (Boys), Heavy, 3rd position, Hamka Bin Muhamad Fadli</p>
 </td>
 </tr>
 <tr>
