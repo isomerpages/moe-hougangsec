@@ -6,8 +6,9 @@ third_nav_title: Achievements
 variant: tiptap
 ---
 <h3>Uniformed Group - CCA Awards</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -31,6 +32,9 @@ variant: tiptap
 <p><strong>2024</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -45,6 +49,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>JM Fraser Award Excellence</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>JM Fraser Award with Distinction Award</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -55,6 +62,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Company Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Company Silver Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Company Silver Award</p>
@@ -73,6 +83,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Puan Noor Aishah Award (PNAA) Gold Award</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award (PNAA) Gold Award</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,6 +96,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Unit Recognition Award (Participation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Recognition Award (Distinction)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Unit Recognition Award (Distinction)</p>
@@ -101,10 +117,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Unit Overall Proficiency Award (Distinction)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award (Distinction)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Excellent Unit Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold Excellent Unit Award</p>
