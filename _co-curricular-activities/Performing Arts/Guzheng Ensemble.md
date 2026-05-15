@@ -123,7 +123,7 @@ variant: tiptap
 <p>Lead Player 2:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chai Rui En Samatha</p>
+<p>Chai Rui En Samantha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3N</p>
