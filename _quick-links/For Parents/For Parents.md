@@ -116,7 +116,7 @@ to lower income family. Parents can apply online at <a href="https://eservice.im
 <p>Sec 4 <a href="/files/Parents/Sec_4N_T__2026___ECG_sharing_for_Parents_.pdf" rel="noopener nofollow" target="_blank">Sec 4N(T) 2026 ECG sharing for Parents</a>
 </p>
 <h3>Inspire @ HS Series (2026)</h3>
-<p>Sec 2 <a href="/files/HS_2026_036_Inspire_HS_Series_1_Secondary_2.pdf" rel="noopener nofollow" target="_blank">HS_2026_036_Inspire_HS_Series_1_Secondary_2</a>
+<p>Sec 1 <a href="/files/Parents/HS_2026_073_Term_2_Inspire___HS_Sec1.pdf" rel="noopener nofollow" target="_blank">HS_2026_073_Term_2_Inspire_HS_Sec1</a>
 </p>
 <p>Sec 3 <a href="/files/HS_2026_035_Inspire_HS_Series_1_Secondary_3.pdf" rel="noopener nofollow" target="_blank">HS_2026_035_Inspire_HS_Series_1_Secondary_3</a>
 </p>
