@@ -118,7 +118,7 @@ to lower income family. Parents can apply online at <a href="https://eservice.im
 <h3>Inspire @ HS Series (2026)</h3>
 <p>Sec 1 <a href="/files/Parents/HS_2026_073_Term_2_Inspire___HS_Sec1.pdf" rel="noopener nofollow" target="_blank">HS_2026_073_Term_2_Inspire_HS_Sec1</a>
 </p>
-<p>Sec 3 <a href="/files/HS_2026_035_Inspire_HS_Series_1_Secondary_3.pdf" rel="noopener nofollow" target="_blank">HS_2026_035_Inspire_HS_Series_1_Secondary_3</a>
+<p>Sec 2 <a href="/files/Parents/HS_2026_074_Term_2_Inspire___HS_Sec2.pdf" rel="noopener nofollow" target="_blank">HS_2026_074_Term_2_Inspire_HS_Sec2</a>
 </p>
 <p>Sec 4 <a href="/files/HS_2026_034_Inspire_HS_Series_1_Secondary_4.pdf" rel="noopener nofollow" target="_blank">HS_2026_034_Inspire_HS_Series_1_Secondary_4</a>
 </p>
