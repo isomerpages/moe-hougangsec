@@ -80,7 +80,7 @@ them to be Empowered, Future-Ready Hougeans of Character and Purpose.</p>
 <p>Inspire@HS Series 2 - Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Refer to Sec 1 Outdoor Adventure Camp Briefing</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,8 @@ them to be Empowered, Future-Ready Hougeans of Character and Purpose.</p>
 <p>Inspire@HS Series 2 - Secondary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="/files/Inspire Week/Inspire2026/2026_S2_Inspire_Series_1_Schedule.pdf" rel="noopener nofollow" target="_blank">INSPIRE@Sec 2 Series 1 Schedule</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +97,8 @@ them to be Empowered, Future-Ready Hougeans of Character and Purpose.</p>
 <p>Inspire@HS Series 2 - Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="/files/Inspire Week/Inspire2026/2026_S3_Inspire_Series_1_Schedule.pdf" rel="noopener nofollow" target="_blank">INSPIRE@Sec 3 Series 1 Schedule</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +106,8 @@ them to be Empowered, Future-Ready Hougeans of Character and Purpose.</p>
 <p>Inspire@HS Series 2 - Secondary 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="/files/Inspire Week/Inspire2026/2026_S4S4_Inspire_Series_1_Schedule.pdf" rel="noopener nofollow" target="_blank">INSPIRE@Sec 4&amp;5 Series 1 Schedule</a>
+</p>
 </td>
 </tr>
 </tbody>
