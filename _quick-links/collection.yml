@@ -2,18 +2,24 @@ collections:
   quick-links:
     output: true
     order:
-      - Inspire@HS.md
-      - HBL and SIL.md
-      - Counselling Support and Education & Career Guidance (ECG) Services.md
       - Admin/.keep
       - Admin/School Textbook Sale.md
       - Admin/School Uniform Sale.md
       - Admin/Traffic Advisory.md
       - Appeal For Transfer Into HS.md
       - Assessment.md
+      - Counselling Support and Education & Career Guidance (ECG) Services.md
       - Direct School Admission.md
       - Extended Curriculum Time.md
+      - HBL and SIL.md
       - HS ICT Helpdesk Form.md
+      - Inspire@HS.md
+      - PLD Initiative/.keep
+      - PLD Initiative/Personal Learning Device (PLD) Initiative.md
+      - PLD Initiative/PDLP Warranty and Insurance.md
+      - PLD Initiative/iOS Applications in PLD.md
+      - PLD Initiative/FAQ.md
+      - PLD Initiative/Removal of DMA for Graduating Students.md
       - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/2026 Structured Consultation Schedule.md
@@ -27,9 +33,3 @@ collections:
       - For Students/Library OPAC.md
       - For Staff/.keep
       - For Staff/For Staff.md
-      - PLD Initiative/.keep
-      - PLD Initiative/Personal Learning Device (PLD) Initiative.md
-      - PLD Initiative/PDLP Warranty and Insurance.md
-      - PLD Initiative/iOS Applications in PLD.md
-      - PLD Initiative/FAQ.md
-      - PLD Initiative/Removal of DMA for Graduating Students.md

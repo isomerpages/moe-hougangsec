@@ -35,7 +35,7 @@ gaps. Refer to the schedule below.</p>
 <p>3 to 5 June</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/ECT/June_ECT_2026.pdf" rel="noopener nofollow" target="_blank">June 2025 ECT Schedule</a>
+<p><a href="/files/ECT/June_ECT_2026.pdf" rel="noopener nofollow" target="_blank">June 2026 ECT Schedule</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
