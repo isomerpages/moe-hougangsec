@@ -153,7 +153,7 @@ variant: tiptap
 <p><a href="/files/Student_Handbook_2026_15_May_2026.pdf" rel="noopener nofollow" target="_blank">2026 HS Student Handbook</a>
 </p>
 <h3>Class Timetable 2026</h3>
-<p><a href="/files/Timetables/2026_Term_2_Class_Timetable_26032026.pdf" rel="noopener nofollow" target="_blank">2026_Term_2_Class_Timetable</a>
+<p><a href="/files/Timetables/2026__Sem_2_all_classes_25062026.pdf" rel="noopener nofollow" target="_blank">2026_Sem_2_All_Classes</a>
 </p>
 <h3>HS ICT Helpdesk Form</h3>
 <p>Please submit your request on this form&nbsp;<a href="https://go.gov.sg/hs-ict-helpdesk" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hs-ict-helpdesk</a>
