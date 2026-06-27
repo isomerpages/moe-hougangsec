@@ -32,7 +32,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="24" colspan="1">
+<td rowspan="22" colspan="1">
 <p><strong>Physical Sports</strong>
 </p>
 </td>
@@ -64,7 +64,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Football (Boys)</strong>
 </p>
 </td>
@@ -93,14 +93,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Toh Ren Yi Ezra</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ezra_toh_ren_yi@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Noh Danial Abdul Hamid</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,7 +100,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Floorball (Boys and Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -124,14 +116,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_irwan_jamal@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Daniel Tan Chin Juay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_chin_juay_daniel@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -250,7 +234,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="17" colspan="1">
 <p><strong>Uniformed Groups</strong>
 </p>
 </td>
@@ -273,7 +257,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>Girls' Brigade (Girls)&nbsp;</strong>
 </p>
 </td>
@@ -290,14 +274,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_yin_wei@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Chan Jong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_chan_jong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -419,7 +395,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="22" colspan="1">
+<td rowspan="20" colspan="1">
 <p><strong>Visual and Peforming Arts</strong>
 </p>
 </td>
@@ -477,7 +453,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Guzheng Ensemble (Boys and Girls)&nbsp;</strong>
 </p>
 </td>
@@ -498,14 +474,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jeannie Pan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yee_ying_jie_jeannie@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Zhou Shaojuan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -513,7 +481,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Modern Dance ( Girls)</strong>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -521,14 +489,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>joanne_toh_chui_theng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Yu Hong Hong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yu_hong_hong@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
