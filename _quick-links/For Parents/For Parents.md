@@ -80,6 +80,8 @@ variant: tiptap
 </p>
 <p><a href="/files/Parents Connect/HS_Parents_Connect_2026___Issue_2.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2026 Issue 2</a>
 </p>
+<p><a href="/files/Parents Connect/HS_Parents_Connect_2026___Issue_3.pdf" rel="noopener noreferrer nofollow" target="_blank">HS Parents Connect 2026 Issue 3</a>
+</p>
 <hr>
 <h3>Financial Assistance Scheme</h3>
 <p>For FAS, you may wish to apply via eFAS here:&nbsp;<a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
