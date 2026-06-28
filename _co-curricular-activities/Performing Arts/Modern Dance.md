@@ -52,7 +52,6 @@ in our dancers.</p>
 <p>Ms Joanne Toh Chui Theng (OIC)</p>
 <p>Ms Valeria Chia Kai Ning</p>
 <p>Ms Nur Jasmine Roslan</p>
-<p>Ms Yu Hong Hong</p>
 </td>
 </tr>
 <tr>
