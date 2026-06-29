@@ -46,16 +46,6 @@ in our dancers.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Teachers-in-charge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Joanne Toh Chui Theng (OIC)</p>
-<p>Ms Valeria Chia Kai Ning</p>
-<p>Ms Nur Jasmine Roslan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Instructors</p>
 </td>
 <td rowspan="1" colspan="1">
