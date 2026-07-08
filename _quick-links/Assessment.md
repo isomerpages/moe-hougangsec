@@ -101,7 +101,8 @@ description: ""
 <p>WA3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2026 WA3 Schedule</p>
+<p><a href="/files/Assessment/2026 Assessment/HS_2026_093_Class_Test_Cover_Letter_and_Schedule__Semester_2__For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 WA3 Schedule</a>
+</p>
 </td>
 </tr>
 <tr>
