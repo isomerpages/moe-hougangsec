@@ -82,10 +82,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -98,12 +96,6 @@ description: ""
 <p><strong>Information</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -112,12 +104,6 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><a href="/files/Assessment/2026 Assessment/HS_2026_093_Class_Test_Cover_Letter_and_Schedule__Semester_2__For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 WA3 Schedule</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -129,12 +115,6 @@ description: ""
 <br>Sec 2: To be released.
 <br>Sec 3: To be released.
 <br>Sec 4 &amp; 5: To be released.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
