@@ -101,7 +101,7 @@ description: ""
 <p>WA3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be released.</p>
+<p>2026 WA3 Schedule</p>
 </td>
 </tr>
 <tr>
