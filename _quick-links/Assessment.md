@@ -82,10 +82,8 @@ description: ""
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 100px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 </colgroup>
@@ -98,12 +96,6 @@ description: ""
 <p><strong>Information</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -113,28 +105,16 @@ description: ""
 <p><a href="/files/Assessment/2026 Assessment/HS_2026_093_Class_Test_Cover_Letter_and_Schedule__Semester_2__For_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">2026 WA3 Schedule</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>WA3 Format:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1: To be released.
-<br>Sec 2: To be released.
-<br>Sec 3: To be released.
+<p>Sec 1: <a href="/files/Assessment/2026 Assessment/2026_Secondary_1_WA3_Format.pdf" rel="noopener nofollow" target="_blank">WA3 Format</a>
+<br>Sec 2: <a href="/files/Assessment/2026 Assessment/2026_Secondary_2_WA3_Format.pdf" rel="noopener nofollow" target="_blank">WA3 Format</a>
+<br>Sec 3: <a href="/files/Assessment/2026 Assessment/2026_Secondary_3_WA3_Format__1_.pdf" rel="noopener nofollow" target="_blank">WA3 Format</a> 
 <br>Sec 4 &amp; 5: To be released.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -178,6 +158,15 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p>Sec 4 &amp; 5: <a href="/files/Assessment/2026 Assessment/HS_2026_031_Letter_for_Prelim_EL_Oral_Exam.pdf" rel="noopener nofollow" target="_blank">English Oral for Preliminary Exam</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Preliminary Exam Schedule:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5: <a href="/files/Assessment/2026 Assessment/Prelim_Exam_Timetable_For_school_Website.pdf" rel="noopener nofollow" target="_blank">Secondary 4 and 5 Prelim Exam Schedule</a>
 </p>
 </td>
 </tr>
@@ -241,15 +230,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Assessment/2025 Assessment/Sec_4_MTL_Preliminary_Examination_2025__For_Web_.pdf" rel="noopener noreferrer nofollow" target="_blank">MTL Prelim Schedule and Format</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Preliminary Exam Schedule:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5: <a href="/files/Assessment/2025 Assessment/2025_Preliminary_Exam_Schedule_for_School_website.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 4 and 5 Prelim Exam Schedule</a>
 </p>
 </td>
 </tr>
