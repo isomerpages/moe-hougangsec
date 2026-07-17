@@ -161,6 +161,15 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Preliminary Exam Schedule:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5: <a href="/files/Assessment/2026 Assessment/Prelim_Exam_Timetable_For_school_Website.pdf" rel="noopener nofollow" target="_blank">Secondary 4 and 5 Prelim Exam Schedule</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -221,15 +230,6 @@ description: ""
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Assessment/2025 Assessment/Sec_4_MTL_Preliminary_Examination_2025__For_Web_.pdf" rel="noopener noreferrer nofollow" target="_blank">MTL Prelim Schedule and Format</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Preliminary Exam Schedule:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sec 4 &amp; 5: <a href="/files/Assessment/2025 Assessment/2025_Preliminary_Exam_Schedule_for_School_website.pdf" rel="noopener nofollow" target="_blank">2025 Secondary 4 and 5 Prelim Exam Schedule</a>
 </p>
 </td>
 </tr>
