@@ -7,7 +7,8 @@ description: ""
 <p>Please refer to the information below regarding assessments.
 <br>
 </p>
-<h4>2026 Weighted Assessments</h4>
+<h2>2026 </h2>
+<h4>Weighted Assessments</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -119,7 +120,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>2026 End-of-Year and Preliminary Examinations</h4>
+<h4>End-of-Year and Preliminary Examinations</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -183,8 +184,8 @@ Examination Schedule</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<h4>2025 GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
+<h2>2025 </h2>
+<h4>GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -210,7 +211,7 @@ Examination Schedule</p>
 </tr>
 </tbody>
 </table>
-<h4>2025 Preliminary Examinations (Sec 4 &amp; 5)</h4>
+<h4>Preliminary Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -236,10 +237,7 @@ Examination Schedule</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<h4>2025 End-of-Year Examination (Sec 1 to Sec 3)</h4>
+<h4>End-of-Year Examination (Sec 1 to Sec 3)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
