@@ -170,6 +170,16 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language, Chinese Language and Malay Language Listening Comprehension
+Examination Schedule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to Sec 5: <a href="/files/Assessment/2026 Assessment/HS_2026_100_Letter_for_Prelim_EOY_LC_Exam.pdf" rel="noopener nofollow" target="_blank">Listening Comprehension Examination Schedule</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -214,15 +224,6 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Information</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English Language Listening Comprehension Examination</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2025 Assessment/HS_2025_095_Letter_for_EOY_EL_LC_Exam.pdf" rel="noopener nofollow" target="_blank">EL Listening Comprehension Examination Schedule</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
