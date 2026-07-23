@@ -7,7 +7,7 @@ description: ""
 <p>Please refer to the information below regarding assessments.
 <br>
 </p>
-<h2>2026 </h2>
+<h2>2026</h2>
 <h4>Weighted Assessments</h4>
 <table style="minWidth: 50px">
 <colgroup>
@@ -183,8 +183,8 @@ Examination Schedule</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h2>2025 </h2>
+<hr>
+<h2>2025</h2>
 <h4>GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
 <colgroup>
