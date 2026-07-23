@@ -181,9 +181,17 @@ Examination Schedule</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-<hr>
+<p></p>
 <h2>2025</h2>
 <h4>GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
@@ -304,4 +312,5 @@ Examination Schedule</p>
 </table>
 <p></p>
 <h4></h4>
+<p></p>
 <p></p>
