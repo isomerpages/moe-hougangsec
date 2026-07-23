@@ -7,7 +7,8 @@ description: ""
 <p>Please refer to the information below regarding assessments.
 <br>
 </p>
-<h4>2026 Weighted Assessments</h4>
+<h2>2026</h2>
+<h4>Weighted Assessments</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -119,7 +120,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>2026 End-of-Year and Preliminary Examinations</h4>
+<h4>End-of-Year and Preliminary Examinations</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -170,11 +171,29 @@ description: ""
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language, Chinese Language and Malay Language Listening Comprehension
+Examination Schedule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sec 1 to Sec 5: <a href="/files/Assessment/2026 Assessment/HS_2026_100_Letter_for_Prelim_EOY_LC_Exam.pdf" rel="noopener nofollow" target="_blank">Listening Comprehension Examination Schedule</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<h4>2025 GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
+<h2>2025</h2>
+<h4>GCE 'N' Level Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -200,7 +219,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4>2025 Preliminary Examinations (Sec 4 &amp; 5)</h4>
+<h4>Preliminary Examinations (Sec 4 &amp; 5)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -217,15 +236,6 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Language Listening Comprehension Examination</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Assessment/2025 Assessment/HS_2025_095_Letter_for_EOY_EL_LC_Exam.pdf" rel="noopener nofollow" target="_blank">EL Listening Comprehension Examination Schedule</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mother Tongue Language (MTL) Prelim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -235,10 +245,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<h4>2025 End-of-Year Examination (Sec 1 to Sec 3)</h4>
+<h4>End-of-Year Examination (Sec 1 to Sec 3)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -305,4 +312,5 @@ description: ""
 </table>
 <p></p>
 <h4></h4>
+<p></p>
 <p></p>
