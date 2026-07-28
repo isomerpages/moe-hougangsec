@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: For Students
 ---
+<p>Subject Combination Talk for Parents</p>
+<p><a href="/files/Assessment/2026 Assessment/Subject_Combination_2027_Mid_year_Briefing_Parents.pdf" rel="noopener nofollow" target="_blank">Subject Combination 2017 Mid year Briefing Parents</a>
+</p>
 <p>For more information about the Secondary 3 subject offerings in 2027,
 please view the video presentations below (arranged according to alphabetical
 order of the subjects):</p>
